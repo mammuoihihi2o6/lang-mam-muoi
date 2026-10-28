@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "mods": [
+    {
+      "id": "mario1",
+      "title_id": "010099C022B96000",
+      "name": "Super Mario Galaxy",
+      "mod_version": "1.0.0",
+      "game_version": "1.3.1",
+      "tagline": "Mario phiêu lưu giữa các thiên hà để giải cứu công chúa Peach.",
+      "developer": "Nintendo EAD Tokyo",
+      "release": "01/11/2007",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Nền tảng 3D"
+      ],
+      "description": [
+        "Mario lên đường vào vũ trụ khi Bowser bắt cóc công chúa Peach và cả lâu đài của cô. Từ trạm thiên văn của Rosalina, Mario nhảy qua những hành tinh nhỏ, đổi trọng lực liên tục để thu thập Power Star và đuổi theo Bowser.",
+        "Bản Việt hoá này dịch lại chữ trong game sang tiếng Việt, kèm font mới có đủ dấu để hiển thị đẹp. Đặt ngôn ngữ hệ thống Switch là English để dùng."
+      ],
+      "highlights": [
+        {
+          "title": "Font tiếng Việt có dấu",
+          "text": "Font của game được vẽ thêm đủ chữ Việt, gồm cả hội thoại, tiêu đề có viền và chữ cảnh phim."
+        },
+        {
+          "title": "Cài bằng một lần bấm",
+          "text": "App tự tải, kiểm tra và chép vào đúng thư mục. Gỡ lúc nào cũng được, không để lại file thừa."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Tên thiên hà và ngôi sao",
+        "Hội thoại và chữ cảnh phim",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên nhân vật"
+      ],
+      "changelog": "",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "mirrors": [
+        "gdrive:1enpEEP3FOxwrx6gUeb_mkOe6fao-XZeh",
+        "gdrive:1zsvOAa7ePDZaDlnR3M2rxsoqYlhKE-DC"
+      ],
+      "sha256": "e0169a62734ed36a1646a11a16825f59c636e4aa60fd619c493ccf3f441a5e20",
+      "size": 21528211,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/mario1-1.0.0/mario1_viethoa_full.zip",
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_bg.jpg"
+    }
+  ]
+}
