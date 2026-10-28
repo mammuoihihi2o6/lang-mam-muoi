@@ -2,6 +2,48 @@
   "schema": 1,
   "mods": [
     {
+      "id": "corekeeper",
+      "title_id": "010070201D1BA000",
+      "name": "Core Keeper",
+      "mod_version": "full_v1",
+      "game_version": "1.3.0.5",
+      "tagline": "Đào xuống lòng đất, tìm ra lõi bí ẩn cùng bạn bè.",
+      "developer": "Pugstorm",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Sinh tồn",
+        "Khám phá",
+        "Co-op"
+      ],
+      "description": [
+        "Bạn tỉnh dậy trong một hang ngầm khổng lồ và phải đào bới, chế tạo, trồng trọt và chiến đấu để lần ra bí mật của Lõi, một mình hoặc cùng bạn bè.",
+        "Bản Việt hoá dịch toàn bộ giao diện, vật phẩm, thành tựu, kỹ năng và lời thoại. Font pixel của game được ghép thêm chữ Việt có dấu. Trong game chọn ngôn ngữ English."
+      ],
+      "highlights": [
+        {
+          "title": "Font pixel có dấu",
+          "text": "Chữ Việt được ghép từ chính nét pixel gốc của game, nhìn liền mạch với giao diện."
+        }
+      ],
+      "done": [
+        "Giao diện, vật phẩm, thành tựu, kỹ năng",
+        "Lời thoại",
+        "Font pixel tiếng Việt"
+      ],
+      "kept": [
+        "Phần credits và nhật ký thay đổi"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "082fd120d4de1c98555067060273b68ece53bcc9ec0b0940f3026abd5215b6a9",
+      "size": 12323433,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/CoreKeeper_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_bg.jpg"
+    },
+    {
       "id": "dst",
       "title_id": "010090100E334000",
       "name": "Don't Starve Together",
@@ -222,6 +264,52 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_bg.jpg"
     },
     {
+      "id": "ot0",
+      "title_id": "01005270232F2000",
+      "name": "Octopath Traveler 0",
+      "mod_version": "Test9",
+      "game_version": "",
+      "tagline": "Thuở quê hương Wishvale còn nguyên vẹn.",
+      "developer": "Square Enix",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Nhập vai",
+        "Đánh theo lượt",
+        "HD-2D"
+      ],
+      "description": [
+        "Game nhập vai đánh theo lượt đồ hoạ HD-2D của Square Enix, kể chuyện về các vùng đất, những cuộc phiêu lưu và cái giá phải trả cho từng lựa chọn.",
+        "Bản Việt hoá viết lại toàn bộ cốt truyện chính theo văn phong sử thi, xưng hô nhất quán cho từng nhân vật. Để dùng, đặt ngôn ngữ trong game là English."
+      ],
+      "highlights": [
+        {
+          "title": "Văn phong sử thi",
+          "text": "Lời thoại được viết lại mượt và giàu hình ảnh, không dịch từng chữ."
+        },
+        {
+          "title": "Xưng hô nhất quán",
+          "text": "Mỗi cặp nhân vật có cách xưng hô cố định, chốt từ đầu đến cuối."
+        }
+      ],
+      "done": [
+        "Toàn bộ cốt truyện chính",
+        "Các đoạn tương tác nhân vật",
+        "Phần credits (tên người giữ nguyên)"
+      ],
+      "kept": [
+        "Tên công ty và nhân sự ở phần kết"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "49b7f2161c6532614524b25ba343bf643955f1c20143063219225bc9e92b741c",
+      "size": 1525421,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/OctopathTraveler0_Switch_VietHoa_Test9_credit.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_bg.jpg"
+    },
+    {
       "id": "roi",
       "title_id": "0100DE3026A54000",
       "name": "Realm of Ink",
@@ -257,6 +345,124 @@
       "sha256": "2bad5da153af62d08622ebabf667d54c45bf2e935a2d5293e2d7c31380d7839a",
       "size": 7145564,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/ROI_VietHoa_full_v1.zip",
+      "mirrors": []
+    },
+    {
+      "id": "sdv",
+      "title_id": "0100E65002BB8000",
+      "name": "Stardew Valley",
+      "mod_version": "test10",
+      "game_version": "",
+      "tagline": "Về quê dựng lại nông trại cũ của ông.",
+      "developer": "ConcernedApe",
+      "release": "26/02/2016",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Mô phỏng",
+        "Nông trại",
+        "Indie"
+      ],
+      "description": [
+        "Bạn thừa kế mảnh nông trại cũ của ông ở thung lũng Stardew: trồng trọt, nuôi gia súc, câu cá, xuống mỏ và làm quen với dân làng.",
+        "Bản Việt hoá dịch hội thoại, sự kiện, nhiệm vụ và giao diện. Cách xưng hô thay đổi theo giới tính nhân vật của bạn, và có font có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Xưng hô theo giới tính nhân vật",
+          "text": "Dân làng gọi bạn là anh hay chị, cậu hay cô tuỳ nhân vật bạn chọn."
+        }
+      ],
+      "done": [
+        "Hội thoại, sự kiện và nhiệm vụ",
+        "Giao diện và vật phẩm",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "76841f7c7f92522d388aa5a55f65a4de00d10760be23171b2846154aa020a1c1",
+      "size": 8248172,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/SDV_VietHoa_test10.zip",
+      "mirrors": []
+    },
+    {
+      "id": "silverpines",
+      "title_id": "0100D5B026844000",
+      "name": "Silver Pines",
+      "mod_version": "full_v5",
+      "game_version": "",
+      "tagline": "Câu chuyện bí ẩn giữa những rừng thông.",
+      "developer": "",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Phiêu lưu",
+        "Cốt truyện",
+        "Bí ẩn"
+      ],
+      "description": [
+        "Game phiêu lưu kể chuyện, nơi mỗi nhân vật giữ một phần bí mật và những manh mối nằm rải rác trong hội thoại, truyện tranh, tờ rơi và nhật ký.",
+        "Bản Việt hoá dịch toàn bộ chữ trong game, đồng thời vẽ lại chữ trên truyện tranh và nhiều tài liệu bằng tiếng Việt, kèm font có đủ dấu."
+      ],
+      "highlights": [
+        {
+          "title": "Việt hoá cả chữ trong ảnh",
+          "text": "Truyện tranh, tờ rơi, hồ sơ nhân vật và nhiều tấm ảnh khác được vẽ lại chữ Việt."
+        }
+      ],
+      "done": [
+        "Toàn bộ hội thoại, giao diện, vật phẩm",
+        "Chữ trên truyện tranh và tài liệu trong game"
+      ],
+      "kept": [
+        "Một số ảnh môi trường chưa vẽ lại"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "e4d3f36f0d2f12b9cd3472ca6c24a96d916f0d443a686e4c7742da4bfbf28771",
+      "size": 39168914,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/SilverPines_VietHoa_full_v5.zip",
+      "mirrors": []
+    },
+    {
+      "id": "vis",
+      "title_id": "0100254027E50000",
+      "name": "Village in the Shade",
+      "mod_version": "test8",
+      "game_version": "1.3.0",
+      "tagline": "Một ngôi làng nhiều luật lệ lạ, nhất là khi trời tối.",
+      "developer": "",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Mô phỏng",
+        "Kinh dị",
+        "Indie"
+      ],
+      "description": [
+        "Game mô phỏng cuộc sống ở một ngôi làng xa xưa với những luật lệ kỳ lạ và những điều tốt nhất là đừng làm khi màn đêm buông xuống.",
+        "Bản Việt hoá dịch toàn bộ chữ, đồng thời vẽ lại nhiều hình ảnh như bảng luật làng, hợp đồng thuê đất, màn hình tiêu đề và các nút hướng dẫn. Trong game chọn ngôn ngữ English."
+      ],
+      "highlights": [
+        {
+          "title": "Việt hoá cả hình ảnh",
+          "text": "Bảng luật, hợp đồng, màn hình tiêu đề, nhật ký hội thoại và nhiều thẻ khác đã có chữ Việt."
+        }
+      ],
+      "done": [
+        "Toàn bộ văn bản",
+        "Bảng luật làng, hợp đồng thuê đất",
+        "Màn hình tiêu đề và nút hướng dẫn"
+      ],
+      "kept": [
+        "31 thẻ vật nuôi, logo tiêu đề",
+        "Một số chữ kinh dị và phần staff credit"
+      ],
+      "changelog": "File ảnh khá lớn (khoảng 1,3 GB khi cài). Nếu game lỗi ảnh, xoá file fairy_1_00.dat trong thư mục atmosphere/contents/0100254027E50000/romfs/data để dùng ảnh gốc. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "7f6f98c6fcfc55a3e092ca4a93f6c2a5aede4356f264dd3e50c681025af194ff",
+      "size": 713685100,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/VillageInTheShade_EN_VietHoa_test8_logo.zip",
       "mirrors": []
     }
   ]
