@@ -2,6 +2,133 @@
   "schema": 1,
   "mods": [
     {
+      "id": "dst",
+      "title_id": "010090100E334000",
+      "name": "Don't Starve Together",
+      "mod_version": "full_v1",
+      "game_version": "",
+      "tagline": "Sinh tồn giữa vùng đất hoang kỳ quái, cùng bạn bè.",
+      "developer": "Klei Entertainment",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Sinh tồn",
+        "Co-op",
+        "Indie"
+      ],
+      "description": [
+        "Bạn bị ném vào một thế giới hoang dã đầy sinh vật kỳ quái và phải tìm cách sống sót qua đói khát, mất trí và bốn mùa khắc nghiệt, một mình hoặc cùng bạn bè.",
+        "Bản Việt hoá dịch hơn 87 nghìn chuỗi chữ của game, gồm nhân vật, thoại, giao diện và mô tả vật phẩm, kèm font có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Font có dấu cho mọi chỗ",
+          "text": "18 font của game đã được thêm chữ Việt có dấu."
+        },
+        {
+          "title": "Tên vật phẩm giữ nguyên",
+          "text": "Tên vật phẩm, trang phục và bộ sưu tập giữ tiếng Anh để dễ tra cứu wiki."
+        }
+      ],
+      "done": [
+        "Thoại nhân vật",
+        "Giao diện và menu",
+        "Mô tả vật phẩm, công thức"
+      ],
+      "kept": [
+        "Tên vật phẩm, trang phục, bộ sưu tập"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "8cfbc699d42e4729abef58ba881a0d482c520c5c8f6bf448e59f52b188a1f317",
+      "size": 6662911,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DST_VietHoa_full_v1.zip",
+      "mirrors": []
+    },
+    {
+      "id": "gk2",
+      "title_id": "0100005027A18000",
+      "name": "Graveyard Keeper 2",
+      "mod_version": "1.0.4",
+      "game_version": "1.0.4",
+      "tagline": "Quản lý nghĩa địa, nông trại và cả những chuyện dở khóc dở cười.",
+      "developer": "Lazy Bear Games",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Mô phỏng",
+        "Indie",
+        "Hài đen"
+      ],
+      "description": [
+        "Bạn đảm nhận nghĩa địa của một thị trấn nhỏ, vừa chăm sóc người đã khuất vừa trồng trọt, chế tạo và làm quen với những dân làng lắm chuyện.",
+        "Bản Việt hoá dịch hội thoại và giao diện, chơi chữ được dịch thành chơi chữ tiếng Việt. Tên riêng, địa danh và vật phẩm giữ nguyên tiếng Anh để dễ tra cứu."
+      ],
+      "highlights": [
+        {
+          "title": "Chơi chữ kiểu Việt",
+          "text": "Các tựa nhiệm vụ và câu đùa được dịch thành chơi chữ tiếng Việt, không dịch sát nghĩa."
+        }
+      ],
+      "done": [
+        "Hội thoại và nhiệm vụ",
+        "Giao diện và menu",
+        "Logo tiếng Việt"
+      ],
+      "kept": [
+        "Tên riêng, địa danh, vật phẩm",
+        "The Keeper"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "eab1fb8ae16440f36201848884b0fc1ead3c9a5bd4f805c27af846fba1d793b7",
+      "size": 30613569,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/GraveyardKeeper2_VietHoa_v1.0.4.zip",
+      "mirrors": []
+    },
+    {
+      "id": "knc",
+      "title_id": "0100309016E7A000",
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "mod_version": "full_v8",
+      "game_version": "",
+      "tagline": "Theo chân Tanjiro trên con đường diệt quỷ.",
+      "developer": "CyberConnect2",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Đối kháng",
+        "Anime",
+        "Hành động"
+      ],
+      "description": [
+        "Game đối kháng chuyển thể từ anime Thanh gươm diệt quỷ, tái hiện cốt truyện của Tanjiro từ ngày gia đình bị tàn sát cho tới chuyến tàu Vô Tận.",
+        "Bản Việt hoá dịch toàn bộ lời thoại, giao diện, mô tả chiêu thức và cốt truyện, dùng tên chiêu thức theo bản anime tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Tên chiêu thức theo anime Việt",
+          "text": "Tên các hơi thở và chiêu thức được tra theo bản anime phát hành tại Việt Nam."
+        }
+      ],
+      "done": [
+        "Cốt truyện và hội thoại",
+        "Giao diện, menu, hướng dẫn",
+        "Mô tả chiêu thức, nhân vật"
+      ],
+      "kept": [
+        "Một số tên riêng và tên kỹ thuật"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "b27d568d026335a75a9942b6623330b085d3299019d3648ffffa2629f7670fcd",
+      "size": 999803,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DemonSlayer_VietHoa_full_v8.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_bg.jpg"
+    },
+    {
       "id": "mario1",
       "title_id": "010099C022B96000",
       "name": "Super Mario Galaxy",
@@ -50,6 +177,87 @@
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/SMG/mario1_viethoa_full.zip",
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_bg.jpg"
+    },
+    {
+      "id": "mario2",
+      "title_id": "0100FD8022DAA000",
+      "name": "Super Mario Galaxy 2",
+      "mod_version": "full_v2",
+      "game_version": "1.3.1",
+      "tagline": "Mario cùng Yoshi lại lên đường giữa các thiên hà.",
+      "developer": "Nintendo EAD Tokyo",
+      "release": "23/05/2010",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Nền tảng 3D"
+      ],
+      "description": [
+        "Mario tiếp tục hành trình giữa các thiên hà để cứu công chúa Peach khỏi Bowser, lần này có thêm Yoshi và những chú Luma đồng hành.",
+        "Bản Việt hoá dịch hơn 3.300 chuỗi chữ: menu, hội thoại, tên thiên hà, ngôi sao và sách truyện, kèm font có đủ dấu tiếng Việt. Đặt ngôn ngữ hệ thống Switch là English để dùng."
+      ],
+      "highlights": [
+        {
+          "title": "Font tiếng Việt có dấu",
+          "text": "Font của game được vẽ lại có đủ chữ Việt, gồm cả hội thoại và chữ cảnh phim."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Hội thoại các thiên hà",
+        "Tên thiên hà và ngôi sao",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên nhân vật và tên trùm"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "827306536883734c74e2726be911edf2cae1460236544e4b18b75df1f1e3e6e2",
+      "size": 21830626,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/mario2_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_bg.jpg"
+    },
+    {
+      "id": "roi",
+      "title_id": "0100DE3026A54000",
+      "name": "Realm of Ink",
+      "mod_version": "full_v1",
+      "game_version": "",
+      "tagline": "Hành trình trong thế giới mực tàu đầy yêu quái.",
+      "developer": "",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Hành động",
+        "Roguelike",
+        "Cổ trang"
+      ],
+      "description": [
+        "Game mang nét vẽ mực tàu, lấy cảm hứng từ Liêu Trai Chí Dị với hồ ly, yêu quái và những câu chuyện cổ.",
+        "Bản Việt hoá dịch theo văn phong cổ trang: tên nhân vật, kỹ năng và vật phẩm dùng từ Hán Việt, phần mô tả viết thuần Việt cho dễ đọc."
+      ],
+      "highlights": [
+        {
+          "title": "Văn phong cổ trang",
+          "text": "Xưng hô ta, ngươi cho yêu quái; người thường xưng ta, cô, anh."
+        }
+      ],
+      "done": [
+        "Toàn bộ văn bản trong game (hơn 10 nghìn dòng)"
+      ],
+      "kept": [
+        "Logo và hình ảnh nút ở màn hình chính"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "2bad5da153af62d08622ebabf667d54c45bf2e935a2d5293e2d7c31380d7839a",
+      "size": 7145564,
+      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/ROI_VietHoa_full_v1.zip",
+      "mirrors": []
     }
   ]
 }
