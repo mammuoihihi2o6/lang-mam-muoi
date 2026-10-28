@@ -85,7 +85,9 @@
       "sha256": "8cfbc699d42e4729abef58ba881a0d482c520c5c8f6bf448e59f52b188a1f317",
       "size": 6662911,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DST_VietHoa_full_v1.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_bg.jpg"
     },
     {
       "id": "gk2",
@@ -126,7 +128,9 @@
       "sha256": "eab1fb8ae16440f36201848884b0fc1ead3c9a5bd4f805c27af846fba1d793b7",
       "size": 30613569,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/GraveyardKeeper2_VietHoa_v1.0.4.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg"
     },
     {
       "id": "knc",
