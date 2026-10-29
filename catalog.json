@@ -466,8 +466,10 @@
       "credit": "Việt hoá bởi Làng Mắm Muối.",
       "sha256": "7f6f98c6fcfc55a3e092ca4a93f6c2a5aede4356f264dd3e50c681025af194ff",
       "size": 713685100,
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/VillageInTheShade_EN_VietHoa_test8_logo.zip",
-      "mirrors": []
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VillageInTheShade_EN_VietHoa_test8_logo.zip",
+      "mirrors": [
+        "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/VillageInTheShade_EN_VietHoa_test8_logo.zip"
+      ]
     }
   ]
 }
