@@ -7,8 +7,8 @@
       "name": "Castlevania: Belmont's Curse",
       "mod_version": "full_v1",
       "game_version": "1.1.0",
-      "tagline": "Lời nguyền dòng họ Belmont, săn quỷ trong lâu đài của Dracula.",
-      "developer": "",
+      "tagline": "Phần nối tiếp Castlevania III, săn quỷ ở Paris năm 1499.",
+      "developer": "Evil Empire, Konami",
       "release": "",
       "translator": "Mammuoihihi",
       "tags": [
@@ -16,7 +16,7 @@
         "Phiêu lưu"
       ],
       "description": [
-        "Game hành động đi cảnh theo phong cách Castlevania, nơi bạn cầm roi thánh chiến đấu với bầy quái vật trong lâu đài.",
+        "Castlevania: Belmont's Curse do Evil Empire (nhà làm Dead Cells) phát triển cùng Konami, là phần nối tiếp trực tiếp Castlevania III: Dracula's Curse, lấy bối cảnh Paris năm 1499, 23 năm sau các sự kiện của phần ba.",
         "Bản Việt hoá dịch giao diện và lời thoại, đã thêm font hỗ trợ chữ Việt có dấu. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [],
@@ -30,7 +30,9 @@
       "sha256": "9131af2e8752bf235f6574b77a7b7d0c0f32ed51a1e381f5619efbff8568343f",
       "size": 5931573,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CBC-mammuoihihi.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_bg.jpg"
     },
     {
       "id": "corekeeper",
@@ -308,7 +310,7 @@
       "name": "Super Mario Party",
       "mod_version": "1.1.0",
       "game_version": "1.1.0",
-      "tagline": "Bàn cờ, trò chơi nhỏ và cuộc đua giành ngôi sao cùng cả nhà.",
+      "tagline": "Bàn cờ, mini game và cuộc đua giành ngôi sao cùng cả nhà.",
       "developer": "Nintendo",
       "release": "",
       "translator": "ducanh2001",
@@ -317,8 +319,8 @@
         "Nhiều người chơi"
       ],
       "description": [
-        "Trò chơi tiệc tùng của Mario, chơi cùng bạn bè trên bàn cờ với hàng chục mini game.",
-        "Bản Việt hoá thay chữ của game và phông chữ hệ thống bằng tiếng Việt. Dùng cho game phiên bản 1.1.0."
+        "Super Mario Party là game tiệc tùng trên Switch: cả nhà thay phiên đổ xúc xắc trên bàn cờ, chơi hàng chục mini game dùng Joy-Con và tranh nhau nhiều ngôi sao nhất.",
+        "Bản Việt hoá thay chữ của game và phông chữ hệ thống bằng tiếng Việt, dùng cho game phiên bản 1.1.0."
       ],
       "highlights": [],
       "done": [
@@ -331,7 +333,9 @@
       "sha256": "75080351e7f6503e78826502c1bf90a27e7a4d4fa0622ab9eefafbeee17434c2",
       "size": 24983681,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Super%20Mario%20Party%20VH%201.1.0-20261029T101821Z-1-001.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/marioparty_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/marioparty_bg.jpg"
     },
     {
       "id": "movingout",
@@ -339,7 +343,7 @@
       "name": "Moving Out",
       "mod_version": "1.0.6",
       "game_version": "1.0.6 (kèm DLC Movers in Paradise)",
-      "tagline": "Chuyển nhà cực nhanh cùng bạn bè, càng hỗn loạn càng vui.",
+      "tagline": "Chuyển nhà thật nhanh cùng bạn bè, đồ đạc bay tứ tung.",
       "developer": "SMG Studio, DevM Games",
       "release": "",
       "translator": "ducanh2001",
@@ -348,8 +352,8 @@
         "Co-op"
       ],
       "description": [
-        "Bạn là nhân viên của công ty chuyển nhà Furniture Arrangement and Relocation Professionals, vác đồ đạc ra xe sao cho nhanh và ít vỡ nhất, một mình hoặc chơi chung.",
-        "Bản Việt hoá dịch giao diện, hội thoại, mẹo chơi, thành tựu (1.773 chuỗi), phụ đề, có font chữ Việt và 91 clip giọng đọc tiếng Việt (giọng AI)."
+        "Moving Out là game co-op hỗn loạn về nghề chuyển nhà: bạn và tối đa ba người bạn vác tủ lạnh, giường, cây cảnh ra xe tải sao cho nhanh nhất và ít hư hỏng nhất, trong những căn nhà đủ kiểu bẫy và mẹo.",
+        "Bản Việt hoá dịch giao diện, hội thoại, mẹo chơi, thành tựu, phụ đề, kèm font có đủ dấu và 91 clip giọng đọc tiếng Việt (giọng AI)."
       ],
       "highlights": [],
       "done": [
@@ -365,24 +369,26 @@
       "sha256": "92a51a459ac8308aa44b801abfc15c4c5082327bf6ca4e9f39a9b82bf38d33a9",
       "size": 41271534,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Moving%20Out%201.0.6%20Viet%20Hoa-20261029T101933Z-1-001.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/movingout_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/movingout_bg.jpg"
     },
     {
       "id": "onepiece",
       "title_id": "01008BF025F34000",
-      "name": "One Piece",
+      "name": "One Piece: Grand Gourmet",
       "mod_version": "v1",
       "game_version": "",
-      "tagline": "Bản Việt hoá One Piece trên Switch bởi Mammuoihihi.",
-      "developer": "",
+      "tagline": "Cùng băng Mũ Rơm mở nhà hàng Baratie thứ hai.",
+      "developer": "Kairosoft",
       "release": "",
       "translator": "Mammuoihihi",
       "tags": [
         "Hành động"
       ],
       "description": [
-        "Bản Việt hoá dành cho game One Piece trên Switch (Title ID 01008BF025F34000).",
-        "Gói gồm một file tài nguyên chữ, cài thẳng vào thư mục atmosphere/contents của game."
+        "One Piece: Grand Gourmet là game quản lý nhà hàng đồ hoạ pixel của Kairosoft, do Bandai Namco phát hành: bạn cùng Sanji và băng Mũ Rơm xây thực đơn, trang trí nhà hàng và phục vụ thực khách là các nhân vật quen thuộc của One Piece.",
+        "Bản Việt hoá dịch chữ trong game, gồm một file tài nguyên cài vào thư mục atmosphere/contents của game."
       ],
       "highlights": [],
       "done": [
@@ -394,7 +400,9 @@
       "sha256": "6245bbe2a03a42c899035966a5766a9309ff18ad09bd75bdcd79998eb3baf7ee",
       "size": 87652974,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VietHoa_OnePiece_Switch-Atmosphere-Ryujinx.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/onepiece_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/onepiece_bg.jpg"
     },
     {
       "id": "ot0",
@@ -565,16 +573,16 @@
       "name": "TCG Card Shop Simulator",
       "mod_version": "v1",
       "game_version": "",
-      "tagline": "Bản Việt hoá TCG Card Shop Simulator.",
-      "developer": "",
+      "tagline": "Mở cửa hàng thẻ bài, nhập hàng, bán lẻ và làm giàu.",
+      "developer": "Neon Games",
       "release": "",
       "translator": "bonanno1234",
       "tags": [
         "Mô phỏng"
       ],
       "description": [
-        "Game mô phỏng quản lý cửa hàng thẻ bài.",
-        "Bản Việt hoá thay chữ giao diện và nội dung bằng tiếng Việt."
+        "TCG Card Shop Simulator là game mô phỏng quản lý cửa hàng thẻ bài: bán các gói thẻ để kiếm tiền, xếp kệ, đặt giá, thuê nhân viên, tổ chức sự kiện và mở rộng cửa hàng.",
+        "Bản Việt hoá thay chữ giao diện và nội dung bằng tiếng Việt, dịch giả bonanno1234."
       ],
       "highlights": [],
       "done": [
@@ -586,7 +594,9 @@
       "sha256": "f65c319f99f92c870568e7ce015519d98df2b40d5d2c383517c0760c89dfb63c",
       "size": 7510758,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TCGCardShop_VietHoa.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_bg.jpg"
     },
     {
       "id": "vis",
@@ -637,14 +647,15 @@
       "name": "Well Dweller",
       "mod_version": "full_v1",
       "game_version": "",
-      "tagline": "Bản Việt hoá Well Dweller bởi Mammuoihihi.",
-      "developer": "",
+      "tagline": "Chú chim nhỏ cầm que diêm đi đốt mụ hoàng hậu độc ác.",
+      "developer": "Kyle Thompson",
       "release": "",
       "translator": "Mammuoihihi",
       "tags": [
         "Phiêu lưu"
       ],
       "description": [
+        "Well Dweller là game metroidvania phong cách truyện cổ tích u tối của Kyle Thompson (tác giả Crypt Custodian và Islets): bạn vào vai Glimmer, chú chim bé nhỏ cầm que diêm, đi đốt mụ hoàng hậu độc ác để cứu gia đình khỏi bị biến thành vạt váy của bà ta.",
         "Bản Việt hoá dịch toàn bộ chữ trong game (game.win và translations.ini), có font hỗ trợ chữ Việt."
       ],
       "highlights": [],
@@ -658,7 +669,9 @@
       "sha256": "4ff983e59a97e81349728c0c258dc2c1eb3c9af8e63557845cbd3ceebd04ef45",
       "size": 206018476,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WellDweller_VHbyMammuoihihi.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg"
     },
     {
       "id": "yomawari",
@@ -666,7 +679,7 @@
       "name": "Yomawari: Lost in the Dark",
       "mod_version": "full_v1",
       "game_version": "",
-      "tagline": "Bản Việt hoá Yomawari: Lost in the Dark bởi Mammuoihihi.",
+      "tagline": "Cô bé thức dậy giữa rừng tối, không nhớ vì sao mình ở đó.",
       "developer": "Nippon Ichi Software",
       "release": "",
       "translator": "Mammuoihihi",
@@ -675,7 +688,7 @@
         "Kinh dị"
       ],
       "description": [
-        "Game phiêu lưu kinh dị của Nippon Ichi Software.",
+        "Yomawari: Lost in the Dark là game phiêu lưu kinh dị của Nippon Ichi Software: cô bé thức dậy giữa khu rừng tối không còn nhớ gì, phải lần mò, trốn tránh những thứ không nên nhìn thẳng và tìm đường thoát.",
         "Bản Việt hoá dịch vật phẩm, nhiệm vụ, ký ức và các chuỗi văn bản, đã ghép font có chữ Việt. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [],
@@ -689,7 +702,9 @@
       "sha256": "18eb52c221539b15d94a0710861f914327966a7e287b26beafdf96f0dd22cc1e",
       "size": 6288546,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/YomawariLost_VietHoa.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ]
 }
