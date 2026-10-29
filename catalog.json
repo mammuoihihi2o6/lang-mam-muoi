@@ -1,5 +1,13 @@
 {
   "schema": 1,
+  "app": {
+    "build": 6,
+    "version": "M6",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M6.nro",
+    "sha256": "ccf919d8456341dbfad75a2af600afa70e031629135c3d0ef55e0c096001c26f",
+    "size": 11040216,
+    "notes": "Tự cập nhật ứng dụng, tải song song, ký số danh sách Việt hoá, thêm nhiều game."
+  },
   "mods": [
     {
       "id": "cbc",
