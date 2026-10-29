@@ -642,12 +642,10 @@
       ],
       "changelog": "File ảnh khá lớn (khoảng 1,3 GB khi cài). Nếu game lỗi ảnh, xoá file fairy_1_00.dat trong thư mục atmosphere/contents/0100254027E50000/romfs/data để dùng ảnh gốc. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "7f6f98c6fcfc55a3e092ca4a93f6c2a5aede4356f264dd3e50c681025af194ff",
-      "size": 713685100,
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VillageInTheShade_EN_VietHoa_test8_logo.zip",
-      "mirrors": [
-        "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/VillageInTheShade_EN_VietHoa_test8_logo.zip"
-      ]
+      "sha256": "1a8570441133d57d56251d0433e2edccb230e824c3d083a3b1136e9edd1942a1",
+      "size": 705307121,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VillageInTheShade_EN_VietHoa.zip",
+      "mirrors": []
     },
     {
       "id": "welldweller",
