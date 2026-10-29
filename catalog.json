@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 7,
-    "version": "M7",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M7.nro",
-    "sha256": "d5f69b333ee3cb98ea5617c9a3be0988a57d218dd5c59c2f7a507c61eec73247",
+    "build": 8,
+    "version": "M8",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M8.nro",
+    "sha256": "9161e9c0628da90ae3032cf9b8a10af3dd9e8b8312c7ef5f758b907dbe5fbda1",
     "size": 11052504,
-    "notes": "Sửa lỗi con trỏ bị kẹt khi gỡ bản Việt hoá, sửa lỗi tải tiếp, thêm nút đo tốc độ mạng trong Cài Đặt."
+    "notes": "Sửa lỗi cập nhật ứng dụng, lỗi con trỏ bị kẹt khi gỡ bản Việt hoá, lỗi tải tiếp và thêm nút đo tốc độ mạng."
   },
   "mods": [
     {
