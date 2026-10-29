@@ -2,6 +2,37 @@
   "schema": 1,
   "mods": [
     {
+      "id": "cbc",
+      "title_id": "0100BA4026E94000",
+      "name": "Castlevania: Belmont's Curse",
+      "mod_version": "full_v1",
+      "game_version": "1.1.0",
+      "tagline": "Lời nguyền dòng họ Belmont, săn quỷ trong lâu đài của Dracula.",
+      "developer": "",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu"
+      ],
+      "description": [
+        "Game hành động đi cảnh theo phong cách Castlevania, nơi bạn cầm roi thánh chiến đấu với bầy quái vật trong lâu đài.",
+        "Bản Việt hoá dịch giao diện và lời thoại, đã thêm font hỗ trợ chữ Việt có dấu. Trong game chọn ngôn ngữ English."
+      ],
+      "highlights": [],
+      "done": [
+        "Giao diện và lời thoại",
+        "Font tiếng Việt"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "9131af2e8752bf235f6574b77a7b7d0c0f32ed51a1e381f5619efbff8568343f",
+      "size": 5931573,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CBC-mammuoihihi.zip",
+      "mirrors": []
+    },
+    {
       "id": "corekeeper",
       "title_id": "010070201D1BA000",
       "name": "Core Keeper",
@@ -10,7 +41,7 @@
       "tagline": "Đào xuống lòng đất, tìm ra lõi bí ẩn cùng bạn bè.",
       "developer": "Pugstorm",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Sinh tồn",
         "Khám phá",
@@ -35,11 +66,13 @@
         "Phần credits và nhật ký thay đổi"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "082fd120d4de1c98555067060273b68ece53bcc9ec0b0940f3026abd5215b6a9",
       "size": 12323433,
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/CoreKeeper_VietHoa_full_v1.zip",
-      "mirrors": [],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CoreKeeper_VietHoa.zip",
+      "mirrors": [
+        "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/CoreKeeper_VietHoa_full_v1.zip"
+      ],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_bg.jpg"
     },
@@ -52,7 +85,7 @@
       "tagline": "Sinh tồn giữa vùng đất hoang kỳ quái, cùng bạn bè.",
       "developer": "Klei Entertainment",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Sinh tồn",
         "Co-op",
@@ -81,7 +114,7 @@
         "Tên vật phẩm, trang phục, bộ sưu tập"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "8cfbc699d42e4729abef58ba881a0d482c520c5c8f6bf448e59f52b188a1f317",
       "size": 6662911,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DST_VietHoa_full_v1.zip",
@@ -98,7 +131,7 @@
       "tagline": "Quản lý nghĩa địa, nông trại và cả những chuyện dở khóc dở cười.",
       "developer": "Lazy Bear Games",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Mô phỏng",
         "Indie",
@@ -124,11 +157,13 @@
         "The Keeper"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "eab1fb8ae16440f36201848884b0fc1ead3c9a5bd4f805c27af846fba1d793b7",
       "size": 30613569,
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/GraveyardKeeper2_VietHoa_v1.0.4.zip",
-      "mirrors": [],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GraveyardKeeper2_VietHoa_v1.0.4.zip",
+      "mirrors": [
+        "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/GraveyardKeeper2_VietHoa_v1.0.4.zip"
+      ],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg"
     },
@@ -141,7 +176,7 @@
       "tagline": "Theo chân Tanjiro trên con đường diệt quỷ.",
       "developer": "CyberConnect2",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Đối kháng",
         "Anime",
@@ -166,7 +201,7 @@
         "Một số tên riêng và tên kỹ thuật"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "b27d568d026335a75a9942b6623330b085d3299019d3648ffffa2629f7670fcd",
       "size": 999803,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DemonSlayer_VietHoa_full_v8.zip",
@@ -183,7 +218,7 @@
       "tagline": "Mario phiêu lưu giữa các thiên hà để giải cứu công chúa Peach.",
       "developer": "Nintendo EAD Tokyo",
       "release": "01/11/2007",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Hành động",
         "Phiêu lưu",
@@ -213,7 +248,7 @@
         "Tên nhân vật"
       ],
       "changelog": "",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "mirrors": [
         "gdrive:1enpEEP3FOxwrx6gUeb_mkOe6fao-XZeh",
         "gdrive:1zsvOAa7ePDZaDlnR3M2rxsoqYlhKE-DC"
@@ -233,7 +268,7 @@
       "tagline": "Mario cùng Yoshi lại lên đường giữa các thiên hà.",
       "developer": "Nintendo EAD Tokyo",
       "release": "23/05/2010",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Hành động",
         "Phiêu lưu",
@@ -259,13 +294,107 @@
         "Tên nhân vật và tên trùm"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "827306536883734c74e2726be911edf2cae1460236544e4b18b75df1f1e3e6e2",
       "size": 21830626,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/mario2_VietHoa_full_v2.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_bg.jpg"
+    },
+    {
+      "id": "marioparty",
+      "title_id": "010036B0034E4000",
+      "name": "Super Mario Party",
+      "mod_version": "1.1.0",
+      "game_version": "1.1.0",
+      "tagline": "Bàn cờ, trò chơi nhỏ và cuộc đua giành ngôi sao cùng cả nhà.",
+      "developer": "Nintendo",
+      "release": "",
+      "translator": "ducanh2001",
+      "tags": [
+        "Party",
+        "Nhiều người chơi"
+      ],
+      "description": [
+        "Trò chơi tiệc tùng của Mario, chơi cùng bạn bè trên bàn cờ với hàng chục mini game.",
+        "Bản Việt hoá thay chữ của game và phông chữ hệ thống bằng tiếng Việt. Dùng cho game phiên bản 1.1.0."
+      ],
+      "highlights": [],
+      "done": [
+        "Giao diện và hội thoại",
+        "Phông chữ hệ thống"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi ducanh2001.",
+      "sha256": "75080351e7f6503e78826502c1bf90a27e7a4d4fa0622ab9eefafbeee17434c2",
+      "size": 24983681,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Super%20Mario%20Party%20VH%201.1.0-20261029T101821Z-1-001.zip",
+      "mirrors": []
+    },
+    {
+      "id": "movingout",
+      "title_id": "0100C4C00E73E000",
+      "name": "Moving Out",
+      "mod_version": "1.0.6",
+      "game_version": "1.0.6 (kèm DLC Movers in Paradise)",
+      "tagline": "Chuyển nhà cực nhanh cùng bạn bè, càng hỗn loạn càng vui.",
+      "developer": "SMG Studio, DevM Games",
+      "release": "",
+      "translator": "ducanh2001",
+      "tags": [
+        "Mô phỏng",
+        "Co-op"
+      ],
+      "description": [
+        "Bạn là nhân viên của công ty chuyển nhà Furniture Arrangement and Relocation Professionals, vác đồ đạc ra xe sao cho nhanh và ít vỡ nhất, một mình hoặc chơi chung.",
+        "Bản Việt hoá dịch giao diện, hội thoại, mẹo chơi, thành tựu (1.773 chuỗi), phụ đề, có font chữ Việt và 91 clip giọng đọc tiếng Việt (giọng AI)."
+      ],
+      "highlights": [],
+      "done": [
+        "Giao diện, hội thoại, mẹo chơi, thành tựu",
+        "Phụ đề và font chữ Việt",
+        "91 clip giọng đọc tiếng Việt (giọng AI)"
+      ],
+      "kept": [
+        "Giọng đọc là giọng AI, chưa phải giọng diễn viên gốc"
+      ],
+      "changelog": "Cần cài cả bản cập nhật v1.0.6 của game. Trong game chọn ngôn ngữ English. Muốn nghe giọng gốc, xoá file audio_narration trong thư mục mod. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi ducanh2001.",
+      "sha256": "92a51a459ac8308aa44b801abfc15c4c5082327bf6ca4e9f39a9b82bf38d33a9",
+      "size": 41271534,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Moving%20Out%201.0.6%20Viet%20Hoa-20261029T101933Z-1-001.zip",
+      "mirrors": []
+    },
+    {
+      "id": "onepiece",
+      "title_id": "01008BF025F34000",
+      "name": "One Piece",
+      "mod_version": "v1",
+      "game_version": "",
+      "tagline": "Bản Việt hoá One Piece trên Switch bởi Mammuoihihi.",
+      "developer": "",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động"
+      ],
+      "description": [
+        "Bản Việt hoá dành cho game One Piece trên Switch (Title ID 01008BF025F34000).",
+        "Gói gồm một file tài nguyên chữ, cài thẳng vào thư mục atmosphere/contents của game."
+      ],
+      "highlights": [],
+      "done": [
+        "Chữ trong game (resources.assets)"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "6245bbe2a03a42c899035966a5766a9309ff18ad09bd75bdcd79998eb3baf7ee",
+      "size": 87652974,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VietHoa_OnePiece_Switch-Atmosphere-Ryujinx.zip",
+      "mirrors": []
     },
     {
       "id": "ot0",
@@ -276,7 +405,7 @@
       "tagline": "Thuở quê hương Wishvale còn nguyên vẹn.",
       "developer": "Square Enix",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Nhập vai",
         "Đánh theo lượt",
@@ -305,7 +434,7 @@
         "Tên công ty và nhân sự ở phần kết"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "49b7f2161c6532614524b25ba343bf643955f1c20143063219225bc9e92b741c",
       "size": 1525421,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/OctopathTraveler0_Switch_VietHoa_Test9_credit.zip",
@@ -322,7 +451,7 @@
       "tagline": "Hành trình trong thế giới mực tàu đầy yêu quái.",
       "developer": "",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Hành động",
         "Roguelike",
@@ -345,7 +474,7 @@
         "Logo và hình ảnh nút ở màn hình chính"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "2bad5da153af62d08622ebabf667d54c45bf2e935a2d5293e2d7c31380d7839a",
       "size": 7145564,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/ROI_VietHoa_full_v1.zip",
@@ -360,7 +489,7 @@
       "tagline": "Về quê dựng lại nông trại cũ của ông.",
       "developer": "ConcernedApe",
       "release": "26/02/2016",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Mô phỏng",
         "Nông trại",
@@ -383,7 +512,7 @@
       ],
       "kept": [],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "76841f7c7f92522d388aa5a55f65a4de00d10760be23171b2846154aa020a1c1",
       "size": 8248172,
       "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/SDV_VietHoa_test10.zip",
@@ -398,7 +527,7 @@
       "tagline": "Câu chuyện bí ẩn giữa những rừng thông.",
       "developer": "",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Phiêu lưu",
         "Cốt truyện",
@@ -422,10 +551,41 @@
         "Một số ảnh môi trường chưa vẽ lại"
       ],
       "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "e4d3f36f0d2f12b9cd3472ca6c24a96d916f0d443a686e4c7742da4bfbf28771",
       "size": 39168914,
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/SilverPines_VietHoa_full_v5.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SilverPines_VietHoa_full.zip",
+      "mirrors": [
+        "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/SilverPines_VietHoa_full_v5.zip"
+      ]
+    },
+    {
+      "id": "tcgcardshop",
+      "title_id": "010079D02773C000",
+      "name": "TCG Card Shop Simulator",
+      "mod_version": "v1",
+      "game_version": "",
+      "tagline": "Bản Việt hoá TCG Card Shop Simulator.",
+      "developer": "",
+      "release": "",
+      "translator": "bonanno1234",
+      "tags": [
+        "Mô phỏng"
+      ],
+      "description": [
+        "Game mô phỏng quản lý cửa hàng thẻ bài.",
+        "Bản Việt hoá thay chữ giao diện và nội dung bằng tiếng Việt."
+      ],
+      "highlights": [],
+      "done": [
+        "Giao diện và nội dung trong game"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi bonanno1234.",
+      "sha256": "f65c319f99f92c870568e7ce015519d98df2b40d5d2c383517c0760c89dfb63c",
+      "size": 7510758,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TCGCardShop_VietHoa.zip",
       "mirrors": []
     },
     {
@@ -437,7 +597,7 @@
       "tagline": "Một ngôi làng nhiều luật lệ lạ, nhất là khi trời tối.",
       "developer": "",
       "release": "",
-      "translator": "Làng Mắm Muối",
+      "translator": "Mammuoihihi",
       "tags": [
         "Mô phỏng",
         "Kinh dị",
@@ -463,13 +623,73 @@
         "Một số chữ kinh dị và phần staff credit"
       ],
       "changelog": "File ảnh khá lớn (khoảng 1,3 GB khi cài). Nếu game lỗi ảnh, xoá file fairy_1_00.dat trong thư mục atmosphere/contents/0100254027E50000/romfs/data để dùng ảnh gốc. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
       "sha256": "7f6f98c6fcfc55a3e092ca4a93f6c2a5aede4356f264dd3e50c681025af194ff",
       "size": 713685100,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VillageInTheShade_EN_VietHoa_test8_logo.zip",
       "mirrors": [
         "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/VillageInTheShade_EN_VietHoa_test8_logo.zip"
       ]
+    },
+    {
+      "id": "welldweller",
+      "title_id": "0100217023F6C000",
+      "name": "Well Dweller",
+      "mod_version": "full_v1",
+      "game_version": "",
+      "tagline": "Bản Việt hoá Well Dweller bởi Mammuoihihi.",
+      "developer": "",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Phiêu lưu"
+      ],
+      "description": [
+        "Bản Việt hoá dịch toàn bộ chữ trong game (game.win và translations.ini), có font hỗ trợ chữ Việt."
+      ],
+      "highlights": [],
+      "done": [
+        "Toàn bộ chữ trong game",
+        "Font tiếng Việt"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "4ff983e59a97e81349728c0c258dc2c1eb3c9af8e63557845cbd3ceebd04ef45",
+      "size": 206018476,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WellDweller_VHbyMammuoihihi.zip",
+      "mirrors": []
+    },
+    {
+      "id": "yomawari",
+      "title_id": "01005FD0182A2000",
+      "name": "Yomawari: Lost in the Dark",
+      "mod_version": "full_v1",
+      "game_version": "",
+      "tagline": "Bản Việt hoá Yomawari: Lost in the Dark bởi Mammuoihihi.",
+      "developer": "Nippon Ichi Software",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Phiêu lưu",
+        "Kinh dị"
+      ],
+      "description": [
+        "Game phiêu lưu kinh dị của Nippon Ichi Software.",
+        "Bản Việt hoá dịch vật phẩm, nhiệm vụ, ký ức và các chuỗi văn bản, đã ghép font có chữ Việt. Trong game chọn ngôn ngữ English."
+      ],
+      "highlights": [],
+      "done": [
+        "Vật phẩm, nhiệm vụ, ký ức, hội thoại",
+        "Font tiếng Việt"
+      ],
+      "kept": [],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "18eb52c221539b15d94a0710861f914327966a7e287b26beafdf96f0dd22cc1e",
+      "size": 6288546,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/YomawariLost_VietHoa.zip",
+      "mirrors": []
     }
   ]
 }
