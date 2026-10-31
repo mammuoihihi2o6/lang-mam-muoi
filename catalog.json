@@ -384,7 +384,9 @@
       "sha256": "f3fc10ca03fb9f35366fd08673ffe512b3f6e678b2ed85e990c3110369d14477",
       "size": 246771094,
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v4_ghide.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg"
     },
     {
       "id": "movingout",
