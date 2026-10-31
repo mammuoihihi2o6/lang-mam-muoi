@@ -346,6 +346,47 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/marioparty_bg.jpg"
     },
     {
+      "id": "md2",
+      "title_id": "0100A7C01B792000",
+      "name": "Minecraft Dungeons II",
+      "mod_version": "full_v4",
+      "game_version": "1.1.1.0",
+      "tagline": "Lập đội, xuống ngục và hạ lũ Illager trong thế giới Minecraft.",
+      "developer": "",
+      "release": "",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Hành động",
+        "Nhập vai",
+        "Co-op"
+      ],
+      "description": [
+        "Game hành động nhập vai lấy bối cảnh thế giới Minecraft, nơi bạn khám phá các vùng đất, thu thập trang bị và chiến đấu với quái vật, một mình hoặc cùng bạn bè.",
+        "Bản Việt hoá dịch toàn bộ chữ của game: giao diện, nhiệm vụ, thoại nhân vật và mô tả, kèm font có đủ dấu tiếng Việt. Tên quái vật giữ nguyên tiếng Anh. Trong game chọn ngôn ngữ English."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch trọn hơn 5 nghìn chuỗi",
+          "text": "Toàn bộ văn bản của game đã có tiếng Việt, xưng hô gần gũi theo kiểu tôi và bạn."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Nhiệm vụ và thoại nhân vật",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên quái vật",
+        "Phụ đề cảnh phim"
+      ],
+      "changelog": "Dùng cho game bản 1.1.1.0. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "f3fc10ca03fb9f35366fd08673ffe512b3f6e678b2ed85e990c3110369d14477",
+      "size": 246771094,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v4_ghide.zip",
+      "mirrors": []
+    },
+    {
       "id": "movingout",
       "title_id": "0100C4C00E73E000",
       "name": "Moving Out",
@@ -605,6 +646,52 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_bg.jpg"
+    },
+    {
+      "id": "unicorn",
+      "title_id": "010069401ADB8000",
+      "name": "Unicorn Overlord",
+      "mod_version": "test23",
+      "game_version": "",
+      "tagline": "Hoàng tử lưu vong tập hợp quân Giải Phóng, giành lại lục địa.",
+      "developer": "Vanillaware, Atlus",
+      "release": "08/03/2024",
+      "translator": "Làng Mắm Muối",
+      "tags": [
+        "Nhập vai",
+        "Chiến thuật"
+      ],
+      "description": [
+        "Game nhập vai chiến thuật với nét vẽ tay đặc trưng của Vanillaware. Bạn đồng hành cùng hoàng tử Alain, xây dựng đội quân, xếp đội hình và giải phóng từng vùng đất.",
+        "Bản Việt hoá dịch lại toàn bộ gần 50 nghìn dòng theo văn phong sử thi, vẽ lại font có đủ dấu tiếng Việt. Tên kỹ năng và trang bị giữ nguyên tiếng Anh. Trong game để ngôn ngữ English."
+      ],
+      "highlights": [
+        {
+          "title": "Văn phong sử thi",
+          "text": "Lời thoại được viết lại mượt và giàu hình ảnh, dùng Hán Việt nhẹ, không dịch từng chữ."
+        },
+        {
+          "title": "Bản đầy đủ, cài một lần",
+          "text": "Gói đã có sẵn cả font và chữ. Nếu từng cài bản Việt hoá khác, nên xoá thư mục cũ trước khi cài."
+        }
+      ],
+      "done": [
+        "Cốt truyện và hội thoại",
+        "Giao diện, menu, mô tả",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên kỹ năng, vật phẩm và trang bị",
+        "Phần staff credit"
+      ],
+      "changelog": "Dung lượng khoảng 1,3 GB khi cài. Bản thử nghiệm, nếu gặp lỗi chữ hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Làng Mắm Muối.",
+      "sha256": "abbd769e2ed4d3bc5561a0ac1c69fcb3dcfeae4a54b9ce1c547e8236f6d5b879",
+      "size": 411181347,
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UnicornOverl_VietHoa_test23_FULL.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg"
     },
     {
       "id": "vis",
