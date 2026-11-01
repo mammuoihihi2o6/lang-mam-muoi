@@ -831,6 +831,56 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_bg.jpg"
     },
     {
+      "id": "rdr1",
+      "title_id": "01007820196A6000",
+      "name": "Red Dead Redemption",
+      "mod_version": "full",
+      "game_version": "1.0.7",
+      "tagline": "Miền Viễn Tây năm 1911 và hành trình chuộc lỗi của John Marston.",
+      "developer": "Rockstar Games",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Hành động",
+        "Thế giới mở",
+        "Viễn Tây"
+      ],
+      "description": [
+        "Red Dead Redemption là tựa game hành động thế giới mở của Rockstar, bối cảnh miền Viễn Tây năm 1911. Người chơi hóa thân thành cựu tội phạm John Marston, kẻ bị chính phủ ép phải săn lùng đồng bọn cũ để cứu lấy vợ con. Trò chơi gây ấn tượng mạnh nhờ cốt truyện bi tráng về sự cứu rỗi, cơ chế đấu súng mãn nhãn và thế giới hoang dã chân thực.",
+        "Bản Việt hoá full dấu của nhóm Bonano dịch cốt truyện chính, nhiệm vụ phụ, giao diện, nhật ký, 104 thành tựu và DLC Undead Nightmare, kèm bộ font mới. Tiếng Việt đã tích hợp vào mọi ngôn ngữ nên không cần đổi ngôn ngữ máy."
+      ],
+      "highlights": [
+        {
+          "title": "Có cả Undead Nightmare",
+          "text": "DLC Cơn ác mộng xác sống được Việt hoá đầy đủ cùng game chính."
+        }
+      ],
+      "done": [
+        "Cốt truyện chính và nhiệm vụ phụ",
+        "Giao diện, menu, bản đồ, nhật ký",
+        "104 thành tựu",
+        "DLC Undead Nightmare",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [],
+      "changelog": "Dùng cho game bản Mỹ, cập nhật 1.0.7. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi nhóm Bonano, tài trợ bởi Topo Shop.",
+      "sha256": "db57d8e30649414f7c8a65787203fab18416372b6da4eadc4570e31e4cb6be26",
+      "size": 314100662,
+      "cd": "736b4aebcff2e80937c71db30018c1f0a3b514cc89ee43bc68aca14b08f2b58c",
+      "fh": [
+        "2431e98be4ba1d9beb1e614b350eaa51",
+        "32a786f8569eb844dcf49f412ff16d96",
+        "10f6bd64beb23640989fe96e49d2addd",
+        "89534aed0e92d9c996896d67f92ad9b4",
+        "35f79312032310c1981f2daa0546b561"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RDR1_VietHoa_FullDau_Switch_Bonano.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_bg.jpg"
+    },
+    {
       "id": "roi",
       "title_id": "0100DE3026A54000",
       "name": "Realm of Ink",
@@ -2475,7 +2525,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793501031,
+  "seq": 1793502438,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
