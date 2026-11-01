@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 27,
-    "version": "M27",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M27.nro",
-    "sha256": "ffac02939dd7633e921a3c1ed34c59f5616481cf00654418fb0711cf64a1c065",
-    "size": 13729740,
-    "notes": "Cài Việt hoá nhanh gấp đôi: vừa tải vừa giải nén, không cần chỗ trống gấp đôi trên thẻ. Cập nhật bản dịch chỉ tải phần thay đổi, cài lại chỉ tải lại file bị mất. Tải ổn định hơn khi Wi-Fi chập chờn. Sửa khung tab Game Trên Máy."
+    "build": 28,
+    "version": "M28",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M28.nro",
+    "sha256": "d77e41424b344aa99d8afbbd77bf7e77dfc1abc58e5089ffbb1be4b880c7fa19",
+    "size": 13737932,
+    "notes": "Sửa lỗi app tự thoát khi lọc hoặc tìm không ra game rồi đổi tab. Huỷ hoặc bấm + để thoát giữa lúc cài không còn để lại bản dịch dở dang. Thêm nút Thử lại khi chưa tải được danh sách (mở app lúc Wi-Fi chưa kết nối). Giao diện mượt hơn khi đang cài, bấm cài là chạy ngay, không phải chờ tải xong ảnh bìa."
   },
   "mods": [
     {
@@ -2475,7 +2475,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793498207,
+  "seq": 1793501031,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
