@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 28,
-    "version": "M28",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M28.nro",
-    "sha256": "d77e41424b344aa99d8afbbd77bf7e77dfc1abc58e5089ffbb1be4b880c7fa19",
-    "size": 13737932,
-    "notes": "Sửa lỗi app tự thoát khi lọc hoặc tìm không ra game rồi đổi tab. Huỷ hoặc bấm + để thoát giữa lúc cài không còn để lại bản dịch dở dang. Thêm nút Thử lại khi chưa tải được danh sách (mở app lúc Wi-Fi chưa kết nối). Giao diện mượt hơn khi đang cài, bấm cài là chạy ngay, không phải chờ tải xong ảnh bìa."
+    "build": 30,
+    "version": "M30",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M30.nro",
+    "sha256": "cd0d555278a49db40a46d989089cd80b2df126582093411cdd5afcf3ba4b51fa",
+    "size": 13750220,
+    "notes": "Thêm liên hệ Discord có mã QR. Sửa lỗi thông báo cập nhật."
   },
   "mods": [
     {
@@ -2533,10 +2533,14 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793507321,
+  "seq": 1793511531,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
     "name": "NGUYEN THANH DAT"
+  },
+  "contact": {
+    "url": "https://discord.gg/pDQ82Qfcc",
+    "qr": "iVBORw0KGgoAAAANSUhEUgAAAUoAAAFKAQAAAABTUiuoAAABnklEQVR42u2bza0DIQyErUcBlLStU9IWgERY4x/IKU9KpDkMB7TJ+sQnj8cOkfHpasJQhjL0X6G32LpGl/lNGfN5btd876/KDP2TjxdDfxP60CqL3KI15qZPInUsZCuEtFBoWTJllumT0rr1I2nh0VrS95BZoAppIedWMTlsLoKkhVu3btlNB+sWJK2sVpFgsdETgtE61m413sw+DwuCVrfipUrYNpdhHxc30kKhdZSstIhdXA6phEiecJn3qlsPEYxmmS4DymWY9Tue9O2jiaaOPCwUJdSM2kzHVsGsqpEWloPPzsvHhmPz8qSF0x23nA5K2UqWESQtpH7LsicTLC2iKiEdPJYnvMt7Y2y+3dsv0gKa6tYYB9Z0h92FkUqIpYTDu6x25Jt6QroMOFoGygvV0SKz34KdwSu3qoxi/E5agDP4bYLhGTXYb6HmVsqh7L8n02Wg3nnK606eWzEs5GHh3Xm6YoLBugV+5ymqVfrEGqnGw8Kjlc1yCw/C3EK989RkN4ar/SItUE9oM6jjrgaVEPXOE//iwVCGfif0BbcfFH1xLW2BAAAAAElFTkSuQmCC"
   }
 }
