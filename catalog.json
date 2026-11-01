@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 26,
-    "version": "M26",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M26.nro",
-    "sha256": "3d7a8c614a59abcfa2273f8c15f3711ca0b61f547a82592648a99f4e316b60d8",
-    "size": 13709260,
-    "notes": "Tăng cường bảo mật ủng hộ: mã QR tự tạo từ danh sách đã ký và hiện tên người nhận để bạn đối chiếu, key và vé tải nhanh chỉ dùng được trên đúng máy của bạn. Nếu cập nhật xong vẫn là bản cũ: xem hướng dẫn trong nhóm để tự chép file mới một lần."
+    "build": 27,
+    "version": "M27",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M27.nro",
+    "sha256": "ffac02939dd7633e921a3c1ed34c59f5616481cf00654418fb0711cf64a1c065",
+    "size": 13729740,
+    "notes": "Cài Việt hoá nhanh gấp đôi: vừa tải vừa giải nén, không cần chỗ trống gấp đôi trên thẻ. Cập nhật bản dịch chỉ tải phần thay đổi, cài lại chỉ tải lại file bị mất. Tải ổn định hơn khi Wi-Fi chập chờn. Sửa khung tab Game Trên Máy."
   },
   "mods": [
     {
@@ -165,7 +165,7 @@
         "104e9d556e564dc1ef041eab4fe3590e",
         "d3497ddf6d01dbf3876492ef2dd286a3"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DST_VietHoa_full_v1.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DST_VietHoa_full_v1.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_bg.jpg"
@@ -265,7 +265,7 @@
         "7bd35bdab67cf9098a8c24c410e8fe09",
         "8244080bff17a2bf539bd3941517c8a2"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/DemonSlayer_VietHoa_full_v8.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DemonSlayer_VietHoa_full_v8.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_bg.jpg"
@@ -310,10 +310,7 @@
       ],
       "changelog": "",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "mirrors": [
-        "gdrive:1enpEEP3FOxwrx6gUeb_mkOe6fao-XZeh",
-        "gdrive:1zsvOAa7ePDZaDlnR3M2rxsoqYlhKE-DC"
-      ],
+      "mirrors": [],
       "sha256": "e0169a62734ed36a1646a11a16825f59c636e4aa60fd619c493ccf3f441a5e20",
       "size": 21528211,
       "cd": "70d84bcffad9abd25e060f2caee4fc42e8103a604756bc052c1a7afacf1a46bd",
@@ -324,7 +321,7 @@
         "2e6eed44e5e46b69c3ea4766c108c3fb",
         "87a7628579d7a53721617cd5b5bf9c84"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/SMG/mario1_ll.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/mario1_ll.zip",
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_bg.jpg"
     },
@@ -608,7 +605,7 @@
         "94151312e2019bf110e86c41585980f0",
         "f123bd5caf994da4978bce04253e67aa"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/mario2_VietHoa_full_v2.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/mario2_VietHoa_full_v2.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_bg.jpg"
@@ -828,7 +825,7 @@
         "904460de9c7ad345e323ca375d299571",
         "c7c14d864eb99d02a9d3511731678cb8"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/OctopathTraveler0_Switch_VietHoa_Test9_credit.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OctopathTraveler0_Switch_VietHoa_Test9_credit.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_bg.jpg"
@@ -872,7 +869,7 @@
       "fh": [
         "328066112d3a7e27905db3d1e6897d4d"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/ROI_VietHoa_full_v1.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ROI_VietHoa_full_v1.zip",
       "mirrors": []
     },
     {
@@ -2155,7 +2152,7 @@
         "acf8c624a6c71236090fb87eb9c1a695",
         "bd8eb930a2db70474a0a214791060c0c"
       ],
-      "url": "https://github.com/mammuoihihi2o6/lang-mam-muoi/releases/download/kho-viethoa/SDV_VietHoa_test10.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SDV_VietHoa_test10.zip",
       "mirrors": []
     },
     {
@@ -2478,7 +2475,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793496162,
+  "seq": 1793498207,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
