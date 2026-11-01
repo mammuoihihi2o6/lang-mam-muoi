@@ -867,15 +867,21 @@
       "kept": [],
       "changelog": "Dùng cho game bản Mỹ, cập nhật 1.0.7. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
       "credit": "Việt hoá bởi nhóm Bonano, tài trợ bởi Topo Shop.",
-      "sha256": "db57d8e30649414f7c8a65787203fab18416372b6da4eadc4570e31e4cb6be26",
-      "size": 314100662,
-      "cd": "736b4aebcff2e80937c71db30018c1f0a3b514cc89ee43bc68aca14b08f2b58c",
+      "sha256": "67a250790f8163bf03fd849b7bb1efe46ce6826b7c17848feb36e904ac552446",
+      "size": 628202713,
+      "cd": "27fa60894678ea89eda07dabb91ae12193d18940bb70cd63e8b16d6a4815deea",
       "fh": [
+        "17dee6673168a33ebd83674bd55424a7",
+        "10f6bd64beb23640989fe96e49d2addd",
+        "89534aed0e92d9c996896d67f92ad9b4",
+        "35f79312032310c1981f2daa0546b561",
         "2431e98be4ba1d9beb1e614b350eaa51",
         "32a786f8569eb844dcf49f412ff16d96",
         "10f6bd64beb23640989fe96e49d2addd",
         "89534aed0e92d9c996896d67f92ad9b4",
-        "35f79312032310c1981f2daa0546b561"
+        "35f79312032310c1981f2daa0546b561",
+        "2431e98be4ba1d9beb1e614b350eaa51",
+        "32a786f8569eb844dcf49f412ff16d96"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RDR1_VietHoa_FullDau_Switch_Bonano.zip",
       "mirrors": [],
@@ -2357,12 +2363,12 @@
       "id": "vis",
       "title_id": "0100254027E50000",
       "name": "Village in the Shade",
-      "mod_version": "test8",
+      "mod_version": "full",
       "game_version": "1.3.0",
       "tagline": "Một ngôi làng nhiều luật lệ lạ, nhất là khi trời tối.",
       "developer": "",
       "release": "",
-      "translator": "Mammuoihihi",
+      "translator": "Mammuoihihi, Thuan20",
       "tags": [
         "Mô phỏng",
         "Kinh dị",
@@ -2370,7 +2376,7 @@
       ],
       "description": [
         "Game mô phỏng cuộc sống ở một ngôi làng xa xưa với những luật lệ kỳ lạ và những điều tốt nhất là đừng làm khi màn đêm buông xuống.",
-        "Bản Việt hoá dịch toàn bộ chữ, đồng thời vẽ lại nhiều hình ảnh như bảng luật làng, hợp đồng thuê đất, màn hình tiêu đề và các nút hướng dẫn. Trong game chọn ngôn ngữ English."
+        "Bản Việt hoá cho game bản quốc tế 1.3.0, dựa trên bản Test 4 của nhóm Mammuoihihi và được Thuan20 bổ sung. Dịch toàn bộ chữ, rà lại xưng hô cho từng nhân vật, đồng thời vẽ lại nhiều hình ảnh như bảng luật làng, hợp đồng thuê đất, màn hình tiêu đề, lịch và các nút hướng dẫn. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [
         {
@@ -2379,31 +2385,30 @@
         }
       ],
       "done": [
-        "Toàn bộ văn bản",
-        "Bảng luật làng, hợp đồng thuê đất",
+        "Toàn bộ văn bản và hội thoại",
+        "Xưng hô thống nhất cho mọi nhân vật",
+        "Bảng luật làng, hợp đồng thuê đất, lịch, bảng tin",
         "Màn hình tiêu đề và nút hướng dẫn"
       ],
       "kept": [
-        "31 thẻ vật nuôi, logo tiêu đề",
-        "Một số chữ kinh dị và phần staff credit"
+        "Nhãn mùa nhỏ dưới số 28 trong ô ngày của lịch"
       ],
-      "changelog": "File ảnh khá lớn (khoảng 1,3 GB khi cài). Nếu game lỗi ảnh, xoá file fairy_1_00.dat trong thư mục atmosphere/contents/0100254027E50000/romfs/data để dùng ảnh gốc. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "1a8570441133d57d56251d0433e2edccb230e824c3d083a3b1136e9edd1942a1",
-      "size": 705307121,
-      "cd": "d334c0bc72dce76b1f654c42ea181769e44f06b99cd6c2f4ec4f5b7f4fa0c816",
+      "changelog": "Cập nhật 31/10: sửa lựa chọn của quầy bắn súng, vẽ lại nhãn \"Còn ... ngày\" ở cửa hàng. File ảnh khá lớn (khoảng 1,3 GB khi cài). Nếu game lỗi ảnh, xoá file fairy_1_00.dat trong thư mục atmosphere/contents/0100254027E50000/romfs/data để dùng ảnh gốc. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá gốc bởi Mammuoihihi, bản bổ sung bởi Thuan20.",
+      "sha256": "e70a1cc3c5e2222f695367c8bfb4de36408c36ae1294feba8fda0d731d70e011",
+      "size": 693954390,
+      "cd": "dfd7d9c84415520c45a628a85f9c1f8011803c04b9a5328b2e8bd739c4cfafdb",
       "fh": [
-        "",
-        "",
-        "",
-        "ae765361642af7bedd1235fe8f01222e",
+        "8fb2a9d270306cc7cf36dcdaf2ac6715",
+        "0e75ec26763c75c67fdbb2ec080fb2c9",
+        "f8f63dba6c6e4f58a29e22c22cdeaeee",
         "d5569ff83da64b80119f965ede8f4f89",
         "7e9ae59ae3cbd17341fd235529ab48e9",
         "485de8182b40299513f1739d7c65f2d7",
         "eee024fb6c0e92d988ac4d8e81f4bbe9",
         "6f60bb37dde4b761bd3ecd87efea4c7c",
         "673ab7da51ccaf877ab11cd1c9e94263",
-        "65ac938cd453d489c8ba05e48e9c7799",
+        "2a73d37941fe7695bd3f08ded528b226",
         "c08dc2fa0df7e13c4cbf523a0a148d23",
         "0cf2c23956b85ef81b931dc8e9f198fa",
         "56ebeecfd37d90ea9cc5a35037e56f36",
@@ -2413,7 +2418,7 @@
         "284acc84df8fce680de1b272d8c6d457",
         "af5c3602bcaee71b9544c42e35917d42",
         "ce996ce59d1ff37558440c69dd2eb8f3",
-        "dbb37c51e2e2ec5299e9bf297d7a0c06",
+        "8b3c0fbf48b1ad8877d62949ca98b891",
         "b91b71d8cb867d3697043f358b2d892c",
         "10033a832182dd495f6c87e9ecda2c50",
         "d2dfe28c73e674ac6bbba2a484026ffe",
@@ -2436,18 +2441,17 @@
         "14130235898b06d0ff95039e7ad2ec50",
         "b6e28f56e64594f3e078515c8926da93",
         "eea3a7fb46bc01474d11368c0734ec48",
-        "363f968417db8c94ddb969e97f5b5cad",
-        "6d58f9716e4dedd00a5bae9c100735b8",
+        "fc114f91b9a4918ff68f8c7aa161a867",
+        "6bbcb5ffecd9f5fb588a3654da6bad7c",
         "fa323e11d85e1071347cb8d60b6ab30a",
-        "6d3515bf9060b92319fd1541d92067c8",
+        "92d058619fd2ddfa734ca7169198ec44",
         "d68b3ce3284bc450558ad8fe7a97a8e3",
         "61868df522fc0d7a200bdff73a8feb00",
         "68f8ed5fca4db0322913d9be3c813b73",
         "937d38be8f2dc1ec6b4b208924586a14",
-        "57f168479ac81229ca84c57d191fa6da",
-        "2a7483aa2099be405fe2b5e044389270"
+        "57f168479ac81229ca84c57d191fa6da"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VillageInTheShade_EN_VietHoa.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VITS_US_VietHoa_Full.zip",
       "mirrors": []
     },
     {
@@ -2533,7 +2537,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793511531,
+  "seq": 1793520415,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
