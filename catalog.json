@@ -692,7 +692,9 @@
         "23f6379901908800913da177582d646f"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v4_ghide.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg"
     },
     {
       "id": "movingout",
@@ -884,7 +886,7 @@
       "id": "roi",
       "title_id": "0100DE3026A54000",
       "name": "Realm of Ink",
-      "mod_version": "full_v1",
+      "mod_version": "full_v3",
       "game_version": "",
       "tagline": "Hành trình trong thế giới mực tàu đầy yêu quái.",
       "developer": "",
@@ -911,15 +913,21 @@
       "kept": [
         "Logo và hình ảnh nút ở màn hình chính"
       ],
-      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "changelog": "Bản full v3: cập nhật font và menu. Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "2bad5da153af62d08622ebabf667d54c45bf2e935a2d5293e2d7c31380d7839a",
-      "size": 7145564,
-      "cd": "bd74e8ea1cd955448a70e0c292d484b0c907d0ff55f7946d6503f192c56ffe95",
+      "sha256": "2698dd33b0aebaa9742dcca2225d46dcafdcb1a667a73cd5153191c152bb171e",
+      "size": 102878921,
+      "cd": "ecbac8429839980fdab1ac51dd0a0952d9194710bbe3bd73cc229c3f43a6879c",
       "fh": [
-        "328066112d3a7e27905db3d1e6897d4d"
+        "",
+        "",
+        "",
+        "",
+        "e3d94f011983f7b57759760c2b74dab3",
+        "e17b7b2c5aa511646ed0fc367b8b0579",
+        "2be951e4c53d8be669faa665358eea65"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ROI_VietHoa_full_v1.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ROI_VietHoa_full_v3_font_menu.zip",
       "mirrors": []
     },
     {
@@ -2525,7 +2533,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793502438,
+  "seq": 1793507321,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
