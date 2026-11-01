@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 30,
-    "version": "M30",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M30.nro",
-    "sha256": "cd0d555278a49db40a46d989089cd80b2df126582093411cdd5afcf3ba4b51fa",
+    "build": 31,
+    "version": "M31",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M31.nro",
+    "sha256": "3c46358de094e8c3e1b5215c3a8f7ca347fcd7a55d7b9fdfa17f5dba4e2fe0fa",
     "size": 13750220,
-    "notes": "Thêm liên hệ Discord có mã QR. Sửa lỗi thông báo cập nhật."
+    "notes": "Sửa lỗi cài mod khi Title ID trong zip viết thường."
   },
   "mods": [
     {
@@ -24,7 +24,7 @@
         "Phiêu lưu"
       ],
       "description": [
-        "Castlevania: Belmont's Curse do Evil Empire (nhà làm Dead Cells) phát triển cùng Konami, là phần nối tiếp trực tiếp Castlevania III: Dracula's Curse, lấy bối cảnh Paris năm 1499, 23 năm sau các sự kiện của phần ba.",
+        "Castlevania: Belmont's Curse do Evil Empire (nhà làm Dead Cells) phát triển cùng Konami, nối tiếp trực tiếp Castlevania III: Dracula's Curse. Bối cảnh Paris năm 1499, 23 năm sau các sự kiện của phần ba, khi bóng tối của Dracula lại phủ xuống vùng đất. Bạn cầm roi thánh của nhà Belmont, băng qua lâu đài, nghĩa địa và những vùng đất bị nguyền rủa để đối đầu với quỷ dữ.",
         "Bản Việt hoá dịch giao diện và lời thoại, đã thêm font hỗ trợ chữ Việt có dấu. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [],
@@ -70,7 +70,7 @@
         "Co-op"
       ],
       "description": [
-        "Bạn tỉnh dậy trong một hang ngầm khổng lồ và phải đào bới, chế tạo, trồng trọt và chiến đấu để lần ra bí mật của Lõi, một mình hoặc cùng bạn bè.",
+        "Bạn tỉnh dậy trong một hang ngầm khổng lồ không có ánh mặt trời và phải đào bới, chế tạo, trồng trọt, nấu ăn và chiến đấu để sống sót. Càng đi sâu, bạn càng gặp nhiều vùng đất lạ, trùm quái vật và dấu vết của một nền văn minh cổ, dẫn tới bí mật của Lõi. Chơi một mình hoặc cùng tối đa bốn người bạn.",
         "Bản Việt hoá dịch toàn bộ giao diện, vật phẩm, thành tựu, kỹ năng và lời thoại. Font pixel của game được ghép thêm chữ Việt có dấu. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [
@@ -117,7 +117,7 @@
         "Indie"
       ],
       "description": [
-        "Bạn bị ném vào một thế giới hoang dã đầy sinh vật kỳ quái và phải tìm cách sống sót qua đói khát, mất trí và bốn mùa khắc nghiệt, một mình hoặc cùng bạn bè.",
+        "Bạn bị ném vào một thế giới hoang dã kỳ quái, nơi mọi thứ đều muốn ăn thịt bạn. Phải kiếm thức ăn, giữ ấm, giữ tỉnh táo và xây căn cứ để qua được bốn mùa khắc nghiệt, mùa đông và mùa hè đều có thể giết bạn. Chơi cùng bạn bè, mỗi nhân vật có điểm mạnh yếu riêng và phong cách vẽ u ám đặc trưng của Klei.",
         "Bản Việt hoá dịch hơn 87 nghìn chuỗi chữ của game, gồm nhân vật, thoại, giao diện và mô tả vật phẩm, kèm font có đủ dấu tiếng Việt."
       ],
       "highlights": [
@@ -171,6 +171,105 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_bg.jpg"
     },
     {
+      "id": "ffr",
+      "title_id": "0100606026F12000",
+      "name": "Final Fantasy Resonance",
+      "mod_version": "full_v7",
+      "game_version": "1.0.1",
+      "tagline": "Thế giới Veritas và hành trình của hiệp sĩ trẻ.",
+      "developer": "",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "JRPG",
+        "Cốt truyện",
+        "Fantasy"
+      ],
+      "description": [
+        "Final Fantasy Resonance là game nhập vai giả tưởng thuộc dòng Final Fantasy, đặt bạn vào thế giới Veritas với cốt truyện dài, nhiều nhân vật và các vị chủ nhân của những nguyên tố như gió, lửa, nước, ánh sáng. Bạn xây dựng đội hình, rèn trang bị, đi qua từng chương truyện và đối đầu với những thế lực đe doạ cả thế giới.",
+        "Bản Việt hoá dịch hơn 26 nghìn dòng chữ của game, kèm font có đủ dấu. Tên riêng, trang bị và kỹ năng giữ tiếng Anh."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch trọn vẹn cốt truyện",
+          "text": "Toàn bộ hội thoại, tóm tắt chương và mô tả đều có tiếng Việt."
+        }
+      ],
+      "done": [
+        "Hội thoại và cốt truyện",
+        "Giao diện, mô tả vật phẩm"
+      ],
+      "kept": [
+        "Tên riêng, trang bị, kỹ năng"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "00daf705b740c05b0afce852db50768992ebdcc2ae0707fad976a219a71fd997",
+      "size": 3042399639,
+      "cd": "3fc84a0faad8792ed29f0e5a45f094908f7942a599db5b6d5b1a6df070532646",
+      "fh": [
+        "ed9f77d6e2b08925e25af5f43fc96826"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFR_VietHoa_full_v7.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg"
+    },
+    {
+      "id": "frostpunk",
+      "title_id": "0100B1C0249B4000",
+      "name": "Frostpunk",
+      "mod_version": "full_v2",
+      "game_version": "",
+      "tagline": "Giữ cho thành phố cuối cùng của nhân loại sống sót qua băng giá.",
+      "developer": "11 bit studios",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Chiến lược",
+        "Sinh tồn",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Năm 1886, một cơn băng giá khủng khiếp nuốt chửng thế giới. Bạn là người lãnh đạo thành phố cuối cùng của nhân loại, quây quanh chiếc Máy phát hơi nước khổng lồ. Bạn phải cân bằng hơi ấm, thức ăn, nhà ở, hy vọng và sự bất mãn của dân chúng, ban hành luật lệ và đưa ra những quyết định đạo đức đau đớn để mọi người có thể sống sót.",
+        "Bản Việt hoá dịch giao diện, sự kiện, luật lệ và tài liệu trong game, kèm font vẽ lại có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Font có đủ dấu tiếng Việt",
+          "text": "Các font của game được dựng lại để hiện đúng dấu."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Sự kiện, luật lệ, nhiệm vụ"
+      ],
+      "kept": [
+        "Một số chữ nằm trong ảnh"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "eee2b66940a6d9415f020adc7d78a8898adefa4aa618d1a45692ac2b6cbc2199",
+      "size": 2020654013,
+      "cd": "981bdf5d3de12d09aa4169c7e8f1750bd195d78a9ed2b2878b626a4e7664e88a",
+      "fh": [
+        "0c512d7097325b6f30c71cad9031e142",
+        "50c46d4b44eece40ea24bf8fbe50f2d0",
+        "130d7952161db23d0c956905f4de6b38",
+        "9ae04e3d96d0f1bba9c92165635ee18a",
+        "1bd53d4042e3d1b7bb5663af065aa525",
+        "bb73b8836756974a7b1495619c96478f",
+        "da973365377919bb72fb6d629f92ec9d",
+        "10baa958818abc0e35552831550d7afe",
+        "6e6a63305980c3f9765886fee711d81a",
+        "31c0a1a1dd1df8c210e05762b6c48d91"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Frostpunk_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg"
+    },
+    {
       "id": "gk2",
       "title_id": "0100005027A18000",
       "name": "Graveyard Keeper 2",
@@ -186,7 +285,7 @@
         "Hài đen"
       ],
       "description": [
-        "Bạn đảm nhận nghĩa địa của một thị trấn nhỏ, vừa chăm sóc người đã khuất vừa trồng trọt, chế tạo và làm quen với những dân làng lắm chuyện.",
+        "Bạn đảm nhận nghĩa địa của một thị trấn nhỏ, vừa chăm sóc người đã khuất vừa trồng trọt, chế tạo và làm quen với những dân làng lắm chuyện. Mỗi ngày bạn xử lý xác chết, mở rộng nghĩa trang, giúp dân làng giải quyết đủ chuyện lạ đời và dần khám phá những bí mật đen tối của vùng đất này, với lối hài đen đặc trưng.",
         "Bản Việt hoá dịch hội thoại và giao diện, chơi chữ được dịch thành chơi chữ tiếng Việt. Tên riêng, địa danh và vật phẩm giữ nguyên tiếng Anh để dễ tra cứu."
       ],
       "highlights": [
@@ -238,7 +337,7 @@
         "Hành động"
       ],
       "description": [
-        "Game đối kháng chuyển thể từ anime Thanh gươm diệt quỷ, tái hiện cốt truyện của Tanjiro từ ngày gia đình bị tàn sát cho tới chuyến tàu Vô Tận.",
+        "Game đối kháng chuyển thể từ anime Thanh gươm diệt quỷ, do CyberConnect2 làm với đồ hoạ như phim. Chế độ cốt truyện tái hiện hành trình của Tanjiro từ ngày gia đình bị tàn sát, cuộc gặp Nezuko, kỳ thi tuyển ở núi Fujikasane cho tới chuyến tàu Vô Tận cùng Rengoku. Có thêm chế độ đối kháng với nhiều nhân vật và chiêu thức lấy từ anime.",
         "Bản Việt hoá dịch toàn bộ lời thoại, giao diện, mô tả chiêu thức và cốt truyện, dùng tên chiêu thức theo bản anime tiếng Việt."
       ],
       "highlights": [
@@ -286,7 +385,7 @@
         "Nền tảng 3D"
       ],
       "description": [
-        "Mario lên đường vào vũ trụ khi Bowser bắt cóc công chúa Peach và cả lâu đài của cô. Từ trạm thiên văn của Rosalina, Mario nhảy qua những hành tinh nhỏ, đổi trọng lực liên tục để thu thập Power Star và đuổi theo Bowser.",
+        "Mario lên đường vào vũ trụ khi Bowser bắt cóc công chúa Peach và cả lâu đài của cô. Từ trạm thiên văn của Rosalina, Mario nhảy qua những hành tinh nhỏ, đổi trọng lực liên tục để thu thập Power Star và đuổi theo Bowser. Mỗi thiên hà có những hành tinh với trọng lực riêng, những màn đua tốc độ, bắt Chomp hay chạm trán trùm, cùng bản nhạc giao hưởng được nhiều người yêu thích.",
         "Bản Việt hoá này dịch lại chữ trong game sang tiếng Việt, kèm font mới có đủ dấu để hiển thị đẹp. Đặt ngôn ngữ hệ thống Switch là English để dùng."
       ],
       "highlights": [
@@ -341,7 +440,7 @@
         "Nền tảng 3D"
       ],
       "description": [
-        "Mario tiếp tục hành trình giữa các thiên hà để cứu công chúa Peach khỏi Bowser, lần này có thêm Yoshi và những chú Luma đồng hành.",
+        "Mario tiếp tục hành trình giữa các thiên hà để cứu công chúa Peach khỏi Bowser, lần này có thêm Yoshi và những chú Luma đồng hành. Mario đi qua hàng chục thiên hà với những ý tưởng mới như Yoshi nuốt quả, khoan xuyên hành tinh hay biến hình thành mây, ong, nhím, cùng các bí mật dẫn tới đích cuối cùng.",
         "Bản Việt hoá dịch hơn 3.300 chuỗi chữ: menu, hội thoại, tên thiên hà, ngôi sao và sách truyện, kèm font có đủ dấu tiếng Việt. Đặt ngôn ngữ hệ thống Switch là English để dùng."
       ],
       "highlights": [
@@ -625,7 +724,7 @@
         "Nhiều người chơi"
       ],
       "description": [
-        "Super Mario Party là game tiệc tùng trên Switch: cả nhà thay phiên đổ xúc xắc trên bàn cờ, chơi hàng chục mini game dùng Joy-Con và tranh nhau nhiều ngôi sao nhất.",
+        "Super Mario Party là game tiệc tùng trên Switch: cả nhà thay phiên đổ xúc xắc trên bàn cờ, chọn đồng đội, đi qua những ô sự kiện và tranh nhau nhiều ngôi sao nhất. Giữa các lượt là hàng chục mini game dùng Joy-Con, từ chạy đua, bắn bóng tới những trò vận động. Rất hợp để chơi chung nhiều người trong một buổi tối. Nhiều chế độ chơi, từ Mario Party kinh điển đến những trò chơi riêng dành cho hai máy Switch.",
         "Bản Việt hoá thay chữ của game và phông chữ hệ thống bằng tiếng Việt, dùng cho game phiên bản 1.1.0."
       ],
       "highlights": [],
@@ -665,7 +764,7 @@
         "Co-op"
       ],
       "description": [
-        "Game hành động nhập vai lấy bối cảnh thế giới Minecraft, nơi bạn khám phá các vùng đất, thu thập trang bị và chiến đấu với quái vật, một mình hoặc cùng bạn bè.",
+        "Game hành động nhập vai lấy bối cảnh thế giới Minecraft, nơi bạn khám phá các vùng đất, thu thập trang bị và chiến đấu với quái vật, một mình hoặc cùng bạn bè. Bạn chọn nhân vật, nâng cấp vũ khí và bùa phép, lập đội với tối đa bốn người và vượt qua những hầm ngục đầy bẫy, quái vật và kho báu.",
         "Bản Việt hoá dịch toàn bộ chữ của game: giao diện, nhiệm vụ, thoại nhân vật và mô tả, kèm font có đủ dấu tiếng Việt. Tên quái vật giữ nguyên tiếng Anh. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [
@@ -711,7 +810,7 @@
         "Co-op"
       ],
       "description": [
-        "Moving Out là game co-op hỗn loạn về nghề chuyển nhà: bạn và tối đa ba người bạn vác tủ lạnh, giường, cây cảnh ra xe tải sao cho nhanh nhất và ít hư hỏng nhất, trong những căn nhà đủ kiểu bẫy và mẹo.",
+        "Moving Out là game co-op hỗn loạn về nghề chuyển nhà: bạn và tối đa ba người bạn vác tủ lạnh, giường, cây cảnh ra xe tải sao cho nhanh nhất và ít hư hỏng nhất, trong những căn nhà đủ kiểu bẫy và mẹo. Mỗi màn có luật và mẹo riêng, thử thách phối hợp đồng đội bằng những pha ném, tung và nhét đồ đạc vào xe tải một cách hài hước.",
         "Bản Việt hoá dịch giao diện, hội thoại, mẹo chơi, thành tựu, phụ đề, kèm font có đủ dấu và 91 clip giọng đọc tiếng Việt (giọng AI)."
       ],
       "highlights": [],
@@ -754,7 +853,7 @@
         "Hành động"
       ],
       "description": [
-        "One Piece: Grand Gourmet là game quản lý nhà hàng đồ hoạ pixel của Kairosoft, do Bandai Namco phát hành: bạn cùng Sanji và băng Mũ Rơm xây thực đơn, trang trí nhà hàng và phục vụ thực khách là các nhân vật quen thuộc của One Piece.",
+        "One Piece: Grand Gourmet là game quản lý nhà hàng đồ hoạ pixel của Kairosoft, do Bandai Namco phát hành: bạn cùng Sanji và băng Mũ Rơm xây thực đơn, trang trí nhà hàng và phục vụ thực khách là các nhân vật quen thuộc của One Piece. Bạn tuyển thêm đồng đội, học công thức món mới, nâng cấp nhà hàng để đón thực khách nổi tiếng từ khắp các vùng biển.",
         "Bản Việt hoá dịch chữ trong game, gồm một file tài nguyên cài vào thư mục atmosphere/contents của game."
       ],
       "highlights": [],
@@ -792,7 +891,7 @@
         "HD-2D"
       ],
       "description": [
-        "Game nhập vai đánh theo lượt đồ hoạ HD-2D của Square Enix, kể chuyện về các vùng đất, những cuộc phiêu lưu và cái giá phải trả cho từng lựa chọn.",
+        "Octopath Traveler 0 là game nhập vai đánh theo lượt của Square Enix, giữ lối đồ hoạ HD-2D nổi tiếng với nhân vật pixel đặt trong khung cảnh 3D lung linh. Câu chuyện đi qua nhiều vùng đất, mỗi nhân vật mang một mục tiêu riêng, và mỗi lựa chọn đều có cái giá của nó. Hệ thống đánh theo lượt đòi hỏi bạn tính toán điểm yếu của kẻ địch.",
         "Bản Việt hoá viết lại toàn bộ cốt truyện chính theo văn phong sử thi, xưng hô nhất quán cho từng nhân vật. Để dùng, đặt ngôn ngữ trong game là English."
       ],
       "highlights": [
@@ -904,7 +1003,7 @@
         "Cổ trang"
       ],
       "description": [
-        "Game mang nét vẽ mực tàu, lấy cảm hứng từ Liêu Trai Chí Dị với hồ ly, yêu quái và những câu chuyện cổ.",
+        "Realm of Ink là game hành động roguelike mang nét vẽ mực tàu, lấy cảm hứng từ Liêu Trai Chí Dị. Bạn đi qua những vùng đất đầy hồ ly, yêu quái và các câu chuyện cổ, chiến đấu, nhặt kỹ năng và vật phẩm mỗi lượt chơi rồi quay lại mạnh hơn. Cảnh vật giống như bức tranh thuỷ mặc đang chuyển động.",
         "Bản Việt hoá dịch theo văn phong cổ trang: tên nhân vật, kỹ năng và vật phẩm dùng từ Hán Việt, phần mô tả viết thuần Việt cho dễ đọc."
       ],
       "highlights": [
@@ -952,7 +1051,7 @@
         "Indie"
       ],
       "description": [
-        "Bạn thừa kế mảnh nông trại cũ của ông ở thung lũng Stardew: trồng trọt, nuôi gia súc, câu cá, xuống mỏ và làm quen với dân làng.",
+        "Bạn thừa kế mảnh nông trại cũ của ông ở thung lũng Stardew, rời khỏi cuộc sống văn phòng để bắt đầu lại. Trồng trọt, nuôi gia súc, câu cá, xuống hầm mỏ đánh quái, nấu ăn và làm quen với dân làng, thậm chí kết hôn. Mỗi mùa có lễ hội và công việc riêng, nên luôn có việc để làm mà không bị ép buộc.",
         "Bản Việt hoá dịch hội thoại, sự kiện, nhiệm vụ và giao diện. Cách xưng hô thay đổi theo giới tính nhân vật của bạn, và có font có đủ dấu tiếng Việt."
       ],
       "highlights": [
@@ -2235,7 +2334,7 @@
         "Bí ẩn"
       ],
       "description": [
-        "Game phiêu lưu kể chuyện, nơi mỗi nhân vật giữ một phần bí mật và những manh mối nằm rải rác trong hội thoại, truyện tranh, tờ rơi và nhật ký.",
+        "Silver Pines là game phiêu lưu kể chuyện, nơi mỗi nhân vật giữ một phần bí mật và những manh mối nằm rải rác trong hội thoại, truyện tranh, tờ rơi và nhật ký. Bạn trò chuyện, quan sát, ghép các mảnh thông tin lại với nhau để hiểu chuyện gì đang xảy ra giữa những khu rừng thông tưởng như yên bình.",
         "Bản Việt hoá dịch toàn bộ chữ trong game, đồng thời vẽ lại chữ trên truyện tranh và nhiều tài liệu bằng tiếng Việt, kèm font có đủ dấu."
       ],
       "highlights": [
@@ -2285,7 +2384,7 @@
         "Mô phỏng"
       ],
       "description": [
-        "TCG Card Shop Simulator là game mô phỏng quản lý cửa hàng thẻ bài: bán các gói thẻ để kiếm tiền, xếp kệ, đặt giá, thuê nhân viên, tổ chức sự kiện và mở rộng cửa hàng.",
+        "TCG Card Shop Simulator là game mô phỏng quản lý cửa hàng thẻ bài: bán các gói thẻ để kiếm tiền, xếp kệ, đặt giá, thuê nhân viên, tổ chức sự kiện và mở rộng cửa hàng. Bạn còn phải giữ chân khách quen, xử lý kẻ trộm, mở rộng không gian rồi trở thành chủ cửa hàng thẻ bài lớn nhất khu phố.",
         "Bản Việt hoá thay chữ giao diện và nội dung bằng tiếng Việt, dịch giả bonanno1234."
       ],
       "highlights": [],
@@ -2309,6 +2408,54 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_bg.jpg"
     },
     {
+      "id": "tombraider",
+      "title_id": "0100092021C80000",
+      "name": "Tomb Raider (Definitive Edition)",
+      "mod_version": "v9",
+      "game_version": "",
+      "tagline": "Hành trình sinh tồn đầu tiên của Lara Croft trên đảo Yamatai.",
+      "developer": "Crystal Dynamics",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Tomb Raider (Definitive Edition) kể lại khởi đầu của Lara Croft: cô cùng đoàn thám hiểm bị đắm tàu và mắc kẹt trên đảo Yamatai bí ẩn, nơi có một giáo phái cuồng tín và những bí mật cổ xưa. Lara phải leo trèo, săn bắn, chế tạo vũ khí và chiến đấu để cứu bạn bè, từ cô gái trẻ non nớt dần trở thành người sống sót thực thụ. Đây là bản làm lại đồ hoạ cao, với cảnh sinh tồn, chiến đấu bằng cung tên, và những ngôi mộ ẩn để khám phá.",
+        "Bản Việt hoá dịch giao diện, lồng tiếng, các đoạn cắt cảnh và video giới thiệu."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch cả cắt cảnh và video",
+          "text": "Thoại trong cắt cảnh và chữ trong video đều có tiếng Việt."
+        }
+      ],
+      "done": [
+        "Giao diện, phụ đề thoại",
+        "Đoạn cắt cảnh, video"
+      ],
+      "kept": [
+        "Một số tài liệu phụ chưa dịch hết"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "75fa274d2729f3fdbfcab145b1fd846adb77020fe747ba2cbab54e62ed09db42",
+      "size": 1544358065,
+      "cd": "e1473e4861eeb6f710aeb1449e16e7f9b10840c7fa712b4beea0fc2e4868e575",
+      "fh": [
+        "55ace83588c67922d70c9510f79656d3",
+        "00cd90cfbdcd13d854e309b74dd5a992",
+        "7bd5c973322a6dcf09c50c0ca05ec8d7",
+        "b9de03c323c3bedf0c73fb16df50512d"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TombRaider_vh_v9.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg"
+    },
+    {
       "id": "unicorn",
       "title_id": "010069401ADB8000",
       "name": "Unicorn Overlord",
@@ -2323,7 +2470,7 @@
         "Chiến thuật"
       ],
       "description": [
-        "Game nhập vai chiến thuật với nét vẽ tay đặc trưng của Vanillaware. Bạn đồng hành cùng hoàng tử Alain, xây dựng đội quân, xếp đội hình và giải phóng từng vùng đất.",
+        "Unicorn Overlord là game nhập vai chiến thuật với nét vẽ tay đặc trưng của Vanillaware. Bạn đồng hành cùng hoàng tử Alain, tập hợp những người đồng đội, xếp đội hình, cài đặt hành vi cho từng người rồi để họ tự chiến đấu trên chiến trường thời gian thực. Giải phóng từng vùng đất khỏi đế chế hà khắc và tìm ra sự thật về vương quốc đã mất.",
         "Bản Việt hoá dịch lại toàn bộ gần 50 nghìn dòng theo văn phong sử thi, vẽ lại font có đủ dấu tiếng Việt. Tên kỹ năng và trang bị giữ nguyên tiếng Anh. Trong game để ngôn ngữ English."
       ],
       "highlights": [
@@ -2455,6 +2602,52 @@
       "mirrors": []
     },
     {
+      "id": "wbs",
+      "title_id": "01005AB028A12000",
+      "name": "Wild Blue Skies",
+      "mod_version": "full_v1",
+      "game_version": "",
+      "tagline": "Bay lượn giữa bầu trời xanh cùng đội Blue Bombers.",
+      "developer": "",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Bay lượn"
+      ],
+      "description": [
+        "Wild Blue Skies là game hành động bay lượn trên bầu trời, nơi bạn cùng đội Blue Bombers lên đường qua 14 màn chơi. Bạn sử dụng vũ khí như Blaster, bắn tích năng lượng, lăn né đòn và tăng tốc để vượt qua những kẻ địch như Prowlers, và hoàn thành từng nhiệm vụ trên cao. Mỗi màn có địa hình, kẻ địch và trùm riêng, cùng những nhiệm vụ phụ cho bạn quay lại chơi nhiều lần.",
+        "Bản Việt hoá dịch toàn bộ hội thoại và giao diện, kèm font có đủ dấu."
+      ],
+      "highlights": [
+        {
+          "title": "Tên chiêu thức giữ nguyên",
+          "text": "Tên vật phẩm, kỹ năng và màn chơi giữ tiếng Anh để dễ nhận ra."
+        }
+      ],
+      "done": [
+        "Hội thoại",
+        "Giao diện, menu, credit"
+      ],
+      "kept": [
+        "Tên vật phẩm, kỹ năng, màn chơi"
+      ],
+      "changelog": "Bản thử nghiệm, chưa được kiểm tra đầy đủ trên máy thật. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "31a14153293c4bee0445e8b82f7a2478ca6f2a90b162d22902f2a43fae19dbdf",
+      "size": 3080449,
+      "cd": "824c8ce54278e42d7108f4db569909666ecfebd4c7d2deef790f23d6991cf00d",
+      "fh": [
+        "d1b18b35bcdb26d13ca9f7f9c8b838e5",
+        "d20dd3a5c62a225360a3cfe062b00a3f"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WBS_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wbs_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wbs_bg.jpg"
+    },
+    {
       "id": "welldweller",
       "title_id": "0100217023F6C000",
       "name": "Well Dweller",
@@ -2468,7 +2661,7 @@
         "Phiêu lưu"
       ],
       "description": [
-        "Well Dweller là game metroidvania phong cách truyện cổ tích u tối của Kyle Thompson (tác giả Crypt Custodian và Islets): bạn vào vai Glimmer, chú chim bé nhỏ cầm que diêm, đi đốt mụ hoàng hậu độc ác để cứu gia đình khỏi bị biến thành vạt váy của bà ta.",
+        "Well Dweller là game metroidvania phong cách truyện cổ tích u tối của Kyle Thompson (tác giả Crypt Custodian và Islets): bạn vào vai Glimmer, chú chim bé nhỏ cầm que diêm, đi đốt mụ hoàng hậu độc ác để cứu gia đình khỏi bị biến thành vạt váy của bà ta. Khám phá những ngõ ngách tối tăm, tìm thêm sức mạnh để mở những lối đi mới.",
         "Bản Việt hoá dịch toàn bộ chữ trong game (game.win và translations.ini), có font hỗ trợ chữ Việt."
       ],
       "highlights": [],
@@ -2506,7 +2699,7 @@
         "Kinh dị"
       ],
       "description": [
-        "Yomawari: Lost in the Dark là game phiêu lưu kinh dị của Nippon Ichi Software: cô bé thức dậy giữa khu rừng tối không còn nhớ gì, phải lần mò, trốn tránh những thứ không nên nhìn thẳng và tìm đường thoát.",
+        "Yomawari: Lost in the Dark là game phiêu lưu kinh dị của Nippon Ichi Software: cô bé thức dậy giữa khu rừng tối không còn nhớ gì, phải lần mò, trốn tránh những thứ không nên nhìn thẳng và tìm đường thoát. Bạn phải dùng đèn pin, nghe tiếng tim đập của nhân vật và né những bóng ma dị dạng, khám phá thị trấn lúc nửa đêm để tìm lại ký ức và những người đã mất.",
         "Bản Việt hoá dịch vật phẩm, nhiệm vụ, ký ức và các chuỗi văn bản, đã ghép font có chữ Việt. Trong game chọn ngôn ngữ English."
       ],
       "highlights": [],
@@ -2537,7 +2730,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793520415,
+  "seq": 1793531110,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
