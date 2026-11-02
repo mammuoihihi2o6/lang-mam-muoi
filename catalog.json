@@ -1254,6 +1254,137 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg"
     },
     {
+      "id": "hades",
+      "title_id": "0100535012974000",
+      "name": "Hades",
+      "mod_version": "v1",
+      "game_version": "Update v131072",
+      "tagline": "Zagreus trốn khỏi Âm Phủ, cứ chết rồi lại thử lần nữa.",
+      "developer": "Supergiant Games",
+      "release": "17/09/2020",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Roguelike",
+        "Hành động",
+        "Thần thoại"
+      ],
+      "description": [
+        "Hades là tựa roguelike hành động của Supergiant Games. Bạn vào vai Zagreus, hoàng tử Âm Phủ và con trai của thần Hades, quyết thoát khỏi nơi mình sinh ra. Mỗi lần chết bạn quay về nhà, nói chuyện với các nhân vật, nâng cấp rồi lao vào cuộc vượt ngục mới. Trên đường, các vị thần Olympus ban ân huệ (Boon) để bạn xây dựng lối chơi riêng, còn cốt truyện cứ mở dần qua từng lần thất bại.",
+        "Bản Việt hoá thay tiếng Anh bằng tiếng Việt cho hội thoại, phụ đề, Codex, trợ giúp, danh sách tên và các chữ trong game, kèm bộ font có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Dùng cho bản Update v131072",
+          "text": "Mod thay nguyên file chữ của đúng bản này. Dùng với bản update khác có thể làm game lỗi chữ hoặc treo."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy đặt ngôn ngữ trong game là English."
+        }
+      ],
+      "done": [
+        "Hội thoại và phụ đề các nhân vật",
+        "Codex, trợ giúp, menu chính",
+        "Dữ liệu phòng, kẻ địch, vật phẩm và thoại NPC",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên riêng (nhân vật, thần, địa danh)"
+      ],
+      "changelog": "Dành cho game cập nhật v131072. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "8f6368950fd3d4d54bf2789e268c82247c2b177697cf1e8840f94ca57a070251",
+      "size": 3472230,
+      "cd": "517f3f367f915217461c4cb9b4430526879ffcbf58e3bb702b66b8ea92215ba5",
+      "fh": [
+        "310e3e663bb4bba3fa599028317e6aa2",
+        "25c259c43cd149803a1a597b8c32a8ca",
+        "d0f319bbb472d6b4bba151cbb3d32a8c",
+        "90cfdba9ea56c796fb86e4b6894fba8d",
+        "021ecb1131715eee87ebc17a01ccef36",
+        "95db4fd6f3e8c4905c517ce6417f43f4",
+        "331aca5fcfbc966ef98fbe3d157e0d0d",
+        "71c59f8877c4be68e99b68369f5f4918",
+        "0916780868f605a52744be024ddb47f7",
+        "e68724636ba6a57c552ba1f6035fdf59",
+        "52e211bd91c0b343f483c88bad156475",
+        "ff17d1c584e580977ee4398d7da422e3",
+        "5e94eaf92955a833e102a14060eec777",
+        "b3c5b1fadae002f81470756e34440da6",
+        "5dd448b699592ad437cc74d42cb9a5a1",
+        "ef3c98ae41ffc04d16119ea63a003c6d",
+        "6ade8d93a286f326ebbc230db095c0af",
+        "66042bbe57a2e1d5d9412bafbf017786",
+        "2ef23f29aedf25fda1098e9d84fa07fc",
+        "8e2e20c9cf95e4d879ccb041a409f93e",
+        "1e1343eace64771532a1ee6c6d8c96d9",
+        "21afe075d3e1aaa53a561cc8ddf5f059",
+        "9e3386bc06371905324bf09d8d3b5355",
+        "b3e02f7e234f535aba3469275faed571",
+        "36c4853aca961582953bd791d2e3f990",
+        "d2caa6ebc105929ca47c7f932193954d",
+        "6cd41cbc06d25c094f2106b74e5fe7d1",
+        "6c0abe7e117f56056ae5f202cd878ee0",
+        "e7a1ffc08b7849697a895efab705516f",
+        "7d5c65685ca2e482bc4b2eec4be5fb6d",
+        "70436280e096c17afd7ce86ed5b44817",
+        "8c3a3b1f5fbdbd330cca7112740199ff",
+        "27b2cf8e2050c1f4c21c1b4b0da6f9bc",
+        "e34bcc156a03b6e6f38bc7e4bd9d0f8a",
+        "e6d1d2a393a5b58886d7447fc9fdfe67",
+        "11bf093822bbd1a750686705dae16df9",
+        "366e0d0cb64740df52df43a93143390b",
+        "07e194fbd00b4d4c94287c6c04c32095",
+        "7983e995fc5ced8fbb26b54477a5fd74",
+        "3b6815bf9ea39c24717aa2b13e805f54",
+        "92e838046f309ab18283016be6a75f08",
+        "ca5414b85570436260263d2ee06117e0",
+        "2ffd6dcf454bf12d048b8769b39b859e",
+        "c957737e51dc2ac9736b4481f2688975",
+        "baa3f72a9f795eb0631dc53348e15225",
+        "c01ed8d77419f208c1b9b5c5ccb3a498",
+        "b4bb38d460d8b46ea7e2b378f61e7e4c",
+        "9d104a1669c26b7f4dbddd9e1e1c57e3",
+        "2dfe8af385aac3ad9da62136d4d603b0",
+        "b317290534c1b4e030b34f08cccedfe3",
+        "482f44724cc5a0a1f471730f4d57f8a7",
+        "8f80594c3d2810d68826c3cfc834ed27",
+        "3627ba07aed764cb21f48c79b929250c",
+        "10285ea4d89c11bdce484547b74ebc33",
+        "d675ba7a70caf4409e1db94038802ad6",
+        "f17db343c563385ee5d828f01ec87820",
+        "40fbc935e1a86f18f2799c99c4eabbca",
+        "c1c30bf28335e5417a9486a988a64a06",
+        "e0d0c9ec4927142192b84971fb6bfef1",
+        "4f0d5a47065bdc868541790ac0b95e83",
+        "e0e43f56aae7aab0617ab902bbd208c1",
+        "e7bf80f5c7a786437c175ad7075ae2ff",
+        "545fc403d0d6227f69f85a02010f3585",
+        "dc7a40fb262ea3987fa6f9f604b43320",
+        "24c6592080db4b4f191a0d075a0afebe",
+        "8cbc81d2304899a691cb35c2efd31b20",
+        "e056adc9415be199ed3ac13e8a25340b",
+        "56e68f4737377328f7dd1e0f82d8f75a",
+        "19ef718c423bcd2cb40cde8c8295c0fe",
+        "1d02669c2a556a927636d7c015f4ec10",
+        "3b7034243355758e66d6686db6c5ae1c",
+        "478a1b3f200e91cce5fab1be18694787",
+        "0fbf37978aaed6f43c094a989b7818b0",
+        "5a12dd4295ddcc332ee30185f501e20c",
+        "cd5d61d6fbd0f438ab22da8dee4fdd4a",
+        "f8b610a5182f08e36cba2c6418880bd1",
+        "87a89e1c0dbfeb6756e7ce04740c5b6f",
+        "16ce327ef546f1f4c20754cd068c8d89",
+        "e5db7451792494a1eac2c0b7b1385718",
+        "2177e677b2dc20f0bd38b4d5e109c119",
+        "ab8bb93e1a7d986c4120049ac02cadf8",
+        "90947ee8290684079bf9cb21b574bd50"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Hades_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades_cover.jpg"
+    },
+    {
       "id": "hades2",
       "title_id": "0100A00019DE0000",
       "name": "Hades II",
@@ -1574,6 +1705,58 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_cover.89b43c77.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_bg.jpg"
+    },
+    {
+      "id": "jamboree",
+      "title_id": "0100965017338000",
+      "name": "Super Mario Party Jamboree",
+      "mod_version": "v1",
+      "game_version": "Update v2.3.0",
+      "tagline": "Hơn 110 trò chơi nhỏ và bảy bàn cờ cho cả nhà cùng quậy.",
+      "developer": "Nintendo",
+      "release": "17/10/2024",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Party",
+        "Nhiều người chơi",
+        "Gia đình"
+      ],
+      "description": [
+        "Super Mario Party Jamboree là phần mới của loạt Mario Party trên Switch. Người chơi thay phiên tung xúc xắc trên những bàn cờ đầy bất ngờ, thu thập ngôi sao và thi đấu các trò chơi nhỏ để giành chiến thắng chung cuộc.",
+        "Bản Việt hoá thay tiếng Anh bằng tiếng Việt cho toàn bộ chữ trong game (bản Mỹ và châu Âu), kèm font mới có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Dùng cho bản Update v2.3.0",
+          "text": "Mod thay file chữ của đúng bản này. Dùng với bản update khác có thể làm game lỗi chữ hoặc treo."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy đặt ngôn ngữ trong game là English và khởi động lại máy sau khi cài."
+        }
+      ],
+      "done": [
+        "Toàn bộ chữ trong game (enUS và enEU)",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [],
+      "changelog": "Dành cho game cập nhật v2.3.0. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "ed36244812cf4eb1ea63f138f8a86b7df51f3a968e1808e42d189dddeb55b0a1",
+      "size": 7588512,
+      "cd": "47115d885327dbfc39d1d553474c2bfbcfc2890e1dfdbc81294927ab6d99ee23",
+      "fh": [
+        "",
+        "",
+        "",
+        "929f2bf7a820b3ebb99778400ccbb118",
+        "2838aac45d1d52628cd5f98be904ddca",
+        "6ecde84ab127081393b0b2b306aab3d5",
+        "48bed5b310f9e0f672014e1d6e4aad8a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SMPJ_VietHoa_Switch.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/jamboree_cover.jpg"
     },
     {
       "id": "kingdom-two-crowns",
@@ -5091,7 +5274,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793616510,
+  "seq": 1793621831,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
