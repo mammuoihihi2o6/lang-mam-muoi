@@ -3082,7 +3082,7 @@
       "title_id": "0100217023F6C000",
       "name": "Well Dweller",
       "mod_version": "full_v1",
-      "game_version": "1.0.3",
+      "game_version": "1.0.2",
       "tagline": "Chú chim nhỏ cầm que diêm đi đốt mụ hoàng hậu độc ác.",
       "developer": "Kyle Thompson",
       "release": "",
@@ -3160,7 +3160,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793547438,
+  "seq": 1793581339,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
