@@ -10,6 +10,96 @@
   },
   "mods": [
     {
+      "id": "airoheart",
+      "title_id": "01008BE0179BC000",
+      "name": "Airoheart",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.5",
+      "tagline": "Game hành động phiêu lưu 16-bit góc nhìn từ trên xuống, lấy cảm hứng từ Zelda: A Link t...",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game hành động phiêu lưu 16-bit góc nhìn từ trên xuống, lấy cảm hứng từ Zelda: A Link to the Past. Khám phá thế giới Engard, giải đố, dungeon và phép thuật Rune để ngăn Xanatos hồi sinh viên đá Draoidh."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "sha256": "01db0662cfe93fb2bf5d6f95cd2e5b6805ba854d295779b20d6d5d4c9349b24a",
+      "size": 3597263,
+      "cd": "f23f76511aefba295c3ca0161cebcb2e47a88f7eabb176e9d2d8065af60bceb9",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "e49553224e2f54173e0423a2f3a96678"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Airoheart_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/airoheart_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/airoheart_bg.jpg"
+    },
+    {
+      "id": "backpack-hero",
+      "title_id": "0100B6301ABD6000",
+      "name": "Backpack Hero",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.6",
+      "tagline": "Roguelike chiến thuật theo lượt với cơ chế sắp xếp ba lô: thu thập vũ khí, trang bị, tố...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike chiến thuật theo lượt với cơ chế sắp xếp ba lô: thu thập vũ khí, trang bị, tối ưu vị trí vật phẩm để vượt hầm ngục."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.6",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "3a25076d2681616d19c85a75ec822f2b346d8d48ac0e8c3f63a4cdfef3155f5e",
+      "size": 7992334,
+      "cd": "dd06819dd27eb9783a81e4b4693fa41504ca458102adcb635da3593dc5bce2f1",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "c10dba025a85bc7d4c8c4a5bb5c03314",
+        "",
+        "",
+        "",
+        "48f81eab718a1ccbfd85fb18dac59b6e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BackpackHero_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/backpack-hero_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/backpack-hero_bg.jpg"
+    },
+    {
       "id": "baladins",
       "title_id": "010083B01D9B8000",
       "name": "Baladins",
@@ -54,6 +144,280 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/baladins_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/baladins_bg.jpg"
+    },
+    {
+      "id": "bang-bang-bandits",
+      "title_id": "010052E01F8FC000",
+      "name": "Bang! Bang! Bandits",
+      "mod_version": "v1",
+      "game_version": "v2.0.2",
+      "tagline": "Light-gun shooter miền Tây giả tưởng, bắn không giới hạn đạn trên chuyến tàu tự chạy, d...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Light-gun shooter miền Tây giả tưởng, bắn không giới hạn đạn trên chuyến tàu tự chạy, dùng gyro Joy-Con. Có chế độ Challenge co-op 2 người và Battle tối đa 4 người."
+      ],
+      "highlights": [
+        {
+          "text": "v2.0.2",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "sha256": "fe0d28ba370bbee6b47e1c3fdd94cb34e77160aa905fd75ff8f28c2340162504",
+      "size": 78255727,
+      "cd": "741937454fc2f97cde034f5c6ab5d1aecf670cea9a45afa9b18236922aa9d091",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "449e0605f2edb69adc1c7c0e1b00851a",
+        "",
+        "449e0605f2edb69adc1c7c0e1b00851a",
+        "09a082c9889d90c33e5b138c59cd9cbd",
+        "af2aec29669fb097338428a31c158405",
+        "73dfafc17c0932639cfe47839f9ef496",
+        "65cbbb8e4d5fdf995ffa8df4dbc7e33c"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BangBangBandits_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_bg.jpg"
+    },
+    {
+      "id": "big-brain-academy-brain-vs-brain",
+      "title_id": "0100620012D6E000",
+      "name": "Big Brain Academy: Brain vs. Brain",
+      "mod_version": "v1",
+      "game_version": "v1.2.0",
+      "tagline": "Game rèn luyện trí não với nhiều trò ghi nhớ, nhận dạng, logic; đấu trí 4 người ở nhiều...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game rèn luyện trí não với nhiều trò ghi nhớ, nhận dạng, logic; đấu trí 4 người ở nhiều mức khó, hợp cả trẻ em lẫn người lớn."
+      ],
+      "highlights": [
+        {
+          "text": "v1.2.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "sha256": "441ee35fcbea8edb1218ebb7814a65eb070d9bbc5a76a0f5cf691c9398bbfd0f",
+      "size": 48231684,
+      "cd": "565935d9edccf39df3a1b5b4c7ecb3f314633c2ae535eacb02bbbb3860de2efb",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "726be9fd315d5bd77ca52433d3ba9778",
+        "bb39f766130f51da7b6ead373bd386a0",
+        "e72e768cdbd00f1710fc170ec6f3b061"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BigBrainAcademyBrainvsBrain_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/big-brain-academy-brain-vs-brain_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/big-brain-academy-brain-vs-brain_bg.jpg"
+    },
+    {
+      "id": "boomerang-fu",
+      "title_id": "010081A00EE62000",
+      "name": "Boomerang Fu",
+      "mod_version": "v1",
+      "game_version": "v1.3.7 + DLC",
+      "tagline": "Party game đối kháng vui nhộn: các nhân vật là món ăn dễ thương, vũ khí duy nhất là chi...",
+      "developer": "",
+      "release": "",
+      "translator": "Quốc9xPro",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game đối kháng vui nhộn: các nhân vật là món ăn dễ thương, vũ khí duy nhất là chiếc boomerang. Hỗ trợ 1-6 người chơi trên cùng màn hình. Đây là bản việt hoá đầu tay của dịch giả."
+      ],
+      "highlights": [
+        {
+          "text": "v1.3.7 + DLC",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Quốc9xPro.",
+      "sha256": "fe381ae41b8d7e4c464ab5e1efe0d38a2c404ec7b0171e6dc6b5b641f8efc41d",
+      "size": 3587246,
+      "cd": "ec954f548468298ecc111548efac8f9ef53c74997d88a900ee6feb2c5ad5f975",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "fff33691da588418c9aabf276d7b8b18",
+        "bdfed3d6fe423a29ae3b392d528c5f78"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BoomerangFu_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_bg.jpg"
+    },
+    {
+      "id": "broforce",
+      "title_id": "010060A00B53C000",
+      "name": "Broforce",
+      "mod_version": "v1",
+      "game_version": "Update 1.1.3167 (v327680)",
+      "tagline": "Run and gun pixel máu lửa nhại các nhân vật hành động thập niên 80-90, địa hình phá hủy...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Run and gun pixel máu lửa nhại các nhân vật hành động thập niên 80-90, địa hình phá hủy được hoàn toàn, hỗ trợ co-op. Lưu ý: bản dịch có nội dung 18+."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.1.3167 (v327680)",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Bonano.",
+      "sha256": "11eee1d17dd25d9099df9610b1c5d0b16b75137f571127c1d51f93fe6182eef8",
+      "size": 91581002,
+      "cd": "6c4b0a7897791167d25dd21488d0bf0232e1f3ef0a8f0bde84f1a23dd71aedae",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "c8d3a1c8ad825590332c2532f98427d5",
+        "363c5373b17ce4e3c1dea2b7c02ee1c6",
+        "d0e516897c04be2bf80f592cebb6d567",
+        "",
+        "bddc2be468bf7a520a413550fdc53963",
+        "368b763a26f47125924a535f122744dd",
+        "3d51aee02e9f15c274348ae51384a2b1",
+        "e36397385b5f81a271b872b793f2d1e4"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Broforce_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/broforce_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/broforce_bg.jpg"
+    },
+    {
+      "id": "card-shark",
+      "title_id": "0100E20012952000",
+      "name": "Card Shark",
+      "mod_version": "v1",
+      "game_version": "Update 1.36.2207081544 (v262144), TID 0100E20012952000",
+      "tagline": "Phiêu lưu cốt truyện về những phi vụ lận bài ở nước Pháp thế kỷ 18; bạn học các kỹ thuậ...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Phiêu lưu cốt truyện về những phi vụ lận bài ở nước Pháp thế kỷ 18; bạn học các kỹ thuật ảo thuật bài thật để lừa giới quý tộc."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.36.2207081544 (v262144), TID 0100E20012952000",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Bonano.",
+      "sha256": "a8ca28b8342d3af260322a3364da54b27a892e853357de6a4ead7579dbb4b6c2",
+      "size": 867992921,
+      "cd": "863ef3566a53d7726320f550770677619d4e36c28d10c37a2d208de9ae4cbd4f",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0870b57877ec9f1f3cb61865c915d955"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CardShark_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/card-shark_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/card-shark_bg.jpg"
+    },
+    {
+      "id": "castle-crashers-remastered",
+      "title_id": "010001300D14A000",
+      "name": "Castle Crashers Remastered",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.7",
+      "tagline": "Beat 'em up cuộn ngang kết hợp RPG, đồ hoạ 2D vẽ tay 60 FPS.",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Beat 'em up cuộn ngang kết hợp RPG, đồ hoạ 2D vẽ tay 60 FPS. 4 hiệp sĩ giải cứu công chúa, đồng hành cùng linh thú, co-op tới 4 người."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.7",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "sha256": "6923e84b053af0535de3576349746e55a58786d4ad8d5d437a30b19f39a6a351",
+      "size": 1007077,
+      "cd": "df2c50d5134b0502870d21e358bb49086f18267cf44b404454217496327c9c1d",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "a36c714daba6c76bc0294da9deb30aa6",
+        "",
+        "",
+        "",
+        "e50686a4b90f152f385f02296cbcf8aa",
+        "e238712bd37fdb23a8698c35955e4c30"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CastleCrashersRemastered_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/castle-crashers-remastered_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/castle-crashers-remastered_bg.jpg"
     },
     {
       "id": "cbc",
@@ -101,6 +465,52 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_bg.jpg"
     },
     {
+      "id": "constance",
+      "title_id": "010030B01DC52000",
+      "name": "Constance",
+      "mod_version": "v1",
+      "game_version": "Update 1.1.3",
+      "tagline": "Metroidvania 2D vẽ tay, khoảng 10 giờ chơi, boss từ dễ đến trung bình, nhiều bí mật.",
+      "developer": "",
+      "release": "",
+      "translator": "Phô Mai",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Metroidvania 2D vẽ tay, khoảng 10 giờ chơi, boss từ dễ đến trung bình, nhiều bí mật. Bản dịch do AI dịch thô rồi tác giả biên soạn lại, có kèm hướng dẫn cài đặt."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.1.3",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phô Mai.",
+      "sha256": "87f91b5011e801f622ae1f88147d233fe1ef4abd1d33912e1e1b5b632d787283",
+      "size": 138405042,
+      "cd": "5155c492f1e62fe5951e3e9edea8d34d7138ed8f73a23d7225001f4baf3b40cf",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "c38dee9a3e62b56ea020a5b57190a704",
+        "c749d7aeba432078cfcb9ffbdbfc4128"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Constance_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/constance_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/constance_bg.jpg"
+    },
+    {
       "id": "corekeeper",
       "title_id": "010070201D1BA000",
       "name": "Core Keeper",
@@ -146,6 +556,205 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_bg.jpg"
+    },
+    {
+      "id": "deep-rock-galactic-survivor",
+      "title_id": "01003EC027CC8000",
+      "name": "Deep Rock Galactic: Survivor",
+      "mod_version": "v1",
+      "game_version": "v1.0.3",
+      "tagline": "Roguelike bắn tự động: người lùn đào hang trên hành tinh Hoxxes IV, né hàng nghìn con b...",
+      "developer": "",
+      "release": "",
+      "translator": "Arik Nguyen",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike bắn tự động: người lùn đào hang trên hành tinh Hoxxes IV, né hàng nghìn con bọ, lên cấp chọn nâng cấp và hạ boss cuối màn."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.3",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Arik Nguyen.",
+      "sha256": "f39a1386d3ed631aea65c539cd7125ce7dd87040b03c563590b93efd293aa94a",
+      "size": 50960456,
+      "cd": "e53312c0fb75ec2c08ed585ff1b282a967e45e3448a7a3186f008769a75838c9",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "be1fcafa0de8a57b59700a9e779de6c6",
+        "",
+        "",
+        "8741ea86a227a7daa68129eb4e108a83",
+        "2a790d04cdb81420a9ed87c8dcf70f43",
+        "",
+        "aac38a18812e5dd8c4d470f27a2395d1",
+        "a0deebf565a7d768996b76a6cafef7dd",
+        "c6b684291b15bc6d7787c5e2b0804737",
+        "caee12a67cc10d6bd355bd3826758655",
+        "50edf20b9e63d65e9593ea4705524c80"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DeepRockGalacticSurvivor_VietHoa.zip",
+      "mirrors": []
+    },
+    {
+      "id": "dicefolk",
+      "title_id": "01002A801E57C000",
+      "name": "Dicefolk",
+      "mod_version": "v1",
+      "game_version": "Update 1.2.12",
+      "tagline": "Roguelike tung xúc xắc ngẫu nhiên, cho phép điều khiển cả quân ta lẫn địch.",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike tung xúc xắc ngẫu nhiên, cho phép điều khiển cả quân ta lẫn địch."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.2.12",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "487cdc6dded0fca1f13e81d5a6a239aed787c65ae413c35e0e0092eec9d2277a",
+      "size": 27583787,
+      "cd": "7c8e66340cabd62289ef11ad03bb14269f7bdc8f312e1fea80cbf5b18ea470a0",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "d7f42a4d5162143e7f1a981d490c18ec",
+        "",
+        "",
+        "8c67ed119336ce8b3666d5d6ea0538e9",
+        "",
+        "7412203792f6606f3f541f9a27629f02"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Dicefolk_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicefolk_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicefolk_bg.jpg"
+    },
+    {
+      "id": "dicey-dungeons",
+      "title_id": "0100BBF011394000",
+      "name": "Dicey Dungeons",
+      "mod_version": "v1",
+      "game_version": "Update 2.0.4",
+      "tagline": "Roguelike kết hợp deckbuilding và xúc xắc: 6 nhân vật với lối chơi riêng, đấu với Lady...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike kết hợp deckbuilding và xúc xắc: 6 nhân vật với lối chơi riêng, đấu với Lady Luck trong hầm ngục ngẫu nhiên."
+      ],
+      "highlights": [
+        {
+          "text": "Update 2.0.4",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "71c9403a6981e96292332aa8d1260b9c057fba8168f06835e13a689cffec394e",
+      "size": 2988082,
+      "cd": "bdb96075b40c5e5fbf0ea85dfe5f88d8a712cb3f2ff4326511e1ec9b22f9f1c8",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "f4cd396f68228c306f691ce0ce319b80",
+        "dca5f35df7c63f19ac4398f388339f37",
+        "b3821952459c148570f6685584dc3638",
+        "",
+        "",
+        "6ec6e7cc53a97090e1ddf8b30aa11ced",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "cf916b837126cc62a72bfbeabd35251f",
+        "3ff547de4aab96c52b0af2fe70df3133",
+        "15eb2cc05c10460f94ce355cb13a3c97",
+        "d954f6677a5caf7e6ed01e73bee1ac0f",
+        "5baf7ae9668e4317d95c977a3aa2f609",
+        "1da9f512645c82204f0878a3ad2014be",
+        "a32b2a74435830eabe8a9ce620c6df9a",
+        "",
+        "",
+        "c15b972d181ac6f4278d20d2d056d2cf",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "ab87bde8a1692ea3dc5ac2883c3582d7",
+        "a1a70ce3f6139c461324a64b053caed9",
+        "1127b9c140ae2f2bd6607f4ce280e6dc",
+        "7dba7f7c316c7af2392b80850f3c7cb8",
+        "209c139a1d132936a399883d30e8f165",
+        "fbcbe9f37a8069ba361e181c1162be35",
+        "8ae01d28018616274ab0ee63593f0a6f",
+        "c58043092a207bbe696340d0c0620c2e",
+        "dd4baa48ccc343c7a45232ed23da97f3",
+        "",
+        "",
+        "",
+        "",
+        "c1f66616450bf7c40bc6b34e1ca22bdc",
+        "1456ac31b6ff075c59783c96f1b082c1",
+        "c66d4d927a696dcdc8c46ffb72620535",
+        "8c43d0396a804d60b2ebec678ea0e64f",
+        "ea4c76275abc705eafc60b3ea50fd7a8",
+        "",
+        "5606076b8448dca31bc93cb07dd63c8d",
+        "a0df93110bef673da4965d7303bbe9d3",
+        "0baa77c18122cd776098a1e49bd4409d",
+        "",
+        "3f1eb0df5d7119a2acab2da0dc15de86",
+        "dd49c6df7b7636e0e1334e01dc74d0c7",
+        "b8ede663dc23ec60fc892f26f1a80ded"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DiceyDungeons_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicey-dungeons_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicey-dungeons_bg.jpg"
     },
     {
       "id": "dst",
@@ -304,6 +913,237 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg"
+    },
+    {
+      "id": "fifa-23",
+      "title_id": "01001C8016B4E000",
+      "name": "FIFA 23",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.3",
+      "tagline": "Bản FIFA cuối cùng trước khi đổi tên EA Sports FC, chạy 60 fps mượt trên Switch.",
+      "developer": "",
+      "release": "",
+      "translator": "Arik Nguyen",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Bản FIFA cuối cùng trước khi đổi tên EA Sports FC, chạy 60 fps mượt trên Switch."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.3",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Arik Nguyen.",
+      "sha256": "e6c59ce6d00af29a65105730ca172f8034b0f5941d9cd5d119a15b9d8cd43417",
+      "size": 1280699622,
+      "cd": "75942943f4ab0a806e072a227dea4c34795f368e8b2bb2e4e880ddb0b79018e4",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0ca29819e7140af5a22e3bac2fd64fc6",
+        "76a66d135b876762a3688ece1d0183ee",
+        "4c86512b1943673ccd44cc069f4d9ef5",
+        "4afc4b7c08d74826334423ca03595978",
+        "ac14cf55b1c2abcc0dad47d646702e1f",
+        "0660ee6d32fe5e742dcab187a2b76980",
+        "",
+        "89dabd09940deec573a8dbdecfa48933"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FIFA23_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_bg.jpg"
+    },
+    {
+      "id": "fights-in-tight-spaces",
+      "title_id": "0100126017B46000",
+      "name": "Fights in Tight Spaces",
+      "mod_version": "v1",
+      "game_version": "Update 1.2.9501 + DLC",
+      "tagline": "Roguelike deckbuilding kiểu John Wick: dùng bài tính từng bước di chuyển, biến góc hẹp...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike deckbuilding kiểu John Wick: dùng bài tính từng bước di chuyển, biến góc hẹp thành võ đài."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.2.9501 + DLC",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "77f49c61daa7f2823d2616bd094e468dd0194acdde6f88aab0ffddccc7462de0",
+      "size": 32272290,
+      "cd": "b58164b1432a67f97e2768dc3163a54d6e30dd75d155175f8840c5835e943e1a",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "7bcf44096b3024d601acf0c415c26eef",
+        "05344966db01e3501e77b3c4f8c2dc25",
+        "6123e22abae5ffb172b1a97656de2640",
+        "3e6042ccffecbdb037745bdd51fbb944",
+        "ef29e2db38c22811e5abc7a460107801",
+        "8263f78eecee6aeeda2f45ef36ec796f",
+        "e8c2ffe5797c228abf5db20ea1045df3",
+        "60a8bbc4ae2a449683f9f24cc1d740b4",
+        "519582afefb073cf40d6b7f0d6491b05",
+        "6d087043558687087d672a7807f8feff",
+        "aa1f5adaf909be52d3ad37d4155c6298",
+        "1abd39f8fbdf11011cf5eed9d9113290",
+        "569b8267123dd44542bb1b2ae889faa8",
+        "7e03729eafc3ed8a31f7b07a6723309c",
+        "17e8ac026cb25b2a213a15d4e0fdb21e",
+        "fa805913bde8e45aec2a3f1a9bdf474a",
+        "1e6b102c3de5c67c5dd417688c23b08f",
+        "3fbf2733d4af9a21365ea9ce3f47efb8"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FightsinTightSpaces_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg"
+    },
+    {
+      "id": "fishing-star-world-tour",
+      "title_id": "0100DEB00ACE2000",
+      "name": "Fishing Star World Tour",
+      "mod_version": "v1",
+      "game_version": "Theo bản việt hoá trong file (xem bài gốc)",
+      "tagline": "Game mô phỏng câu cá thư giãn: hơn 40 địa điểm trên thế giới, hơn 180 loài cá và hơn 70...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game mô phỏng câu cá thư giãn: hơn 40 địa điểm trên thế giới, hơn 180 loài cá và hơn 70 loại cần câu."
+      ],
+      "highlights": [
+        {
+          "text": "Theo bản việt hoá trong file (xem bài gốc)",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Bonano.",
+      "sha256": "47c485dc91a5ffc5cebcb9739ae2bf46e97fc730be72fb97de6ad2572bf4130b",
+      "size": 12414380,
+      "cd": "c1f5510dba37f023dc4cd938ddf4f4653595d31d7fa978193416f5029f8ddb07",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "11b7c4dc2319beff51e7ae5ebef012e5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "316083de4e59592d3b006d557946417c",
+        "4e29f308c9d2ac108f325a5ed5da731b",
+        "",
+        "",
+        "beec397a673aabf943dae6a5f6bdd05c",
+        "",
+        "d48ce0e0b99d6d201096933cce04af91",
+        "527bce232a9a8d8bd688d0c66e40436a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FishingStarWorldTour_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fishing-star-world-tour_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fishing-star-world-tour_bg.jpg"
+    },
+    {
+      "id": "fit-boxing-3",
+      "title_id": "0100AC101BFA2000",
+      "name": "Fit Boxing 3",
+      "mod_version": "v1",
+      "game_version": "v2.0.2",
+      "tagline": "Game đấm bốc rèn luyện sức khoẻ theo nhịp nhạc, có chế độ tập nhanh và bài tập ngồi ghế...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game đấm bốc rèn luyện sức khoẻ theo nhịp nhạc, có chế độ tập nhanh và bài tập ngồi ghế, với các huấn luyện viên ảo."
+      ],
+      "highlights": [
+        {
+          "text": "v2.0.2",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "90c4aa04ff267ffa66ef0aa77c146966de47738f48c24251574145e762d1b622",
+      "size": 5787629,
+      "cd": "49353ff34159cc4699497a898c81d50c3385cd508be30806d85b28c90d01ca06",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "b7fa66d980e3f2fab5e0103693d383ee",
+        "d3a9aa99db635a49424adc92b6b16972",
+        "9bf9b1a394e19ed5873ce9522036c978",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "f43b381a61a61de2b9248f31a1c3de9e",
+        "5c8a0700f9ec3ff5e2f700b1adf2da28",
+        "252d03b10e0b687a870b32be1e3318f7",
+        "b36e6f4f4ce3f83687193ae871a9f368",
+        "44321d38c79db13d555f90c25147b1f9",
+        "870ce5e405802f788b967204a73909ed"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FitBoxing3_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fit-boxing-3_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fit-boxing-3_bg.jpg"
     },
     {
       "id": "frostpunk",
@@ -656,6 +1496,127 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades2_bg.jpg"
     },
     {
+      "id": "into-the-breach",
+      "title_id": "010057D00B612000",
+      "name": "Into the Breach",
+      "mod_version": "v1",
+      "game_version": "Update 1.2.88",
+      "tagline": "Chiến thuật theo lượt từng đoạt Best Strategy Game 2018: chỉ huy đội Mech chống quái Ve...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Chiến thuật theo lượt từng đoạt Best Strategy Game 2018: chỉ huy đội Mech chống quái Vek, tính từng nước đi để cứu nhân loại."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.2.88",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "086e82115cf55043161d3937db112d6da15b9c2d8372ad790c005522f16358cf",
+      "size": 285051655,
+      "cd": "cc2aef368bdeafb7896acc3255774b862e080caa758ca92c8619291a57ab336d",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "cdf46817790db34ee29c22c45051f6af",
+        "cdf46817790db34ee29c22c45051f6af",
+        "",
+        "ce72f8b7cb6ef399ccb70bed6206d60c",
+        "ae4875bda7cac6edbe9c9c9806b7b318",
+        "57fa265bddfc102ac83d647436132d33",
+        "dd1dee6e63a5814f707d423deb90f578",
+        "39affe96582dc466d69a8e9375d85a7b",
+        "f6d07ef835df929bcdf6a545ab9905b7",
+        "8ddff185437fd313cd24b52b0e4e5e0b",
+        "b13289640b7be22f80f9ddb9471a789e",
+        "",
+        "06f846b9185e046d866429a61695fbf7",
+        "07342bdca771ed83a22c35adf5bc508c",
+        "dd0695f0a8a62ab0293c75ddc95e30aa",
+        "d9e1e63bb49d2637bdade521d6fa7976",
+        "064343446510cf76607e2efafa55f156",
+        "334643f8626c6b7595c62e1506191e1d",
+        "abf806b168f385881ccc5df503a7fa33",
+        "dda2e53e381e8f10d2d699ea7234f5c8",
+        "5316ab5efcae74a3b776f92a4115e209",
+        "df479aec3807a8f1fb805040c6f72498",
+        "6765c4e7b207bffa29184eaee8801d25",
+        "6bf4c58c01f86ff86e27c1fead4fac85",
+        "6289206a0dbf3558e20fa90f96cb6765",
+        "23642ebcc6ad96e999b112b700e7e98f",
+        "746bf7d75e30806f9ff57296ea7013eb",
+        "f32e2c3656c02c7debeffd6ff2ff4ab9",
+        "82de7295cbfe2165b8bd8004f178efe3",
+        "f4ad2e91360f55a2c7782f0893321536",
+        "3e6fccacbc27ad7ba906e812004be02a",
+        "6f876eb9fb597e7865195c6323c86033",
+        "dc9b36cb2a4a1fada71a764a006d00fe",
+        "1831dd839ca55da5e66d9f6f6b984469",
+        "13bfd89f12e5fa0de2e00d6a6b4801d2",
+        "42797b04cf4b76b21c3cc65f2d46b224"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/IntotheBreach_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_bg.jpg"
+    },
+    {
+      "id": "kingdom-two-crowns",
+      "title_id": "01005EF003FF2000",
+      "name": "Kingdom Two Crowns",
+      "mod_version": "v1",
+      "game_version": "v2.4.3",
+      "tagline": "Chiến thuật xây dựng và thủ thành pixel art: gây dựng vương quốc ban ngày, chống lại Gr...",
+      "developer": "",
+      "release": "",
+      "translator": "TanTan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Chiến thuật xây dựng và thủ thành pixel art: gây dựng vương quốc ban ngày, chống lại Greed ban đêm. Chơi đơn hoặc 2 người, có Challenge Islands."
+      ],
+      "highlights": [
+        {
+          "text": "v2.4.3",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi TanTan.",
+      "sha256": "25348f14bd147c67abeb18c6d55e4682b69c6a3d243084af7db3f137f5186ed9",
+      "size": 44829483,
+      "cd": "55c949c32fb3aae44bd1a5ce132789c883ab77188f907a7b5b79844376564874",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "ac36086c1e969681a87e398703e6078c",
+        "",
+        "c7441225cdf72947d9c5fc137ff4b146"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KingdomTwoCrowns_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-two-crowns_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-two-crowns_bg.jpg"
+    },
+    {
       "id": "knc",
       "title_id": "0100309016E7A000",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
@@ -702,6 +1663,59 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_bg.jpg"
+    },
+    {
+      "id": "little-witch-in-the-woods",
+      "title_id": "010057D02461E000",
+      "name": "Little Witch in the Woods",
+      "mod_version": "v1",
+      "game_version": "v7.2.1.0 [v131072]",
+      "tagline": "Mô phỏng đời sống phù thủy tập sự Ellie: hái nguyên liệu, nấu thuốc, câu cá, giúp dân l...",
+      "developer": "",
+      "release": "",
+      "translator": "mammuoihihi",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Mô phỏng đời sống phù thủy tập sự Ellie: hái nguyên liệu, nấu thuốc, câu cá, giúp dân làng, đồ hoạ 2D tươi sáng."
+      ],
+      "highlights": [
+        {
+          "text": "v7.2.1.0 [v131072]",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi mammuoihihi.",
+      "sha256": "300388a80d07f199a5abe419540dac07c06997cb33a7ce0037e442b329292153",
+      "size": 28421654,
+      "cd": "1d5259f007e8a79fb589c5f0c1cc9715cd0241e9cac583033e715698a2fe0786",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "c84f4e10c5158515af5dd932e874eb15",
+        "9c4f31cef5c03f1b79e54ea3b0c8f653",
+        "182f596fbb05390015861de15e54f742",
+        "fa13cff3f15add18ecdacaad3f156d7d",
+        "",
+        "",
+        "c84f4e10c5158515af5dd932e874eb15",
+        "9c4f31cef5c03f1b79e54ea3b0c8f653",
+        "182f596fbb05390015861de15e54f742",
+        "fa13cff3f15add18ecdacaad3f156d7d"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/LittleWitchintheWoods_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/little-witch-in-the-woods_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/little-witch-in-the-woods_bg.jpg"
     },
     {
       "id": "mario1",
@@ -1130,6 +2144,234 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg"
     },
     {
+      "id": "mega-man-star-force-legacy-collection",
+      "title_id": "0100C99024EDE000",
+      "name": "Mega Man Star Force Legacy Collection",
+      "mod_version": "v1",
+      "game_version": "v1.0.3",
+      "tagline": "Trọn bộ Star Force từ thời Nintendo DS, RPG kết hợp card-battle trên lưới 3x3 cùng Geo...",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Trọn bộ Star Force từ thời Nintendo DS, RPG kết hợp card-battle trên lưới 3x3 cùng Geo Stelar và Omega-Xis."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.3",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "sha256": "49fe69419fb984f7aaa63bbd9f1eb5238b4aab75f2d9ee67021527193e38e309",
+      "size": 32272447,
+      "cd": "9187915eaea05db8b78ddba312096d773ded1313905d19823590c92c470b843a",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "50959997deab8f8b0bde62a31916a377"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MegaManStarForceLegacyCollection_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_bg.jpg"
+    },
+    {
+      "id": "metro-2033-redux",
+      "title_id": "0100D4900E82C000",
+      "name": "Metro 2033 Redux",
+      "mod_version": "v1",
+      "game_version": "Cài đúng base game Metro 2033 Redux rồi cài việt hoá",
+      "tagline": "Sinh tồn hành động hậu tận thế ở metro Moscow năm 2033: quản lý đạn, mặt nạ phòng độc,...",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Sinh tồn hành động hậu tận thế ở metro Moscow năm 2033: quản lý đạn, mặt nạ phòng độc, lén lút hoặc xả súng."
+      ],
+      "highlights": [
+        {
+          "text": "Cài đúng base game Metro 2033 Redux rồi cài việt hoá",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "sha256": "591cd28f1802526c4ef7c4484469385c0d43df05b6167301a76f28d338641aa4",
+      "size": 3911387,
+      "cd": "24d99a9bbbd7efe5556a2b18b6bd2cc12e8835e0402410e1583236a10ff268d2",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "cb28ba0cb98bc6c693fd581813999910",
+        "8dfde13ed1aa47e5f962b4f760758c5b"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Metro2033Redux_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/metro-2033-redux_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/metro-2033-redux_bg.jpg"
+    },
+    {
+      "id": "monopoly-for-nintendo-switch",
+      "title_id": "01007430037F6000",
+      "name": "MONOPOLY for Nintendo Switch",
+      "mod_version": "v1",
+      "game_version": "v1.0.5",
+      "tagline": "Cờ tỷ phú 3D của Ubisoft, tối đa 6 người.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Cờ tỷ phú 3D của Ubisoft, tối đa 6 người. Bản này Việt hoá địa danh sang Việt Nam và có lồng tiếng."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "693856a933efa87f20e1ee614a985ff4a7526fb56b6fe1509dab3e1df425bdf8",
+      "size": 324264318,
+      "cd": "34307e8e54a3becd53d22417f2802e2945cd70def048c25857a81dec5e2ac925",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "dfb394d6cf99fe90a4877a8815bc8159",
+        "7f7fe80d54f33e6d4ad45f7552a61e0f",
+        "aa1b5b1bb6ed984a50707c8f9e781285",
+        "aa1b5b1bb6ed984a50707c8f9e781285",
+        "a7ff29733a3b0531bda6b6a9064601ec",
+        "b2f231a38a8762e02c97b0ced8d57fe8",
+        "0425593caa2f1bd567817141144937b7",
+        "76691e9705ed6e2662686524c8fe229d",
+        "40e3595e375b8542538506f7e6777d42",
+        "a631fb3d1e3a1cda195d2ad5997a698f",
+        "c5d064d15f4a0d50b4821f71287f1f99"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MONOPOLYforNintendoSwitch_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-for-nintendo-switch_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-for-nintendo-switch_bg.jpg"
+    },
+    {
+      "id": "monopoly-madness",
+      "title_id": "01005FF013DC2000",
+      "name": "Monopoly Madness",
+      "mod_version": "v1",
+      "game_version": "v1.0.5",
+      "tagline": "Monopoly hỗn loạn của Ubisoft: ván chơi ngắn, đua qua các con phố, thu thập tài nguyên,...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Monopoly hỗn loạn của Ubisoft: ván chơi ngắn, đua qua các con phố, thu thập tài nguyên, nâng cấp tài sản và chọc phá đối thủ."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "sha256": "130db6c32421137a2f681fe126b1317ab833d8ac6de35aa88042680ec0d74cbb",
+      "size": 834037920,
+      "cd": "9db8dd6c3bafc3efee1fc45373d96bc1344c9a73d4f7c5ae90d9bf4046b6af1c",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "cb99613bb3f5dd68ee6b8f917d2e4ce4"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MonopolyMadness_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-madness_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-madness_bg.jpg"
+    },
+    {
+      "id": "moving-out-2",
+      "title_id": "010065D018172000",
+      "name": "Moving Out 2",
+      "mod_version": "v1",
+      "game_version": "v1.3.315",
+      "tagline": "Co-op dọn nhà siêu bựa của Team17 cho tối đa 4 người, qua các cánh cổng không gian tới...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Co-op dọn nhà siêu bựa của Team17 cho tối đa 4 người, qua các cánh cổng không gian tới những thế giới kỳ lạ."
+      ],
+      "highlights": [
+        {
+          "text": "v1.3.315",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "c258aa6bfd842f7b9f782eda39b9630c2497986f4248c8baa68144dcaadf3527",
+      "size": 84876124,
+      "cd": "94b8528923ea26d1c46be9795e520dedccb5af01b017ed93f1f6264abc0d92be",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "637999e8061d2a449130e6adc9ba0b37",
+        "78b09142e569db7f538e722187c9864e",
+        "4932cde1972c148f6783bed119d50ef3",
+        "0c5040004289e9050110ed64ac49635d"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MovingOut2_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moving-out-2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moving-out-2_bg.jpg"
+    },
+    {
       "id": "movingout",
       "title_id": "0100C4C00E73E000",
       "name": "Moving Out",
@@ -1219,6 +2461,94 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neonabyss2_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neonabyss2_bg.jpg"
+    },
+    {
+      "id": "nintendo-switch-sports",
+      "title_id": "0100D2F00D5C0000",
+      "name": "Nintendo Switch Sports",
+      "mod_version": "v1",
+      "game_version": "v1.5.0",
+      "tagline": "Thể thao vận động kế thừa Wii Sports: Tennis, Bowling, Chambara, Cầu lông, Bóng chuyền,...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Thể thao vận động kế thừa Wii Sports: Tennis, Bowling, Chambara, Cầu lông, Bóng chuyền, Bóng đá, Golf, Bóng rổ."
+      ],
+      "highlights": [
+        {
+          "text": "v1.5.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "9db1a00d6cf7d6d0fa698ad90fee3a79dde84e634c696ac6c9f365c90f28eb51",
+      "size": 4559141,
+      "cd": "f106131664508e23cdac0b77223667cce9a319ce89561424d3f006a21101b1d4",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2d3e1717b78fe8fc685f6351d5df92ae",
+        "8d24a5970b3334683f0671fcac054934"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/NintendoSwitchSports_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/nintendo-switch-sports_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/nintendo-switch-sports_bg.jpg"
+    },
+    {
+      "id": "octopath-traveler-ii",
+      "title_id": "0100A3501946E000",
+      "name": "Octopath Traveler II",
+      "mod_version": "v1",
+      "game_version": "v1.1.1",
+      "tagline": "RPG theo lượt phong cách HD-2D với tám lữ khách.",
+      "developer": "",
+      "release": "",
+      "translator": "Thuong Design",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "RPG theo lượt phong cách HD-2D với tám lữ khách. Bản dịch đã rà soát giao diện, hội thoại, kỹ năng, vật phẩm, trang bị, quái và thống nhất thuật ngữ."
+      ],
+      "highlights": [
+        {
+          "text": "v1.1.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Thuong Design.",
+      "sha256": "c0aa70ddedcabdc1611aa1bfeadd0a51cf3c5945756e82d9a91854fc21309793",
+      "size": 8514270,
+      "cd": "c6cb4374551fd1f91f80cb7accb85b69ac1ee293ede647893e190a51a8edcf8e",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "48a6b6302378bbde0d0bcefbbb37148e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OctopathTravelerII_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/octopath-traveler-ii_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/octopath-traveler-ii_bg.jpg"
     },
     {
       "id": "onepiece",
@@ -1313,6 +2643,179 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_bg.jpg"
     },
     {
+      "id": "overcooked-all-you-can-eat",
+      "title_id": "0100F28011892000",
+      "name": "Overcooked! All You Can Eat",
+      "mod_version": "v1",
+      "game_version": "v1.0.11",
+      "tagline": "Trọn bộ Overcooked 1 và 2 cùng toàn bộ DLC; nấu nướng hỗn loạn tối đa 4 người.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Trọn bộ Overcooked 1 và 2 cùng toàn bộ DLC; nấu nướng hỗn loạn tối đa 4 người."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.11",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "ba57f50abbeb1a8c190851195155b4c7be225e69d8e855ae18705e33e6a31668",
+      "size": 35989641,
+      "cd": "623ef75b0e545051f9e6cdbc63ece587d0a64dd4fd70538694bb2fe980d7f11d",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "d9925c2f34e3a530b27055cb73976083",
+        "6f663f44768a28e6ffafb8dbc02af248",
+        "9004abcb82b858521404e8c487a188f3",
+        "",
+        "",
+        "",
+        "",
+        "ff147341cb72ed64ff9705730afdbcf8",
+        "",
+        "1591b1ecb45a281bfcc434601910f6f7",
+        "2011408a85569d03117a8751aeddb29f",
+        "8a8e768063aa280528ae98c05caa82ea",
+        "dc1a00226ad8d17fe1f16fb0e3272d1c",
+        "867dcaae34b252e5ada2565fb649e00e",
+        "65b3cb1e802780581354dd373a056435",
+        "5d9dc6a1aa2321170be5ba6269055f9f",
+        "787d81ad2c19063a808456e9232c7c19"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OvercookedAllYouCanEat_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-all-you-can-eat_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-all-you-can-eat_bg.jpg"
+    },
+    {
+      "id": "rabbids-vh-long-tieng",
+      "title_id": "01008970149B0000",
+      "name": "Rabbids: Party of Legends (Việt hoá + lồng tiếng)",
+      "mod_version": "v1",
+      "game_version": "v1.0.1",
+      "tagline": "Hơn 50 minigame lấy cảm hứng Tây Du Ký, chơi đối kháng hoặc hợp tác tối đa 4 người.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Hơn 50 minigame lấy cảm hứng Tây Du Ký, chơi đối kháng hoặc hợp tác tối đa 4 người. Có 2 bản: chỉ việt hoá, và việt hoá + lồng tiếng."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "3ef6c8b244e6ccfe355c12a3c1305e4aa40396547c54f30cfac1d3795ae62957",
+      "size": 707600889,
+      "cd": "b5d004dc6535ac97aaaa5df0224060557e5e1d55213738255d6c8775efac33bf",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0258dc41f6903757d3f6576aace9acda",
+        "7713197f7b5e6af3152af3b005bc9374",
+        "bfa61f11cb7d2cf73cb11a86cdb4d0e2",
+        "75b0097ae5d005444e7b0df7c12056c3",
+        "ee4649e33c32b1f69e00da9ecaa1ce64",
+        "6f7f4bea1416d75a6e7f444c169406bf",
+        "24542cad09163747629c62114b4b44e4",
+        "",
+        "",
+        "",
+        "1bb57d30e1247bc689b38d69654fb401",
+        "f6acf35adf297019a213088780faa58b",
+        "32f9762a2c0c26cf5d4bf5700e93b4ec",
+        "10b496c33672d6b2c15bc28b140b3c83",
+        "e1a112d72599c3986e19fe2669f35654",
+        "a5cc3ea9d2493d9124ba1a9b1bf084f7"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RabbidsPartyofLegends_VH_LongTieng_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-long-tieng_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-long-tieng_bg.jpg"
+    },
+    {
+      "id": "rabbids-vh-only",
+      "title_id": "01008970149B0000",
+      "name": "Rabbids: Party of Legends (chỉ việt hoá)",
+      "mod_version": "v1",
+      "game_version": "v1.0.1",
+      "tagline": "Hơn 50 minigame lấy cảm hứng Tây Du Ký, chơi đối kháng hoặc hợp tác tối đa 4 người.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Hơn 50 minigame lấy cảm hứng Tây Du Ký, chơi đối kháng hoặc hợp tác tối đa 4 người. Có 2 bản: chỉ việt hoá, và việt hoá + lồng tiếng."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "273a4a8e58392e2ec1c32c8b39238616597248c6d7a703b6c89350081b278892",
+      "size": 27370038,
+      "cd": "d5672f7e351140ab732634860d81b213a1b3b893823bf45f9ce32edd685e3e0f",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "0258dc41f6903757d3f6576aace9acda",
+        "7713197f7b5e6af3152af3b005bc9374",
+        "bfa61f11cb7d2cf73cb11a86cdb4d0e2",
+        "75b0097ae5d005444e7b0df7c12056c3",
+        "ee4649e33c32b1f69e00da9ecaa1ce64",
+        "6f7f4bea1416d75a6e7f444c169406bf",
+        "24542cad09163747629c62114b4b44e4"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RabbidsPartyofLegends_VH_Only_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-only_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-only_bg.jpg"
+    },
+    {
       "id": "rdr1",
       "title_id": "01007820196A6000",
       "name": "Red Dead Redemption",
@@ -1367,6 +2870,57 @@
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_bg.jpg"
+    },
+    {
+      "id": "ring-fit-adventure",
+      "title_id": "01002FF008C24000",
+      "name": "Ring Fit Adventure",
+      "mod_version": "v1",
+      "game_version": "v1.2.0",
+      "tagline": "RPG kết hợp tập thể dục với Ring-Con: squat, gập bụng, yoga thành chiêu thức đánh bại r...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "RPG kết hợp tập thể dục với Ring-Con: squat, gập bụng, yoga thành chiêu thức đánh bại rồng thể hình Dragaux."
+      ],
+      "highlights": [
+        {
+          "text": "v1.2.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "a2118482c2b9d162d6ed8dde0f22e35e3f87d12e5e29eeab656dba1d154464ce",
+      "size": 5173112,
+      "cd": "191194fb5611494437fea0f89c7d95100284c123b0e0f80225f0907df0323123",
+      "fh": [
+        "",
+        "",
+        "",
+        "0262cb420e803a0fd6001431ce65ac4c",
+        "",
+        "28199b3670930801d1c52a1ebd4c4cc8",
+        "3b4751038db55d9c4be7f3157d88558f",
+        "",
+        "",
+        "f7504a10ac641501bde1bbf1f356bb8b",
+        "1d73bf90596841b984624b7788136ed8",
+        "be3ffb87635e1929233004d0b49bdeae",
+        "501e0d75ef496a344d2ab43f3bd34e70",
+        "b7f9b8517e765eaa21249f293ded5617",
+        "95fd64b17d19e17190d00489758cd7ef"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RingFitAdventure_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ring-fit-adventure_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ring-fit-adventure_bg.jpg"
     },
     {
       "id": "roi",
@@ -2700,6 +4254,95 @@
       "mirrors": []
     },
     {
+      "id": "ship-of-fools",
+      "title_id": "010076901806C000",
+      "name": "Ship of Fools",
+      "mod_version": "v1",
+      "game_version": "v1.6",
+      "tagline": "Roguelite co-op hành động: ra khơi, bắn đại bác, chiến đấu với quái biển ở Archipelago...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelite co-op hành động: ra khơi, bắn đại bác, chiến đấu với quái biển ở Archipelago để ngăn Aquapocalypse."
+      ],
+      "highlights": [
+        {
+          "text": "v1.6",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "sha256": "8ddbad373cb5c3feca71e21c01d55fa77bb3e472710be2a9fd45743b425d5246",
+      "size": 154714510,
+      "cd": "69545aff25777c0576dbe9af978793d8cd930ce08ccf385e39e8f669b018f7b4",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "86decfc6cfed8f764757de5b53f54c09",
+        "",
+        "",
+        "69fe61799ee3d964ba3945120dd08e4d",
+        "",
+        "40780b2ac777836d78421142670ceecd",
+        "7859d3918957e039a278635cd2c29d8a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ShipofFools_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ship-of-fools_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ship-of-fools_bg.jpg"
+    },
+    {
+      "id": "shotgun-king-the-final-checkmate",
+      "title_id": "010003301911C000",
+      "name": "Shotgun King: The Final Checkmate",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.5",
+      "tagline": "Roguelike cờ vua: vua cầm shotgun tiễn quân Trắng về tây phương cực lạc.",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike cờ vua: vua cầm shotgun tiễn quân Trắng về tây phương cực lạc."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "adcae267d91d40314c47817378a56d070196ff161571793d520ccb3af1155fd6",
+      "size": 3928625,
+      "cd": "e94eab18df9eacc4fd4e379c89a2f507c40680eebff3254a32f2f29e29e159a1",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "69c10dc5a2883b340b8be1b13e038099"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ShotgunKingTheFinalCheckmate_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shotgun-king-the-final-checkmate_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shotgun-king-the-final-checkmate_bg.jpg"
+    },
+    {
       "id": "silverpines",
       "title_id": "0100D5B026844000",
       "name": "Silver Pines",
@@ -2750,6 +4393,103 @@
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SilverPines_VietHoa_full.zip",
       "mirrors": []
+    },
+    {
+      "id": "snipperclips-cut-it-out-together",
+      "title_id": "0100704000B3A000",
+      "name": "Snipperclips: Cut It Out, Together!",
+      "mod_version": "v1",
+      "game_version": "v1.1.0",
+      "tagline": "Game giải đố hợp tác vui nhộn của SFB Games: cắt tạo hình các nhân vật để cùng nhau vượ...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game giải đố hợp tác vui nhộn của SFB Games: cắt tạo hình các nhân vật để cùng nhau vượt màn."
+      ],
+      "highlights": [
+        {
+          "text": "v1.1.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "sha256": "5b1e48dfa8a534075b205eff7a1c6ade1ef71cbcfd4c7dc9302833eda8cd4447",
+      "size": 849419,
+      "cd": "884f486948d6f3299e3ca6d5ee7a0a87f31f41e0d337797a82e4d760fb5173ad",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "94e1f75ad6973841779a7e822ea2d6f2",
+        "",
+        "",
+        "3bf37e7e6192621bed239dc9ade8fdf7",
+        "bcdbbe30fa2f2e23727af10cc555e840",
+        "973586b3bbc58f57a82a7a12749dda1a",
+        "2aee4c7d235c44e1d60a15f08b9f2608"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SnipperclipsCutItOutTogether_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-cut-it-out-together_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-cut-it-out-together_bg.jpg"
+    },
+    {
+      "id": "splatoon-3",
+      "title_id": "0100C2500FC20000",
+      "name": "Splatoon 3",
+      "mod_version": "v1",
+      "game_version": "v11.3.0",
+      "tagline": "Bắn súng mực góc nhìn thứ ba: Turf War 4v4, Salmon Run Next Wave và chế độ cốt truyện.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Bắn súng mực góc nhìn thứ ba: Turf War 4v4, Salmon Run Next Wave và chế độ cốt truyện. Việt hoá cả thông số trang bị và lời thoại Deep Cut."
+      ],
+      "highlights": [
+        {
+          "text": "v11.3.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "91104b8f452f1ff920fcc3d13475358a5f0db2298197fd517d85db1aa8384e74",
+      "size": 2720881,
+      "cd": "d431a31dae8fda3387a5d5f574642cb96dd6ee43d820eb587a6c5eb61858725e",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1b059786cfca19a62003a4c028aa405e",
+        "1b059786cfca19a62003a4c028aa405e",
+        "b66d6e68acd30c7d338adb50c5af33cd",
+        "b66d6e68acd30c7d338adb50c5af33cd",
+        "99e08abbd905bcff12b4eff13711ac56"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Splatoon3_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/splatoon-3_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/splatoon-3_bg.jpg"
     },
     {
       "id": "tcgcardshop",
@@ -2937,6 +4677,60 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg"
     },
     {
+      "id": "vampire-crawlers",
+      "title_id": "010040502453E000",
+      "name": "Vampire Crawlers",
+      "mod_version": "v1",
+      "game_version": "Update 1.5.1 (v262144)",
+      "tagline": "Deckbuilder kết hợp dungeon crawler nhịp độ Turbo: dùng bài và Mana, kích hoạt combo dọ...",
+      "developer": "",
+      "release": "",
+      "translator": "Nah Huỳnh",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Deckbuilder kết hợp dungeon crawler nhịp độ Turbo: dùng bài và Mana, kích hoạt combo dọn sạch quái trên bàn đấu."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.5.1 (v262144)",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Nah Huỳnh.",
+      "sha256": "433076fefa24a67fb37b0a5b61f82d70589a1da68ce18e0a66b9f881ff5a7c0a",
+      "size": 86032338,
+      "cd": "6e2c5b69a194adecfeb4204df5d50c92f2f135f779a65fe7f6d79032cea74e70",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "d1b7d9ee827f61474adb0fa014bcd7be",
+        "",
+        "",
+        "f2983bb803009c9d7728d1155e87c8ed",
+        "",
+        "7e0585fed4f418c397aaa72c9bc2294a",
+        "231899b4e5f72ac03fe972f5c1407909",
+        "b2125d65910ad2b60d6fff4d81c586c6",
+        "dc5be1a244d077f44891988e5c3e651c",
+        "37b0d53d9f0eac999e840545a31ae691",
+        "c8bf21a72adb2b62513fe063873bed9e",
+        "2bad0783e1b6a72d67f9361d499ed701",
+        "3f41053ac3e535502c2abee61e6ecaf3"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VampireCrawlers_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/vampire-crawlers_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/vampire-crawlers_bg.jpg"
+    },
+    {
       "id": "vis",
       "title_id": "0100254027E50000",
       "name": "Village in the Shade",
@@ -3032,6 +4826,91 @@
       "mirrors": []
     },
     {
+      "id": "wargroove-2",
+      "title_id": "0100AD401A2F0000",
+      "name": "Wargroove 2",
+      "mod_version": "v1",
+      "game_version": "v1.2.12",
+      "tagline": "Chiến thuật theo lượt ở lục địa Aurania: ba tuyến chiến dịch, Chinh phạt roguelike, đấu...",
+      "developer": "",
+      "release": "",
+      "translator": "TanTan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Chiến thuật theo lượt ở lục địa Aurania: ba tuyến chiến dịch, Chinh phạt roguelike, đấu 1v1/2v2 và trình tạo bản đồ."
+      ],
+      "highlights": [
+        {
+          "text": "v1.2.12",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi TanTan.",
+      "sha256": "a5303be8e3e061bb63bdb25b19567246fb0f14911bd5c12fab979a883bfea884",
+      "size": 14660391,
+      "cd": "c3fa8f4d366d19b748ae93492e8610496d01a87b9448667b4422c0d0455490ff",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "55b1b90d3538125398da621b806be39f",
+        "a528f4096ee3158b3ef978c30cfc6de5"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Wargroove2_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wargroove-2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wargroove-2_bg.jpg"
+    },
+    {
+      "id": "warioware-move-it",
+      "title_id": "010045B018EC2000",
+      "name": "WarioWare: Move It!",
+      "mod_version": "v1",
+      "game_version": "v1.0.0",
+      "tagline": "Party game tạo dáng với Joy-Con, hơn 200 microgame tốc độ cao, chơi 1-4 người.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game tạo dáng với Joy-Con, hơn 200 microgame tốc độ cao, chơi 1-4 người."
+      ],
+      "highlights": [
+        {
+          "text": "v1.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "sha256": "a50006c1d4076e3c09e54cf3a5a059df0fa905eaa77f3d80c7adece0f42a4db3",
+      "size": 2487821,
+      "cd": "1a15eaa16eac16a0738146cebec9b4810f94966988496f18a3855a960b627079",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "90ca1d2da1cb64b425e4c6e1f7c95bbe",
+        "de246816bfa1c9bc9bf9226675767df3"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WarioWareMoveIt_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warioware-move-it_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warioware-move-it_bg.jpg"
+    },
+    {
       "id": "wbs",
       "title_id": "01005AB028A12000",
       "name": "Wild Blue Skies",
@@ -3115,6 +4994,56 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg"
     },
     {
+      "id": "wildfrost",
+      "title_id": "0100DE2016376000",
+      "name": "Wildfrost",
+      "mod_version": "v1",
+      "game_version": "Update 1.2.4",
+      "tagline": "Roguelike deckbuilding chiến thuật trong thế giới băng giá: chiêu mộ đồng đội, thu thập...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Roguelike deckbuilding chiến thuật trong thế giới băng giá: chiêu mộ đồng đội, thu thập thẻ, tính vị trí và thời gian hồi chiêu."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.2.4",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game. Nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "sha256": "61502f1fd9802d37a8f9bcd1f229a231d7f150f675217cce129586598193c3f2",
+      "size": 333091,
+      "cd": "7cc756d86decb135f663ab0f739a5f52ec108e750657ba587019f4f8350c1718",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "3c833ca863cb783abda46adcaf46ceb9",
+        "",
+        "",
+        "4e0480f90a098e3fb541f1073da49e58",
+        "",
+        "",
+        "fc07927494bacb13e5b63082f4e10b2b"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Wildfrost_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wildfrost_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wildfrost_bg.jpg"
+    },
+    {
       "id": "yomawari",
       "title_id": "01005FD0182A2000",
       "name": "Yomawari: Lost in the Dark",
@@ -3160,7 +5089,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793581339,
+  "seq": 1793605256,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
