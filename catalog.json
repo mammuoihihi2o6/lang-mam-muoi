@@ -605,7 +605,9 @@
         "50edf20b9e63d65e9593ea4705524c80"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DeepRockGalacticSurvivor_VietHoa.zip",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/deep-rock-galactic-survivor_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/deep-rock-galactic-survivor_bg.jpg"
     },
     {
       "id": "dicefolk",
@@ -5089,7 +5091,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793605256,
+  "seq": 1793606255,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
