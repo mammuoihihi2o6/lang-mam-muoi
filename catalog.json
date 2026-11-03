@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 32,
-    "version": "M32",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M32.nro",
-    "sha256": "03f47bf15563ec2025fc4452954c16fd5cc8012c802aa9e246e959fdd9125eaa",
-    "size": 13807564,
-    "notes": "Tab mới Game Trên Máy: thấy ngay game nào có bản Việt hoá, cài/gỡ tại chỗ. Mở app không còn khựng khi kho nhiều game. Báo bản Việt hoá mới khi mở app, hiện lượt tải, thông báo lỗi bằng tiếng Việt."
+    "build": 33,
+    "version": "M1",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M1.nro",
+    "sha256": "50b1d56d598e1aa2bf1b6f5285c0b77d4e2758dd0cbfe9a535c374f9c0b993af",
+    "size": 13918156,
+    "notes": "Danh sách game dài cuộn mượt hơn. Phiên bản app đánh số lại từ M1, các bản sau là M2, M3..."
   },
   "mods": [
     {
@@ -5274,7 +5274,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793621831,
+  "seq": 1793709979,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
