@@ -61,9 +61,9 @@
         "b4ccfede24eaab78bf5fad5c23a24d23"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v2.2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "airoheart",
@@ -1032,7 +1032,7 @@
       "id": "ffr",
       "title_id": "0100606026F12000",
       "name": "Final Fantasy Resonance",
-      "mod_version": "full_v7",
+      "mod_version": "full_V7b",
       "game_version": "1.0.1",
       "tagline": "Thế giới Veritas và hành trình của hiệp sĩ trẻ.",
       "developer": "",
@@ -1062,16 +1062,16 @@
       ],
       "changelog": "Tương thích bản cập nhật 1.0.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "00daf705b740c05b0afce852db50768992ebdcc2ae0707fad976a219a71fd997",
-      "size": 3042399639,
-      "cd": "3fc84a0faad8792ed29f0e5a45f094908f7942a599db5b6d5b1a6df070532646",
+      "sha256": "8fd0fd993e9d6770b2c1c0a61240a43dc845123dafe12e7cddd44332e4738f4a",
+      "size": 2862391606,
+      "cd": "b24a5091c7205575ef4dc32e2ff1b899c13dfb838ddfa4f738dfe6e2052fcdbd",
       "fh": [
-        "ed9f77d6e2b08925e25af5f43fc96826"
+        "bf1ba1116fae5dd5889c18375a86321f"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFR_VietHoa_full_v7.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFR_VietHoa_full_V7.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg"
     },
     {
       "id": "fifa-23",
@@ -5481,7 +5481,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1793766802,
+  "seq": 1793769757,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
