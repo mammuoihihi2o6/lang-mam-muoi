@@ -10,6 +10,62 @@
   },
   "mods": [
     {
+      "id": "acrc",
+      "title_id": "010044700DEB0000",
+      "name": "Assassin's Creed: The Rebel Collection",
+      "mod_version": "2.2",
+      "game_version": "1.0.0",
+      "tagline": "Hai cuộc đời hải tặc và sát thủ: Edward Kenway và Shay Cormac.",
+      "developer": "Ubisoft",
+      "release": "20/03/2019",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Assassin's Creed: The Rebel Collection gồm Assassin's Creed IV Black Flag cùng bản Freedom Cry (Aveline), và Assassin's Creed Rogue. Bạn vào vai hải tặc Edward Kenway giữa thời kỳ hoàng kim của cướp biển Caribe, rồi vào vai Shay Cormac, sát thủ quay lưng với Giáo Phái để săn lùng chính các Sát Thủ ở Bắc Đại Tây Dương.",
+        "Bản Việt hoá dịch launcher, Black Flag, Freedom Cry và Rogue (gần 98%), kèm font có đủ chữ Việt hoa và thường. Bản 2.2 vẽ lại toàn bộ glyph chữ Việt có dấu cho đều nét."
+      ],
+      "highlights": [
+        {
+          "title": "Cài thư mục atmosphere",
+          "text": "Xoá thư mục cũ 010044700DEB0000 và 010044700DEB0001 nếu đã cài bản trước, rồi chép gộp thư mục atmosphere vào gốc thẻ SD. Cần khoảng 3 GB trống."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy đặt ngôn ngữ hệ thống là English. Đừng giữ nút L khi mở game, vì sẽ tắt mod."
+        }
+      ],
+      "done": [
+        "Launcher, Black Flag, Freedom Cry: 100%",
+        "Rogue: gần 98%",
+        "Font đủ chữ Việt hoa và thường, đã vá đều nét ở bản 2.2"
+      ],
+      "kept": [
+        "Tên riêng (nhân vật, địa danh, tàu)",
+        "Phần lồng tiếng gốc"
+      ],
+      "changelog": "2.2: vẽ lại glyph chữ Việt có dấu (Ơ Ư Đ đ, dấu hỏi, ngã, nặng, chồng dấu) cùng cỡ, cùng đường cơ sở, nét đồng đều.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "573c88efa9b52c4ddd53c656f3b76288c22d5c208abe29a8e8df6b576d387013",
+      "size": 3058290606,
+      "cd": "778b1d5950ea688a7468d60fe0d7078baff1f0de79d049cf2bdbdf1075498a7b",
+      "fh": [
+        "49f025d5d75d40f1e762a9d551a435ee",
+        "aaeb9b8ec3cde053ea83ba4ddc2360f0",
+        "11c445def7629acdcde2302fd8b67930",
+        "34fde4e347abae47350c7641f450a36d",
+        "bc924fa45620eadaac72c3972bf32fb9",
+        "b4ccfede24eaab78bf5fad5c23a24d23"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v2.2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg"
+    },
+    {
       "id": "airoheart",
       "title_id": "01008BE0179BC000",
       "name": "Airoheart",
@@ -606,9 +662,9 @@
         "ca22ba43658f741fdd3fdc64b5e75b9e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Diablo3_VN_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "deep-rock-galactic-survivor",
@@ -855,9 +911,9 @@
         "2e1e29a0faf2ed5a6c77a2728cc8f547"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DQ7R_VietHoa_100pc.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dq7r_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dq7r_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dq7r_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "dst",
@@ -1294,9 +1350,9 @@
         "bd5ab44559cc4e6218587ade56eed229"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FLi_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fli_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fli_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fli_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "frostpunk",
@@ -5425,7 +5481,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1793759285,
+  "seq": 1793766802,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
