@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 33,
-    "version": "M1",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M1.nro",
-    "sha256": "50b1d56d598e1aa2bf1b6f5285c0b77d4e2758dd0cbfe9a535c374f9c0b993af",
-    "size": 13918156,
-    "notes": "Danh sách game dài cuộn mượt hơn. Phiên bản app đánh số lại từ M1, các bản sau là M2, M3..."
+    "build": 34,
+    "version": "M2",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M2.nro",
+    "sha256": "edeaadb7c446e0217dfa83a5e26c2f2e3af6e82020f5c4b4c409d9613671a7f7",
+    "size": 13942732,
+    "notes": "Mở app từ Album ổn định hơn: thư viện chỉ hiện danh sách tên game, kèm hướng dẫn mở bằng cách giữ R + chọn icon game để có đủ bộ nhớ. Thêm kiểu xem Lưới / Danh sách cho Kho (nút trên thanh công cụ hoặc nút −). Hiện số lượt tải trên từng game. Chế độ an toàn chỉ tự bật khi app bị lỗi thật. Đổi được thư mục cài Việt hoá trong Cài Đặt. Chạy trong giả lập (Eden...) tự cài vào đúng thư mục giả lập đọc được."
   },
   "mods": [
     {
@@ -1069,9 +1069,9 @@
         "bf1ba1116fae5dd5889c18375a86321f"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFR_VietHoa_full_V7.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "fifa-23",
@@ -5481,7 +5481,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1793769757,
+  "seq": 1793795766,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
