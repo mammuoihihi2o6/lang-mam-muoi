@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 34,
-    "version": "M2",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M2.nro",
-    "sha256": "edeaadb7c446e0217dfa83a5e26c2f2e3af6e82020f5c4b4c409d9613671a7f7",
-    "size": 13942732,
-    "notes": "Mở app từ Album ổn định hơn: thư viện chỉ hiện danh sách tên game, kèm hướng dẫn mở bằng cách giữ R + chọn icon game để có đủ bộ nhớ. Thêm kiểu xem Lưới / Danh sách cho Kho (nút trên thanh công cụ hoặc nút −). Hiện số lượt tải trên từng game. Chế độ an toàn chỉ tự bật khi app bị lỗi thật. Đổi được thư mục cài Việt hoá trong Cài Đặt. Chạy trong giả lập (Eden...) tự cài vào đúng thư mục giả lập đọc được."
+    "build": 35,
+    "version": "M3",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M3.nro",
+    "sha256": "fd6e9263b2d106e73040063ce8b9179c229b5599d2f3a9019a014e89da397073",
+    "size": 14118860,
+    "notes": "Thêm trò chơi Ủ Mắm cho người ủng hộ: chơi ngay trong lúc chờ tải (tab Tiến Trình Tải, hoặc bấm ZR trong hộp chi tiết khi đang tải). Thêm kiểu xem Ô vuông cho Kho. Gửi nhật ký lỗi cho admin ngay trong Cài Đặt, không cần rút thẻ SD. Mã QR ủng hộ tạo ngay trên máy. Đồng hồ hiện đúng giờ, lỗi kết nối báo rõ nguyên nhân hơn. Để yên chờ tải thì app tự giảm khung hình cho đỡ tốn pin. Sửa lỗi con trỏ nhảy ra chỗ trống khi giữ cần lên/xuống. Kho và các tab mượt hơn lúc danh sách vừa tải xong."
   },
   "mods": [
     {
@@ -5481,7 +5481,7 @@
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793855369,
+  "seq": 1793864703,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
