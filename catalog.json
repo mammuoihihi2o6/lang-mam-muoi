@@ -49,9 +49,9 @@
       ],
       "changelog": "2.2: vẽ lại glyph chữ Việt có dấu (Ơ Ư Đ đ, dấu hỏi, ngã, nặng, chồng dấu) cùng cỡ, cùng đường cơ sở, nét đồng đều.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "573c88efa9b52c4ddd53c656f3b76288c22d5c208abe29a8e8df6b576d387013",
-      "size": 3058290606,
-      "cd": "778b1d5950ea688a7468d60fe0d7078baff1f0de79d049cf2bdbdf1075498a7b",
+      "sha256": "179691889e5b048062e0507a9c1fba2623f583f0d76da91717ff339ca067a2c2",
+      "size": 3058290518,
+      "cd": "b52d25ed81965704b6c8d3ad2b88f4155097e03641c9fd3b679fee2a04773e4d",
       "fh": [
         "49f025d5d75d40f1e762a9d551a435ee",
         "aaeb9b8ec3cde053ea83ba4ddc2360f0",
@@ -60,10 +60,10 @@
         "bc924fa45620eadaac72c3972bf32fb9",
         "b4ccfede24eaab78bf5fad5c23a24d23"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v2.2.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v2.2b.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg"
     },
     {
       "id": "airoheart",
@@ -105,9 +105,9 @@
         "e49553224e2f54173e0423a2f3a96678"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Airoheart_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/airoheart_cover.5b67b82a.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/airoheart_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/airoheart_bg.jpg"
     },
     {
       "id": "backpack-hero",
@@ -151,9 +151,9 @@
         "48f81eab718a1ccbfd85fb18dac59b6e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BackpackHero_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/backpack-hero_cover.d47e5e94.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/backpack-hero_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/backpack-hero_bg.jpg"
     },
     {
       "id": "baladins",
@@ -197,9 +197,9 @@
         "283e5c0f92982c33a18875d17a7b96df"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Baladins_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/baladins_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/baladins_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/baladins_bg.jpg"
     },
     {
       "id": "bang-bang-bandits",
@@ -247,9 +247,9 @@
         "65cbbb8e4d5fdf995ffa8df4dbc7e33c"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BangBangBandits_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_cover.c2486420.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_bg.jpg"
     },
     {
       "id": "big-brain-academy-brain-vs-brain",
@@ -291,9 +291,9 @@
         "e72e768cdbd00f1710fc170ec6f3b061"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BigBrainAcademyBrainvsBrain_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/big-brain-academy-brain-vs-brain_cover.3ec25075.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/big-brain-academy-brain-vs-brain_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/big-brain-academy-brain-vs-brain_bg.jpg"
     },
     {
       "id": "boomerang-fu",
@@ -334,9 +334,9 @@
         "bdfed3d6fe423a29ae3b392d528c5f78"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BoomerangFu_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_cover.a37a16fc.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_bg.jpg"
     },
     {
       "id": "broforce",
@@ -383,9 +383,9 @@
         "e36397385b5f81a271b872b793f2d1e4"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Broforce_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/broforce_cover.ae313c0d.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/broforce_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/broforce_bg.jpg"
     },
     {
       "id": "card-shark",
@@ -425,9 +425,9 @@
         "0870b57877ec9f1f3cb61865c915d955"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CardShark_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/card-shark_cover.b5cb9fac.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/card-shark_bg.e7ee1d3d.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/card-shark_bg.e7ee1d3d.jpg"
     },
     {
       "id": "castle-crashers-remastered",
@@ -471,9 +471,9 @@
         "e238712bd37fdb23a8698c35955e4c30"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CastleCrashersRemastered_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/castle-crashers-remastered_cover.72675f05.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/castle-crashers-remastered_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/castle-crashers-remastered_bg.jpg"
     },
     {
       "id": "cbc",
@@ -516,9 +516,9 @@
         "7e8d936dbc8035a1aefe1c97502b78cd"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CBC-mammuoihihi.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_bg.jpg"
     },
     {
       "id": "constance",
@@ -562,9 +562,9 @@
         "c749d7aeba432078cfcb9ffbdbfc4128"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Constance_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/constance_cover.6b54a9a6.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/constance_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/constance_bg.jpg"
     },
     {
       "id": "corekeeper",
@@ -609,9 +609,9 @@
         "9b1d13ae684cab43d0b07d2aad2ad001"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CoreKeeper_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/corekeeper_bg.jpg"
     },
     {
       "id": "d3",
@@ -662,9 +662,9 @@
         "ca22ba43658f741fdd3fdc64b5e75b9e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Diablo3_VN_full_v3.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_bg.jpg"
     },
     {
       "id": "deep-rock-galactic-survivor",
@@ -714,9 +714,9 @@
         "50edf20b9e63d65e9593ea4705524c80"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DeepRockGalacticSurvivor_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/deep-rock-galactic-survivor_cover.bf8443ac.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/deep-rock-galactic-survivor_bg.7564bbd5.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/deep-rock-galactic-survivor_bg.7564bbd5.jpg"
     },
     {
       "id": "dicefolk",
@@ -761,9 +761,9 @@
         "7412203792f6606f3f541f9a27629f02"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Dicefolk_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicefolk_cover.9537b051.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicefolk_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicefolk_bg.jpg"
     },
     {
       "id": "dicey-dungeons",
@@ -863,9 +863,9 @@
         "b8ede663dc23ec60fc892f26f1a80ded"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DiceyDungeons_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicey-dungeons_cover.19aeaa44.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicey-dungeons_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicey-dungeons_bg.jpg"
     },
     {
       "id": "dq7r",
@@ -911,9 +911,9 @@
         "2e1e29a0faf2ed5a6c77a2728cc8f547"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DQ7R_VietHoa_100pc.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dq7r_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dq7r_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dq7r_bg.jpg"
     },
     {
       "id": "dst",
@@ -980,9 +980,9 @@
         "d3497ddf6d01dbf3876492ef2dd286a3"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DST_VietHoa_full_v1.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_bg.jpg"
     },
     {
       "id": "fate",
@@ -1024,9 +1024,9 @@
         "afd001a53e20075839f7a6595f1eedee"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FateEXTELLA_VietHoa_test6.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fate_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fate_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fate_bg.jpg"
     },
     {
       "id": "ffr",
@@ -1069,9 +1069,9 @@
         "bf1ba1116fae5dd5889c18375a86321f"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFR_VietHoa_full_V7.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffr_bg.jpg"
     },
     {
       "id": "fifa-23",
@@ -1118,9 +1118,9 @@
         "89dabd09940deec573a8dbdecfa48933"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FIFA23_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_cover.ec6dfc5d.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_bg.a588c382.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_bg.a588c382.jpg"
     },
     {
       "id": "fights-in-tight-spaces",
@@ -1180,9 +1180,9 @@
         "3fbf2733d4af9a21365ea9ce3f47efb8"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FightsinTightSpaces_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_cover.f58119a3.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg"
     },
     {
       "id": "fishing-star-world-tour",
@@ -1235,9 +1235,9 @@
         "527bce232a9a8d8bd688d0c66e40436a"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FishingStarWorldTour_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fishing-star-world-tour_cover.75f70fba.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fishing-star-world-tour_bg.a5d0d881.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fishing-star-world-tour_bg.a5d0d881.jpg"
     },
     {
       "id": "fit-boxing-3",
@@ -1300,9 +1300,9 @@
         "870ce5e405802f788b967204a73909ed"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FitBoxing3_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fit-boxing-3_cover.69c9f900.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fit-boxing-3_bg.a4512ed7.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fit-boxing-3_bg.a4512ed7.jpg"
     },
     {
       "id": "fli",
@@ -1350,9 +1350,9 @@
         "bd5ab44559cc4e6218587ade56eed229"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FLi_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fli_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fli_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fli_bg.jpg"
     },
     {
       "id": "frostpunk",
@@ -1404,9 +1404,9 @@
         "31c0a1a1dd1df8c210e05762b6c48d91"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Frostpunk_VietHoa_full_v2.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg"
     },
     {
       "id": "gk2",
@@ -1456,9 +1456,9 @@
         "6895d5d4f755d1b5a5acc85550e7c39e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GraveyardKeeper2_VietHoa_v1.0.4.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg"
     },
     {
       "id": "hades",
@@ -1588,8 +1588,8 @@
         "90947ee8290684079bf9cb21b574bd50"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Hades_VietHoa.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades_cover.jpg",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades_cover.jpg"
     },
     {
       "id": "hades2",
@@ -1831,9 +1831,9 @@
         "91a5be37919b3b1957278f6c34b3ad82"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Hades2_VietHoa_by_Mammuoihihi_final.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades2_bg.jpg"
     },
     {
       "id": "into-the-breach",
@@ -1909,9 +1909,9 @@
         "42797b04cf4b76b21c3cc65f2d46b224"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/IntotheBreach_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_cover.89b43c77.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/into-the-breach_bg.jpg"
     },
     {
       "id": "jamboree",
@@ -1962,8 +1962,8 @@
         "48bed5b310f9e0f672014e1d6e4aad8a"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SMPJ_VietHoa_Switch.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/jamboree_cover.jpg",
-      "mirrors": []
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/jamboree_cover.jpg"
     },
     {
       "id": "kingdom-two-crowns",
@@ -2004,9 +2004,9 @@
         "c7441225cdf72947d9c5fc137ff4b146"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KingdomTwoCrowns_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-two-crowns_cover.cbbba6ec.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-two-crowns_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-two-crowns_bg.jpg"
     },
     {
       "id": "knc",
@@ -2052,9 +2052,9 @@
         "8244080bff17a2bf539bd3941517c8a2"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DemonSlayer_VietHoa_full_v8.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_bg.jpg"
     },
     {
       "id": "little-witch-in-the-woods",
@@ -2105,9 +2105,9 @@
         "fa13cff3f15add18ecdacaad3f156d7d"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/LittleWitchintheWoods_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/little-witch-in-the-woods_cover.fe85daf0.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/little-witch-in-the-woods_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/little-witch-in-the-woods_bg.jpg"
     },
     {
       "id": "mario1",
@@ -2149,6 +2149,7 @@
       ],
       "changelog": "Tương thích bản cập nhật 1.3.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
+      "mirrors": [],
       "sha256": "e0169a62734ed36a1646a11a16825f59c636e4aa60fd619c493ccf3f441a5e20",
       "size": 21528211,
       "cd": "70d84bcffad9abd25e060f2caee4fc42e8103a604756bc052c1a7afacf1a46bd",
@@ -2161,8 +2162,7 @@
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/mario1_ll.zip",
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario1_bg.jpg"
     },
     {
       "id": "mario2",
@@ -2445,9 +2445,9 @@
         "f123bd5caf994da4978bce04253e67aa"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/mario2_VietHoa_full_v2.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario2_bg.jpg"
     },
     {
       "id": "marioparty",
@@ -2484,9 +2484,9 @@
         "662dc81a4ed8f58fc2f8a9dbe04694ba"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Super%20Mario%20Party%20VH%201.1.0-20261029T101821Z-1-001.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/marioparty_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/marioparty_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/marioparty_bg.jpg"
     },
     {
       "id": "md2",
@@ -2531,9 +2531,9 @@
         "23f6379901908800913da177582d646f"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v4_ghide.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg"
     },
     {
       "id": "mega-man-star-force-legacy-collection",
@@ -2572,9 +2572,9 @@
         "50959997deab8f8b0bde62a31916a377"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MegaManStarForceLegacyCollection_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_cover.15b9616b.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_bg.jpg"
     },
     {
       "id": "metro-2033-redux",
@@ -2614,9 +2614,9 @@
         "8dfde13ed1aa47e5f962b4f760758c5b"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Metro2033Redux_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/metro-2033-redux_cover.16bcedac.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/metro-2033-redux_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/metro-2033-redux_bg.jpg"
     },
     {
       "id": "monopoly-for-nintendo-switch",
@@ -2669,9 +2669,9 @@
         "c5d064d15f4a0d50b4821f71287f1f99"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MONOPOLYforNintendoSwitch_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-for-nintendo-switch_cover.0538e324.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-for-nintendo-switch_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-for-nintendo-switch_bg.jpg"
     },
     {
       "id": "monopoly-madness",
@@ -2711,9 +2711,9 @@
         "cb99613bb3f5dd68ee6b8f917d2e4ce4"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MonopolyMadness_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-madness_cover.f84358cc.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-madness_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/monopoly-madness_bg.jpg"
     },
     {
       "id": "moving-out-2",
@@ -2759,9 +2759,9 @@
         "0c5040004289e9050110ed64ac49635d"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MovingOut2_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moving-out-2_cover.8613c6e4.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moving-out-2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moving-out-2_bg.jpg"
     },
     {
       "id": "movingout",
@@ -2803,9 +2803,9 @@
         "578ac150dc0e2b39b47adeffb36084ee"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Moving%20Out%201.0.6%20Viet%20Hoa-20261029T101933Z-1-001.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/movingout_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/movingout_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/movingout_bg.jpg"
     },
     {
       "id": "neonabyss2",
@@ -2850,9 +2850,9 @@
         "fdddb32186ac97cccc69c49eb28c55ff"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/NeonAbyss2_VietHoa_final.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neonabyss2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neonabyss2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neonabyss2_bg.jpg"
     },
     {
       "id": "nintendo-switch-sports",
@@ -2894,9 +2894,9 @@
         "8d24a5970b3334683f0671fcac054934"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/NintendoSwitchSports_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/nintendo-switch-sports_cover.e07ff0dd.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/nintendo-switch-sports_bg.bd23cff1.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/nintendo-switch-sports_bg.bd23cff1.jpg"
     },
     {
       "id": "octopath-traveler-ii",
@@ -2938,9 +2938,9 @@
         "48a6b6302378bbde0d0bcefbbb37148e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OctopathTravelerII_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/octopath-traveler-ii_cover.6e823d74.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/octopath-traveler-ii_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/octopath-traveler-ii_bg.jpg"
     },
     {
       "id": "onepiece",
@@ -2974,9 +2974,9 @@
         "b5194babc1a08860165089da51e879b5"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VietHoa_OnePiece_Switch-Atmosphere-Ryujinx.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/onepiece_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/onepiece_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/onepiece_bg.jpg"
     },
     {
       "id": "ot0",
@@ -3030,9 +3030,9 @@
         "c7c14d864eb99d02a9d3511731678cb8"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OctopathTraveler0_Switch_VietHoa_Test9_credit.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ot0_bg.jpg"
     },
     {
       "id": "overcooked-all-you-can-eat",
@@ -3087,9 +3087,9 @@
         "787d81ad2c19063a808456e9232c7c19"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OvercookedAllYouCanEat_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-all-you-can-eat_cover.b20ee02f.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-all-you-can-eat_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-all-you-can-eat_bg.jpg"
     },
     {
       "id": "rabbids-vh-long-tieng",
@@ -3150,9 +3150,9 @@
         "a5cc3ea9d2493d9124ba1a9b1bf084f7"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RabbidsPartyofLegends_VH_LongTieng_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-long-tieng_cover.de551733.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-long-tieng_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-long-tieng_bg.jpg"
     },
     {
       "id": "rabbids-vh-only",
@@ -3203,9 +3203,9 @@
         "24542cad09163747629c62114b4b44e4"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RabbidsPartyofLegends_VH_Only_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-only_cover.de551733.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-only_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rabbids-vh-only_bg.jpg"
     },
     {
       "id": "rdr1",
@@ -3259,9 +3259,9 @@
         "32a786f8569eb844dcf49f412ff16d96"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RDR1_VietHoa_FullDau_Switch_Bonano.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rdr1_bg.jpg"
     },
     {
       "id": "ring-fit-adventure",
@@ -3310,9 +3310,9 @@
         "95fd64b17d19e17190d00489758cd7ef"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RingFitAdventure_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ring-fit-adventure_cover.be22dc30.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ring-fit-adventure_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ring-fit-adventure_bg.jpg"
     },
     {
       "id": "roi",
@@ -4689,9 +4689,9 @@
         "7859d3918957e039a278635cd2c29d8a"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ShipofFools_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ship-of-fools_cover.8cec3e0f.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ship-of-fools_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ship-of-fools_bg.jpg"
     },
     {
       "id": "shotgun-king-the-final-checkmate",
@@ -4730,9 +4730,9 @@
         "69c10dc5a2883b340b8be1b13e038099"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ShotgunKingTheFinalCheckmate_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shotgun-king-the-final-checkmate_cover.9916e253.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shotgun-king-the-final-checkmate_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shotgun-king-the-final-checkmate_bg.jpg"
     },
     {
       "id": "silverpines",
@@ -4830,9 +4830,9 @@
         "2aee4c7d235c44e1d60a15f08b9f2608"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SnipperclipsCutItOutTogether_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-cut-it-out-together_cover.f9810838.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-cut-it-out-together_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-cut-it-out-together_bg.jpg"
     },
     {
       "id": "splatoon-3",
@@ -4879,9 +4879,9 @@
         "99e08abbd905bcff12b4eff13711ac56"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Splatoon3_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/splatoon-3_cover.6c677502.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/splatoon-3_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/splatoon-3_bg.jpg"
     },
     {
       "id": "tcgcardshop",
@@ -4916,9 +4916,9 @@
         "3f98beb442a9d189cca32210868db0e7"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TCGCardShop_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tcgcardshop_bg.jpg"
     },
     {
       "id": "tombraider",
@@ -4964,9 +4964,9 @@
         "b9de03c323c3bedf0c73fb16df50512d"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TombRaider_vh_v9.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg"
     },
     {
       "id": "touryst",
@@ -5013,9 +5013,9 @@
         "79ea9c925ee1b3fdbe4ab76f086d7869"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/The_Touryst_VH.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/touryst_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/touryst_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/touryst_bg.jpg"
     },
     {
       "id": "unicorn",
@@ -5064,9 +5064,9 @@
         "ee61693392684af0e143b5d5ecbcc363"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UnicornOverl_VietHoa_test23_FULL.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg"
     },
     {
       "id": "vampire-crawlers",
@@ -5118,9 +5118,9 @@
         "3f41053ac3e535502c2abee61e6ecaf3"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/VampireCrawlers_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/vampire-crawlers_cover.141bc606.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/vampire-crawlers_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/vampire-crawlers_bg.jpg"
     },
     {
       "id": "vis",
@@ -5255,9 +5255,9 @@
         "a528f4096ee3158b3ef978c30cfc6de5"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Wargroove2_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wargroove-2_cover.b82feece.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wargroove-2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wargroove-2_bg.jpg"
     },
     {
       "id": "warioware-move-it",
@@ -5298,9 +5298,9 @@
         "de246816bfa1c9bc9bf9226675767df3"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WarioWareMoveIt_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warioware-move-it_cover.3a41fd88.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warioware-move-it_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warioware-move-it_bg.jpg"
     },
     {
       "id": "wbs",
@@ -5344,9 +5344,9 @@
         "d20dd3a5c62a225360a3cfe062b00a3f"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WBS_VietHoa_full_v1.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wbs_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wbs_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wbs_bg.jpg"
     },
     {
       "id": "welldweller",
@@ -5381,9 +5381,9 @@
         "489b5a35641c3c4e053a6df2a19681da"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WellDweller_VHbyMammuoihihi.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg"
     },
     {
       "id": "wildfrost",
@@ -5431,9 +5431,9 @@
         "fc07927494bacb13e5b63082f4e10b2b"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Wildfrost_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wildfrost_cover.660c68c7.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wildfrost_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wildfrost_bg.jpg"
     },
     {
       "id": "yomawari",
@@ -5476,12 +5476,12 @@
         "1deb9ea3ab3c0e1e36c949dcd9acdcc3"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/YomawariLost_VietHoa.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg"
     }
   ],
-  "seq": 1793795766,
+  "seq": 1793855369,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
