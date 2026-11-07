@@ -670,9 +670,9 @@
         "b1c26cb9e70702d2c42266f6c5fd8953"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BatmanArkhamCity_VietHoa_full5.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-city_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-city_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-city_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "batman-arkham-knight",
@@ -764,9 +764,9 @@
         "3b2e1abdcae5d1f34617fd32f0ec90cc"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BatmanArkhamKnight_VietHoa_test10_vhplug.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "big-brain-academy-brain-vs-brain",
@@ -2576,6 +2576,60 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knc_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "knythc2",
+      "title_id": "0100AD80208A8000",
+      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+      "mod_version": "v6",
+      "game_version": "2.0.1",
+      "tagline": "Tiếp bước Tanjiro qua Phố Đèn Đỏ, Làng Thợ Rèn và những trận đấu cùng các Trụ Cột.",
+      "developer": "CyberConnect2",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Đối kháng",
+        "Anime",
+        "Hành động"
+      ],
+      "description": [
+        "Phần hai của game đối kháng chuyển thể từ anime Thanh Gươm Diệt Quỷ, do CyberConnect2 làm với đồ hoạ như phim. Chế độ cốt truyện đi qua các arc Chuyến Tàu Vô Tận, Phố Đèn Đỏ và Làng Thợ Rèn, kèm các trận đối kháng với nhiều nhân vật, Trụ Cột và Thượng Huyền.",
+        "Bản Việt hoá dịch toàn bộ chữ trong game: hội thoại, giao diện, mô tả chiêu thức, trang bị và cốt truyện, giữ tên riêng và dùng tên chiêu thức đồng bộ với bản Việt hoá phần một."
+      ],
+      "highlights": [
+        {
+          "title": "Đồng bộ với phần một",
+          "text": "Tên hơi thở và chiêu thức dùng cùng cách gọi Hán-Việt như bản Việt hoá Hinokami Chronicles phần một."
+        },
+        {
+          "title": "Cài thư mục atmosphere",
+          "text": "Chép gộp thư mục atmosphere vào gốc thẻ SD. Đặt ngôn ngữ hệ thống là English để hiện tiếng Việt."
+        }
+      ],
+      "done": [
+        "Cốt truyện và hội thoại",
+        "Giao diện, menu, hướng dẫn",
+        "Mô tả chiêu thức, trang bị, nhiệm vụ"
+      ],
+      "kept": [
+        "Tên riêng nhân vật và địa danh",
+        "Phần lồng tiếng gốc",
+        "Chữ nằm trong ảnh (logo tiêu đề, một số hình giao diện)"
+      ],
+      "changelog": "v6: thêm credit Việt hoá ở nút eShop trên menu chính.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "7a1153cb39b76a52105f6dd5ee8303f39328440db8c02e591e6188ee1b54d79f",
+      "size": 766277,
+      "cd": "84be6945784ea471d9ff918b9fa0c396466fff46389d83d48a9108c445b672b5",
+      "fh": [
+        "75e7144577253917f6da7312ef5e585b",
+        "ebf895bdb6c9604f63adab8a9bce048b",
+        "d444b7d7ee727e6b9c8480b016eba994"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KNYTHC2_VietHoa_v6.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_bg.jpg"
     },
     {
       "id": "little-witch-in-the-woods",
@@ -5308,6 +5362,60 @@
       "mirrors": []
     },
     {
+      "id": "smbw",
+      "title_id": "010015100B514000",
+      "name": "Super Mario Bros. Wonder",
+      "mod_version": "full_v2",
+      "game_version": "1.2.1",
+      "tagline": "Mario và bạn bè phiêu lưu khắp Vương quốc Hoa với những Bông hoa Kỳ diệu.",
+      "developer": "Nintendo EPD",
+      "release": "20/10/2023",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Đi cảnh 2D"
+      ],
+      "description": [
+        "Mario cùng bạn bè đến Vương quốc Hoa, nơi Bông hoa Kỳ diệu biến đổi màn chơi theo những cách bất ngờ: ống cống biến thành sâu, cả màn chạy theo nhịp nhạc, hay Mario hoá thành voi. Có thể chơi một mình hoặc cùng bạn bè.",
+        "Bản Việt hoá dịch toàn bộ chữ trong game: menu, hội thoại, tên màn chơi, huy hiệu, vật phẩm và phần credit, kèm font có đủ dấu tiếng Việt. Đặt ngôn ngữ hệ thống Switch là English để dùng."
+      ],
+      "highlights": [
+        {
+          "title": "Font tiếng Việt có dấu",
+          "text": "Font của game được vá thêm glyph tiếng Việt, hiển thị đủ dấu trong menu lẫn hội thoại."
+        },
+        {
+          "title": "Cần bản cập nhật 1.2.1",
+          "text": "Bản Việt hoá làm cho game ở phiên bản 1.2.1. Hãy cập nhật game trước khi cài."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Hội thoại và chữ trong màn chơi",
+        "Tên màn chơi, huy hiệu, vật phẩm",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên nhân vật",
+        "Chữ nằm trong ảnh (logo thương hiệu)"
+      ],
+      "changelog": "full_v2: thêm credit Việt hoá ở màn Chọn Người Dùng.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "c56c487a851118391520118a90cd663acdabfe8d8fddba5d179faf650ff80fbe",
+      "size": 9709696,
+      "cd": "f561e8000c6ed8a6c7165d664328187cdd693f214df92a7f56e458f56b433d5b",
+      "fh": [
+        "b5426935efca35408d1066afd1c48ead",
+        "b0a3eb43712daf403b8e5ad1cef72581",
+        "b0a3eb43712daf403b8e5ad1cef72581"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SMBW_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_bg.jpg"
+    },
+    {
       "id": "snipperclips-cut-it-out-together",
       "title_id": "0100704000B3A000",
       "name": "Snipperclips: Cut It Out, Together!",
@@ -6001,7 +6109,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1794017451,
+  "seq": 1794065162,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
