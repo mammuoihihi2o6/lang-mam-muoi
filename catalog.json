@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 36,
-    "version": "M4",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M4.nro",
-    "sha256": "4fad800d3d4a08d74b2acd0ff40a802ec303347960f40f5b83b28286b1c54023",
-    "size": 14118860,
-    "notes": "Sửa lỗi gói Việt hoá của game có nhiều thư mục ID (ví dụ Assassin's Creed: The Rebel Collection kèm Rogue): app nay cài đủ các thư mục cùng game (…0001, …1001), gỡ và cập nhật đúng, không còn coi chúng là mod ngoài."
+    "build": 37,
+    "version": "M5",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M5.nro",
+    "sha256": "5e21b89e9696acb4b90c300505b43a317308dfb95d611820be7a83a81af0d829",
+    "size": 14057420,
+    "notes": "Mọi người đều dùng miễn phí toàn bộ: tải game hết tốc độ mạng (vừa tải vừa giải nén trong RAM, không còn giới hạn 1 MB/s), hiệu ứng đổi chủ đề, âm thanh và trò chơi Ủ Mắm. Tab Ủng Hộ gọn lại: nhập tên, quét mã QR chuyển khoản số tiền tuỳ tâm, rồi nhắn nhóm để lên Bảng Vinh Danh."
   },
   "mods": [
     {
@@ -1229,9 +1229,9 @@
         "0fe4771e5112d53a22ef1e5114f46d85"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DRAGONBALLSp_VietHoa_full_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbsz_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbsz_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbsz_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "deep-rock-galactic-survivor",
@@ -7108,7 +7108,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1794147521,
+  "seq": 1794148367,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
