@@ -152,9 +152,9 @@
         "063bded1aa4f1c09f166696f660b9a37"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/AMEDAMA_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/amedama_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/amedama_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/amedama_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "backpack-hero",
@@ -1007,9 +1007,9 @@
         "a0bd15cb48a40a06b9c8dd7419c91434"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BurnoutParadiseRemastered_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/burnout_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/burnout_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/burnout_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "card-shark",
@@ -1179,9 +1179,9 @@
         "04353993b41408c62b2e681840b40ea6"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ChainedBeasts_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chained-beasts_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chained-beasts_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chained-beasts_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "constance",
@@ -1514,9 +1514,9 @@
         "93d1b040051c8e3cae933e47a8311aa1"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DiceVaders_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicevaders_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicevaders_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dicevaders_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "dicey-dungeons",
@@ -1655,9 +1655,9 @@
         "6dba66a8b69949f2816da84320208563"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DonkeyKongCountryReturns_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dkc-returns_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dkc-returns_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dkc-returns_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "dq7r",
@@ -3012,9 +3012,9 @@
         "39e57c3e77506e1cb5efaac81225fb7d"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FloppyKnights_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/floppy_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/floppy_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/floppy_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "frostpunk",
@@ -3159,9 +3159,9 @@
         "9eaac74e9ab435581c926cd80097bf2e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Griftlands_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "hades",
@@ -3763,7 +3763,7 @@
       "id": "knythc2",
       "title_id": "0100AD80208A8000",
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-      "mod_version": "v6",
+      "mod_version": "v7",
       "game_version": "2.0.1",
       "tagline": "Tiếp bước Tanjiro qua Phố Đèn Đỏ, Làng Thợ Rèn và những trận đấu cùng các Trụ Cột.",
       "developer": "CyberConnect2",
@@ -3798,20 +3798,20 @@
         "Phần lồng tiếng gốc",
         "Chữ nằm trong ảnh (logo tiêu đề, một số hình giao diện)"
       ],
-      "changelog": "v6: thêm credit Việt hoá ở nút eShop trên menu chính.",
+      "changelog": "v7: sửa xưng hô Uzui với ba người vợ thành anh – em (hồi ức, danh ngôn, chương 12). v6: thêm credit Việt hoá ở nút eShop trên menu chính.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "7a1153cb39b76a52105f6dd5ee8303f39328440db8c02e591e6188ee1b54d79f",
-      "size": 766277,
-      "cd": "84be6945784ea471d9ff918b9fa0c396466fff46389d83d48a9108c445b672b5",
+      "sha256": "553b6340fd1a00286fee0209387de3af843177cb0b0cec86bbf89b176fd95f9f",
+      "size": 766267,
+      "cd": "7ea2bfcce0f18adb5970984a0b9c5ee9bc4ae8c4a8262f90d27d7aa5e3affd01",
       "fh": [
         "75e7144577253917f6da7312ef5e585b",
-        "ebf895bdb6c9604f63adab8a9bce048b",
-        "d444b7d7ee727e6b9c8480b016eba994"
+        "5ec3038a5beff442ad0ae88467d568bd",
+        "1d29c165ac46480c97df1e1497a878b8"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KNYTHC2_VietHoa_v6.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KNYTHC2_VietHoa_v7.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_bg.jpg"
     },
     {
       "id": "little-witch-in-the-woods",
@@ -3901,9 +3901,9 @@
         "fb1aaa9fc23bd308bf6f908483489b8c"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MarioSonicattheOlympicGamesTokyo2020_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-sonic-olympic_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-sonic-olympic_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-sonic-olympic_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "mario1",
@@ -4469,9 +4469,9 @@
         "00b686789072d5c5aac542ec29e72cf4"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MightyMorphinPowerRangersRitasRewind_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mighty-morphin_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mighty-morphin_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mighty-morphin_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "monopoly-for-nintendo-switch",
@@ -4607,9 +4607,9 @@
         "9cc1992077ad2f09eee8e7410fc4df0a"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MoonlightPeaks_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moonlight-peaks_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moonlight-peaks_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moonlight-peaks_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "moving-out-2",
@@ -4874,9 +4874,9 @@
         "510df4eae9c1fe0d1a42bef291de7dca"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OddBallers_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/oddballers_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/oddballers_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/oddballers_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "onepiece",
@@ -5062,9 +5062,9 @@
         "08e63fec47a189a1eba53ef996f13f05"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Peglin_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/peglin_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/peglin_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/peglin_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "persona4",
@@ -5103,9 +5103,9 @@
         "7fa680cf49bb7a8b9cc3bbb1e5cc4efd"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Persona4Golden_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/persona4_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/persona4_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/persona4_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "rabbids-vh-long-tieng",
@@ -5414,9 +5414,9 @@
         "d46e623f0484e67a705bbaeb8cd7be31"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RubberBandits_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rubber_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rubber_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rubber_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "sdv",
@@ -6786,9 +6786,9 @@
         "3901a1b8c966dbdc7156e6044085d306"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ShogunShowdown_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shogun_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shogun_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/shogun_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "shotgun-king-the-final-checkmate",
@@ -7069,9 +7069,9 @@
         "ba1b8f095e648fd0ece578f4f81da7d7"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TheStretchers_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/stretchers_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/stretchers_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/stretchers_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "tcgcardshop",
@@ -7194,9 +7194,9 @@
         "1a479c609495a20d7416d5ed159e0bfd"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TomodachiLifeLivingtheDream_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tomodachi_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tomodachi_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tomodachi_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "touryst",
@@ -7681,9 +7681,9 @@
         "e8175a7460454698bba5822da0d56b36"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WarioGetItTogether_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wario_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wario_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/wario_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "warioware-move-it",
@@ -7927,9 +7927,9 @@
         "3ed81fa912f57c12bb1f87371186d5ba"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TheWorldofKungfuDragonandEagle_VietHoa.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "yomawari",
@@ -7977,7 +7977,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1794151640,
+  "seq": 1794152971,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
