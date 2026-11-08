@@ -765,9 +765,9 @@
         "0a6bc360880dfb4a1a42c6092db2ba30"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BatmanArkhamKnight_VietHoa_test10_vhplug.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "big-brain-academy-brain-vs-brain",
@@ -1183,6 +1183,55 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "dbsz",
+      "title_id": "010035F022078000",
+      "name": "DRAGON BALL: Sparking! ZERO",
+      "mod_version": "full_v2",
+      "game_version": "2.0.76",
+      "tagline": "Hàng trăm chiến binh Dragon Ball tung chiêu trong những trận đấu đỉnh cao.",
+      "developer": "Spike Chunsoft",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Đối kháng",
+        "Anime",
+        "Hành động"
+      ],
+      "description": [
+        "DRAGON BALL: Sparking! ZERO là game đối kháng 3D với hơn 180 nhân vật xuyên suốt Dragon Ball Z, GT và Super. Chế độ Hành Trình kể lại cốt truyện từ góc nhìn nhiều nhân vật, có cả các nhánh \"nếu như\" mở khoá bằng lựa chọn.",
+        "Bản Việt hoá dịch toàn bộ giao diện, hướng dẫn, mô tả, thoại cốt truyện, phụ đề thoại trong trận và danh sách nhân sự, ghi vào ô ngôn ngữ tiếng Anh của game. Xưng hô được rà theo quan hệ nhân vật."
+      ],
+      "highlights": [
+        {
+          "title": "Xưng hô theo quan hệ nhân vật",
+          "text": "Goku, Piccolo, Vegeta và các nhân vật khác dùng đại từ riêng, đồng nhất theo từng mối quan hệ."
+        }
+      ],
+      "done": [
+        "Thoại cốt truyện (Hành Trình)",
+        "Phụ đề thoại trong trận",
+        "Giao diện, menu, hướng dẫn",
+        "Tên chiêu, kỹ năng, vật phẩm",
+        "Danh sách nhân sự"
+      ],
+      "kept": [
+        "Chữ nằm trong ảnh",
+        "Chữ trong video"
+      ],
+      "changelog": "Bản full_v2, chưa kiểm tra trên máy thật. Chọn ngôn ngữ English trong game để thấy tiếng Việt.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "7133ef0ec3b678bda5c288e936841b651f3006a586f70956b1653a1303b13772",
+      "size": 2025533,
+      "cd": "7ac2b6b0842f47488ef92a7b8bcb62526e31ae9de2e71b66c0697ddccc97f06f",
+      "fh": [
+        "0fe4771e5112d53a22ef1e5114f46d85"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DRAGONBALLSp_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbsz_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbsz_bg.jpg"
     },
     {
       "id": "deep-rock-galactic-survivor",
@@ -2416,9 +2465,9 @@
         "18f4a5cf3824320792ac5d79038e4aa9"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FHUR_VietHoa_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "fifa-23",
@@ -6791,9 +6840,9 @@
         "a282fe283296039037726deb666483b4"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/W3_VietHoa_full_v10_vhplug.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/w3_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/w3_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/w3_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "wargroove-2",
@@ -7059,7 +7108,7 @@
       "mirrors": []
     }
   ],
-  "seq": 1794133444,
+  "seq": 1794147521,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
