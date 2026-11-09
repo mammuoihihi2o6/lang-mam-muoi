@@ -2737,9 +2737,9 @@
         "3fbf2733d4af9a21365ea9ce3f47efb8"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FightsinTightSpaces_VietHoa_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_cover.f58119a3.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "fishing-star-world-tour",
@@ -3010,8 +3010,8 @@
       "id": "gk2",
       "title_id": "0100005027A18000",
       "name": "Graveyard Keeper 2",
-      "mod_version": "1.0.4",
-      "game_version": "1.0.4",
+      "mod_version": "1.0.5",
+      "game_version": "1.0.5",
       "tagline": "Quản lý nghĩa địa, nông trại và cả những chuyện dở khóc dở cười.",
       "developer": "Lazy Bear Games",
       "release": "",
@@ -3040,23 +3040,23 @@
         "Tên riêng, địa danh, vật phẩm",
         "The Keeper"
       ],
-      "changelog": "Tương thích bản cập nhật 1.0.4.",
+      "changelog": "Tương thích bản cập nhật 1.0.5.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "eab1fb8ae16440f36201848884b0fc1ead3c9a5bd4f805c27af846fba1d793b7",
-      "size": 30613569,
-      "cd": "f12444afd849ad7cc6f6d86a670c83fe95752780bfddd16f82cb7388b0c58031",
+      "sha256": "747f3b520836e3d18ee6f93621ed67b793b83f4366fdba3c57a7ed7695744cf1",
+      "size": 30617476,
+      "cd": "a22c1255a3d546e4baf208f842dac714be4be050886a5ae938ec6479068fc56f",
       "fh": [
         "cc950c089c03e13758f4c2092910fe35",
         "2a86791941b7aef82e95cb98be02ef27",
-        "05bf62eb4ff06e73bdf68c8d6759c540",
+        "94c4da4f2e173d2af95fc47d26d54194",
         "a59b8a26bb3e101b5d0f018bdc347ad5",
         "8edbe7e2fea1cc533230cfda94c6e32f",
         "6895d5d4f755d1b5a5acc85550e7c39e"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GraveyardKeeper2_VietHoa_v1.0.4.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GraveyardKeeper2_VietHoa_v1.0.5.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg"
     },
     {
       "id": "griftlands",
@@ -7770,8 +7770,8 @@
       "id": "welldweller",
       "title_id": "0100217023F6C000",
       "name": "Well Dweller",
-      "mod_version": "full_v1",
-      "game_version": "1.0.2",
+      "mod_version": "1.0.3",
+      "game_version": "1.0.3",
       "tagline": "Chú chim nhỏ cầm que diêm đi đốt mụ hoàng hậu độc ác.",
       "developer": "Kyle Thompson",
       "release": "",
@@ -7789,19 +7789,19 @@
         "Font tiếng Việt"
       ],
       "kept": [],
-      "changelog": "Tương thích bản cập nhật 1.0.2.",
+      "changelog": "Tương thích bản cập nhật 1.0.3.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "4ff983e59a97e81349728c0c258dc2c1eb3c9af8e63557845cbd3ceebd04ef45",
-      "size": 206018476,
-      "cd": "3ae9803ed139536de3afa924a0b70ffd12b73944f40cab3e3ac5a1846a41f13c",
+      "sha256": "24c4671360b0858786e30b3d130872273711a7a33b5bdf762772c77bd9f0e7e2",
+      "size": 205984601,
+      "cd": "4d96ee65eadb578a503427e5773f214a5765932ed07f134dccff83fc8f15936c",
       "fh": [
-        "5b00517ae5c49c2d6b8f295dc4ee770e",
-        "489b5a35641c3c4e053a6df2a19681da"
+        "6e18f9ef28c6a487d2d5312259762f97",
+        "94e736c5c45b27d7b37c915a569c13cf"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WellDweller_VHbyMammuoihihi.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WellDweller_VietHoa_v1.0.3.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg"
     },
     {
       "id": "wildfrost",
@@ -7920,9 +7920,9 @@
         "3ed81fa912f57c12bb1f87371186d5ba"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TheWorldofKungfuDragonandEagle_VietHoa_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_cover.990176c7.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_bg.3faa0bcc.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_bg.3faa0bcc.jpg",
+      "mirrors": []
     },
     {
       "id": "yomawari",
@@ -7971,11 +7971,11 @@
     }
   ],
   "notice": {
-    "id": "tb-2026-11-09-acrc-baotri",
-    "title": "ACRC đang bảo trì",
-    "text": "Bản Việt hoá Assassin's Creed: The Rebel Collection tạm thời được gỡ khỏi danh sách để bảo trì và cập nhật. Máy nào đã cài rồi vẫn dùng bình thường. Bản mới sẽ lên lại sớm, mong bạn thông cảm."
+    "id": "tb-2026-11-09-cap-nhat-gk2-wd",
+    "title": "Cập nhật bản Việt hoá",
+    "text": "Graveyard Keeper 2 (bản 1.0.5) và Well Dweller (bản 1.0.3) vừa có bản Việt hoá mới, tương thích với bản cập nhật của game. Vào tab Kho để cập nhật. Chúc bạn chơi vui!"
   },
-  "seq": 1794233874,
+  "seq": 1794236051,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
