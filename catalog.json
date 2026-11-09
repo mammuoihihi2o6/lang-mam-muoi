@@ -2691,7 +2691,7 @@
       "id": "fights-in-tight-spaces",
       "title_id": "0100126017B46000",
       "name": "Fights in Tight Spaces",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "Update 1.2.9501 + DLC",
       "tagline": "Roguelike deckbuilding kiểu John Wick: dùng bài tính từng bước di chuyển, biến góc hẹp...",
       "developer": "",
@@ -2711,21 +2711,13 @@
       ],
       "done": [],
       "kept": [],
-      "changelog": "Tương thích bản cập nhật 1.2.9501 + DLC.",
+      "changelog": "v2: dịch giả sửa lại một số chỗ dịch sai (cập nhật 03/11). Tương thích bản cập nhật 1.2.9501 + DLC.",
       "credit": "Việt hoá bởi Phùng Hồng Quân.",
-      "sha256": "77f49c61daa7f2823d2616bd094e468dd0194acdde6f88aab0ffddccc7462de0",
-      "size": 32272290,
-      "cd": "b58164b1432a67f97e2768dc3163a54d6e30dd75d155175f8840c5835e943e1a",
+      "sha256": "54664401404e781ce44cb6070ab7a03862623cdc97bd420064c2b29483324d4f",
+      "size": 32439345,
+      "cd": "91e32405a1f6210798fc978913da7f53e4b13ffdf441e81b04669c46f95a50bb",
       "fh": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "7bcf44096b3024d601acf0c415c26eef",
+        "9aa582b44727a749a9c84a3137a01c80",
         "05344966db01e3501e77b3c4f8c2dc25",
         "6123e22abae5ffb172b1a97656de2640",
         "3e6042ccffecbdb037745bdd51fbb944",
@@ -2744,10 +2736,10 @@
         "1e6b102c3de5c67c5dd417688c23b08f",
         "3fbf2733d4af9a21365ea9ce3f47efb8"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FightsinTightSpaces_VietHoa.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FightsinTightSpaces_VietHoa_v2.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_cover.f58119a3.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fights-in-tight-spaces_bg.jpg"
     },
     {
       "id": "fishing-star-world-tour",
@@ -6933,9 +6925,9 @@
         "b0a3eb43712daf403b8e5ad1cef72581"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SMBW_VietHoa_full_v5.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "snipperclips-cut-it-out-together",
@@ -7865,7 +7857,7 @@
       "id": "world-of-kungfu",
       "title_id": "010056202072A000",
       "name": "The World of Kungfu: Dragon and Eagle",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "Game 010056202072A000 + update 1.0.7",
       "tagline": "RPG võ hiệp thế giới mở, chiến đấu theo lượt, đồ hoạ pixel-art bối cảnh Nam Tống:",
       "developer": "ChillyRoom",
@@ -7888,11 +7880,11 @@
       ],
       "done": [],
       "kept": [],
-      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game trên Discord Làng Mắm Muối. Chưa thử trên máy thật; nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
+      "changelog": "v2: dịch nốt phần cutscene (cập nhật 09/11 của Bonano). Dùng cho game 010056202072A000 + update 1.0.7.",
       "credit": "Việt hoá bởi Bonano (port từ bản PC của Dâm Đồ Diệc Tu Tiên).",
-      "sha256": "03a51efb57114025652c0fbc0dcd511bfd0cd6d766e23fbf32249e8a7e8c63cb",
-      "size": 34305725,
-      "cd": "ee87bcb4de9fb503e373bb5568f2911c31f3e13f18768f46578ced62e41d5aec",
+      "sha256": "cbee3f0622e648a3ae50bb86ad2b7a5d21da8cf677ffa37b27bd56817099f2ed",
+      "size": 35064848,
+      "cd": "e4d67dccb24cb4be25dd4fe01b1a7ca9c7dde6c7400a46d47cc8f9d4b873e3c7",
       "fh": [
         "73451b009ee6634592abc4d04d8caf22",
         "ae6250999f85741a5808f8d06f545e98",
@@ -7921,15 +7913,16 @@
         "b510268726416754c87b7e9104d0376d",
         "c3b79d9b6c5d53abf53bc4b7e87c468d",
         "a1e075a074cdd78f45d2bfee82a4cf2b",
-        "5eb9f9b60ed80e175687326c4e6b1b99",
-        "84834cd3c452fbf99dc40efb645d7231",
+        "6d1018b6111e86074411e8a6e8c6526c",
+        "91e5b45abb4351e1de46fc6bbce6af62",
         "afd7d3ee1f3bedda2eba9ac94619d32e",
+        "8da514b874621890626c36ba074d8bd6",
         "3ed81fa912f57c12bb1f87371186d5ba"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TheWorldofKungfuDragonandEagle_VietHoa.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TheWorldofKungfuDragonandEagle_VietHoa_v2.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_cover.990176c7.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_bg.3faa0bcc.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/world-of-kungfu_bg.3faa0bcc.jpg"
     },
     {
       "id": "yomawari",
@@ -7982,7 +7975,7 @@
     "title": "ACRC đang bảo trì",
     "text": "Bản Việt hoá Assassin's Creed: The Rebel Collection tạm thời được gỡ khỏi danh sách để bảo trì và cập nhật. Máy nào đã cài rồi vẫn dùng bình thường. Bản mới sẽ lên lại sớm, mong bạn thông cảm."
   },
-  "seq": 1794231479,
+  "seq": 1794233874,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
