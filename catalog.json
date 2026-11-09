@@ -3809,9 +3809,9 @@
         "eb05c1f83535b4d431733ad8b5e606b6"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KOKL_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "little-witch-in-the-woods",
@@ -6887,7 +6887,7 @@
       "id": "smbw",
       "title_id": "010015100B514000",
       "name": "Super Mario Bros. Wonder",
-      "mod_version": "full_v2",
+      "mod_version": "full_v5",
       "game_version": "1.2.1",
       "tagline": "Mario và bạn bè phiêu lưu khắp Vương quốc Hoa với những Bông hoa Kỳ diệu.",
       "developer": "Nintendo EPD",
@@ -6922,20 +6922,20 @@
         "Tên nhân vật",
         "Chữ nằm trong ảnh (logo thương hiệu)"
       ],
-      "changelog": "full_v2: thêm credit Việt hoá ở màn Chọn Người Dùng.",
+      "changelog": "full_v5: sửa lỗi hiện dấu ? ở chữ tiêu đề, tên nhân vật, nhãn (timer, xu, điểm); font có đủ dấu tiếng Việt. Đặt ngôn ngữ hệ thống Switch là English.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "c56c487a851118391520118a90cd663acdabfe8d8fddba5d179faf650ff80fbe",
-      "size": 9709696,
-      "cd": "f561e8000c6ed8a6c7165d664328187cdd693f214df92a7f56e458f56b433d5b",
+      "sha256": "fc87174672326b60cd03a685e4be66cfa21ca849e9bbcf4fee627d9f8c8fb815",
+      "size": 9707259,
+      "cd": "669eb1d1762c6508bbf21f0edb3b6068084a50e187982d09eb5ee0f5251837ee",
       "fh": [
-        "b5426935efca35408d1066afd1c48ead",
+        "dcaf3ee13def1e0b995e6548d076a037",
         "b0a3eb43712daf403b8e5ad1cef72581",
         "b0a3eb43712daf403b8e5ad1cef72581"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SMBW_VietHoa_full_v2.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SMBW_VietHoa_full_v5.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/smbw_bg.jpg"
     },
     {
       "id": "snipperclips-cut-it-out-together",
@@ -7982,7 +7982,7 @@
     "title": "ACRC đang bảo trì",
     "text": "Bản Việt hoá Assassin's Creed: The Rebel Collection tạm thời được gỡ khỏi danh sách để bảo trì và cập nhật. Máy nào đã cài rồi vẫn dùng bình thường. Bản mới sẽ lên lại sớm, mong bạn thông cảm."
   },
-  "seq": 1794223664,
+  "seq": 1794231479,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
