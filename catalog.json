@@ -10,62 +10,6 @@
   },
   "mods": [
     {
-      "id": "acrc",
-      "title_id": "010044700DEB0000",
-      "name": "Assassin's Creed: The Rebel Collection",
-      "mod_version": "2.2",
-      "game_version": "1.0.0",
-      "tagline": "Hai cuộc đời hải tặc và sát thủ: Edward Kenway và Shay Cormac.",
-      "developer": "Ubisoft",
-      "release": "20/03/2019",
-      "translator": "Mammuoihihi",
-      "tags": [
-        "Hành động",
-        "Phiêu lưu",
-        "Cốt truyện"
-      ],
-      "description": [
-        "Assassin's Creed: The Rebel Collection gồm Assassin's Creed IV Black Flag cùng bản Freedom Cry (Aveline), và Assassin's Creed Rogue. Bạn vào vai hải tặc Edward Kenway giữa thời kỳ hoàng kim của cướp biển Caribe, rồi vào vai Shay Cormac, sát thủ quay lưng với Giáo Phái để săn lùng chính các Sát Thủ ở Bắc Đại Tây Dương.",
-        "Bản Việt hoá dịch launcher, Black Flag, Freedom Cry và Rogue (gần 98%), kèm font có đủ chữ Việt hoa và thường. Bản 2.2 vẽ lại toàn bộ glyph chữ Việt có dấu cho đều nét."
-      ],
-      "highlights": [
-        {
-          "title": "Cài thư mục atmosphere",
-          "text": "Xoá thư mục cũ 010044700DEB0000 và 010044700DEB0001 nếu đã cài bản trước, rồi chép gộp thư mục atmosphere vào gốc thẻ SD. Cần khoảng 3 GB trống."
-        },
-        {
-          "title": "Để ngôn ngữ English",
-          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy đặt ngôn ngữ hệ thống là English. Đừng giữ nút L khi mở game, vì sẽ tắt mod."
-        }
-      ],
-      "done": [
-        "Launcher, Black Flag, Freedom Cry: 100%",
-        "Rogue: gần 98%",
-        "Font đủ chữ Việt hoa và thường, đã vá đều nét ở bản 2.2"
-      ],
-      "kept": [
-        "Tên riêng (nhân vật, địa danh, tàu)",
-        "Phần lồng tiếng gốc"
-      ],
-      "changelog": "2.2: vẽ lại glyph chữ Việt có dấu (Ơ Ư Đ đ, dấu hỏi, ngã, nặng, chồng dấu) cùng cỡ, cùng đường cơ sở, nét đồng đều.",
-      "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "179691889e5b048062e0507a9c1fba2623f583f0d76da91717ff339ca067a2c2",
-      "size": 3058290518,
-      "cd": "b52d25ed81965704b6c8d3ad2b88f4155097e03641c9fd3b679fee2a04773e4d",
-      "fh": [
-        "49f025d5d75d40f1e762a9d551a435ee",
-        "aaeb9b8ec3cde053ea83ba4ddc2360f0",
-        "11c445def7629acdcde2302fd8b67930",
-        "34fde4e347abae47350c7641f450a36d",
-        "bc924fa45620eadaac72c3972bf32fb9",
-        "b4ccfede24eaab78bf5fad5c23a24d23"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v2.2b.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg",
-      "mirrors": []
-    },
-    {
       "id": "airoheart",
       "title_id": "01008BE0179BC000",
       "name": "Airoheart",
@@ -2690,9 +2634,9 @@
         "c3f7ed4300dae81ff7a7614db0325abd"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FHUR_VietHoa_full_v5.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "fifa-23",
@@ -3812,6 +3756,62 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/knythc2_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "kokl",
+      "title_id": "0100FFE0241AC000",
+      "name": "Knowledge, or know Lady",
+      "mod_version": "full_v1",
+      "game_version": "Base 1.0.0 + Update 1.1.3b",
+      "tagline": "Nam sinh duy nhất của một đại học nữ, sáu cô gái và những lựa chọn thay đổi cả câu chuyện.",
+      "developer": "蒸汽满满工作室",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Visual novel",
+        "Hẹn hò",
+        "Học đường"
+      ],
+      "description": [
+        "Knowledge, or know Lady là game tương tác quay bằng người thật, góc nhìn thứ nhất: bạn vào vai Lâm Phàm (Fan), nam sinh duy nhất của một đại học nữ, làm quen sáu cô gái tính cách khác nhau, chọn lời thoại, vượt QTE, tìm vật phẩm ẩn và mở nhiều kết cục.",
+        "Bản Việt hoá dịch toàn bộ phụ đề video (khoảng 5.900 câu), tin nhắn, lựa chọn, thành tựu, vật phẩm, hồ sơ nhân vật và giao diện. Dịch trực tiếp từ bản gốc tiếng Trung vì giọng nói trong video là tiếng Trung, bản tiếng Anh chỉ để tham khảo; chữ được ghi vào ô ngôn ngữ tiếng Anh của game."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch từ tiếng Trung",
+          "text": "Bám sát lời thoại gốc trong video, chuyển thể các câu chơi chữ sang tiếng Việt."
+        },
+        {
+          "title": "Font tiếng Việt đầy đủ",
+          "text": "Đã vá glyph tiếng Việt cho phụ đề, menu và các nút."
+        }
+      ],
+      "done": [
+        "Phụ đề toàn bộ video",
+        "Tin nhắn, lựa chọn, kết cục, thành tựu",
+        "Vật phẩm, hồ sơ nhân vật",
+        "Giao diện, menu"
+      ],
+      "kept": [
+        "Chữ nằm trong ảnh",
+        "Giọng nói trong video (tiếng Trung)"
+      ],
+      "changelog": "full_v1: bản đầu tiên, đã kèm credit. Trong game chọn ngôn ngữ English để thấy tiếng Việt. Dùng cho Base 1.0.0 kèm Update 1.1.3b.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "6e2ffca2b55b708520fe7f40853f15ed03f9ce30d06e640fc84a9fd1ca788f9c",
+      "size": 105828494,
+      "cd": "dae299d45e329b41623f2cbc2b9d212b85c673a08080bb5fefdbf5c02a03afff",
+      "fh": [
+        "2034e2218726cee51d88b3cc6af3ecfa",
+        "fa3dab97a0e0a2bf1e5608a68936908f",
+        "139eed7314dbef83ca2b69b0328a30f7",
+        "a8431ad817e696ea3d92bd56dc6d3cde",
+        "eb05c1f83535b4d431733ad8b5e606b6"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KOKL_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_bg.jpg"
     },
     {
       "id": "little-witch-in-the-woods",
@@ -7977,7 +7977,12 @@
       "mirrors": []
     }
   ],
-  "seq": 1794186433,
+  "notice": {
+    "id": "tb-2026-11-09-acrc-baotri",
+    "title": "ACRC đang bảo trì",
+    "text": "Bản Việt hoá Assassin's Creed: The Rebel Collection tạm thời được gỡ khỏi danh sách để bảo trì và cập nhật. Máy nào đã cài rồi vẫn dùng bình thường. Bản mới sẽ lên lại sớm, mong bạn thông cảm."
+  },
+  "seq": 1794223664,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
