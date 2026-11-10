@@ -10,6 +10,71 @@
   },
   "mods": [
     {
+      "id": "acrc",
+      "title_id": "010044700DEB0000",
+      "name": "Assassin's Creed: The Rebel Collection",
+      "mod_version": "4.4",
+      "game_version": "1.0.0",
+      "tagline": "Hai cuộc đời hải tặc và sát thủ: Edward Kenway và Shay Cormac.",
+      "developer": "Ubisoft",
+      "release": "20/03/2019",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Assassin's Creed: The Rebel Collection gồm Assassin's Creed IV Black Flag cùng bản Freedom Cry (Aveline), và Assassin's Creed Rogue. Bạn vào vai hải tặc Edward Kenway giữa thời kỳ hoàng kim của cướp biển Caribe, rồi vào vai Shay Cormac, sát thủ quay lưng với Hội Huynh đệ để săn lùng chính các Sát thủ ở Bắc Đại Tây Dương.",
+        "Bản 4.x làm lại từ đầu trên chữ tiếng Anh gốc của game: menu, HUD, nhiệm vụ, thư và lore, thử thách, sổ tay, và toàn bộ phụ đề hội thoại của Black Flag, Freedom Cry và Rogue được dịch lại tay. Mọi thứ nạp qua plugin, không sửa file game."
+      ],
+      "highlights": [
+        {
+          "title": "Gỡ bản cũ trước khi cài",
+          "text": "Xoá thư mục 010044700DEB0000 và 010044700DEB0001 nếu đã cài bản 2.x hoặc bản khác, rồi chép gộp thư mục atmosphere vào gốc thẻ SD. Cần Atmosphere có LayeredFS."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy đặt ngôn ngữ trong game là English. Đừng giữ nút L khi mở game, vì sẽ tắt mod."
+        }
+      ],
+      "done": [
+        "Menu, HUD, nhiệm vụ, thư, lore, thử thách, sổ tay",
+        "Phụ đề Black Flag, Freedom Cry, Rogue: dịch lại tay 100%",
+        "Font chữ Việt Unicode đầy đủ dấu, nạp qua plugin"
+      ],
+      "kept": [
+        "Tên riêng (nhân vật, địa danh, tàu), tên vũ khí và vật phẩm",
+        "Lời bài hát thủy thủ, câu tiếng Pháp/Tây Ban Nha/Latin trong game",
+        "Phần lồng tiếng gốc, chữ trong ảnh và video"
+      ],
+      "changelog": "4.4: làm lại từ đầu, dịch lại tay toàn bộ phụ đề Black Flag, Freedom Cry và Rogue, sửa xưng hô và thuật ngữ, gói nhẹ còn khoảng 40 MB. Cần xoá thư mục bản cũ trước khi cài.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "65f419b194c00d12f14535ced02991b0cd7c4e3ce9b1602e6571b3292e8905d4",
+      "size": 39233907,
+      "cd": "4f9a5adc1638beb0b7246729750e0d6a6afec17546b8b0f7138d856863a8ea50",
+      "fh": [
+        "",
+        "",
+        "",
+        "",
+        "63110e7b6e000107976c2d179c8d7c12",
+        "4e1e8092ae95fa07890e64ecb31e8230",
+        "9caef16e8ff0d8e314b3c5c9cb8737b7",
+        "e8e7afcc8c940c86a09e0f958559d185",
+        "",
+        "ff4c027505d6b33d0276036cdcbec369",
+        "4e1e8092ae95fa07890e64ecb31e8230",
+        "58599fd11f61fdef43c22276f326e35f",
+        "823e32e0d29cf0b5c30e7f27b79dca35",
+        "cc858794cf1f4d4825043a40b1d642bf"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v4.4.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg"
+    },
+    {
       "id": "airoheart",
       "title_id": "01008BE0179BC000",
       "name": "Airoheart",
@@ -3592,9 +3657,9 @@
         "537041710434431b24254fe8d3072a66"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GGS_VietHoa_test6.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ggs_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ggs_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ggs_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "gk2",
@@ -7705,9 +7770,9 @@
         "cc705ecebdd599602874719a91c85a2e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Survivalists_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/survivalists_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/survivalists_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/survivalists_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "tcgcardshop",
@@ -7932,6 +7997,80 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "va11-hall-a",
+      "title_id": "0100A6700D66E000",
+      "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "mod_version": "full_v1",
+      "game_version": "",
+      "tagline": "Pha rượu, lắng nghe khách và thay đổi cuộc đời họ ở quán bar nhỏ giữa Glitch City.",
+      "developer": "Sukeban Games",
+      "release": "02/05/2019",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Visual novel",
+        "Cốt truyện",
+        "Cyberpunk"
+      ],
+      "description": [
+        "VA-11 Hall-A là visual novel cyberpunk: bạn vào vai Jill, cô bartender ở quán VA-11 Hall-A tồi tàn giữa Glitch City, nơi các tập đoàn và lực lượng White Knights nắm quyền. Mỗi đêm bạn pha rượu theo yêu cầu của khách, và chính ly rượu bạn pha quyết định câu chuyện họ sẽ kể.",
+        "Bản Việt hoá dịch toàn bộ thoại cốt truyện, các đoạn kết, phần mở rộng của bản 1.2 và giao diện, ghi vào ô tiếng Anh của game."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn ngôn ngữ English trong game."
+        }
+      ],
+      "done": [
+        "Thoại cốt truyện tất cả các ngày, các đoạn kết",
+        "Nội dung bổ sung bản 1.2",
+        "Giao diện, hướng dẫn"
+      ],
+      "kept": [
+        "Tên đồ uống và nguyên liệu",
+        "Chữ nằm trong ảnh"
+      ],
+      "changelog": "full_v1: bản đầu tiên. Trong game chọn ngôn ngữ English để thấy tiếng Việt.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "f4d14d83ca5ca48c570327e04c5c435516ba53d66c48fe6e9fd7376a72049328",
+      "size": 12753425,
+      "cd": "a10fa0779e862d96c82a9823b9f629a458d851dc4be153803246a080512ef637",
+      "fh": [
+        "de7be235af13e93761739c89cf523081",
+        "75bd2c3e9ddc40be23d66f3c69f30314",
+        "aa66ef0053a04da4c92a57bfb5962804",
+        "c5af78783efca52bf89b776c13b34b6c",
+        "1aa06471eaa1bbd317ff35bb8c6ca1d8",
+        "98f582b20558fc2566006b214e9c9c75",
+        "314052413616b655d8ab6a14dac5b661",
+        "96c43ce2135814b65c8b5eeb5381fcf9",
+        "f2104b4a9204eefcf590f784564dbdb5",
+        "2f893c04c16d3c05365ed0f3c878e108",
+        "fedcd955b683c02771270acb9f7f11f9",
+        "a817d029a680b5347ae8af109180aa4b",
+        "c1a571f8f96fd90f6771c668e2652a5d",
+        "c2ccda1995309374a6374d1c4202f716",
+        "b09b775d6453911f192e099514f91db4",
+        "d680c561ce650dcff93d99af312e5bd2",
+        "04f7f3d64e0cbb93a2fae2fc3aba0465",
+        "16dc10cb66667532c37333e9d16833d4",
+        "6beb64890a30a9c790d3a1c724d4891b",
+        "40a815d66b96e97188b39e1857504fab",
+        "aca513cf943ec5ae1fdd54de66b2eefa",
+        "6d6c4de23d6786e6dbe6c3ce5917ad3e",
+        "b26a9406e8c448689ea1a1d4183f09d5",
+        "4db5fbccd5eb7044d78b0ef513c661a5",
+        "c67f1a0fb4f58399ff97527175dc2760",
+        "efb9dcfd776d27bce90725442a055074",
+        "4d2afb809f0a59c2219d2c7cc2e38abf",
+        "27bf93bc0ec71d6f7bcff04c8c64a359"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/V11HA_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg"
     },
     {
       "id": "vampire-crawlers",
@@ -8619,7 +8758,7 @@
     "title": "Cập nhật bản Việt hoá",
     "text": "Graveyard Keeper 2 (bản 1.0.5) và Well Dweller (bản 1.0.3) vừa có bản Việt hoá mới, tương thích với bản cập nhật của game. Vào tab Kho để cập nhật. Chúc bạn chơi vui!"
   },
-  "seq": 1794299309,
+  "seq": 1794323429,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
