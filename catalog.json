@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 38,
-    "version": "M6",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M6.nro",
-    "sha256": "e8b5660476eb6518cdd7113e2bae2bc70f52b1dc2fdea6e5db1883ef6a6ee978",
-    "size": 14061516,
-    "notes": "Tab Ủng Hộ có thêm nút Tạo mã yêu cầu dành cho người góp vốn sáng lập: gửi mã cho admin để được ghi tên Sáng Lập trên Bảng Vinh Danh."
+    "build": 39,
+    "version": "M7",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M7.nro",
+    "sha256": "8cccb920bf30980ea443925815fa4a2cdebb0e4eaf3fe06e1c7a4be5ea6eaada",
+    "size": 14182696,
+    "notes": "Bảng Vinh Danh có danh hiệu mới BIGCAT (kèm logo shop) dành cho người mua máy Switch tại shop BIGCAT Game Store."
   },
   "mods": [
     {
@@ -3054,9 +3054,9 @@
         "6895d5d4f755d1b5a5acc85550e7c39e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GraveyardKeeper2_VietHoa_v1.0.5.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "griftlands",
@@ -7799,9 +7799,9 @@
         "94e736c5c45b27d7b37c915a569c13cf"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WellDweller_VietHoa_v1.0.3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/welldweller_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "wildfrost",
@@ -7975,7 +7975,7 @@
     "title": "Cập nhật bản Việt hoá",
     "text": "Graveyard Keeper 2 (bản 1.0.5) và Well Dweller (bản 1.0.3) vừa có bản Việt hoá mới, tương thích với bản cập nhật của game. Vào tab Kho để cập nhật. Chúc bạn chơi vui!"
   },
-  "seq": 1794236051,
+  "seq": 1794296812,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
