@@ -1768,7 +1768,7 @@
       "id": "ffmobw",
       "title_id": "0100BEB015604000",
       "name": "FATAL FRAME: Maiden of Black Water",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "",
       "tagline": "Cầm Camera Obscura xuống Núi Hikami, chụp những oan hồn ẩn trong dòng Nước Đen.",
       "developer": "Koei Tecmo Games",
@@ -1803,11 +1803,11 @@
         "Tên chiêu chụp, vật phẩm và ống kính",
         "Chữ Nhật trong ảnh, FMV có chữ cứng"
       ],
-      "changelog": "Bản đầu tiên: dịch toàn bộ chữ trong game và vẽ lại ảnh menu bằng tiếng Việt.",
+      "changelog": "v2: thêm dòng credit Việt hoá ở màn hình chính và cuối phần credit.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "36be60df0c653d3e0fef21bc3b514b21cd44c7bfb7cded8cc34268577bd2722f",
-      "size": 50250495,
-      "cd": "29f23cc6a2e94040ae3d25cea6de6b5ec3ee6c498de8c2a931e4e6b182a54954",
+      "sha256": "7f3ae02587f792d16c0fc97ffabc87d928f02c665bdc7f3e54d74c59d43c5ac2",
+      "size": 50269283,
+      "cd": "a455a2ffd1511017f0fe1acaf74ad43c8ad850352216919f5c0609c02378e9a3",
       "fh": [
         "7d3c79407b3ea253fb9863f383e0f11f",
         "e5bdaa9cf0352ecad45f170e6f4589a9",
@@ -1849,9 +1849,9 @@
         "642e36efb4ed1f35d4c35e66ed24ad2f",
         "33906c0e3c252fb04aa4bbd640840688",
         "4f375fe9d9bcb1f4369dd774ee787f89",
-        "489e544afd7c784835f56a3c62e73473",
-        "ab87e13b024049eb9822c8a3a6abdb84",
-        "71466bbb41b8f8fdcb101a437b19bb0a",
+        "dd674c6ab0f76a8fd04ccfcd57114c4b",
+        "d6d85d5fd8f87617da2f05e5716aef2a",
+        "890371a273aaf3b06371deb025c7cea3",
         "875328671683d5a3d3b798f0e0be63cc",
         "706ef88d1ff3d2212de35524d26b4f95",
         "706ef88d1ff3d2212de35524d26b4f95",
@@ -1931,7 +1931,7 @@
         "34b1098b03b5f7426031e7ec1791e3ea",
         "9c01b588eddc64b8d6c8386d74cf8201",
         "9a2d5d7ef9255667e0b8006001c3a7f8",
-        "dafb69d33402ae84bb2fefc53cfb67fc",
+        "b7ea3635746f5b059316ff0e8007b4b9",
         "e25464ccbedd27b2f7f8b13741c5067d",
         "cb0a9fff6ba5ddfeb532308d0109c6f1",
         "41d4dbe7daf2cf04a2db4ac316fa799c",
@@ -2035,7 +2035,7 @@
         "34b1098b03b5f7426031e7ec1791e3ea",
         "9e438104ae4b3302bed6b94ade612846",
         "9a2d5d7ef9255667e0b8006001c3a7f8",
-        "dafb69d33402ae84bb2fefc53cfb67fc",
+        "b7ea3635746f5b059316ff0e8007b4b9",
         "e25464ccbedd27b2f7f8b13741c5067d",
         "21d94e68bc6ce436ddd04ed9aed6e92b",
         "b235d2737510024405ba2657910c1819",
@@ -2139,7 +2139,7 @@
         "34b1098b03b5f7426031e7ec1791e3ea",
         "f4236944a0289fef01997cee2c74b0e6",
         "9a2d5d7ef9255667e0b8006001c3a7f8",
-        "534693f9b2e6293e1d3766865f55d875",
+        "b6774ae90018bb4033918ed372254969",
         "e25464ccbedd27b2f7f8b13741c5067d",
         "62b03cc0ee4daad03026fd730ffbb12b",
         "b62f23687ad1d57d8ecc65fa9afc5661",
@@ -2243,7 +2243,7 @@
         "34b1098b03b5f7426031e7ec1791e3ea",
         "d420bcd58a665109348fb04c6649c269",
         "9a2d5d7ef9255667e0b8006001c3a7f8",
-        "dafb69d33402ae84bb2fefc53cfb67fc",
+        "b7ea3635746f5b059316ff0e8007b4b9",
         "e25464ccbedd27b2f7f8b13741c5067d",
         "a6639edd2e3bb20d3446ae33a0a605cf",
         "1020d16ccdfc570b5641d15409716811",
@@ -2291,7 +2291,7 @@
         "24200e67fbf3b063a6a43efca81d325a",
         "2543fd7397be91536ced271067183d8a"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFMOBW_VietHoa_v1.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFMOBW_VietHoa_v2.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffmobw_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffmobw_bg.jpg"
@@ -3166,9 +3166,9 @@
         "c3f7ed4300dae81ff7a7614db0325abd"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FHUR_VietHoa_full_v8.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fhur_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "fifa-23",
@@ -8507,7 +8507,7 @@
     "title": "Cập nhật bản Việt hoá",
     "text": "Graveyard Keeper 2 (bản 1.0.5) và Well Dweller (bản 1.0.3) vừa có bản Việt hoá mới, tương thích với bản cập nhật của game. Vào tab Kho để cập nhật. Chúc bạn chơi vui!"
   },
-  "seq": 1794298118,
+  "seq": 1794298640,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
