@@ -3539,6 +3539,64 @@
       "mirrors": []
     },
     {
+      "id": "ggs",
+      "title_id": "01002F402071A000",
+      "name": "Guilty Gear -Strive-",
+      "mod_version": "test6",
+      "game_version": "1.08",
+      "tagline": "Đối kháng 2.5D của Arc System Works: Sol Badguy, Ky Kiske và cuộc chiến với Chiến Thần Nagoriyuki.",
+      "developer": "Arc System Works",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Đối kháng",
+        "Hành động",
+        "Anime"
+      ],
+      "description": [
+        "Guilty Gear -Strive- là game đối kháng của Arc System Works với đồ hoạ 3D mô phỏng nét vẽ 2D, bộ nhân vật cá tính và chế độ cốt truyện dài như một bộ phim.",
+        "Bản Việt hoá thử nghiệm dịch giao diện, menu, Command List, nhiệm vụ, thoại Arcade, thoại trước trận và toàn bộ cốt truyện (Story main và Another Story), kèm font có đủ dấu tiếng Việt. Trong game đặt ngôn ngữ là ENGLISH để dùng."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch cả cốt truyện",
+          "text": "Toàn bộ Story main và Another Story đã được dịch, xưng hô theo từng nhân vật."
+        },
+        {
+          "title": "Đặt ngôn ngữ English",
+          "text": "Bản Việt hoá ghi đè lên ô tiếng Anh. Vào Option chọn ngôn ngữ English để thấy tiếng Việt."
+        },
+        {
+          "title": "Đang hoàn thiện",
+          "text": "Một số phần còn tiếng Anh (Thư viện, Niên biểu, Quan hệ, một phần chuỗi phụ). Sẽ cập nhật dần."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Command List",
+        "Thoại Arcade và trước trận",
+        "Toàn bộ cốt truyện",
+        "Font tiếng Việt có dấu"
+      ],
+      "kept": [
+        "Tên chiêu thức, tên vật phẩm, tên nhân vật",
+        "Thư viện, Niên biểu, Quan hệ (GG World)",
+        "Chữ nằm trong ảnh"
+      ],
+      "changelog": "test6: thêm credit Việt hoá ở mục Credit trong Option; dịch thêm giao diện và cốt truyện. Bản thử nghiệm, đặt ngôn ngữ ENGLISH trong game.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "2c28de93d7c745da310a497f50d48eab974e0f57369cb91c917adf0e9eb31cdf",
+      "size": 19441812,
+      "cd": "271e29fcf1032efc7ec487437cb4d9a01b31cfd7b5f5d98eb472973ba50ae8c3",
+      "fh": [
+        "537041710434431b24254fe8d3072a66"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GGS_VietHoa_test6.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ggs_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ggs_bg.jpg"
+    },
+    {
       "id": "gk2",
       "title_id": "0100005027A18000",
       "name": "Graveyard Keeper 2",
@@ -8561,7 +8619,7 @@
     "title": "Cập nhật bản Việt hoá",
     "text": "Graveyard Keeper 2 (bản 1.0.5) và Well Dweller (bản 1.0.3) vừa có bản Việt hoá mới, tương thích với bản cập nhật của game. Vào tab Kho để cập nhật. Chúc bạn chơi vui!"
   },
-  "seq": 1794299116,
+  "seq": 1794299309,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
