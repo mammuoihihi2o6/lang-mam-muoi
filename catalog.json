@@ -2292,9 +2292,9 @@
         "2543fd7397be91536ced271067183d8a"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FFMOBW_VietHoa_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffmobw_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffmobw_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ffmobw_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "ffr",
@@ -7598,6 +7598,60 @@
       "mirrors": []
     },
     {
+      "id": "survivalists",
+      "title_id": "0100EF200DA60000",
+      "name": "The Survivalists",
+      "mod_version": "full_v1",
+      "game_version": "Base 1.0.0 + Update 1.0.10",
+      "tagline": "Mắc kẹt trên hòn đảo hoang, bạn chế tạo, xây căn cứ và sai khiến cả đàn khỉ biết bắt chước.",
+      "developer": "Team17",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Sinh tồn",
+        "Co-op",
+        "Hài hước"
+      ],
+      "description": [
+        "The Survivalists là game sinh tồn hài hước của Team17: bạn bị đắm tàu trên một hòn đảo đầy Orc, ma cướp biển và totem biết nói. Chặt cây, chế tạo, xây căn cứ, thuần hoá thú, và quan trọng nhất là huấn luyện đàn khỉ bắt chước mọi việc bạn làm. Có thể chơi cùng bạn bè.",
+        "Bản Việt hoá dịch toàn bộ giao diện, hướng dẫn, mẹo, nhiệm vụ bản đồ kho báu, nhật ký lore của các nhân vật lập dị (cướp biển, ma cà rồng, viking, samurai…), thoại của khỉ, Orc, totem, thành tựu, sổ quái vật và cả DLC Frostbite Fortress. Chữ được ghi vào ô ngôn ngữ tiếng Anh của game."
+      ],
+      "highlights": [
+        {
+          "title": "Giọng riêng từng nhân vật",
+          "text": "Mỗi trang nhật ký lore có giọng riêng: thuyền trưởng cướp biển, ma cà rồng kịch tính, giám đốc kinh doanh, viên đại đội trưởng mê thủ tục."
+        },
+        {
+          "title": "Dịch cả DLC Frostbite Fortress",
+          "text": "Gồm nhiệm vụ, thoại và credits của DLC; tên vật phẩm giữ nguyên tiếng Anh để dễ nhận biết."
+        }
+      ],
+      "done": [
+        "Giao diện, menu, hướng dẫn, mẹo",
+        "Nhật ký lore, bản đồ kho báu, nhiệm vụ",
+        "Thoại khỉ, Orc, totem, người lạ bán hàng",
+        "Thành tựu, sổ quái vật, DLC Frostbite Fortress"
+      ],
+      "kept": [
+        "Tên vật phẩm, công trình, tên vùng (giữ tiếng Anh)",
+        "Chữ nằm trong ảnh"
+      ],
+      "changelog": "full_v1: bản đầu tiên, đã kèm credit. Trong game chọn ngôn ngữ English để thấy tiếng Việt. Dùng cho Base 1.0.0 kèm Update 1.0.10.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "0bf9689250d52e6cea1d7d2e58cb6d353b8887dcb7a248abfe664543769e22be",
+      "size": 23988894,
+      "cd": "c7a3237faeddcb010e8fc49885baef628086c6d20725483c77a31bf4d0329beb",
+      "fh": [
+        "f7d5a68d3e52cc69861654a21ac2a756",
+        "78891565d4cae6a790d4a58af9fe4fa6",
+        "cc705ecebdd599602874719a91c85a2e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Survivalists_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/survivalists_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/survivalists_bg.jpg"
+    },
+    {
       "id": "tcgcardshop",
       "title_id": "010079D02773C000",
       "name": "TCG Card Shop Simulator",
@@ -8507,7 +8561,7 @@
     "title": "Cập nhật bản Việt hoá",
     "text": "Graveyard Keeper 2 (bản 1.0.5) và Well Dweller (bản 1.0.3) vừa có bản Việt hoá mới, tương thích với bản cập nhật của game. Vào tab Kho để cập nhật. Chúc bạn chơi vui!"
   },
-  "seq": 1794298640,
+  "seq": 1794299116,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
