@@ -7683,6 +7683,55 @@
       "mirrors": []
     },
     {
+      "id": "sonic-racing-crossworlds",
+      "title_id": "01006E001823C000",
+      "name": "Sonic Racing: CrossWorlds",
+      "mod_version": "full_v2",
+      "game_version": "1.43",
+      "tagline": "Sonic và hội bạn đua xe xuyên qua các thế giới, đổi đường đua giữa chừng qua Vòng Du Hành.",
+      "developer": "SEGA / Sonic Team",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Đua xe",
+        "Hành động",
+        "Nhiều người chơi"
+      ],
+      "description": [
+        "Sonic Racing: CrossWorlds là game đua xe tốc độ cao: hơn 20 tay đua từ thế giới Sonic lái xe, thuyền, máy bay, xuyên qua Vòng Du Hành sang những CrossWorld khác nhau ngay giữa cuộc đua, dùng vật phẩm và tiện ích để giành hạng nhất trong Giải đua lớn, Đua tính giờ, Công viên đua và Lễ hội trực tuyến.",
+        "Bản Việt hoá dịch toàn bộ giao diện, hướng dẫn, mô tả vật phẩm và tiện ích, danh hiệu, cùng phụ đề lời thoại của mọi tay đua với xưng hô riêng cho từng nhân vật; 4 font DIN của game đã được thêm đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Thoại từng tay đua",
+          "text": "Hơn 8.800 câu: lời khiêu khích trước trận, bình luận viên, Dodon Pa, menu và mẹo chơi."
+        }
+      ],
+      "done": [
+        "Giao diện, menu, tùy chọn, mẹo chơi",
+        "Vật phẩm, tiện ích, luật đua, thành tích, danh hiệu",
+        "Phụ đề thoại của mọi tay đua và bình luận viên"
+      ],
+      "kept": [
+        "Tên nhân vật, tên đường đua, tên xe (giữ tiếng Anh)",
+        "Tên thương hiệu trên hình dán, tên bài hát",
+        "Chữ vẽ trong ảnh, nội dung DLC"
+      ],
+      "changelog": "full_v2: bản đầy đủ đầu tiên (game 1.43). Trong game chọn ngôn ngữ chữ Tiếng Việt (ô English cũ). Chưa thử trên máy thật.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "75ac25dbe2465db1bd4ad4e6c9dc51953c3e3ed092f737fb0ca19313d86051db",
+      "size": 579515,
+      "cd": "ece74f0415bce38789286848c1a1e41ea8324919128ed559787b30e5db358e92",
+      "fh": [
+        "17c558656c3e30f931c3bd2ffd894b89",
+        "203930fb2976731219e650552a363521"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SonicRacingCrossWorlds_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg"
+    },
+    {
       "id": "splatoon-3",
       "title_id": "0100C2500FC20000",
       "name": "Splatoon 3",
@@ -8122,9 +8171,9 @@
         "27bf93bc0ec71d6f7bcff04c8c64a359"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/V11HA_VietHoa_full_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "vampire-crawlers",
@@ -8812,7 +8861,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794394896,
+  "seq": 1794406314,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
