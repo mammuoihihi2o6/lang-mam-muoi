@@ -70,9 +70,9 @@
         "cc858794cf1f4d4825043a40b1d642bf"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ACRC_VietHoa_v4.4.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/acrc_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "airoheart",
@@ -824,6 +824,56 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "bear-and-breakfast",
+      "title_id": "0100E700114D6000",
+      "name": "Bear and Breakfast",
+      "mod_version": "full_v2",
+      "game_version": "1.8.29",
+      "tagline": "Gấu Hank sửa nhà hoang thành nhà nghỉ, đón khách người giữa rừng già.",
+      "developer": "Gummy Cat",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Quản lý",
+        "Thư giãn",
+        "Phiêu lưu"
+      ],
+      "description": [
+        "Bear and Breakfast là game quản lý nhà nghỉ thư giãn: chú gấu Hank cùng bạn bè sửa sang những căn nhà bỏ hoang, xây phòng, nấu ăn và đón khách là Con người, trong khi dần hé lộ bí ẩn về các vị thần và vì sao loài người rời khỏi Thung lũng.",
+        "Bản Việt hoá dịch toàn bộ hội thoại, nhiệm vụ, hướng dẫn, truyện tranh và giao diện, giữ giọng hài hước của game; font đã được thêm đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch trọn cốt truyện",
+          "text": "Hơn 7.800 câu thoại, nhiệm vụ và truyện tranh, chơi chữ được Việt hoá."
+        }
+      ],
+      "done": [
+        "Toàn bộ hội thoại",
+        "Nhiệm vụ, hướng dẫn, truyện tranh",
+        "Giao diện, menu, thành tựu"
+      ],
+      "kept": [
+        "Tên đồ nội thất, vật liệu, món ăn (giữ tiếng Anh)",
+        "Chữ vẽ trong ảnh"
+      ],
+      "changelog": "full_v2: bản đầy đủ đầu tiên. Trong game chọn ngôn ngữ TIẾNG VIỆT (ô English cũ). Chưa thử trên máy thật.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "e617499a7a165f50b86b0d17b0f8e48eed9b74bb687d7d8480ce8aa21dbcfe87",
+      "size": 105019754,
+      "cd": "40ae35361e040359570e70c19ec788e657e454a7ae5223ec1310ac9b62f717ae",
+      "fh": [
+        "d33829a06bd284bd7c9e40994ec19ca3",
+        "2328d5b559eb24839fd8afcc99dd19bb",
+        "53deb6c64383a00cc3e490c36c308347",
+        "c288d8674d49b3d75511cc0d3affd551"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BearBreakfast_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bearbreakfast_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bearbreakfast_bg.jpg"
     },
     {
       "id": "big-brain-academy-brain-vs-brain",
@@ -8068,9 +8118,9 @@
         "27bf93bc0ec71d6f7bcff04c8c64a359"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/V11HA_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "vampire-crawlers",
@@ -8758,7 +8808,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794323572,
+  "seq": 1794370254,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
