@@ -1336,6 +1336,59 @@
       "mirrors": []
     },
     {
+      "id": "creepy-tale-snow-child",
+      "title_id": "0100FAB02A21E000",
+      "name": "Creepy Tale: Snow Child",
+      "mod_version": "full_v2",
+      "game_version": "1.0.1",
+      "tagline": "Cậu bé có sừng Blizzy xuống tận Địa ngục để cứu mẹ.",
+      "developer": "Creepy Brothers",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Kinh dị",
+        "Giải đố",
+        "Phiêu lưu"
+      ],
+      "description": [
+        "Creepy Tale: Snow Child là game phiêu lưu giải đố kinh dị vẽ tay theo kiểu truyện cổ tích. Blizzy, cậu bé có hai chiếc sừng nhỏ được Furry nuôi lớn giữa rừng tuyết, lỡ tay phá phong ấn dưới tầng hầm rồi phải xuống tận Địa ngục, qua thành Venice của lễ hội hoá trang, đến lâu đài hoàng gia để đối mặt với mụ phù thuỷ Ingrid.",
+        "Bản Việt hoá dịch toàn bộ thoại, ghi chú người kể chuyện, nhiệm vụ, vật phẩm và giao diện, giữ giọng cổ tích vừa rợn vừa hài; 4 font gốc của game được thêm đủ dấu tiếng Việt, biển chữ trong game được vẽ lại."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch trọn cốt truyện",
+          "text": "Hơn 2.100 câu thoại, ghi chú và nhiệm vụ, xưng hô theo từng nhân vật."
+        },
+        {
+          "title": "Giữ font gốc",
+          "text": "Font viết tay của game được thêm dấu tiếng Việt, không đổi phong cách."
+        }
+      ],
+      "done": [
+        "Toàn bộ hội thoại và ghi chú",
+        "Nhiệm vụ, vật phẩm, hướng dẫn",
+        "Giao diện, menu, credit",
+        "Biển chữ \"Bướm của Ingrid\""
+      ],
+      "kept": [
+        "Logo tên game (giữ tiếng Anh)",
+        "Lồng tiếng (tiếng Anh/Nga)"
+      ],
+      "changelog": "full_v2: bản đầy đủ đầu tiên, credit Việt hoá ở menu chính. Trong game chọn ngôn ngữ TIẾNG VIỆT (ô English cũ). Cần bản cập nhật 1.0.1. Chưa thử trên máy thật.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "8e6534495c175e25b38924253160140a6974af0e9b6811670b194ed4b8aabe6b",
+      "size": 27114332,
+      "cd": "6f681721591fa81a1a5ac9214efe68c7421783169919e6afed06c62faa05690a",
+      "fh": [
+        "bb8d467a8991c00e6fb19bf2c6d79ba9",
+        "b2e6d087dd61d6cd823313827a22c1a0"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CTSC_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ctsc_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ctsc_bg.jpg"
+    },
+    {
       "id": "d3",
       "title_id": "01001B300B9BE000",
       "name": "Diablo III: Eternal Collection",
@@ -7727,9 +7780,9 @@
         "203930fb2976731219e650552a363521"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SonicRacingCrossWorlds_VietHoa_full_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "splatoon-3",
@@ -8861,7 +8914,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794406314,
+  "seq": 1794410258,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
