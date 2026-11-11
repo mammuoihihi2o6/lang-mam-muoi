@@ -871,9 +871,9 @@
         "c288d8674d49b3d75511cc0d3affd551"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BearBreakfast_VietHoa_full_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bearbreakfast_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bearbreakfast_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bearbreakfast_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "big-brain-academy-brain-vs-brain",
@@ -8052,7 +8052,7 @@
       "id": "va11-hall-a",
       "title_id": "0100A6700D66E000",
       "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
-      "mod_version": "full_v1",
+      "mod_version": "full_v2",
       "game_version": "",
       "tagline": "Pha rượu, lắng nghe khách và thay đổi cuộc đời họ ở quán bar nhỏ giữa Glitch City.",
       "developer": "Sukeban Games",
@@ -8076,19 +8076,23 @@
       "done": [
         "Thoại cốt truyện tất cả các ngày, các đoạn kết",
         "Nội dung bổ sung bản 1.2",
-        "Giao diện, hướng dẫn"
+        "Giao diện, hướng dẫn",
+        "Điện thoại, cửa hàng, tin tức, diễn đàn, blog, chat stream, thoại ở nhà"
       ],
       "kept": [
         "Tên đồ uống và nguyên liệu",
         "Chữ nằm trong ảnh"
       ],
-      "changelog": "full_v1: bản đầu tiên. Trong game chọn ngôn ngữ English để thấy tiếng Việt.",
+      "changelog": "full_v2: dịch thêm hơn 600 chuỗi còn sót tiếng Anh (thông báo điện thoại, cửa hàng, ghi chú gọi món, tin tức Augmented Eye, Danger/u/, blog Miki, thoại Fore–Jill, màn hình chính). Chép đè lên bản cũ.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "f4d14d83ca5ca48c570327e04c5c435516ba53d66c48fe6e9fd7376a72049328",
-      "size": 12753425,
-      "cd": "a10fa0779e862d96c82a9823b9f629a458d851dc4be153803246a080512ef637",
+      "sha256": "b9704918e69a1a21b13c3e2e6c993b4ec328a7d344ab5dbabe34897b72f6463f",
+      "size": 12586484,
+      "cd": "03077e714dd55640b6ad0676749700b2230b30e71095b2980ef603ccbfb775d1",
       "fh": [
-        "de7be235af13e93761739c89cf523081",
+        "",
+        "",
+        "",
+        "98119993717065008677133abd09d780",
         "75bd2c3e9ddc40be23d66f3c69f30314",
         "aa66ef0053a04da4c92a57bfb5962804",
         "c5af78783efca52bf89b776c13b34b6c",
@@ -8117,10 +8121,10 @@
         "4d2afb809f0a59c2219d2c7cc2e38abf",
         "27bf93bc0ec71d6f7bcff04c8c64a359"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/V11HA_VietHoa_full_v1.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/V11HA_VietHoa_full_v2.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/va11-hall-a_bg.jpg"
     },
     {
       "id": "vampire-crawlers",
@@ -8808,7 +8812,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794370254,
+  "seq": 1794394896,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
