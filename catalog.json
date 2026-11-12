@@ -1384,9 +1384,9 @@
         "b2e6d087dd61d6cd823313827a22c1a0"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CTSC_VietHoa_full_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ctsc_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ctsc_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/ctsc_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "d3",
@@ -1440,6 +1440,84 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/d3_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "darkest-dungeon",
+      "title_id": "01008F1008DA6000",
+      "name": "Darkest Dungeon",
+      "mod_version": "full_v2",
+      "game_version": "1.3.1",
+      "tagline": "Dẫn đội anh hùng mục nát tinh thần xuống hầm ngục bên dưới điền trang của Tổ tiên.",
+      "developer": "Red Hook Studios",
+      "release": "18/01/2018",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Nhập vai",
+        "Chiến thuật theo lượt",
+        "Roguelike"
+      ],
+      "description": [
+        "Darkest Dungeon là game nhập vai chiến thuật theo lượt gothic: bạn kế thừa điền trang đổ nát của Tổ tiên, thuê những anh hùng khốn khổ và dẫn họ xuống các hầm ngục đầy quái vật. Không chỉ máu, bạn còn phải giữ cho họ không phát điên vì stress.",
+        "Bản Việt hoá dịch game gốc và 5 DLC (The Crimson Court, The Shieldbreaker, The Musketeer, The Color of Madness, Fire's Edge), thêm chữ có dấu vào font của game. Thuật ngữ đi ải giữ tiếng Anh để dễ tra cứu."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy để ngôn ngữ English trong game."
+        },
+        {
+          "title": "Giữ tiếng Anh thuật ngữ",
+          "text": "Tên kỹ năng, trinket, quirk, bệnh, curio, trạng thái và vùng ải giữ nguyên tiếng Anh để dễ tra wiki."
+        }
+      ],
+      "done": [
+        "Lời dẫn của Tổ tiên, nhật ký, cốt truyện",
+        "Lời thoại anh hùng (cả các lớp DLC)",
+        "Giao diện, hướng dẫn, sự kiện làng, thành tựu",
+        "Mô tả kỹ năng, vật phẩm, hiệu ứng"
+      ],
+      "kept": [
+        "Tên quái, boss, kỹ năng, trinket, quirk, disease, curio",
+        "Tên trạng thái và tên vùng ải"
+      ],
+      "changelog": "Bản đầu tiên: dịch 100% game gốc + 5 DLC, font có dấu. Cần cập nhật game lên 1.3.1.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "sha256": "037a93ad1d281b83ce4705cfb8af19abb40482b24c44d40577f9d79b90fd1527",
+      "size": 782870,
+      "cd": "fbb835c6a737e040eb89cb7595beedea98ed8dfe5dccaa389aa265023970fab3",
+      "fh": [
+        "5b6d341fb7579c43c6aa7811182c567b",
+        "48134942098c7d54ecfb8fbcad24026a",
+        "8007aed23fb89e4b28f2a7a94267ee74",
+        "5cd4a56df6df3c9e2903dffb3311b529",
+        "1083c6177272ec6db89cab0f2e5d0354",
+        "f61bce1af400c9135704b3e0267414fa",
+        "b67d27182d5d721cda2e3d06a815ab60",
+        "8b7fd71cd2b92eeba9d7dea0ecdebfb0",
+        "6c2d91d00c00bac61bb38b53dcb3b330",
+        "29262fd71a1f473715d5f16f415b21fa",
+        "fe27c8ddbec52f7210ed9951639b4446",
+        "d2d7e1849e343b973a075865c7f6b36f",
+        "f3f6cb01b4fcdb4e81290fa86df73259",
+        "c18257fec753327163b94280e4e4e613",
+        "f7d2211ed742eb20358c4319ee024ee4",
+        "f7d2211ed742eb20358c4319ee024ee4",
+        "e2d338a9125b44648f26cf58ee1294ad",
+        "ec28039e1374e4c4d265eb1416c03a00",
+        "0f45d9ddd56bf9fbdfd757aa29027851",
+        "8693a3c6e62d972bc139c587a7ccf66f",
+        "534e6328d7228f992d1b3652940f4562",
+        "45e1cde9cc737f8b36f60d9463fc5f23",
+        "42f0fd14408931a57a64a09f857f2ccc",
+        "3212b414f6d29a05791a056fd85c38e0",
+        "fdea9fdd3ec70855f74ae131c21d7d1a",
+        "3bf73426a6a5fe1d01a8168fbfa43d8c",
+        "96b730240ef8b9e0dfd2d8608862f976"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DarkestDungeon_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkest-dungeon_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkest-dungeon_bg.jpg"
     },
     {
       "id": "dbsz",
@@ -8914,7 +8992,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794410258,
+  "seq": 1794458034,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
