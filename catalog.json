@@ -1511,9 +1511,9 @@
         "5819d7104f308d722c132f746051d0a7"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/AnotherEden_VietHoa_test8.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/another-eden_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/another-eden_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/another-eden_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "backpack-hero",
@@ -6960,8 +6960,8 @@
       "id": "md2",
       "title_id": "0100A7C01B792000",
       "name": "Minecraft Dungeons II",
-      "mod_version": "full_v4",
-      "game_version": "1.1.1.0",
+      "mod_version": "full_v9",
+      "game_version": "1.1.3.0",
       "tagline": "Lập đội, xuống ngục và hạ lũ Illager trong thế giới Minecraft.",
       "developer": "",
       "release": "",
@@ -6990,19 +6990,19 @@
         "Tên quái vật",
         "Phụ đề cảnh phim"
       ],
-      "changelog": "Tương thích bản cập nhật 1.1.1.0.",
+      "changelog": "Tương thích bản cập nhật 1.1.3.0, sửa mất dấu chữ in hoa ở menu, thêm credit Việt hoá.",
       "credit": "Việt hoá bởi Làng Mắm Muối.",
       "cover_focus": 0.0,
-      "sha256": "f3fc10ca03fb9f35366fd08673ffe512b3f6e678b2ed85e990c3110369d14477",
-      "size": 246771094,
-      "cd": "85be39e2a84c976307ce3ea1e75d032ddd81e4650487ac98ae0d389fab743e8f",
+      "sha256": "f6a9b49d8e2d643704e5c9480e0a37c80bc48e8e77bd7cf4a887e9a1e76a8b1b",
+      "size": 242007243,
+      "cd": "bcf82adcd52336e6034bd0a196df0617eb94fd582a4be12418dafda7b67f988d",
       "fh": [
-        "23f6379901908800913da177582d646f"
+        "27579525c6c24f5ad4283f1fd8260665"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v4_ghide.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v9_A_fullpak.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_cover.b201c7e3.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg"
     },
     {
       "id": "mega-man-star-force-legacy-collection",
@@ -11277,7 +11277,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794569887,
+  "seq": 1794582593,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
