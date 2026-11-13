@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 39,
-    "version": "M7",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M7.nro",
-    "sha256": "8cccb920bf30980ea443925815fa4a2cdebb0e4eaf3fe06e1c7a4be5ea6eaada",
+    "build": 40,
+    "version": "M8",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M8.nro",
+    "sha256": "c9b23baaa6f61fc20939a2c9d4331becfe5372fa7cb43c81a2fc17aac268d788",
     "size": 14182696,
-    "notes": "Bảng Vinh Danh có danh hiệu mới BIGCAT (kèm logo shop) dành cho người mua máy Switch tại shop BIGCAT Game Store."
+    "notes": "Ảnh bìa mới cho toàn bộ kho: kiểu Lưới hiện trọn ảnh, không còn cụt tiêu đề; kiểu Ô vuông tự chọn đúng phần đẹp nhất của ảnh (logo, nhân vật) thay vì luôn cắt giữa."
   },
   "mods": [
     {
@@ -10816,7 +10816,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794535562,
+  "seq": 1794536074,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
