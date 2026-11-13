@@ -5697,6 +5697,67 @@
       "mirrors": []
     },
     {
+      "id": "hwaoc",
+      "title_id": "01002B00111A2000",
+      "name": "Hyrule Warriors: Age of Calamity",
+      "mod_version": "full_v5",
+      "game_version": "1.4.1",
+      "tagline": "Trăm năm trước Đại Tai Ương: Link, Zelda và các Nhà Vô Địch chiến đấu giành lại Hyrule.",
+      "developer": "Koei Tecmo / Omega Force",
+      "release": "20/11/2020",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Musou",
+        "Phiêu lưu"
+      ],
+      "description": [
+        "Hyrule Warriors: Age of Calamity là game hành động musou lấy bối cảnh 100 năm trước The Legend of Zelda: Breath of the Wild. Bạn cùng Link, Zelda, bốn Nhà Vô Địch và nhiều đồng minh quét sạch hàng nghìn quân địch, chống lại Calamity Ganon trong những ngày Hyrule sụp đổ.",
+        "Bản Việt hoá dịch toàn bộ hội thoại, cốt truyện, nhiệm vụ, hướng dẫn, mô tả vật phẩm và giao diện; font đã vá đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch trọn cốt truyện",
+          "text": "Hơn 16.000 câu thoại, thông báo trận, nhiệm vụ bản đồ, mô tả vũ khí và hướng dẫn."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn ngôn ngữ English trong game."
+        }
+      ],
+      "done": [
+        "Toàn bộ hội thoại, cốt truyện và thông báo trong trận",
+        "Nhiệm vụ bản đồ, hướng dẫn, mô tả vật phẩm",
+        "Danh hiệu nhân vật, menu, giao diện"
+      ],
+      "kept": [
+        "Tên nhân vật, vũ khí, vật phẩm, kỹ năng (giữ tiếng Anh)",
+        "Tiêu đề nhiệm vụ, màn chơi, chương, bài nhạc (giữ tiếng Anh)",
+        "Chữ vẽ trong ảnh"
+      ],
+      "changelog": "full_v5: bản đầy đủ đầu tiên (game 1.4.1). Chưa thử trên máy thật.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "sha256": "d3e6ffa31520adf5a407795739fcd47ee000251f04a5402130b459eb4b4b376b",
+      "size": 29845277,
+      "cd": "275ce3f1c3c74650e2414021563d69b42a9ff51e096f29293ceedc2509aad659",
+      "fh": [
+        "8837408f013a85402729ed4db34db6b1",
+        "d6b0b9cf7cad589addd4104e831ec1a3",
+        "743b84a2f3ea3aea8f8898088a1bfd21",
+        "272fd257738273ecb9711620a0801e44",
+        "b31fe4075bc0d46f60839d4022dcbaa1",
+        "12b908c9e5f23c5b987ab0636ce17b97",
+        "ee7a908fd4bb2b7ea3b28f9107ab55d7",
+        "8754726a97c1166ef10188c992298942",
+        "d49945a26365c148c119764a3f2ee150"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/HWAOC_VietHoa_full_v5.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hwaoc_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hwaoc_bg.jpg"
+    },
+    {
       "id": "hyrule-warriors-de",
       "title_id": "0100AE00096EA000",
       "name": "Hyrule Warriors: Definitive Edition",
@@ -7229,9 +7290,9 @@
         "333022198b4e4ed1647c6f09bde7e33e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Montabi_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/montabi_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/montabi_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/montabi_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "moonlight-peaks",
@@ -10869,7 +10930,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794539085,
+  "seq": 1794559371,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
