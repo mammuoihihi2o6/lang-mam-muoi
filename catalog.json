@@ -6535,6 +6535,56 @@
       "mirrors": []
     },
     {
+      "id": "luigis-mansion-3",
+      "title_id": "0100DCA0064A6000",
+      "name": "Luigi's Mansion 3",
+      "mod_version": "full_v1",
+      "game_version": "1.4.0",
+      "tagline": "Luigi cầm máy hút ma Poltergust G-00 lùng sục khách sạn ma để cứu Mario và bạn bè.",
+      "developer": "Next Level Games / Nintendo",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Phiêu lưu",
+        "Giải đố",
+        "Hài hước"
+      ],
+      "description": [
+        "Luigi's Mansion 3: Luigi cùng Mario và các bạn được mời nghỉ dưỡng ở khách sạn Last Resort, nhưng hoá ra đây là bẫy của King Boo. Cầm máy hút ma Poltergust G-00 cùng người bạn nhầy Gooigi, Luigi phải leo từng tầng khách sạn, đánh bại ma trùm và giải cứu mọi người.",
+        "Bản Việt hoá dịch toàn bộ hội thoại, menu, hướng dẫn và thông báo; font đã vá đủ dấu tiếng Việt cho cả 4 font của game."
+      ],
+      "highlights": [
+        {
+          "title": "Thoại hài hước, đủ giọng",
+          "text": "E. Gadd xưng ta – cậu, mỗi con ma trùm một giọng riêng, chơi chữ được chuyển sang tiếng Việt."
+        }
+      ],
+      "done": [
+        "Toàn bộ hội thoại và cốt truyện",
+        "Menu, hướng dẫn, thông báo, ScareScraper",
+        "Font vá đủ dấu tiếng Việt"
+      ],
+      "kept": [
+        "Tên nhân vật và tên ma trùm (giữ tiếng Anh)",
+        "Chữ vẽ trong ảnh (logo, biển hiệu)",
+        "Danh sách đội ngũ cuối game (file chỉ nhận chữ không dấu)"
+      ],
+      "changelog": "full_v1: bản đầy đủ đầu tiên cho game bản 1.4.0, chọn tiếng Anh trong game. Chưa thử trên máy thật.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.35,
+      "sha256": "ac0b6cc1a0ebde839f92cab9ed43c22b77d9cce3a62f946e27243625ca8a4643",
+      "size": 20856243,
+      "cd": "5d5524f4b5cbe8fa5b6040fe9c0ab09b8a26c1d127181f82c1033810e17723d7",
+      "fh": [
+        "58b8c92a1bc052a060be84a7b82f2157",
+        "2b7e78d135f1929eaad4d35e3183c092"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/LG3_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/luigis-mansion-3_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/luigis-mansion-3_bg.jpg"
+    },
+    {
       "id": "mario-sonic-olympic",
       "title_id": "010003000E146000",
       "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
@@ -7000,9 +7050,9 @@
         "27579525c6c24f5ad4283f1fd8260665"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MinecraftDungeons2_VietHoa_full_v9_A_fullpak.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_cover.b201c7e3.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/md2_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "mega-man-star-force-legacy-collection",
@@ -11277,7 +11327,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794582593,
+  "seq": 1794583400,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
