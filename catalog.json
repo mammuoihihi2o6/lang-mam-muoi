@@ -7181,6 +7181,59 @@
       "mirrors": []
     },
     {
+      "id": "montabi",
+      "title_id": "010025F0249CE000",
+      "name": "Montabi",
+      "mod_version": "full_v1",
+      "game_version": "1.1.3",
+      "tagline": "Thu phục quái vật, xây bộ bài và chiến đấu trên lưới 3x3 qua những con phố đầy bất ngờ.",
+      "developer": "Mankibo / Akupara Games",
+      "release": "06/08/2026",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Roguelike",
+        "Xây bộ bài",
+        "Thu phục quái vật"
+      ],
+      "description": [
+        "Montabi là game roguelike xây bộ bài kết hợp thu phục quái vật: bạn vào vai một huấn luyện viên, chiêu mộ tối đa ba Montabi đồng hành và chiến đấu trên lưới 3x3, dùng các lá bài kỹ năng của từng con. Mỗi lượt chơi là một chuyến phiêu lưu ngẫu nhiên qua thành phố với nhiều sự kiện khác nhau; huấn luyện viên gục ngã là thua.",
+        "Bản Việt hoá dịch giao diện, hướng dẫn, sự kiện, mô tả lá bài và hiệu ứng, có font tiếng Việt đầy đủ dấu, ghi vào ô tiếng Anh của game."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn ngôn ngữ English trong game."
+        },
+        {
+          "title": "Cần bản cập nhật 1.1.3",
+          "text": "Bản Việt hoá làm trên bản cập nhật 1.1.3 của game."
+        }
+      ],
+      "done": [
+        "Giao diện, menu, hướng dẫn",
+        "Sự kiện, hội thoại trong thành phố",
+        "Mô tả lá bài, hiệu ứng, trạng thái, từ khoá"
+      ],
+      "kept": [
+        "Tên Montabi, kỹ năng, nội tại, trang bị, vật phẩm, thiết bị, Orb, Card Mod (giữ tiếng Anh để dễ tra cứu)",
+        "Ghi chú nhà phát triển (Dev Notes)",
+        "Chữ nằm trong ảnh"
+      ],
+      "changelog": "full_v1: bản Việt hoá đầu tiên, dịch 100% văn bản trong game.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.15,
+      "sha256": "0779683ca7d684efb7b8dc4f4d881ec8d87e5a812962a37eb9123cbb900379ff",
+      "size": 14795798,
+      "cd": "95483f17fe13e4595c7fe28e741a2fb467a379bc8fb8c53482187cebb3839031",
+      "fh": [
+        "333022198b4e4ed1647c6f09bde7e33e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Montabi_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/montabi_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/montabi_bg.jpg"
+    },
+    {
       "id": "moonlight-peaks",
       "title_id": "01008C8025C8E000",
       "name": "Moonlight Peaks",
@@ -10816,7 +10869,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794536074,
+  "seq": 1794539085,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
