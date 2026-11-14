@@ -2889,6 +2889,65 @@
       "mirrors": []
     },
     {
+      "id": "darkwood",
+      "title_id": "010033500B7B6000",
+      "name": "Darkwood",
+      "mod_version": "full_v3",
+      "game_version": "Update 1.0.5",
+      "tagline": "Ban ngày lục lọi khu rừng để sinh tồn, ban đêm cố thủ trong căn chòi và cầu cho trời mau sáng.",
+      "developer": "Acid Wizard Studio",
+      "release": "16/05/2019",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Kinh dị",
+        "Sinh tồn",
+        "Góc nhìn từ trên xuống",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Darkwood là game kinh dị sinh tồn góc nhìn từ trên xuống, lấy bối cảnh một khu rừng kỳ dị ở vùng đất Đông Âu thời Xô Viết. Khu rừng mọc lên vây kín cả vùng, cắt đứt dân làng khỏi thế giới bên ngoài. Ban ngày bạn đi nhặt nhạnh, chế tạo và gặp những cư dân quái gở; ban đêm phải chặn cửa, thắp đèn và cầm cự tới sáng.",
+        "Bản Việt hoá dịch toàn bộ thoại, nhật ký, ghi chú, mô tả vật phẩm, giao diện, phụ đề mở đầu và nút menu chính, kèm phông chữ có đủ dấu. Gói chỉ khoảng 2,6 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
+      ],
+      "highlights": [
+        {
+          "title": "Cần bản 1.0.5",
+          "text": "Cài update 1.0.5 (v327680) trước; khác bản thì plugin tự bỏ qua, game giữ tiếng Anh."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn English trong game."
+        }
+      ],
+      "done": [
+        "Toàn bộ thoại, lựa chọn, kết cục",
+        "Nhật ký, ghi chú, mô tả vật phẩm và kỹ năng",
+        "Giao diện, hướng dẫn, nút menu chính, phụ đề mở đầu",
+        "Phông chữ có đủ dấu tiếng Việt"
+      ],
+      "kept": [
+        "Tên vật phẩm, kỹ năng, hiệu ứng, tên vùng và địa điểm trên bản đồ",
+        "Tên quái vật, tiêu đề nhật ký"
+      ],
+      "changelog": "full_v3: bản đầy đủ đầu tiên, dịch 100% thoại và giao diện, vẽ lại nút menu chính tiếng Việt. Cần update 1.0.5.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.7,
+      "sha256": "9a49806ac3b2e2d64483cd81bf90c20cf220689eedaf82d78f392aee40548be3",
+      "size": 2738143,
+      "cd": "18e0f3b92786aca6df745b550da757379583c2f105392d11b3a28c6ce0e40ed0",
+      "fh": [
+        "e366fd1e58f547bcb6afe88b091708be",
+        "15bffae3b9aa331b94f13c08e8916b42",
+        "c68fb5642992a9da6293af44b98956b7",
+        "19d374657e637ee47f43bb28a3a6b136",
+        "f49b06d2eabc313c3a7f845b2353ac17",
+        "7b0569d4362486996844f866aa019b0e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v3_vhplug.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg"
+    },
+    {
       "id": "dbsz",
       "title_id": "010035F022078000",
       "name": "DRAGON BALL: Sparking! ZERO",
@@ -7561,9 +7620,9 @@
         "e018864fa6d1944fe801324d102804d0"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/NeonBlood_VietHoa_full_v2.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neon-blood_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neon-blood_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neon-blood_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "neonabyss2",
@@ -11516,7 +11575,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794640681,
+  "seq": 1794655961,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
