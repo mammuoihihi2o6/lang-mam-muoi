@@ -7488,6 +7488,84 @@
       "mirrors": []
     },
     {
+      "id": "neon-blood",
+      "title_id": "0100E3901959C000",
+      "name": "Neon Blood",
+      "mod_version": "full_v2",
+      "game_version": "",
+      "tagline": "Thám tử Axel McCoin lần theo vụ án trong thành phố Viridis chia đôi giữa ánh sáng và bóng tối.",
+      "developer": "ChaoticBrain Studios",
+      "release": "26/11/2024",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "RPG theo lượt",
+        "Cốt truyện",
+        "Cyberpunk",
+        "Trinh thám"
+      ],
+      "description": [
+        "Neon Blood là RPG trinh thám cyberpunk noir, đồ họa pixel. Năm 2053, thành phố Viridis bị chia đôi: Bright City giàu có và Blind City nghèo khó. Bạn vào vai thám tử Axel McCoin của Blind City, điều tra những bất công do sự chia cắt này gây ra, kết hợp thoại, điều tra và chiến đấu theo lượt.",
+        "Bản Việt hoá dịch toàn bộ thoại cốt truyện, nhiệm vụ và giao diện, ghi vào ô tiếng Anh của game."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn ngôn ngữ English (US) trong game."
+        }
+      ],
+      "done": [
+        "Toàn bộ thoại cốt truyện và lựa chọn",
+        "Nhiệm vụ, chiến đấu, giao diện",
+        "Phông chữ Việt hoá có đủ dấu"
+      ],
+      "kept": [
+        "Tên nhân vật, địa danh, kỹ năng, vật phẩm",
+        "Chữ nằm trong ảnh và video tiêu đề"
+      ],
+      "changelog": "full_v2: bản đầy đủ đầu tiên, dịch toàn bộ thoại và giao diện; tên ngôn ngữ hiện credit Việt hoá.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.2,
+      "sha256": "b3d9e004344069cb0837f49d77debb011436a5ccd85b48dde0f834af2a8e349e",
+      "size": 87420417,
+      "cd": "367b1c0a8fd69db250dc10b391a8dd9854685430ed44359e94c3161e7b96eb5e",
+      "fh": [
+        "4f4278b6ac90975d79016af61430c3ec",
+        "413ecd0fb05963c89e0384dbbc7626ed",
+        "606eb7beef2ffa178815be2bc44bed49",
+        "4c5ff593699ad77c6821dcc6cf8b83d6",
+        "de3ed84c5a6ae9cfdf8fb33731e1a4ca",
+        "505b72d722e878f96c0970ae72866504",
+        "cea0e321b2d10350a589c59916689f68",
+        "50ee1207e40baec87bebbdd4f213b902",
+        "49257eb05678f1826aee2f51a3abd8c3",
+        "0debf1285a7d8c938e18690780577520",
+        "72d12ee3e7ff1b42a2e0bf0443e692a3",
+        "d7b2731d9834efb257f45bf160580222",
+        "a6a312400de651a7127c38a6fd7de894",
+        "3dbd2e54b5c8589b95fef5b49f9c3951",
+        "2d772614f35b498bf5506d01f2ce62b1",
+        "51661d0ba2c652801a43816c31c358aa",
+        "efe551f6c6db1f6edddf1eb497d8b0af",
+        "6228e833b5c53ec617ab56da7ec1dee2",
+        "8eac489f2e82aee98656bb7b59fd05e3",
+        "4a883ac56088cf9655feefc2a563a49b",
+        "22859ac2597092969beba6e0a44c292d",
+        "dd46c9ba8f53cb1f6a89a622c1ed9667",
+        "a8039df940fc3d0c34e01c269fcc5b73",
+        "255ad4fadb2a69b9102727d6d5825126",
+        "1571c99621e8daafa41335b51c44b635",
+        "d66edd772c1249b2f28e637c04a796a7",
+        "07868547d2eafc7906ae3f86d4d1995a",
+        "bcf71b381ad59f30e7138f5b424b18b5",
+        "6805e4f40efc293b95905ca333428e1b",
+        "e018864fa6d1944fe801324d102804d0"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/NeonBlood_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neon-blood_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/neon-blood_bg.jpg"
+    },
+    {
       "id": "neonabyss2",
       "title_id": "010052002641E000",
       "name": "Neon Abyss 2",
@@ -8347,9 +8425,9 @@
         "ec7e4c454a984410bbc75073538959f9"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/PokemonLegendsZA_VietHoa_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/plza_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/plza_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/plza_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "rabbids-vh-long-tieng",
@@ -11438,7 +11516,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794636111,
+  "seq": 1794640681,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
