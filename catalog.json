@@ -2943,9 +2943,9 @@
         "7b0569d4362486996844f866aa019b0e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v3_vhplug.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "dbsz",
@@ -11570,12 +11570,338 @@
       "mirrors": []
     }
   ],
+  "themes": [
+    {
+      "id": "cozy",
+      "name": "Cozy Dịu Nhẹ",
+      "badge": "Cozy Edition",
+      "desc": "Nền sáng dịu mắt, lá thu trôi, gió cuốn lá khi chuyển cảnh",
+      "fx": "leaf",
+      "light": true,
+      "ver": 1,
+      "colors": {
+        "bg": "FAF8F5",
+        "surface": "FFFFFF",
+        "card": "F4F1EA",
+        "hover": "EBE6DC",
+        "border": "D6CFC4",
+        "text": "3B4A3F",
+        "muted": "6B7C6E",
+        "accent": "6B8E78"
+      },
+      "files": [
+        {
+          "name": "sfx.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_cozy_sfx.4b2a1993.pcm",
+          "sha256": "4b2a199345023306b583d6b27b7c3aaa42805276023ca0ba271ea13a9935c445",
+          "size": 499200
+        }
+      ]
+    },
+    {
+      "id": "neon",
+      "name": "OLED Neon",
+      "badge": "OLED Edition",
+      "desc": "Nền đen OLED, lưới neon cuộn, nhiễu tín hiệu khi chuyển cảnh",
+      "fx": "neon",
+      "light": false,
+      "ver": 1,
+      "colors": {
+        "bg": "090B0E",
+        "surface": "121620",
+        "card": "1A202C",
+        "hover": "222A3A",
+        "border": "2A3447",
+        "text": "F1F5F9",
+        "muted": "94A3B8",
+        "accent": "00F0FF"
+      },
+      "files": [
+        {
+          "name": "sfx.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_neon_sfx.3315b68a.pcm",
+          "sha256": "3315b68a46f236ea86ee64c7d66c5268b46818a7e312f1c9cdc5c1534351c905",
+          "size": 307200
+        }
+      ]
+    },
+    {
+      "id": "noel",
+      "name": "Noel Đêm Tuyết",
+      "badge": "Noel Edition",
+      "desc": "Tuyết rơi, người tuyết, hộp quà và ông già Noel — chạm thử trên màn hình!",
+      "fx": "snow",
+      "light": false,
+      "ver": 1,
+      "min_build": 41,
+      "card_frame": "gift",
+      "colors": {
+        "bg": "0A1A12",
+        "surface": "10261B",
+        "card": "17352A",
+        "hover": "1F4536",
+        "border": "8C7A3A",
+        "text": "FFF8F0",
+        "muted": "E8C872",
+        "accent": "E63946"
+      },
+      "decor": {
+        "kind": "noel",
+        "frost": {
+          "idle": 10,
+          "step": 2,
+          "max_steps": 7,
+          "brush": 130,
+          "melt_below": 0.12
+        },
+        "santa": [
+          90,
+          150
+        ],
+        "lines": [
+          {
+            "text": "Này!! Ông Mắm rất kì công để tạo ra tôi đấy, đừng cố làm hỏng chứ.",
+            "face": "angry"
+          },
+          {
+            "text": "Khi trời nhiều tuyết, đừng ăn tuyết có màu vàng!",
+            "face": "smirk"
+          },
+          {
+            "text": "Lão Cyb còn khủng hơn Thanos gấp đôi, vì xoá sổ nửa dân số làng tận 2 lần trong một đêm đấy!",
+            "face": "scared"
+          }
+        ]
+      },
+      "files": [
+        {
+          "name": "atlas.json",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_atlas.3c4acee3.json",
+          "sha256": "3c4acee3a63688dcbe0feb98f4a1b4224defc0be1f0fc1c9dcee860e27583cf8",
+          "size": 3405
+        },
+        {
+          "name": "atlas.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_atlas.65f74631.png",
+          "sha256": "65f746316371842cdb742ee426632bf237450d3d3ad2b2a253cea6bf30068ccc",
+          "size": 521566
+        },
+        {
+          "name": "bell.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_bell.57a64f50.pcm",
+          "sha256": "57a64f5084277db6e03a7db57f3cf882cefbaa86c7825e08fde68aeb2e01e2eb",
+          "size": 153600
+        },
+        {
+          "name": "boom.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_boom.edbdd80a.pcm",
+          "sha256": "edbdd80a4f70d91d9076a4b10055115166e5b975009c3360e3fdbbeb767df3de",
+          "size": 211576
+        },
+        {
+          "name": "frost.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_frost.1ec4b04e.pcm",
+          "sha256": "1ec4b04e0e9087b62eaeb243e5bcdad67ff5a15c85489c4bcacba10089380dd7",
+          "size": 230400
+        },
+        {
+          "name": "frost.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_frost.418bc835.png",
+          "sha256": "418bc83557430cd1f4cfb3ecf9bdacea4446f0c51fa5e3b2ca4436316dff1ed8",
+          "size": 408877
+        },
+        {
+          "name": "frost_loop.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_frost_loop.1b1c6407.pcm",
+          "sha256": "1b1c6407f0157a7b8dbf941c1d03e8dcedc0240d545600eefc67b4baba92c6ea",
+          "size": 388704
+        },
+        {
+          "name": "fuse.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_fuse.f0b13dc9.pcm",
+          "sha256": "f0b13dc9c2fa23fe63b12aa9f30fc7a7949d2e93ffd537acf3dccb9bfabe93cf",
+          "size": 307200
+        },
+        {
+          "name": "gold.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_gold.ccad2d83.pcm",
+          "sha256": "ccad2d83dfbc7a94c78b61aa916e9f3ce4cd04c4962e2e42786c4eca3d5f4847",
+          "size": 211200
+        },
+        {
+          "name": "hit.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_hit.399c2581.pcm",
+          "sha256": "399c25811e5ec0a5c9b884f50feaf27893a030c3fb0731f615c0abef0792fbe1",
+          "size": 106752
+        },
+        {
+          "name": "ho.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_ho.f0fbd232.pcm",
+          "sha256": "f0fbd232658d60cb48d7d1cf51bb72d14ec1306163b2a7843f5f33c3939a6b23",
+          "size": 508440
+        },
+        {
+          "name": "land.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_land.733eebb2.pcm",
+          "sha256": "733eebb2fc5ae5ea3543e9b0676524fce822a2f42d87c51027832df01bf6954f",
+          "size": 61080
+        },
+        {
+          "name": "melt.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_melt.5b178506.pcm",
+          "sha256": "5b1785061478fa55662eb3d6fcd83e9872ca6be6bfc8d4e88ee77cafd42d6800",
+          "size": 537600
+        },
+        {
+          "name": "paper0.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paper0.d5e28855.png",
+          "sha256": "d5e288552d287c0d83d054d54171a8732a624eb4a4685345ee484f0bf3325e86",
+          "size": 1565
+        },
+        {
+          "name": "paper1.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paper1.8e5d8278.png",
+          "sha256": "8e5d8278966d0d7f65f71badb720753adfeb350d7e52b2a8f4e2a6cf34bedeea",
+          "size": 1253
+        },
+        {
+          "name": "paper2.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paper2.58e474e9.png",
+          "sha256": "58e474e979fe2685e59a064780cf5f7d2dd8a76f9ec5fef123fd037bcff2e992",
+          "size": 1265
+        },
+        {
+          "name": "paper3.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paper3.34287160.png",
+          "sha256": "342871603be122d3debc91386933e09c93c81ca0792a350fd138233d25746be6",
+          "size": 1556
+        },
+        {
+          "name": "paper4.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paper4.0a03ef14.png",
+          "sha256": "0a03ef14c82b100e54132f20ae301225993efe350f85e45783532cae04437c6d",
+          "size": 1148
+        },
+        {
+          "name": "paper5.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paper5.4161e55e.png",
+          "sha256": "4161e55e5654574cae93c2def356c62f90a8bf3e98914f5cb03ae92071feac9b",
+          "size": 1132
+        },
+        {
+          "name": "paperL0.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paperL0.ffb4ff08.png",
+          "sha256": "ffb4ff08f18e38f27bc0cb2f125d065858a4c4b37e548f9725b49a8ce67d6804",
+          "size": 1576
+        },
+        {
+          "name": "paperL1.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paperL1.5c562b64.png",
+          "sha256": "5c562b64afa26fcddac87e66df83735e32340a7bff2d7fe9681cc0cecd521aa2",
+          "size": 1247
+        },
+        {
+          "name": "paperL2.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paperL2.f3ccf9e5.png",
+          "sha256": "f3ccf9e5dba8c7a492393b2e43cfbad09b59bbafba6a553accbbee5268bfcbda",
+          "size": 1250
+        },
+        {
+          "name": "paperL3.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paperL3.492cfd8b.png",
+          "sha256": "492cfd8b24cae5be4ce8bade7b9ead34b922003b8a6aa88cc2127121141374e2",
+          "size": 1552
+        },
+        {
+          "name": "paperL4.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paperL4.f0765549.png",
+          "sha256": "f0765549cd5ee630f2a25b6a101f3d9617ed02b8f6ec3d6a449a47200c0240eb",
+          "size": 1138
+        },
+        {
+          "name": "paperL5.png",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_paperL5.fb430e13.png",
+          "sha256": "fb430e136c43f0ece5b4a164869245ec0e7fa4e0fbc28c80a172ab928365f693",
+          "size": 1117
+        },
+        {
+          "name": "pop.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_pop.3eb3f5ab.pcm",
+          "sha256": "3eb3f5ab179f59e89c02970e7611dfe57128427f8d393afb0757e8f1cf9e5581",
+          "size": 115200
+        },
+        {
+          "name": "sfx.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_sfx.937816c6.pcm",
+          "sha256": "937816c687c4e9ef247b2026078d697318de08204dcc7b43f1bdb20054d6adaf",
+          "size": 518400
+        },
+        {
+          "name": "shake.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_shake.d101835f.pcm",
+          "sha256": "d101835fe7f21714742b76debbaa4ec423df66a6f743e817f7cc94ea6940b1b5",
+          "size": 134400
+        },
+        {
+          "name": "sleigh.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_sleigh.f966e9de.pcm",
+          "sha256": "f966e9debc33e33c98a0346626b1b88845439b9244f9700daf7eabf88de56c90",
+          "size": 384000
+        },
+        {
+          "name": "tick.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_tick.a9eb84b2.pcm",
+          "sha256": "a9eb84b21eef71b4bfbbd59a1c01a84858f8645f07b3743ea4e0db3b2596fddf",
+          "size": 34560
+        },
+        {
+          "name": "whoosh.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_whoosh.b9676bec.pcm",
+          "sha256": "b9676bec02fa9706054792bd98986bc1b9a6bbc82670efb13f2dfdc6d7da3c32",
+          "size": 450712
+        },
+        {
+          "name": "wiper.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_noel_wiper.b3940835.pcm",
+          "sha256": "b39408355395fb22d3cf38fb1fede48a840fb755e688d19a70dba211e49302c6",
+          "size": 134400
+        }
+      ]
+    },
+    {
+      "id": "spartan",
+      "name": "Lửa Thần Spartan",
+      "badge": "Spartan Edition",
+      "desc": "Tàn lửa bay lên, lửa cuộn đốt giấy khi chuyển cảnh, tiếng gầm chiến binh",
+      "fx": "ember",
+      "light": false,
+      "ver": 1,
+      "colors": {
+        "bg": "0B0503",
+        "surface": "140906",
+        "card": "210D08",
+        "hover": "31140B",
+        "border": "E53E3E",
+        "text": "FFF0E6",
+        "muted": "D4AF37",
+        "accent": "FF4500"
+      },
+      "files": [
+        {
+          "name": "sfx.pcm",
+          "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/theme_spartan_sfx.c23a179d.pcm",
+          "sha256": "c23a179d305f19d2edf708ecc41dc767f5b0742fd273c77162b3feec0e65374e",
+          "size": 614400
+        }
+      ]
+    }
+  ],
   "notice": {
     "id": "tb-2026-11-10-acrc-va11",
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794655961,
+  "seq": 1794709344,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
