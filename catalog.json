@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 40,
-    "version": "M8",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M8.nro",
-    "sha256": "c9b23baaa6f61fc20939a2c9d4331becfe5372fa7cb43c81a2fc17aac268d788",
-    "size": 14182696,
-    "notes": "Ảnh bìa mới cho toàn bộ kho: kiểu Lưới hiện trọn ảnh, không còn cụt tiêu đề; kiểu Ô vuông tự chọn đúng phần đẹp nhất của ảnh (logo, nhân vật) thay vì luôn cắt giữa."
+    "build": 41,
+    "version": "M9",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M9.nro",
+    "sha256": "e9c3f293b7b385b1b486828a7ad22f0e062458c364b45c66247291fbfa2298b6",
+    "size": 12958368,
+    "notes": "Tab Themes mới: Octopath và Kawaii có sẵn, các chủ đề khác tải về miễn phí (Spartan, Cozy, Neon). Thêm chủ đề Noel Đêm Tuyết: tuyết rơi, người tuyết biết nói, hộp quà, ông già Noel bay qua thả quà, thẻ Việt hoá gói như hộp quà, chuyển cảnh lốc tuyết. Chạm thử trên màn hình nhé!"
   },
   "mods": [
     {
@@ -11901,7 +11901,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794709344,
+  "seq": 1794714859,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
