@@ -2810,6 +2810,65 @@
       "mirrors": []
     },
     {
+      "id": "darkest-dungeon-2",
+      "title_id": "0100E5E01C098000",
+      "name": "Darkest Dungeon II",
+      "mod_version": "full_v2",
+      "game_version": "1.1.0",
+      "tagline": "Lái cỗ xe ngựa chở ngọn lửa hy vọng cuối cùng băng qua một thế giới đang sụp đổ, hướng về Ngọn Núi.",
+      "developer": "Red Hook Studios",
+      "release": "15/07/2024",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Nhập vai",
+        "Chiến thuật theo lượt",
+        "Roguelike"
+      ],
+      "description": [
+        "Darkest Dungeon II là game nhập vai chiến thuật theo lượt roguelike gothic: bạn đưa một đội bốn anh hùng lên cỗ Stagecoach, mang theo Ngọn Lửa hy vọng băng qua những vùng đất bị Loathing tàn phá để tới Ngọn Núi. Mỗi chuyến đi phải giữ cho đội không gục ngã vì máu, stress và chính những mối quan hệ giữa họ.",
+        "Bản Việt hoá dịch game gốc và các lớp anh hùng DLC (Abomination, Crusader, Duelist) cùng chế độ Kingdoms: lời kể và cutscene của Học Giả, truyện anh hùng, lời thoại, giao diện, hướng dẫn. Font có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Chọn ngôn ngữ Tiếng Việt",
+          "text": "Trong mục ngôn ngữ của game, chọn \"Tiếng Việt\" (thay vào chỗ Español)."
+        },
+        {
+          "title": "Giữ tiếng Anh thuật ngữ",
+          "text": "Tên kỹ năng, vật phẩm, trinket, quirk, token, vùng ải và tên lớp anh hùng giữ nguyên tiếng Anh để dễ tra wiki."
+        }
+      ],
+      "done": [
+        "Lời kể và phụ đề cutscene của Học Giả",
+        "Truyện anh hùng, lời thoại anh hùng (cả DLC)",
+        "Giao diện, hướng dẫn, thành tựu, chế độ Kingdoms",
+        "Mô tả kỹ năng, vật phẩm, hiệu ứng"
+      ],
+      "kept": [
+        "Tên kỹ năng, vật phẩm, trinket, quirk, token, vùng ải",
+        "Tên lớp anh hùng, tiêu đề chương truyện anh hùng"
+      ],
+      "changelog": "Bản đầu tiên: dịch 100% game gốc + DLC, font có dấu, phụ đề cutscene tiếng Việt. Cần cập nhật game lên 1.1.0.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.42,
+      "sha256": "93c02960b562bc2eb225957cec6bc58e9b611a794cbc3c212f3acccfeb44ba36",
+      "size": 35255352,
+      "cd": "5899d30c903e27a6a8a34946a8227daf6d464550835c2c86a770f7fdc964a7ab",
+      "fh": [
+        "f061201b61a2fe1260a3f2d769023896",
+        "713f44ba191cb08223a586bfaef627cd",
+        "bd3b22ed06c7ff68b18cfccf16bafcc0",
+        "36546f678b88da9ac36d6269185fc650",
+        "4bb9437beedd346c18dba7135a4ca992",
+        "4def37297d3c2d10e5fde1bad1866ebd",
+        "8fcee8b367d2339a5d0491195d890c1c"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DarkestDungeon2_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkest-dungeon-2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkest-dungeon-2_bg.jpg"
+    },
+    {
       "id": "darkest-dungeon",
       "title_id": "01008F1008DA6000",
       "name": "Darkest Dungeon",
@@ -11901,7 +11960,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794714859,
+  "seq": 1794730001,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
