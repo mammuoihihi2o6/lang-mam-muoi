@@ -2951,7 +2951,7 @@
       "id": "darkwood",
       "title_id": "010033500B7B6000",
       "name": "Darkwood",
-      "mod_version": "full_v3",
+      "mod_version": "full_v4",
       "game_version": "Update 1.0.5",
       "tagline": "Ban ngày lục lọi khu rừng để sinh tồn, ban đêm cố thủ trong căn chòi và cầu cho trời mau sáng.",
       "developer": "Acid Wizard Studio",
@@ -2987,24 +2987,24 @@
         "Tên vật phẩm, kỹ năng, hiệu ứng, tên vùng và địa điểm trên bản đồ",
         "Tên quái vật, tiêu đề nhật ký"
       ],
-      "changelog": "full_v3: bản đầy đủ đầu tiên, dịch 100% thoại và giao diện, vẽ lại nút menu chính tiếng Việt. Cần update 1.0.5.",
+      "changelog": "full_v4: dịch phụ đề cutscene mở đầu (bản trước còn tiếng Anh). Bản đầy đủ: dịch 100% thoại, giao diện, nút menu chính. Cần update 1.0.5.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.7,
-      "sha256": "9a49806ac3b2e2d64483cd81bf90c20cf220689eedaf82d78f392aee40548be3",
-      "size": 2738143,
-      "cd": "18e0f3b92786aca6df745b550da757379583c2f105392d11b3a28c6ce0e40ed0",
+      "sha256": "46c46235aa69d3639849db82769a3e629050f19e9b30fc83e2a0bb157129357e",
+      "size": 2739836,
+      "cd": "0689ff8a96d085bfe72ad3a581c986b7e6d13022da4e2c7bb4667c2847e82a0b",
       "fh": [
-        "e366fd1e58f547bcb6afe88b091708be",
+        "91ee6efe41aeb02d989c11e1bc32eee4",
         "15bffae3b9aa331b94f13c08e8916b42",
         "c68fb5642992a9da6293af44b98956b7",
         "19d374657e637ee47f43bb28a3a6b136",
-        "f49b06d2eabc313c3a7f845b2353ac17",
-        "7b0569d4362486996844f866aa019b0e"
+        "2b0e42b80dddf260ed13cc7f2f060e05",
+        "7a89244af72ca8f76822a4ffee506890"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v3_vhplug.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v4_vhplug.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg"
     },
     {
       "id": "dbsz",
@@ -11958,7 +11958,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794741454,
+  "seq": 1794795355,
   "donate": {
     "bank": "970415",
     "account": "109878873985",
