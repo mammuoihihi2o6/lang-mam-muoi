@@ -2524,8 +2524,8 @@
       "id": "cbc",
       "title_id": "0100BA4026E94000",
       "name": "Castlevania: Belmont's Curse",
-      "mod_version": "full_v1",
-      "game_version": "1.1.0",
+      "mod_version": "v1.1.4",
+      "game_version": "1.1.4",
       "tagline": "Phần nối tiếp Castlevania III, săn quỷ ở Paris năm 1499.",
       "developer": "Evil Empire, Konami",
       "release": "",
@@ -2544,27 +2544,21 @@
         "Font tiếng Việt"
       ],
       "kept": [],
-      "changelog": "Tương thích bản cập nhật 1.1.0.",
+      "changelog": "Tương thích bản cập nhật 1.1.4.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 1.0,
-      "sha256": "9131af2e8752bf235f6574b77a7b7d0c0f32ed51a1e381f5619efbff8568343f",
-      "size": 5931573,
-      "cd": "8bd4e7eb8fcb56277ab496b6d43cc3a215139373c31e1436dd77086b5cbfc031",
+      "sha256": "dc9d5b91022f396a3a0b5a92791b534a3b8a8c9b51103326eaa9c93bc9a91cc5",
+      "size": 5983045,
+      "cd": "6a989e328bc70f27e68968d0ad9fa5d049f3b2c5b29961300d93159d47ca0ed7",
       "fh": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "b88e6582a85fb18ad7f7d7b3df6a490d",
-        "a2d8e180ebdb1ec49c4d35b1c0c448d1",
-        "7e8d936dbc8035a1aefe1c97502b78cd"
+        "ada40d38e6040c6b4a7c9206fd0cb56c",
+        "4b5e57c88fcc1e2b5ca48e8b0d5d5ea7",
+        "b88e6582a85fb18ad7f7d7b3df6a490d"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CBC-mammuoihihi.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CBC_VietHoa_v1.1.4.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_cover.354e2976.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cbc_bg.jpg"
     },
     {
       "id": "chained-beasts",
@@ -9153,6 +9147,66 @@
       "mirrors": []
     },
     {
+      "id": "owotw",
+      "title_id": "01008DD013200000",
+      "name": "Ori and the Will of the Wisps",
+      "mod_version": "full_v1",
+      "game_version": "1.2.1",
+      "tagline": "Ori lạc giữa vùng đất Niwen đang mục rữa, đi tìm người bạn cú non Ku và hàn gắn khu rừng.",
+      "developer": "Moon Studios, Xbox Game Studios, iam8bit",
+      "release": "17/09/2020",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Metroidvania",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Ori and the Will of the Wisps là phần tiếp theo của Ori and the Blind Forest. Trên đường bay cùng cú non Ku, Ori rơi xuống vùng đất Niwen đang bị Mục Rữa nuốt dần. Bạn băng qua đầm lầy, rừng tuyết, sa mạc và hang tối, học kỹ năng mới, giúp tộc Moki, Gorlek cùng các cư dân khác, rồi lần theo ký ức của khu rừng để tìm lại Ku.",
+        "Bản Việt hoá dịch thoại, lời kể, giao diện, hướng dẫn, nhiệm vụ và thành tựu, kèm phông chữ có đủ dấu cho cả 3 kiểu chữ của game. Gói chỉ khoảng 8 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
+      ],
+      "highlights": [
+        {
+          "title": "Cần bản 1.2.1",
+          "text": "Cài update 1.2.1 (v196608) trước; khác bản thì plugin tự bỏ qua, game giữ tiếng Anh."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn English trong game."
+        }
+      ],
+      "done": [
+        "Toàn bộ thoại NPC, Tiếng Nói của Khu Rừng, lời kể",
+        "Giao diện, menu, bản đồ, hướng dẫn",
+        "Mục tiêu và mô tả nhiệm vụ, mô tả kỹ năng, shard, thành tựu",
+        "Phông chữ có đủ dấu tiếng Việt"
+      ],
+      "kept": [
+        "Tên vùng, kỹ năng, Spirit Shard, vật phẩm",
+        "Tên nhiệm vụ, tên thành tựu, tên Spirit Trial"
+      ],
+      "changelog": "full_v1: bản đầy đủ đầu tiên, dịch 100% thoại, lời kể, giao diện. Cần update 1.2.1.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.18,
+      "sha256": "d79776f3aa571e957a2f43a56d1c752b47134ceb85017db12eef85e4fc8c54a5",
+      "size": 8532992,
+      "cd": "0f32ed3a13275ee2ca28c40cda4da70a3992b3a135047f177b310d81cad0a010",
+      "fh": [
+        "ebb06a7c539063e416f312e073b0946d",
+        "422cfa353f71a1f2ca04520ef134a29f",
+        "c68fb5642992a9da6293af44b98956b7",
+        "9a4dde16dfb2c07173abfcf6d3669130",
+        "d9361c07b940fd1da37ecd2e6a1efa1a",
+        "a89e89769323592d24fb95315d174b57",
+        "0dbacf36f10704ccd748b964403a1da9"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/OWOTW_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/owotw_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/owotw_bg.jpg"
+    },
+    {
       "id": "peglin",
       "title_id": "01000A101E9DA000",
       "name": "Peglin",
@@ -13096,7 +13150,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794880053,
+  "seq": 1794892345,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
