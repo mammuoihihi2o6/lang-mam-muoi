@@ -1516,6 +1516,64 @@
       "mirrors": []
     },
     {
+      "id": "aot2",
+      "title_id": "0100F6C00641C000",
+      "name": "Attack on Titan 2: Final Battle",
+      "mod_version": "full_v2",
+      "game_version": "v917504 + Final Battle",
+      "tagline": "Gia nhập Trinh Sát Đoàn, bay bằng thiết bị cơ động 3D và hạ gục Titan để bảo vệ nhân loại.",
+      "developer": "Koei Tecmo / Omega Force",
+      "release": "15/03/2018",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Musou",
+        "Anime"
+      ],
+      "description": [
+        "Attack on Titan 2: Final Battle là game hành động dựa trên anime Attack on Titan. Bạn tạo nhân vật của riêng mình, sát cánh cùng Eren, Mikasa, Armin, Levi và các thành viên Trinh Sát Đoàn, dùng thiết bị cơ động 3D lượn giữa các toà nhà để chém gáy Titan, đi qua cốt truyện mùa 1 đến mùa 3 của anime.",
+        "Bản Việt hoá dịch toàn bộ hội thoại, cốt truyện, thông báo nhiệm vụ và giao diện; font đã vá đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch trọn cốt truyện",
+          "text": "Hơn 100.000 câu thoại, thoại trong trận, thông báo nhiệm vụ, hồ sơ nhân vật và menu."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy chọn ngôn ngữ English trong game. Cần cài update mới nhất và gói Final Battle."
+        }
+      ],
+      "done": [
+        "Toàn bộ hội thoại, cốt truyện và thoại trong trận",
+        "Thông báo nhiệm vụ, hồ sơ nhân vật, vật phẩm",
+        "Menu, cài đặt, giao diện, menu chính"
+      ],
+      "kept": [
+        "Tên nhân vật, Titan, kỹ năng, vật phẩm (giữ tiếng Anh)",
+        "Tiêu đề nhiệm vụ, chương (giữ tiếng Anh)",
+        "Chữ vẽ trong ảnh giao diện, phần episode DLC"
+      ],
+      "changelog": "full_v2: bản đầy đủ đầu tiên (update v917504 + Final Battle). Chưa thử trên máy thật.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.28,
+      "sha256": "fab94b40a319b3a7ef5792872e0969bec91431961efbe3fe60919895adc83d14",
+      "size": 1931844,
+      "cd": "e10770246eb3518b906887c43f622b983f7ad3dad7b28d4f77779035185f2a27",
+      "fh": [
+        "eebab30fe8b218f4bec76f1b05f98f21",
+        "100aa9588d0bc7e9fb8b0315d21dd08b",
+        "c68fb5642992a9da6293af44b98956b7",
+        "0d33e41e27b87a2362d84676fbd95912",
+        "1a7306ce56352c96d77ef7e3adf1bb08",
+        "c68e812a881021b5c8c8b7dce46feabd"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/AOT2_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_bg.jpg"
+    },
+    {
       "id": "backpack-hero",
       "title_id": "0100B6301ABD6000",
       "name": "Backpack Hero",
@@ -3740,9 +3798,9 @@
         "9edf76084a6537ecdcfaf0ad020ca78a"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Civ7_VietHoa_full_v9.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/civ7_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/civ7_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/civ7_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "constance",
@@ -13096,10 +13154,10 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794796552,
+  "seq": 1794879985,
   "donate": {
-    "bank": "970415",
-    "account": "109878873985",
+    "bank": "970436",
+    "account": "0821000183358",
     "name": "NGUYEN THANH DAT"
   },
   "contact": {
