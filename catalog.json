@@ -1569,9 +1569,52 @@
         "c68e812a881021b5c8c8b7dce46feabd"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/AOT2_VietHoa_full_v4.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_bg.jpg",
+      "mirrors": []
+    },
+    {
+      "id": "armello",
+      "title_id": "010070A00A5F4000",
+      "name": "Armello",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.12 + DLC",
+      "tagline": "Board game nhập vai chiến thuật theo lượt trong thế giới cổ tích u tối: tung xúc xắc,...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Board game nhập vai chiến thuật theo lượt trong thế giới cổ tích u tối: tung xúc xắc, dùng thẻ bài và phát triển nhân vật trên bản đồ lục giác.",
+        "Vào game chọn ngôn ngữ tiếng Nga để hiện tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.12 + DLC",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Vào game chọn ngôn ngữ tiếng Nga để hiện tiếng Việt.",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.12 + DLC.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "cover_focus": 0.61,
+      "sha256": "a7a44836cf2a20088f177a8eb58b3c09e719393a6b7da68a1f6bf2d16f7f33f4",
+      "size": 80940181,
+      "cd": "175b7f26c791790aee0fc71f7d828f5a840492e019287669ab5e9401db42e438",
+      "fh": [
+        "ee4331bdd3bcd298ab191023894edb44"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Armello_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/armello_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/armello_bg.jpg"
     },
     {
       "id": "backpack-hero",
@@ -1717,6 +1760,825 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_cover.6e8fe98c.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/bang-bang-bandits_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "banner-saga-trilogy",
+      "title_id": "0100CE800B94A000",
+      "name": "The Banner Saga Trilogy",
+      "mod_version": "v1",
+      "game_version": "Update 2.56.22",
+      "tagline": "Bộ ba nhập vai chiến thuật theo lượt lấy cảm hứng thần thoại Bắc Âu: dẫn đoàn lữ hành...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Bộ ba nhập vai chiến thuật theo lượt lấy cảm hứng thần thoại Bắc Âu: dẫn đoàn lữ hành trốn chạy binh đoàn Dredge, mỗi quyết định đều định đoạt số phận câu chuyện.",
+        "Vào game chọn ngôn ngữ tiếng Nga để hiện tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "text": "Update 2.56.22",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Vào game chọn ngôn ngữ tiếng Nga để hiện tiếng Việt.",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 2.56.22.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "cover_focus": 1.0,
+      "sha256": "efdc9e121b805a04d3a7ba4c0b8e8dfa4ac9fbc4f2515417e51c959ea3bf6541",
+      "size": 65924055,
+      "cd": "4b2f6703125250efc4f5d91406403fd39409ffa70fd91622141d9cd724bf65a2",
+      "fh": [
+        "aab8a6608bec6ef32049ee5ea85050c9",
+        "edcfed96b1f7ac76722d918d9bc3b0b8",
+        "d09f7bbb1b69df4d985686f69ddef634",
+        "fe305cd5309684b1e8d51d8eeaf7b37c",
+        "9a8f65ced10971de36ad484ce08354bc",
+        "3927b965e295254b433fdf3d21e4d987",
+        "33ca16d4eb924e7e7b6683f5ab9d5f6f",
+        "e117a35aa9b848e1ea9f3e7cb99b4f3f",
+        "8259a73ffa4412636b02baba950b7dc6",
+        "bc2bb494a507e57a1c894d6e2353e2a3",
+        "e32e80cab593ee1fb45fe6942961a038",
+        "f6b4e22105d41aa0d6dd1b2b7b806a74",
+        "0fb98a16542a56128f15779b778a13cd",
+        "0ef7b732edb75bcce977792424d582b5",
+        "5b5375b4d563da368290de17feb87d01",
+        "8ddb2b142b2336ca335359bd18896035",
+        "368f8e0a6d2cf8161e88f89d7b329c53",
+        "52e7d20cf545f398ad2e6837ae535baf",
+        "980077e787d59d6eadd67df696825daf",
+        "3409cb688cfbe64536ed91ce50bee946",
+        "06a16d965c6a569f2787827a42b02752",
+        "e292ff4842505134bda907baf6b33c34",
+        "21e984b4a8432b1c255df3d4b6647e76",
+        "61f5fc518edb89f31a3c8217ab09607c",
+        "ddb6c0f60a82a85cefee92ec4caeed89",
+        "cc860d4b4eff825e5280c61ec6b56982",
+        "8f77fd344a37573ef27bc4e7cabd1b18",
+        "aa28df0f327238cd5196186ff594154c",
+        "8b5b0f9dd0c54e63f8df901bf37996bb",
+        "2e1175d6f07a6747811a5d348e67ec27",
+        "7ad304b5fd13352e471fa1e0a4978bf5",
+        "7c0a5c3cec1e5e5c8bb6ab98bd12639f",
+        "4c9d61e3270558e27fb61570b0350134",
+        "ed32abf7a32a3ac9eedbec9120602ed7",
+        "8c0d89e913f0433e136b3df69e5ed4bd",
+        "07ae4b1e288242c0503e59423fed9415",
+        "5098c4e58ba5c00a966812eeb42b8c74",
+        "2e911587f730d5d89125e8b65bba3334",
+        "7473d66d6f460664b902d793b3895002",
+        "4a4e59ae6359713ac5f6fa4f74f8defa",
+        "0b2006fc979b82bd19502d1b72fcabef",
+        "0993c01a524b4c2d9126abf862b370aa",
+        "042832f6d6db4f38ba7a78591d5e9b22",
+        "bff3e91c5aacadacd91ac5064db34a06",
+        "83610bebcd4658112413e0ae8e5b8122",
+        "f9cc65489881a3eef36ad41531237218",
+        "778eb2464d60cc44953338a8f852e6dd",
+        "b907e75b04dca66ebaace9cf0dc0ae8f",
+        "627ba5954bae44edf25f1ffb341ceeaa",
+        "1dea56f1f7e88a999ee54e4498b739f3",
+        "3a3faabf9d886837a27af5b19f678539",
+        "cd07da310d052eb678a51a02ae1a9242",
+        "cd4637717a1b6578bf4b358dce69c1fe",
+        "4fa73322aa3bc3a931c642b9269f19f6",
+        "32d9058e1d1d89c4e4badd89c6b804ba",
+        "c3e69a1e584181692a4ce96faff4a1e4",
+        "7a88d95d122b5b1d25665c1071b6445a",
+        "4e7fb4b4fd3d35602d93414041fe6a1e",
+        "3ac2630a8799755224a2d30e2ceaa16c",
+        "98a0d2d1be75295b8f4ef200e28883ce",
+        "51bbc03757e38f61798bf0275b1abd7f",
+        "58948b839884601ec669f3c05a261dea",
+        "11d6f07d5075d2bf962d2b022b9bd3c7",
+        "a9d26629ce34d70041710ec692bd1709",
+        "02793290094080773aaa37eeb5ee8985",
+        "f8a8d4d6b72ae9775355b97a645fd922",
+        "51663c786a554af125dedce1b80c0870",
+        "3bd3cc203e950cd3ff480bea69ff02de",
+        "cad9bccad7f69335a9621fc294b776ac",
+        "83ae51e8b98acc0b2a5b5cb8959f5b02",
+        "84891917fa7ad2120cb5646add7133d6",
+        "8ccb46675ee4da8be786cf5f88f0174d",
+        "d1277ef451bb9365d9b3d187d1e7528b",
+        "cc6e981ee1835fa6194c07089dee6129",
+        "6b13248d84148d1f5b8e7f04f0ffaebe",
+        "2d7c632e02ed7a0f0450eccb28735357",
+        "87a64cd0a08db819c494b73ea2f4af2a",
+        "55012308e2d19ca794ca2f2e59ea7c52",
+        "57dda511de5c16c240e11b602d27bd96",
+        "6b4b4c2a89937d38a425888715e0a99e",
+        "d137b542833abda54d30739e147e728a",
+        "7987d88ce948167b4e00313f4977deb3",
+        "81b546d44a99e57e1469431e98ffef38",
+        "a6dc27d22ea846c7d4284d21eb339988",
+        "042268c989399ddff5ec8e394985dd20",
+        "955f92a7c35ea90a9903a6031fd50b1f",
+        "f39c6ccfc1afe0489cc504889fc9c1b3",
+        "e688ec385ae9bbaec7674525b01e4fd8",
+        "ae8a514ae91d4d0497e3c2f274d264e8",
+        "b6a09e12f2fc2fe2daa348349314c87c",
+        "f224198a0bfc1e88f25e1e91ec202bbd",
+        "36f97fff0fa377c7efe2891e1ace669a",
+        "6aaf90be48bf1f625114fdebb98c9808",
+        "915efada2fb04f893a13ef4db3f066d2",
+        "d92b266f360dbaedfb4d8f4339488c48",
+        "1200b01901a1f876270b882bbe8772b3",
+        "0a5f566b0b146c724d0a07dad0f91ce0",
+        "651126886340fc7935bc86a2047b9e67",
+        "8528f9b66bd29cfc53a538689c2f9367",
+        "0da6344922ed6c58ce13815bed887dcd",
+        "53ff345520676ecf5a37ef0ae7dfffae",
+        "49bde5dea9a086591b0692a547f87474",
+        "bb1261a7c833388ea008dc0b5b1bfa79",
+        "b786738656d5fdcf66946ea5a3b34385",
+        "e300724eee7fa61e7a3bbf933172bb4a",
+        "48cc3cd98fb454cf38e32f7ece4f0f59",
+        "b28d52804c96df0b14e7b4833db437f0",
+        "15f1677378fae0d29dca7c4f030446af",
+        "a6505128b3941a00b1b295466d08400a",
+        "cd1790eadb8ad8de0e67f7e1c5d1de2a",
+        "2ce03d1ba7a7def1c0d557a8c2e667c3",
+        "2d239b6093d222b8b9f149c89ede2be9",
+        "b58dab83b3df1edb75b9192ee5173e53",
+        "bf6b85fb40375351cfbb63e6822f4214",
+        "70defdd05b4714784305b51f35f61e42",
+        "f5a83b81cc01a9bf8ba2f0a1fa11d2bb",
+        "b787b1a049c2ad51813b2d023b3ac2a8",
+        "15afe95a82f4c026aa5fb512e26601db",
+        "e0480bbb4cafb56da661d2a0912becfb",
+        "ad2177b84939227b456990a508932201",
+        "2f92af99f06a932cad23dd9b6caabde1",
+        "258db05a0391924bd0c4a535f1ff048f",
+        "28c2d01011d1bea02e339a1cc0f1fe20",
+        "e70858e523dc08f6409a11f642806667",
+        "c905020286fa1df27c80a3c87e852447",
+        "57772a60848d89ac2eb4ac5ae4badeea",
+        "d2aa97f4f09bd3696f7414a68a7bc851",
+        "69fda3b2fe077f43660871faebc2c1f4",
+        "ab4bf3aed81e46dc1eac57592d35ebd9",
+        "dd57cab60c887bc5e8c8df32136b6fcf",
+        "2aac4387aed903c73f7646a463bf2a7d",
+        "688e01d94b2b77835d13cff139c7e31e",
+        "5f60e5997fc88e4dcef7d6a413595fb3",
+        "593c09aac60c801cfe1b4078e2b7dcc1",
+        "a63d1a31201736e7c50150104f5a57d9",
+        "4aa91902628d50aa8175b7f8e7c9795c",
+        "9462fbafecf8790a15c44752b3341175",
+        "f9844719270aa319c81ada0c05d7388a",
+        "d5b62340fd8a613f1ded3782ef29346f",
+        "661ded4c15fb38898363413f65bd3608",
+        "35d59e6909d86c27fa8d838a34e033e2",
+        "dced0d4e97fed3e925d1d7089ae5fbe3",
+        "ca753b87986a11603e9a1220a7b77e1f",
+        "5804081c1f8c8e27d94078a4db5c0ae2",
+        "cf74b42eca1a68a7750f088f2bcdacc9",
+        "37fe2f8b68a6ed6b7c285c7c7013e0cc",
+        "a4c21b5dbbb7a64af760baf8b6f33e9f",
+        "455cefbe5dafaf2ddbb77932ffb25e58",
+        "e97b04fa7c00e54f11ddcfd9d6e68f29",
+        "3e7555a6e9c2784224078a0b5e1290a2",
+        "ad87a8243a6b8cba1153d74eb1078b27",
+        "b50cdcf84df976a82eb48a7f826ca017",
+        "196caa19d0d0f09855416f9fa55aed16",
+        "0a504b209a8236bf3f1b590cf9681999",
+        "9f03b994053c2f0dfe68514d5dc9a06a",
+        "5cd4e1a99bd6cca1eb98b1da7860ea5a",
+        "959fa06d8dc471cd7443afce68b705c0",
+        "2ceaba94404c9601ea6422310c9d85bd",
+        "209f75f6dad97882a8de7be76810e37f",
+        "344061be511d20c156d069e6e68716a2",
+        "57955fb024727e369fd546d3434aed30",
+        "8305e0121b16e560b654e0982fbc5b70",
+        "c32b6ff990056b40f9ef392ff549f299",
+        "a1e4618e9ee8aa5e3b99c4d44aab6d7b",
+        "57baff99242daf850be20b8465147dbe",
+        "c0ec02dfefb2162d9650330b83c51605",
+        "ba1ff7e4cba9334a1c55c48cd38738e9",
+        "12794d53876b3b2c2f78885f95bcd853",
+        "9924d8e46678d70b5248994a18225bcb",
+        "85ee23a5f04de55ea4d4777eef705824",
+        "a5642ad4606e3fe293eeb2b6b36f5db2",
+        "dd9f97087e68c304abfc36d647d45089",
+        "196d5c0ca5eecd32b2523b0255c07b00",
+        "2afdcdf90b75ff8d068ef782409b3d1a",
+        "ce3a67b9c7635676d8950420b5122ea6",
+        "f3b89157c1d6ec755fad30c9354dd9e1",
+        "6fc32001a870da718c95e0662e335851",
+        "e8aeb849e281e0c6e9a1faed5267df0c",
+        "4f6061158226dc132337b2ef0cc2b098",
+        "e98d991245b6b923b776437dbec1ecf2",
+        "764f4d64293818e1d439a1730cbeb3fe",
+        "707e69b19c0b7c7cc0bedcab08893ad6",
+        "2248cde19b19d78ed2a83cd087d12799",
+        "108e5f05904893f323ff91b6e84ee45a",
+        "e813cd1b1a4daefec40e52712554ee04",
+        "f4d244c3a500a96ce6c39e4cd603feac",
+        "f2dc01cc943f057d718b69e40f168cfd",
+        "fc99ebd8c34ab947100898883923188d",
+        "3be2c12e56fb5cc4cb869d4c2c2674cd",
+        "133b1b0df554bbdd030a0d6362a18ec6",
+        "9f38c45d5c9ba77b7b0ebfb970f437ea",
+        "7ba76bf6086009459f61a3b64443ee2d",
+        "1f104416738e36c3b50926f1b73bf955",
+        "1f1a5b804746afc7bb93e531f29306d2",
+        "e93830aa171b9d12ef2f44480c8f9561",
+        "0239dec5f3dc1126e90114c1db76a4bb",
+        "3989c354a65f5d61f152e466b5417c4b",
+        "e453215f3bc0e313c4e4700839eacf45",
+        "732ef05172294298723913d1dcd1e4fb",
+        "ee6cfbb583a81998128a1e4e245bb712",
+        "20da148d6fd39ee0d7c21a01bb9cee1a",
+        "d20c8cd841464fcfccc2f13d95e32ea3",
+        "4ad46053567e64d353b85f29ecda2d9a",
+        "5427fe644505394d8651f9cf679a0420",
+        "ce36eb29bc5203c3731111087d5a4128",
+        "8321cf62a1192f00d4197be7e76f5911",
+        "48b57826ba45d594ad439fa7f7d7c9a9",
+        "d8eea8e85e50df7bfe9d3769817a2325",
+        "726808c1a7c662b0fff9d960cd5ab2fa",
+        "a6a68d873f69184cf71f320302265e96",
+        "5125a5625a4d55a45611073473f97e69",
+        "b43b3801b2ae0c0da1555077033ff980",
+        "df1f3a2dd62c55906e80a1306f2a35f8",
+        "581d985370ac4d33fdcd120a1bb264d5",
+        "94a36dcc094b7303c52de06180c72755",
+        "9b2553b0a6009b6391845a0f18fde958",
+        "9f683e30df909df84b1a84c80ea65c47",
+        "21f26bd55c314c11154abd76ba102efa",
+        "960d266d6c7eddff82094d47dfb68ba9",
+        "e23ba337f893f6cd0ceb1fd8fe989ff1",
+        "1208d8b54f3978131b9fd67a8bff7d8d",
+        "b8962ae3889380e420728e5d2692f5dc",
+        "dfd6283095004a272b9c28a1327e754e",
+        "6c9b6ee5fd10c288f302e63bf2eaa860",
+        "0663c534a7a32afed51fffd37f356824",
+        "8feb4e76d3a1633f65d827bbea1de4bf",
+        "7d7a24724bbfa3840de7a43df3c6ac23",
+        "0f9975f04fb501b7ea9c12f44066cacb",
+        "96bab2bd2fe124783666bccea9f452f5",
+        "6580f4bd56d26e90c4bfab7cf2424bd1",
+        "66503f4987ceca5b794812f00a9a995d",
+        "e07c30e2fce4af42ee8a94d9d7c4974c",
+        "96f33b3f9cabe377b097caff0ed36dc7",
+        "c7af21604868e90d60a35f8f0a36b92a",
+        "24e7195600ed94f1264ca0916817a94a",
+        "f4f98ad6aa3fd6fcb267d9ae2887aefc",
+        "f8b2090710b250fce49d787e43d3d70d",
+        "2032433ea952c900b703a61b0f5b72f3",
+        "2a4656256896274e8888fb040bc07075",
+        "9e2ad300eb133c6c3f09ecd2381aac0b",
+        "79233709bad2c6525003b05e14269934",
+        "d638e26d42ffb85fef9de04b2dd91100",
+        "73d6f27d307c0ceeef4b3ac7a116b430",
+        "11b70fffcbd3fd228a153da05e746f6c",
+        "01538a863e038acd576ca3f5adc38d18",
+        "ebe9266307ba4ac3947cc117f0e78c03",
+        "07a8b838cb05b0f3da71852c0cb22db2",
+        "d17e5ca90db3625616a42c9a73b23a19",
+        "7f17745293fc3a7688d2bf77d9eed72f",
+        "224ad9583bf4869f096664dea2252634",
+        "e4da7a729cb1ce833cf5d3efe20c5f09",
+        "69baadcf4380c6e7935383ec576ea631",
+        "3e2e898146d4dd9fd16362c604257edf",
+        "97fd3df6db8ecc986163523001ccbc25",
+        "95175f5bb8326090af1b96a263750b17",
+        "205908fb767599b904974416017d2744",
+        "b67e262263adf02a33c1b751a1bd4cbc",
+        "c742e9114f635fd9b00bbe82b938874b",
+        "338654a3da7ff2d718147a206e1ad019",
+        "d817e186ba033699c2831e4ea5618470",
+        "6fde8a33f0f44cf56c6e8109e5df690e",
+        "f3cbcb756d35f7739839f293f9861187",
+        "a11af42a82b1a1d0b7371f80b4556b0f",
+        "7ce4a965fcd8220139d01572c381797b",
+        "53b7e9b52f9c9bef3a93f849f6827a1b",
+        "f46604a2d08ee5c9d0490a83c765cd04",
+        "07db12e11478a0798fd201c0d5f63eb3",
+        "b542caccec584d1fcb561c793d37b7b6",
+        "7d4b435a0b04d5c5690c92c49b2e32d5",
+        "7cb350a58ef41b97675fa889df68fafe",
+        "ecfd9aa6bf5ea6b6e6a42701880e1af8",
+        "d414eebf63282d477c690e8189f515c0",
+        "af31046c10a688ad90265863762ff817",
+        "51262c05ff5c312efe231863b79f73fd",
+        "4afa602461146a306f7083b409634459",
+        "d0e471cb9650fa075fe3a4b81bd3080b",
+        "2ee47e40b1fc4bb43d4c2aa7218c095b",
+        "afc71ea4592184bc72f5beac12bf8d25",
+        "e3f11eaad4c5759d4ad7049e2f0a9fb5",
+        "e0bdcdf1ad93f1e8615230f272b1b69f",
+        "efbdca6de3a9fd1f5736a9de5c97c906",
+        "da8564473c748bf68e2cc592b7305675",
+        "cf0e215d74a775a89532604adabfad57",
+        "02c4c978127c108dfd5b68dd6d2de9f2",
+        "f31bf7cebae3badf61509adb1fac0108",
+        "2376d3c29f96b143249dd1064feaa0a1",
+        "7caeb3339e0f717ed0b613c8e54d30c6",
+        "5fed5b14a2dca37b3468b2fb4650bece",
+        "ef1de5ba4aa511cb71e0bfb4cbb3c165",
+        "479459fc56c431ed0af683171bffb5d6",
+        "58f11facf7558e98515dc2bd36f98293",
+        "b08e74647a84cc09b7232d739c63914c",
+        "80bb644b93ff851ea711b7579c9c0782",
+        "c1fac03dbbcea90c92a1e0cbaa35ffac",
+        "afa43a3f4622af45dd222d9b17e22448",
+        "1913a25fcf1de358cda53ffd1791d0ac",
+        "1caa34b5326d91af0fcfdb724a01829c",
+        "968cf8685a1a06649ed78fbb5cce0bfc",
+        "4bdec859d67bfad02d58b03023caec01",
+        "45c432c7fa321590e9d6c26abc1012f1",
+        "fb89e959412d0b43ec6010a1ec28af2b",
+        "a2200d38d8f6dfca841f492f95864db0",
+        "59c62817572b4dd3af9f0ce00878be28",
+        "f63409ed9b20862619904415f8a18853",
+        "7d0942c7f592ae57c094fd81ddb77518",
+        "5d49e29aca2767e9356aec9bca5bc1b4",
+        "74b021d3bac1b34d60364b3932a3ed98",
+        "9989a7c6671fbd28b382d78e84b020c6",
+        "6aaee9eb791f9e289117562db5541992",
+        "1d3957248ea9d7d1ccc0bb5ed818ba1a",
+        "99be71fadf5302db75bb78376d2d5b38",
+        "c5aa0e0f6fe0da6e775cc42647a27caa",
+        "33e0c9820f5870c788929420f3461f97",
+        "21f25cede7ec81413dbae7ad03a345c1",
+        "3df931ed48b191d76022f948bb3a958d",
+        "5b3eb84df2087ff5d2a29b9050f8f18b",
+        "d103ac7f8b8a74c5ec72420df9b6ef9f",
+        "c19ca5bbdbbae1ba4e1b3a421b6ec391",
+        "039767c7d7a68b80ca43bb954d0d836f",
+        "153d81879d4f5a4bafdddeda7b20c3be",
+        "6c79dde5bb8c1031e1baa9f0f914cd5a",
+        "4daec07e49617f0eefd98b033ceec575",
+        "1c343ff531476f569ea9a55df1670d21",
+        "7cf2e663070adef35b6625599f5bed82",
+        "a04e63195047a2f2ab32dcc44d68be5b",
+        "c08211319de45ada45d87ea67367ac07",
+        "59ecfde94a72a450e23255053dc24f55",
+        "ae5ec97d4132bb6eabdbf5d68fc0c600",
+        "13de6073ee446b6f3dffda1b9e6dcbb0",
+        "fbde2cd7ad0078f4201effb213790a62",
+        "0410313d93607168ee960c68d3ed8b84",
+        "18f66438567fd3a6eb8132440a5ff179",
+        "832c287223df1d6c399c6b6e52d80653",
+        "e6a53d8362fcc72e7a5980a9ba8118b6",
+        "4c615ca4a7d675eaebe90ea932581251",
+        "dc5e68887aa8eac6c2029f8e7f79e7de",
+        "e341a1251e0975a11097bc0a4b8b69b9",
+        "6db90052704cb35f04a09cf6cb3b2c16",
+        "2bf658d2830ac92cbeb9b5f8e491f77c",
+        "05cdfbbbbf66769ce0a627e91c8c3756",
+        "f1ddc52dc248d865c2881665a5214f3e",
+        "0bf0e6a68bfef583ba96a816ef8e197a",
+        "09e6263541b11b82fd0386f8f19e86f1",
+        "4a750d69df6736d6faf420ce3c8b1969",
+        "7cf9fc66909746b01b5c03b6c44bc749",
+        "7c8204f4d7ea0720572de820823491d3",
+        "9c4b334e583dbbfa2308223bd286bbbc",
+        "274e27790d0869423d9ded0cd5a0a2c5",
+        "410caa37421efddc11fd867a0a40a911",
+        "4d1a28b5cc1b90dcafce44957851b13b",
+        "c8782d38650862fc3a0dc1e16bef7b89",
+        "7c53176ae0e062d79ccec6d21ed2d41e",
+        "d61233f92b0f156b48f275346110ba74",
+        "6b96fcfce236100e1df97e0e5a64060e",
+        "fd1e0555355fd0163e404f16b9ef1781",
+        "01d6cb45bbfe2a6ed4fd2172436db730",
+        "de3e722890645aa7e668def73c6e6d3e",
+        "04b4777a424de468abc384270867e71e",
+        "ecfdd845dbb4492a8d143f58835865b7",
+        "819af783091db89ecd05db59e38b17cc",
+        "ecf6c04bde2637e0306a586456ee2e82",
+        "ed3f93f7b620783a2e6dc2b8497496f2",
+        "e16276332ffdccd4ee1e3f2b89b7a276",
+        "7abc4fa9a3a305f105d56b60fdbd1c56",
+        "cb0e2329a4b31f55f5d58e9ba1dc08f2",
+        "4f209dba8e9ea64ea80d93365d95d00b",
+        "498c68a3db92fc743432cc49d4e76291",
+        "8893c09b8666210b7e1b2c47e41b9d3d",
+        "fbe23603870b235bedde7ca33b2d396d",
+        "64e8b87ad60cb3692ab40850e00fd018",
+        "49d378f0494d6d748917d28fceaa1fd7",
+        "28e69bab5ef4b029304ebbcdd26fdd8c",
+        "765f666e4ac8367bbd15bfb2fe5db6e6",
+        "a237629bc1c5371fceb93e0a18539ef9",
+        "19b465763c8afb7eb52c5950f13aafbd",
+        "fb3b00568ed96f04e27fd33b916e5feb",
+        "e1736347a41ac4700ac536821c356f1c",
+        "4fc6b14295d4c62fa7115f2fb4599299",
+        "6da5dc4fb1648318ec6512d77bf7456c",
+        "53b705b064e2b1e0d8c7ca1e22c26c67",
+        "7b2059ee7de06dadcc22c2fc41109fde",
+        "3037b303ab5cea16b0c9655d3352cf9b",
+        "fbc9797cd9bf68fc2ab188636c62e72d",
+        "b4122e37938c9bccb787414416954820",
+        "ee894cf590ceb8747232e5afa77d64ad",
+        "79aaab4b19392be9836d6defc91ba567",
+        "da0dff7abbd9824c99a3c06d80119750",
+        "4c639be9b8902fb18865ce43429fc908",
+        "3058bac9d9d180f699a2dddf29a92c90",
+        "bd208f49f4743ed4b4b176ace84392b4",
+        "2e2fa2eb7c111daed9fe5886860513db",
+        "c521e3f2df0b95b77d03c861a0449aee",
+        "ea5104b40be9812dba30b677d410bc6b",
+        "8245d5f0b5b65126d1dda9341bf472f6",
+        "20c970798213a21abff589e14d8cbeb8",
+        "f91fb7faab9d93cb676ed6e79261a361",
+        "de1bf2018b859f5300956e531d1bbfea",
+        "64cc8e59c23be387337894cd469f9a3d",
+        "7b00257eacc52695d6b9a66de706f2a0",
+        "7ec1d3b317cf1c4c4c8a0686fa7d70ca",
+        "683b4356f199b107f50d9d4a7dd14a16",
+        "d72565a454c640adabf5746f72bd4922",
+        "8e3cdf328fd67aa14f7673ffafabeb9a",
+        "66a9ce07b1326c5e540f365682036454",
+        "4c4d4fa38eadfb7f28c2aa5ff8553c8e",
+        "97456e7ac8f114f8a9fe78a46c9927bf",
+        "379670b3cc562c2be954c0a0170bfa29",
+        "c1edf79766a432f7f7bc3c6619602786",
+        "fb8543aa7e0aac1e17a48028cc8ea5b0",
+        "de3216b0388db3c8ac586e19d1de4e4b",
+        "76757c84e2ce37a910dbdba4836563cd",
+        "1d6611fb60a48a02063b810d88866c20",
+        "248f1a4a85a1cf40a2114f2d3f8313ce",
+        "b3df5f6c761b75e6532d67c4213d7a6f",
+        "0dba3293e4fe690d03eda784817603ba",
+        "c7519491e0e2785375a93624980b18d2",
+        "8adeec03b3f3cde0fe17a98032f607b9",
+        "5243589d2c230b62c12825b72b9130be",
+        "4f2f4bd68a3ed034792560e398c4adbc",
+        "9c9e4398c447db8e5e9ca3356cdf30c2",
+        "a941b47ce22d2725788055edc637fbd7",
+        "0b8fc8d5237d7aaffd06c685ab1a1e1b",
+        "5b22ac558fddc5952ca78c07066f709f",
+        "a10c2cbbe4d2aa98902c232d89afcc90",
+        "de61e94d58fe425456014c77ba723158",
+        "06325bd6ceba181b9378859ce438d4db",
+        "ac62dee9c1a3405e00b524cb5db1452d",
+        "59220fe1bfe2681e5d7bd2d5d6545f3a",
+        "4a31c5c14ecff54c58c4572c3e6827ba",
+        "fa3ec3be8c72adf1ed680286d125e73e",
+        "95b90b42fe13ccad68643b9b9048adf4",
+        "a54f301ff3f60e8769d7954a0cb02bf6",
+        "9621b73045503a02bdcf02d12a810fd2",
+        "c06b6f3f89824adda53b36a1a48f13d5",
+        "9615dbcb06e2e2780d2ea6c9e94b6eb7",
+        "8523805e21880b81cdcaacb1285eea79",
+        "ed6d09f61000bdb4b62f6efece478d34",
+        "d914a089838d7c01702989464d98e679",
+        "07b689a2145d69e51fc79dd7a896939d",
+        "f36140325e0ed84871ab07a171488c4a",
+        "563a5719beffd2e8f193b59949ef16f0",
+        "20da1eb75a2f2dd4dabf6ec7071b4af5",
+        "529191dcc6f75f158c8ac236ede86234",
+        "d51db91a6bdb8462c20de382254ca563",
+        "e04b8493b9badfa675cc18fcbab77359",
+        "2c62deebd2a45a7f55706a836c3d11dc",
+        "01eb93c5892a212fa2563b206277b84b",
+        "cfeac7784cba7fd7e00be7b122b933b0",
+        "046538e852b84b70ed8703918c104c49",
+        "23bcd154913dba464a58e5ecf0e72a75",
+        "14c194e3901bc728e0cd98efe350a74e",
+        "389cc708bab619c1e496a187cdd86c29",
+        "18efcda301d72c6ae63a12336edb6272",
+        "ffbf6b8fd13de5887fcd1bcd406f6b0b",
+        "d4bb911e2d34a10db6d30ec612fe3721",
+        "47ebfc157db2b2051f7392109eab9e41",
+        "984bbf08fcf635c149af245b6e56fbdc",
+        "e53288cbce2d4365456d2480451206c9",
+        "8b2cf7756ae437a57cc00aa57271f8e5",
+        "faa2dfe3a9c19f6252719a9cffafb677",
+        "82542d54e2ecbfb9e8a36168bae9edf8",
+        "a256d46640f480f0b2752155b998aaac",
+        "bcb77bcf243404d3b959d06185c9dac2",
+        "eff1d2418d2e6dc72f78b26e5c002803",
+        "afc32bd995712a3d80bd3f137a7dfbb6",
+        "e0c34133714170b23c3546521bf2e86c",
+        "431f889ca1739ae7a00499230d3cc435",
+        "2c01045caaf04d9fe9b8837522d007ba",
+        "7254f7ae50077d11f38eccc2625aa44d",
+        "7da50ba12232b85835cc0b2375051678",
+        "5f321fd01026ea952ba9dc63f440e7be",
+        "9e17f09c3adddd09037f5652863eb8ca",
+        "236892b815ed98886fe9133ed1536a4f",
+        "c8101e418d0ce317724e709e727a9dfd",
+        "1eb50a8c111ef7cfde9766920e522c05",
+        "1a839bc1e92a23daae42228bedfe26c8",
+        "c0ac3f790f78a5e105c2d0cb51d65a4b",
+        "7aaeaac406f688de221ceffd8f90c673",
+        "ef4db5e16bc17b82e73697f30def167f",
+        "e05720078a087b0811c1f48d0162f6bd",
+        "8bbab73d7da7075de4daab3e80034427",
+        "d243e2569f0221c03f676df16efeca69",
+        "0a5c37325e9a3ad03c9cb92616eb2245",
+        "5db845f90ad40b018236dcc0eebacc37",
+        "1a1aa73b4cdd1c0f98c12e3e2a69d8c6",
+        "6a16cdc24ab2efad9f8771df67f8d555",
+        "5c4fcb102d2eaada9a2bf29389f40c66",
+        "e4a64c2cc717bd9411645dd5014d054c",
+        "e506110d38486bf602bfed06843d34fc",
+        "d37c7b179e8adff06948b6289e5ce74d",
+        "49306499765c0f64d2ee8efce146c2b3",
+        "0193923eef4b63574b6866c5665fadd1",
+        "681fd35ccc76624fef56b5da7d05beea",
+        "4ed1bdef7cf7e762a40bd111ee7725b3",
+        "9a9e8b565b3ebe77acbbeb11e15226cb",
+        "50e85a6f85a5007f69ad768595ce011b",
+        "1af61524c9ed3590af0ab2b7caaf5a79",
+        "f59109403edfbe91204e0fe648cec0c8",
+        "e3f77df350fde7aeb4bbae0b745b1786",
+        "0d7df1aced469f794e3f68ebdfff0d51",
+        "350a5066797af3b3688cc2f2e9530ccb",
+        "0e51c21f31c2f931c5ccf1dafd92572c",
+        "e0d1289a68e534dcba9b30a72017839d",
+        "9988a622a9fb9e9bf6e5f56b27027573",
+        "c1949a1f03743da71a494eafaa61db09",
+        "1206f827b205b152c95654c7e4473ae7",
+        "a5a0274dea90a5a00a9b2c067196868a",
+        "ceccacdf20a24f598a112908702e0d69",
+        "2804c0924d350b9de499db12ed77890c",
+        "397750de35c239c5e4b917c6eea3cbd7",
+        "49cca0a2f87ad21f05a59bd844430a31",
+        "3131b81555ed0434f0f54fdf4473144b",
+        "20376d9ac5539e5d696322c12dd85dba",
+        "0b842e491df9ccc7b212c444753dbc0c",
+        "103bd21905edb9a5fd8a4bce56c5fa84",
+        "3a8f5f7d0cb2b5e332e6098934eaa928",
+        "c4c8cb3b94ec0ab7ed05d87d9ae4a9da",
+        "c5d4a592f7c968f8eff4ea6b389e22a1",
+        "f72673ab082835bc34ecd6ffb6593056",
+        "ea90dd4253eaf2553b188b981e6e822a",
+        "45cf3a0e70ab9ad99ea0f41fedc2dd44",
+        "9b14dfdf713d4e803009ab8409d739d0",
+        "71d75ca792002518648a948954364147",
+        "ef4ad69f5eee09830c5f4297de448f58",
+        "8b4571bf3b4fafe7c318a9b52df3f31a",
+        "310b492efcc8f7ec71703b6296d4c73a",
+        "bb40de87971cc1ee4e0b12959315bf74",
+        "595f2b701885d16444110db42ca66390",
+        "9ebc573d05f24082de6c24ccea21f3ab",
+        "15f5f6fa77d8b86c3123a53db9e8e678",
+        "7b8e0abe732006086b44616e32544fcf",
+        "35549edccf308e7e2a86ac6473a2ec3d",
+        "de9f081e5cf2de33bc5ffdb137ac3d66",
+        "962a0d363d85cdf7f259b5d7861368a2",
+        "39043cd313d28b260debecdd9950d6ee",
+        "d64f0b77d78c2f1371712ba5c4c44bed",
+        "3dc40a1508beecab277f9ab06249a2b7",
+        "4f78ee876658eaadfdbe07755b5f4128",
+        "eeb2db15a5bfd7a07814bce8ff972658",
+        "11c60584076066b8c712adab99b86a49",
+        "8dca56a2377dc1f9f25704831d0162ac",
+        "2fc9de47091fb9ddbf2ea1697c99ec0b",
+        "3e2814506179c165f9d6d46b127b1b2d",
+        "1395d2bf695f736c290f16b28056d4f0",
+        "ff57e63ef4f655e701e9f9ad34e65ea7",
+        "ca0960c01fa5d4fabf9b61b85cff9e3b",
+        "769a9862327959d972f0dabdafb71866",
+        "756173ad6594c9ec1619f3289bb33c17",
+        "6a5529cadbf93b456b78333dd68a0d00",
+        "bdf9a950b51f0f0fb417e5d9d3864cbb",
+        "32694dacc74de649f4eaffaa7a84ce0b",
+        "2c5e3dffef79c5b7d542c927b6485101",
+        "c010d93a7e2443cc6b08d125f8499d2b",
+        "3a1fb5e1073aaa3a74e0708fe225a463",
+        "f0be5fe3d4c7bf434f3fa70c4445218d",
+        "9b0dad02d0f4df18dc390d76b8481adf",
+        "1ea05814b661408f009448b736aae773",
+        "88285a4ecb19909ed0a3c99204d2ec64",
+        "ee87a23d5a8bcfd6d7dd1c4e1477a574",
+        "bac871ffbc7ce155dcd3409493541145",
+        "e5773c1b73e1e6d481a9acbb48838cfa",
+        "c2d0f649005c5df1cc6d9f0260ce8279",
+        "cbed53f08a0cd0644d7233e61b4c3161",
+        "c707cf1d0f31d3f9799974540385d7a0",
+        "eca23f357a19e8a5bfbbe440db659d13",
+        "a9da126f48ba7c3233191629fcfb095f",
+        "22b731b8f0cfcb937ec3f6dca88b22ac",
+        "c116675616b9abe65c81cfa25961d650",
+        "33056d27a467223aceec9f2bbe492f84",
+        "1a343a3203a1bf0b55ee1d2f030c180b",
+        "e108faba7bc5aa8ded7d80e8f0305212",
+        "7756f5a9430afc4e539299609926f50e",
+        "6c33f43ccfa2d22789e405e1445634c9",
+        "c69ff9b553d42802f8a54a09215ee13c",
+        "7b2bfa36f0e634de9b166268489f7d21",
+        "cf242afe23738a19a5483aedb05dfb68",
+        "4ceb462e585b8d5d2f5e80e2ad420ad3",
+        "0e73e391a71a15d2f3e55171c5e68e88",
+        "c60ec5c1d706621b621548b65a3e0306",
+        "f4507ffcde7a9afc583c4a3be0fc9457",
+        "76f524a9082e1e7bf84ff912eee3bcb8",
+        "db1333271a09a35bede4b4bd98566fe7",
+        "d2827a08a6e3ce45aac54b284f5098d9",
+        "d17b61d7b57b9fa11e32eecd33ac3158",
+        "9ae4da3bde4c79605689b54096ea6240",
+        "b4a3b60fe34b3d35b2cbaa6ccedc44da",
+        "3b26d702377c843f6f29db8218497c1d",
+        "514df173b02aa3b85c980e5d7cc26247",
+        "3eaa79f1e3087e01a523a7c3a6413fa8",
+        "2e968fc2bc7559c63f67d0d9f9329a12",
+        "6e2ca083952ca0d2f51428002281c336",
+        "23be5ed7a0a5608753d7f059c738c8bc",
+        "bc00e14d321ffab3f53e33e004e5f305",
+        "9ee83836ae68bae458c86a385193f33d",
+        "5b3c8abc54e0b9b593faddc878ca5c39",
+        "32fc798f254b1393af4f5c87de56a4d0",
+        "dd4a03d606f4ebe0c9c63f84a4c09bb7",
+        "bb7ddf91d524f2a62779cc68667fcf77",
+        "5a16cca55637f40f3737c09041a73ecd",
+        "a36d3780eff8cc6d282e0dcfc3e23f2c",
+        "f6fd8eb2c4be5367800371ad30c1bb91",
+        "262fa715d6bb3df29a5646cba9190303",
+        "6b6f1d4085126d63492d2d49c630dc6f",
+        "05126b8f62c351bc1e35aaaa4858d83a",
+        "abe350ddb3ab60719f0972d05b020c13",
+        "f67a03f52d8dd1bf632d9c19fcb3e472",
+        "8735a9dcb3469ffc0c2471ac23d22f17",
+        "828910647979382b5ce41339264d246a",
+        "58268c972f94718ef84e987654740ab0",
+        "94b6913f8246fd9ecea09c7dd3a44e1b",
+        "6776525fa1dac105e19c5684c5ce5d32",
+        "e722bfb564d0fe6f5c4144ae47b9b5a5",
+        "037a3fa0e6eba7e505bd0c322515ab77",
+        "953f9dfb570df62e2316532e421e97bb",
+        "e01412681b4503935fb99c5eeae6e57b",
+        "b85e2e4c446ca9c6d35f4fa1bf76a9d2",
+        "807e8ac8a871ae8e3dce5807b07b489e",
+        "84a9156b75ba840347fd2e598ab6668e",
+        "13d3bf16d068da7edd37ecc8f79fce24",
+        "2a4bea2bff0b1b006f90f8579c6269b6",
+        "e97c8f474242ec1f1876b1402d0e1342",
+        "cfc6214310936af0eacc174072fd027e",
+        "eb275bdec3b466ae596e22c09309c54a",
+        "39e904e0d1459c8395237f6f91eb1e4d",
+        "ee46dd6d7211e07e2ef2f36735f07980",
+        "bfbb7d168fc89a13e4ab9f73ddabd284",
+        "37c70d7fb1de3a782ecfc4700a1b4bd9",
+        "ade7204bc1c717ac2f4412ad1210bb06",
+        "cef360625dcb07bda7bc72bee70ba0bc",
+        "d3d3415ebb79110094b7ccc44f0b5d9c",
+        "668704ec07d21bc54f1716f43c5df90f",
+        "5bcc2c7cf894a301ce399b991500b6b1",
+        "d374209e5a677faa0f731a1e987d8826",
+        "b9ddd698074efa1ae0121f2a06ee6af3",
+        "5a246969671ada212898053231de0b64",
+        "28b235a225c1702f304b3e5352c7d41e",
+        "dc9ca15a408cfa6fc0469fb864da6eee",
+        "9241d431f23e1ad4effebfe6acfaa8fc",
+        "7e908ef1c650fb497c7a2df8f879b858",
+        "c2f2d934a7fe68a1da547f987e9284a3",
+        "7034a453aa9a8d2711850bd4fe4420f3",
+        "d99aa47be87c4fb0dcd3746634cd0b29",
+        "53c2b80ed572c52e81dda52b98b25a45",
+        "ffd8ffb7d11893052a48d0c61055102a",
+        "175cad11d442a2fdd7558b145e8a8763",
+        "08526a16911a2290170a35028c723000",
+        "dd97ab789e22a024fdfed17cd5766563",
+        "62f10cf2fd5da01681b2e6183e035050",
+        "46c8a8dbc4807f3af299f63f63d01d78",
+        "df5d5f8089d9e09e27925a35a613c738",
+        "69dc49aacb946b12bcab15703adf41cd",
+        "323baf09234207c83e1b1fb1da498691",
+        "edd32d2ca0fe6aae9a25f701e610ff43",
+        "5bca1ffe55fdb0a6b30c2109e644d5fd",
+        "377ff5a210b81c9d81f31636a723568f",
+        "b9378691aaa6e0dd7a223913ba30da72",
+        "fe6990f79c7b7c94b024c7247a7ed7ee",
+        "ccd9d90d8fced417ce8332d183c681c9",
+        "272fd9a3b1addce4759421744d422a1d",
+        "aa82862d35b4edb9d5883877ddc967ca",
+        "62d491d3af0ee53ac1b6bb4b3328702b",
+        "0ead4e81e7740ea0bd9db8af64295c18",
+        "250aeb41df07ee88f9620d393196d29f",
+        "c53fb05a2c297ff3975802cf650c331d",
+        "6f9224df48a2f3075dcd67932856c4f2",
+        "cedb6948ecb81ae0a9b6bdaf7f652ccf",
+        "6f20e1833b525117881d7b2c7695c3f7",
+        "523ca3d164413ff1cec25948ee81efe1",
+        "a78627d7b5cf0e396220e540538b1735",
+        "0cb5188e2072190e5b0b66c3eca52809",
+        "b2695f187a7be50bde4bf1518510bd7a",
+        "3edc80b6cd1b56800683f489b5efa817",
+        "c1777eadee7da95992015b4eb3b512df",
+        "a39c8a4b73ac59f509197fde2b94e73c",
+        "ab0820698978cc02fa87dff949caf51b",
+        "06326f04bfa540222b6bf16d9b99f7f2",
+        "05f43fbc828405179ce43e3526e99f94",
+        "05c7e943ec6b4f52a7e4549ee0feb25f",
+        "1869a3b3b86afba1abc6dd43bbe491dd",
+        "134656805a92ae9aa8f17dc2a23b9bba",
+        "ecb2d3b6fdeff503d4977728ed083516",
+        "f156632f49e599539d901c692ade2087",
+        "dbc7d2b91dbd074b69ffc47cca346e6a",
+        "18ed20f1611628a85b02d64f4dc8960a",
+        "b327f999c8635d3aa3f246ce7d90bd1f",
+        "004130449384a518ce5543f9589beba4",
+        "15ff9ce2fde7b81b7e87053c9b96af8b",
+        "23ca532bd3034e71f25c9964ead890ee",
+        "d3d71a42fbb74a9f7922c7c49c478ef8",
+        "cdfbbc1628e9745965ffa4fa1fca6312",
+        "83717a15837936626fb573dd2de4989d",
+        "54db3f144894b2b51ed5fc0b7de87468",
+        "8dad96378a754eb6220ab331dce94c15",
+        "e65ea6cd3fd00cbfa84bd95ad3d353e9",
+        "64273d7c4adf3c3604bfbae25c568c38",
+        "47d8526de74251fb7ccf95f9bfa701a0",
+        "a9b3163212cb43eebbfbb27c23941834",
+        "c8c76b21fa2886c7539cf00235409dbe",
+        "d9bab0b1f4169f3553d382f0264bb9a1",
+        "19d9c8d10c237c33c5c71afafdb4f5a4",
+        "ac83db7bcbe85c9b679784c2810d0bdf",
+        "e273773293f116bdc88e2c01aa918943",
+        "a825c76b3fd70106d16d9c24d743056b",
+        "f554ad14f6bbd3c3753dd34eecf055a8",
+        "520f202dbf44bee6dd0d262d88253903",
+        "c594fc9022e0e01a5df8bbe6df82f5e5",
+        "bfa0ea1d9a750418409bc9370b7d5b14",
+        "033539221f05d0102efecfd2fc2ec34b",
+        "3527b1cbd6fc88c4f72d5af04633c404",
+        "256bc7a4d5cb38a9387ca7133ce9c01f",
+        "210c62773422aa034f8b27f942645c67",
+        "c29c10daa1b7973c9d1649594671a6d6",
+        "e1c60f63cb3d00f84dee97be16a6faf8",
+        "5070667f2567d86b59180b20331b498e",
+        "82ce501d29254ffe7c6bc30917640787",
+        "27a60a0f9a66522da2dd3401637b7876",
+        "851d8e864d271ec6ec361c1d417ed238",
+        "a11a74f9cbfe3460b4249802cb014e93",
+        "e3a9b4c951ea71dca54e0e4f189dff35",
+        "35500bb9be9015a5c4eabe8f6e223173",
+        "3883beb35ea7ac8d22c530af82077668",
+        "0c993c68f183937b2bfcc7f1ac9d78ca",
+        "589218935ba36ba339a94e43e652fa18",
+        "ae56a271e98e3c96325868edbd84a292",
+        "07ae7c0a4982a3f7c63cf89e7d505c4c",
+        "96ef3b4dc79324012f086b6843462015",
+        "9106a154241c771b15504a28e504233e",
+        "bf7859b7c2a52aaa515e05053906d832",
+        "897964a4b02dc174d6ea96af63d026f0",
+        "a2574636f2ab5172f19a663684479306",
+        "c765c6221ae0b7f097272197417ba2a8",
+        "eaa11d56f5b53c32f107bf19b6965c2e",
+        "6f07ee81e1576c1b5ada985294982caa",
+        "8e38b97588cd7b5e3cdc228ca9842372",
+        "055fce2a1eb1f312c0c04114914b0fdd",
+        "23339fe0489be01243cf3f745db13cf1",
+        "207f4c8021f45630a541dadf0ae88e81",
+        "65606d346388615b70106c4912e1c760",
+        "0d6b52ed532da3625463a8b6666153bb",
+        "16a23c6f64726c8c06d04c3991b403f3",
+        "09fd7aa597e8b337189ebce1d7eb6cbc",
+        "9abfa389afa85595f5c8649911f3c085",
+        "427079658777442f78c36403e9c81109",
+        "edeb29711700df5ca8339019fb4c977a",
+        "8e85e16fdca69e0c2bdbc8933eb64d28",
+        "a2e2575dee74ac5fd72e177f2698ab43",
+        "481569d3632d23dde916a6936c50fe91",
+        "9a8ee1e2a9194934eeb28d9cab6abaf7",
+        "42fc2f06bd527666fb26557b93acbfba",
+        "c4a83c506d85eb67586c276fc18b5363",
+        "9b65133873362d5066c4df11e7df40a2",
+        "09034ef357967919760fa12f98c5de27",
+        "c78f8f48fad7cefe85eb80f02065d6ea",
+        "def5f932950c3476128fb647aee69e1f",
+        "66921ff16bf50e9e888922f3b3165ca4",
+        "8c76a556168bf4305c75ead8e428cf82",
+        "c1ab00a994c462ec5e4e3580030453a0",
+        "aeb172b6028f842bd1d00c8eb1460774",
+        "3de6db002addffd01f536328d7e55fe6",
+        "31b6d5160dde0997144ea7eb5d4f4dce",
+        "22a46aa611d3358ca7911a28a05d1068",
+        "dc98fc05ee420ec918e0701ba0d2c0dd",
+        "6923ed56c96bd7530a4b84548c070643",
+        "04a06aa14927f0eba51bcb189724cf94",
+        "0572ba25abc5174c230d81d1dabffb9c",
+        "c5b9c0e57b604c6ec0a755deea02c013",
+        "0b1ce7371a339e0881758972d6cc9467",
+        "817e6d48ec0be5bb9306e06d44827041",
+        "18f556544933606bc202d28651b83915",
+        "5ca60770b9187787b692f988d55dcee9",
+        "8cf9f2798dd189ea3ae977ad2847591a",
+        "304c98fd543b628e563a8b962cc87370",
+        "51937011679e84c714d6218889591d67",
+        "cf1683abfb8e7548a7755c376eee89bb",
+        "d48941a69094cd3da79d2a53ec9fcbda",
+        "4dc3583583cede2f4645840179f5ec70",
+        "1e88f9b6eb9b32b1630df16b0460ffe1"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BannerSagaTrilogy_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/banner-saga-trilogy_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/banner-saga-trilogy_bg.jpg"
     },
     {
       "id": "batman-arkham-city",
@@ -2290,6 +3152,53 @@
       "mirrors": []
     },
     {
+      "id": "beyond-galaxyland",
+      "title_id": "01006E101DBA0000",
+      "name": "Beyond Galaxyland",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.4",
+      "tagline": "Nhập vai theo lượt có bấm nút đúng nhịp khi đánh và đỡ, thu phục quái vật để triệu...",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nhập vai theo lượt có bấm nút đúng nhịp khi đánh và đỡ, thu phục quái vật để triệu hồi, khám phá và giải đố qua nhiều hành tinh."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.4",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.4.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "cover_focus": 0.0,
+      "sha256": "9a8c76359763b925aecdd3644062c7904192d1aa9332ad177d8b95f21c2a0349",
+      "size": 40610526,
+      "cd": "c6f99bb487d5ade47c193cd31962a1cbc88a951ec775d1f82b27160d8d47ac0f",
+      "fh": [
+        "981f3fcdd622359ffbb48155c3b75725",
+        "59841e6dffe64a73fef1013846c9d3d0",
+        "a48a114a6f3aa6d11e71affe8da8f306",
+        "020032ec6fa9279aea89805cbd18d622",
+        "c17827f9ac0409ed55e143be27dd3721",
+        "6b47674a4fef39d33c8e9aab26a1c5cd",
+        "e3e2030903f7620714a70bcfb7291013",
+        "d0f5f5ed42ba9a661f032fb3880bdfee",
+        "cbfba6db01e6896e45e8ea0450a19b63",
+        "3ce59cf6e6e21e8c283f4a792519234e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BeyondGalaxyland_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/beyond-galaxyland_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/beyond-galaxyland_bg.jpg"
+    },
+    {
       "id": "big-brain-academy-brain-vs-brain",
       "title_id": "0100620012D6E000",
       "name": "Big Brain Academy: Brain vs. Brain",
@@ -2335,6 +3244,48 @@
       "mirrors": []
     },
     {
+      "id": "biped-2",
+      "title_id": "01004240237F6000",
+      "name": "Biped 2",
+      "mod_version": "v1",
+      "game_version": "Update v2.0.1",
+      "tagline": "Phiêu lưu giải đố co-op với hai chú robot Aku và Sila: điều khiển từng bước chân để...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Phiêu lưu giải đố co-op với hai chú robot Aku và Sila: điều khiển từng bước chân để vượt thử thách vật lý và nối lại các trạm tín hiệu."
+      ],
+      "highlights": [
+        {
+          "text": "Update v2.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v2.0.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "7cf543afd9aeaf005b95bef288c4822edac2854b7fc304be0166cf55013ee761",
+      "size": 65128521,
+      "cd": "08e2d008e2e426b892fa568d4f7d1058cc201777760eb28cef04cf14e1f26bb8",
+      "fh": [
+        "ecc59e2e4a92915aad21c3587151cfe6",
+        "4bd580df7c1ed1e4235f501969a04651",
+        "e577aa2294310283c75994db3762f2ff",
+        "6bf81511c8d5a88ac5e6fae8b026cd6e",
+        "aca42a13c3a1c1299feee64ebd64a4a3"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Biped2_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/biped-2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/biped-2_bg.jpg"
+    },
+    {
       "id": "boomerang-fu",
       "title_id": "010081A00EE62000",
       "name": "Boomerang Fu",
@@ -2377,6 +3328,45 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_cover.0f7a17c9.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/boomerang-fu_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "botworld-odyssey",
+      "title_id": "0100D1701BDAA000",
+      "name": "Botworld Odyssey",
+      "mod_version": "v1",
+      "game_version": "Update 1.33.0",
+      "tagline": "Nhập vai thế giới mở kết hợp chiến thuật, sưu tầm và nâng cấp đội robot, được ví như...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nhập vai thế giới mở kết hợp chiến thuật, sưu tầm và nâng cấp đội robot, được ví như \"Pokémon máy móc\"."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.33.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.33.0.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "cover_focus": 0.0,
+      "sha256": "dcf8d309c8e87f9322d617b41f07dd82d1e4602bfd98bc42bfbf6e96dd48ee3b",
+      "size": 53121952,
+      "cd": "45866145108d5af307d940444fdfca7593be1f7eb915c1750f93930d47f93bd4",
+      "fh": [
+        "57f194e58e1ec37fd866c03455348717",
+        "05d5b91be6e3ae5e384efc7fbaf9c763"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BotworldOdyssey_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/botworld-odyssey_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/botworld-odyssey_bg.jpg"
     },
     {
       "id": "broforce",
@@ -2489,6 +3479,92 @@
       "mirrors": []
     },
     {
+      "id": "cake-bash",
+      "title_id": "010014A0115BE000",
+      "name": "Cake Bash",
+      "mod_version": "v1",
+      "game_version": "Update v1.1",
+      "tagline": "Đấu trường tiệc tùng cho 1-4 người: hoá thân thành bánh kem, tranh tài qua các...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Đấu trường tiệc tùng cho 1-4 người: hoá thân thành bánh kem, tranh tài qua các minigame để phủ lên mình nhiều kẹo nhất."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.3,
+      "sha256": "58c9be005d48c6749e4fc8d276571100d78ffaafe187d9794566ccedf5b4ea28",
+      "size": 48701796,
+      "cd": "934f7d0e5374ad487a0ef1266730b7547187e1f4e03fff7bbe3f0701703ae905",
+      "fh": [
+        "58f02e344309ed4ad450c1142dc2aba0",
+        "3e9840d57bbd5289e3febaab58e1a5ec"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CakeBash_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cake-bash_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cake-bash_bg.jpg"
+    },
+    {
+      "id": "captain-toad-treasure-tracker",
+      "title_id": "01009BF0072D4000",
+      "name": "Captain Toad: Treasure Tracker",
+      "mod_version": "v1",
+      "game_version": "Update v1.3.0",
+      "tagline": "Giải đố 3D trên các sa bàn nhỏ: xoay góc nhìn tìm lối đi bí mật, thu thập đá quý và...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Giải đố 3D trên các sa bàn nhỏ: xoay góc nhìn tìm lối đi bí mật, thu thập đá quý và Power Star cùng Toad và Toadette. Hỗ trợ co-op 2 người."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.3.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.3.0.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 1.0,
+      "sha256": "62227d27e356c3f067f4ff9e6a3413a58cda6e679c768101e2f4315de6872bc5",
+      "size": 2324106,
+      "cd": "62ef3150dc8f04242462c8409e8bb8ed3f879c89486f2990f1061683898d8fd6",
+      "fh": [
+        "7d0af5cda3aec35b4c383f0ac943c347",
+        "7d0af5cda3aec35b4c383f0ac943c347",
+        "4a078357f3a8a2397233c7fdc8bced6a",
+        "57c847efe82582d64dfb5052e243ab3f",
+        "7d0af5cda3aec35b4c383f0ac943c347",
+        "4a078357f3a8a2397233c7fdc8bced6a",
+        "57c847efe82582d64dfb5052e243ab3f",
+        "7d0af5cda3aec35b4c383f0ac943c347",
+        "4a078357f3a8a2397233c7fdc8bced6a",
+        "57c847efe82582d64dfb5052e243ab3f"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CaptainToadTreasureTracker_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/captain-toad-treasure-tracker_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/captain-toad-treasure-tracker_bg.jpg"
+    },
+    {
       "id": "card-shark",
       "title_id": "0100E20012952000",
       "name": "Card Shark",
@@ -2579,6 +3655,48 @@
       "mirrors": []
     },
     {
+      "id": "cat-quest-3",
+      "title_id": "010088501B8F2000",
+      "name": "Cat Quest III",
+      "mod_version": "v1",
+      "game_version": "Update v1.3.1",
+      "tagline": "Nhập vai hành động thế giới mở với chú mèo cướp biển: lái tàu, nã đại bác, thám hiểm...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nhập vai hành động thế giới mở với chú mèo cướp biển: lái tàu, nã đại bác, thám hiểm quần đảo Purribean. Hỗ trợ co-op 2 người."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.3.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.3.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 1.0,
+      "sha256": "90ca6eb0e25093ceafafbc6f0695dcdf93a1592a05f28570883f3471bace1879",
+      "size": 65091653,
+      "cd": "3dd0f3a81a0a115dd59f9e99e7bb532ad0899a66951a31908a23d853dda8704f",
+      "fh": [
+        "48e0c9a2965d47cec9ba191a799587c5",
+        "b8b9bb77a45966eeec6ea20a6695b33c",
+        "e7adb5cee6c63e1b6030fd82a3d33dca",
+        "0b0d3d27c45e48dd8596bcb61e23e195",
+        "9e4e1aa9616a074b2cb0225c79ebc62a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CatQuest3_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cat-quest-3_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cat-quest-3_bg.jpg"
+    },
+    {
       "id": "cbc",
       "title_id": "0100BA4026E94000",
       "name": "Castlevania: Belmont's Curse",
@@ -2657,6 +3775,44 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chained-beasts_cover.49493602.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chained-beasts_bg.e8423563.jpg",
       "mirrors": []
+    },
+    {
+      "id": "chickenoidz-super-party",
+      "title_id": "0100F1901AFD8000",
+      "name": "Chickenoidz Super Party",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.0.0",
+      "tagline": "Bắn súng đấu trường góc nhìn trên cao cho 1-4 người: điều khiển gà robot, tranh hòm...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Bắn súng đấu trường góc nhìn trên cao cho 1-4 người: điều khiển gà robot, tranh hòm tiếp tế và trụ lại đến cuối cùng."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.0.0",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "557d1687b74946b06934eab262b5520f9d8316e27959d09ba9b6050999a5abd5",
+      "size": 481961864,
+      "cd": "d45a7c73bd28d9ff2b8c656373707097c69496d98620ffe0777acea0b71fd45c",
+      "fh": [
+        "09a0229b15810e5dc74a5579b225671e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ChickenoidzSuperParty_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chickenoidz-super-party_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/chickenoidz-super-party_bg.jpg"
     },
     {
       "id": "civ7",
@@ -3946,6 +5102,46 @@
       "mirrors": []
     },
     {
+      "id": "cursed-to-golf",
+      "title_id": "0100807017C76000",
+      "name": "Cursed to Golf",
+      "mod_version": "v1",
+      "game_version": "Update 2.0.1",
+      "tagline": "Golf dưới luyện ngục kết hợp roguelike và thẻ bài: vượt 18 hố đầy cạm bẫy để được hồi...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Golf dưới luyện ngục kết hợp roguelike và thẻ bài: vượt 18 hố đầy cạm bẫy để được hồi sinh về nhân gian."
+      ],
+      "highlights": [
+        {
+          "text": "Update 2.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 2.0.1.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "cover_focus": 1.0,
+      "sha256": "7ba7b500f07efc129542f0e6508712d3953b2b636575be17dc36c11737af1e90",
+      "size": 213511977,
+      "cd": "ce10928fcde9550d1799cd5f864d2475109d840b9410cc3f5ebbacf0c77a83dc",
+      "fh": [
+        "affb8d46bee2e17e629ed28feb25df86",
+        "7dde6aab34e12bdb82d8283449c2d12c",
+        "a9c63ee2729102066f2cf518e0d4f5b6"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/CursedtoGolf_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cursed-to-golf_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/cursed-to-golf_bg.jpg"
+    },
+    {
       "id": "darkest-dungeon-2",
       "title_id": "0100E5E01C098000",
       "name": "Darkest Dungeon II",
@@ -4246,6 +5442,103 @@
       "mirrors": []
     },
     {
+      "id": "demonschool",
+      "title_id": "0100CD601AB4C000",
+      "name": "Demonschool",
+      "mod_version": "v1",
+      "game_version": "Update v1.12.0",
+      "tagline": "Nhập vai chiến thuật kinh dị nhẹ: vào vai Faye, sinh viên năm nhất thuộc dòng tộc săn...",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nhập vai chiến thuật kinh dị nhẹ: vào vai Faye, sinh viên năm nhất thuộc dòng tộc săn quỷ, vừa lo đời sống đại học vừa ngăn ngày tận thế."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.12.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.12.0.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "cover_focus": 0.0,
+      "sha256": "824c08eadac40bd54e4f3b40eb7e3e70379e59a1e84d3ca2572261b5b8f60037",
+      "size": 74096553,
+      "cd": "391d48825a0252fad6f807d194b1c5a6ed3f6fe7dae1423ff123889444c86f5b",
+      "fh": [
+        "e4b688349cdf340df084787af9bf1a0b",
+        "f8344be739929404d9468db9c9ca466a",
+        "101fb10b8f840f74d74aeda11580ee9c",
+        "c0cf7719050337ccafea7446fe0a4c16",
+        "47e2d0afaeb336e06bc9b0de7b3c2d74",
+        "0790fe35879913084ab7a310b2c5166a",
+        "974e90cad854eadb51d1c4ddd34fd641",
+        "a0a595e51fb023adb0abdd07a25e6582",
+        "593e91edf9a8e37d787f42fa6546b10e",
+        "862e8f87fd5a24df4c110dae29d0a8ee",
+        "0f02cd2b1d476dc1fca80dc0bca0cff4",
+        "197eae534126efe7069fb29bd0858ba6",
+        "e13d15fcffc53a3286082bbaf52af03a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Demonschool_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/demonschool_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/demonschool_bg.jpg"
+    },
+    {
+      "id": "diablo-2-resurrected",
+      "title_id": "0100726014352000",
+      "name": "Diablo II: Resurrected",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.34.0 + DLC Warlock",
+      "tagline": "Bản làm lại của ARPG huyền thoại Diablo II cùng bản mở rộng Lord of Destruction. Bản...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Bản làm lại của ARPG huyền thoại Diablo II cùng bản mở rộng Lord of Destruction. Bản Việt hoá đã kèm mod chơi offline.",
+        "Đặt ngôn ngữ máy là English (US)."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.34.0 + DLC Warlock",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Đặt ngôn ngữ máy là English (US).",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.34.0 + DLC Warlock.",
+      "credit": "Việt hoá bởi Bonano.",
+      "cover_focus": 1.0,
+      "sha256": "9015864977e2603de6c0b8b4a06c57d283d0058e323e1fffe8a211f6c5abbfdb",
+      "size": 32357349,
+      "cd": "20329db16d1c21e9d26935c9c8c528c085fe3511b793d921e9a2387467abc361",
+      "fh": [
+        "3ebc2dfcc5c9587ba26b96a7f704e744",
+        "7cc3e8e2ac8225a457cbc66ff1b0a98c",
+        "f4316dd5ec9c72bf1955f84b084e6899",
+        "26074ca75e37f9922ea2f16e6c5a0d7f",
+        "70a9ba2bb4ff14a2301341aecfb4b51f"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Diablo2Resurrected_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/diablo-2-resurrected_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/diablo-2-resurrected_bg.jpg"
+    },
+    {
       "id": "dicefolk",
       "title_id": "01002A801E57C000",
       "name": "Dicefolk",
@@ -4528,6 +5821,55 @@
       "mirrors": []
     },
     {
+      "id": "dr-kawashima-brain-training",
+      "title_id": "0100ED000D390000",
+      "name": "Dr Kawashima's Brain Training",
+      "mod_version": "v1",
+      "game_version": "Update 1.2.0",
+      "tagline": "Game rèn luyện trí não với các bài tập ngắn mỗi ngày: tính toán, ghi nhớ, Sudoku. Phần...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game rèn luyện trí não với các bài tập ngắn mỗi ngày: tính toán, ghi nhớ, Sudoku. Phần Nhớ từ và Xếp chữ dùng từ không dấu vì game không nhận dạng được chữ có dấu.",
+        "Đặt ngôn ngữ máy là English. Chơi ở chế độ cầm tay."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.2.0",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Đặt ngôn ngữ máy là English. Chơi ở chế độ cầm tay.",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.2.0.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "cover_focus": 1.0,
+      "sha256": "b184d45266778fa5deba3d2e2f86b79f9f1c68b26fe46e1a7f99d1c4881bec51",
+      "size": 159696053,
+      "cd": "f2a89b8b01fac7ef0d3f6b70a4bac72511b40386bb5a3b3e159549e44bc876ca",
+      "fh": [
+        "80cf5b185b642b3857c7362266b5908a",
+        "0e1a98e19a9e36d5556f2354c5d1bd36",
+        "d62f85eb0c737138fc319be076a4d987",
+        "2bf53b62e579e3d8430d29adb0fd47b1",
+        "ca36b2f7ba76f6335f28a3033efa17a0",
+        "f189c57546e1790d0d8a9a13b9040481",
+        "2d5e6f39ed81fd9d41938f8111a771f8"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DrKawashimaBrainTraining_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dr-kawashima-brain-training_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dr-kawashima-brain-training_bg.jpg"
+    },
+    {
       "id": "dst",
       "title_id": "010090100E334000",
       "name": "Don't Starve Together",
@@ -4596,6 +5938,170 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_cover.6f981d2e.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dst_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "duck-detective",
+      "title_id": "0100D4702160A000",
+      "name": "Duck Detective: The Secret Salami",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.0.0",
+      "tagline": "Phá án hài hước cùng thám tử vịt Eugène McQuacklin: tìm manh mối, thẩm vấn và ghép suy...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Phá án hài hước cùng thám tử vịt Eugène McQuacklin: tìm manh mối, thẩm vấn và ghép suy luận để giải vụ mất trộm xúc xích."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.0.0",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.28,
+      "sha256": "6a058d2c6957b8747f46f972810d7a0cfe900e1d329d769d01411c9599f67c45",
+      "size": 28242237,
+      "cd": "267cd2c623d9253c08554497e8b0ac0266daf4b9697461a2324afdf41263252c",
+      "fh": [
+        "9628e7a65d645752d8946a8195256ed6",
+        "45291f08e99a9bc2eced0c6aab55ffb3",
+        "65e59e023728cf8428be847e38f2a259",
+        "0d42c732541e572c35d3115670f9b67c"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DuckDetective_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/duck-detective_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/duck-detective_bg.jpg"
+    },
+    {
+      "id": "everybody-1-2-switch-long-tieng",
+      "title_id": "01006F900BF8E000",
+      "name": "Everybody 1-2-Switch! (Lồng tiếng)",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.1",
+      "tagline": "Bản Việt hoá có lồng tiếng Việt. Party game cho nhóm đông người, chơi bằng Joy-Con...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Bản Việt hoá có lồng tiếng Việt. Party game cho nhóm đông người, chơi bằng Joy-Con hoặc điện thoại với nhiều minigame vận động và phản xạ."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.1.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "cover_focus": 1.0,
+      "sha256": "0047b5dcc4de200f0b541812e5138ed80e4c439a74f912ecc105280f508f440e",
+      "size": 117581929,
+      "cd": "2911f6d2aaa63c3e630dfeeb9a68943bc872409c94f0f27e342a0d25a26d06e0",
+      "fh": [
+        "e8a987ea114a58751f31cc482a549027",
+        "6ab4600121d5537a7d7d51d7cbed1f19",
+        "1c1651677103a79ea30141a668d3ed84",
+        "7ced83c9a60422f01f2c49afd8ef8ecf",
+        "a30ffdb66525e102fdc14e8d7c92e44a",
+        "171fe13debbc0c677713ede226144c8f",
+        "a1473cb13ccebd3788c56d3b414e4040",
+        "6e7caba061d445a8eb234c12d7519f93",
+        "971c44799dc988cc70ef76c8671d40e7",
+        "4636995446885786f63dd0a8a506d6d8",
+        "d228f8bfe80b1c8149e216fb32c15441",
+        "c5f74730270100f965fc3584cf2b55ec",
+        "44c24bc1aadaf6d54971b9fdc97991c4",
+        "b0ad43ba8cfd0bebe434d5377eab2e6a",
+        "9b3a30255aedf66e53d930c179064453",
+        "b5c34a73c9644fedfb71f7213bc69c90",
+        "c9829e46a10c67b4a80a56c8249e8d51",
+        "38a31178f19f1129d4ddd8ae522d7ef2",
+        "df7598a8e116dd4f52fcc882584d3e99",
+        "6f4be99ed1cf908cf245e262a93feeeb",
+        "1db4afc9566cb2e4f43ac26a6b39e429",
+        "7d1ab4d118f47a61974ad6996674bb76",
+        "0f7fc27afa27bea4808aea98dfe0c4a6",
+        "7124b1a79e04fcea9919660e12c70b8f",
+        "eb3fd1a454f8180b2d58abf2261b5f5b",
+        "b14c6a074dd56377267c857bded1e745",
+        "ca59ededfad1faccc8699908e2872873",
+        "cfd65df1ed5b0e057d5c731407966eee",
+        "d9eec231993344367ac171fd903f0ee9",
+        "696fe194895e27498f9ef64ec3a194e6",
+        "b9864aa2bb15d190ff585b98cb2771cd",
+        "7410c6b0db86363b537b2a8e9c7c354f",
+        "a9a9f6c872b85959756c609c819a0ffb",
+        "f965a7109211a35a417684201d9bb6bb",
+        "b438178f8b3ccbec1b7c70000ddae656",
+        "9967cdf7e64576ad4b546a0e92957a42",
+        "d947c3cb06ea31d66c0109672e3c0924",
+        "64d5f770c5759811ab9a06a4f1258a14",
+        "7154d6310f860f9cd175155afb4573fd",
+        "7e18dce0f0856689f61cc655fce207cd",
+        "ffbfd26408a2881159ab1120827b791c",
+        "0b9e2d21aed92cab194ef53bbe39e5c5",
+        "8467c2dd9f839f16c2b8d07df8c97618",
+        "b740e1d6feeb9aafbe3817146b774427",
+        "e3f0c6252c436ef0c26004f8096b5e61",
+        "78fdb6f62bae283230fa83dd17a71fa0"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Everybody12Switch_LongTieng_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/everybody-1-2-switch-long-tieng_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/everybody-1-2-switch-long-tieng_bg.jpg"
+    },
+    {
+      "id": "everybody-1-2-switch",
+      "title_id": "01006F900BF8E000",
+      "name": "Everybody 1-2-Switch!",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.1",
+      "tagline": "Party game cho nhóm đông người, chơi bằng Joy-Con hoặc điện thoại với nhiều minigame...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game cho nhóm đông người, chơi bằng Joy-Con hoặc điện thoại với nhiều minigame vận động và phản xạ."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.1.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "cover_focus": 1.0,
+      "sha256": "7797fcf18dc6adb6fa1b1976302a6b07dc491bfa639b1ee42151b8be21a28b22",
+      "size": 44077207,
+      "cd": "773d332950a2c947eef8b67ca2264a07162f152563c6b6156ce5ddc32ed39a05",
+      "fh": [
+        "e8a987ea114a58751f31cc482a549027",
+        "6ab4600121d5537a7d7d51d7cbed1f19",
+        "6d61289dea047a3472c6b8905958dc4e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Everybody12Switch_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/everybody-1-2-switch_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/everybody-1-2-switch_bg.jpg"
     },
     {
       "id": "fate",
@@ -6157,6 +7663,51 @@
       "mirrors": []
     },
     {
+      "id": "final-fantasy-vii",
+      "title_id": "0100A5B00BDC6000",
+      "name": "Final Fantasy VII",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.3_5",
+      "tagline": "Tượng đài JRPG năm 1997: Cloud Strife cùng nhóm Avalanche chống lại tập đoàn Shinra...",
+      "developer": "",
+      "release": "",
+      "translator": "Quốc9xPro",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Tượng đài JRPG năm 1997: Cloud Strife cùng nhóm Avalanche chống lại tập đoàn Shinra đang hút cạn năng lượng sống của hành tinh."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.3_5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.3_5.",
+      "credit": "Việt hoá bởi Quốc9xPro.",
+      "cover_focus": 0.0,
+      "sha256": "03daa92bb94dcdc5b138d50b6e3ab8d2b1431a9f95c2771418db9ba2dc164f08",
+      "size": 136309403,
+      "cd": "329daed8481486a504a2782fd8c334ba4d5a835e0ac96fb8bb2e276e6ce4300b",
+      "fh": [
+        "0a061e461fba67fba24befa88befab8a",
+        "162de4619016e23b0028ba3c951f1683",
+        "def30bc82af95b3ff9c23b23faf83375",
+        "62662d14346d165834f0e2a09f16d3ea",
+        "205ddabfdb28294c97514a47b19a7ab8",
+        "fb804ab13782a51c24c109716adfc9cd",
+        "29ca181ab94dc5a94958734d9c207032",
+        "2632e4ead7fbc825af9167e7fb607519"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FinalFantasyVII_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/final-fantasy-vii_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/final-fantasy-vii_bg.jpg"
+    },
+    {
       "id": "fishing-star-world-tour",
       "title_id": "0100DEB00ACE2000",
       "name": "Fishing Star World Tour",
@@ -6332,6 +7883,52 @@
       "mirrors": []
     },
     {
+      "id": "fling-to-the-finish",
+      "title_id": "010085801B348000",
+      "name": "Fling to the Finish",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.0.2.5",
+      "tagline": "Đua vượt chướng ngại vật co-op: hai nhân vật bị buộc bằng dây thun phải phối hợp tung...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Đua vượt chướng ngại vật co-op: hai nhân vật bị buộc bằng dây thun phải phối hợp tung hứng, kéo nhau về đích."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.0.2.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.0.2.5",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "04b9caf454329468651723c6acee9f8a90ed6f50ac3cec3b5dab75cdedb1af57",
+      "size": 148160728,
+      "cd": "a507c6421cff707d72fc925a553f46d404c1bb8603d0e0ca0f93b5332310ef48",
+      "fh": [
+        "2632093cb211a012c875a3233df6b1a3",
+        "e9e65f3ced9b4f6714fcd0bc3deca018",
+        "5f7d5c530f9ad6308fe5997151cda80a",
+        "9270381d7b2881f4ae8a6c5d8cf26f29",
+        "836389f2bc9d00658095c870bc997681",
+        "0df52dcfff6838863be56015eff057ef",
+        "1f244b6e87c355e23ed5d24b9603ef71",
+        "8a95b287cd93923a2af34dbf2b7758d4",
+        "e537798945fcf44f4fc1b4562bcdf606"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FlingtotheFinish_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fling-to-the-finish_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fling-to-the-finish_bg.jpg"
+    },
+    {
       "id": "floppy",
       "title_id": "01006A30171A0000",
       "name": "Floppy Knights",
@@ -6425,6 +8022,57 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_cover.ccf6e8e6.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "gang-beasts",
+      "title_id": "0100D58012E12000",
+      "name": "Gang Beasts",
+      "mod_version": "v1",
+      "game_version": "Update v1.25",
+      "tagline": "Đối kháng vật lý ragdoll với các hình nhân thạch dẻo: túm, đấm và ném đối thủ khỏi sàn...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Đối kháng vật lý ragdoll với các hình nhân thạch dẻo: túm, đấm và ném đối thủ khỏi sàn đấu. Tối đa 4 người trên một màn hình."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.25",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.25.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "3aac0eabd5e2ab96309aa1b29d5002917930e48d29462eac6204166421adac57",
+      "size": 518360,
+      "cd": "cdf2f9009f8b6718fac1073824e7cfaf1dd66221ae0306ffa4e5138233824428",
+      "fh": [
+        "76968b293029393a2f0e11ecc84d4cad",
+        "7b26fce578cf16f4c5a88e67ccb9a038",
+        "78547db2c75158a1a656b646ceabe78c",
+        "ffcd0de8965a6aa79d9dd6625983bf42",
+        "63bb599feeba46783f5ffe304da9a9fb",
+        "9d394913e2fc9b5264ba613c8365f746",
+        "b9159e85f3755b8469d5182e774aeffa",
+        "35d59c6de9acae8bcde06153ebb9597d",
+        "8dcfc937c4b37fe676e0ef66f9b94fe1",
+        "63f1aa38c9afa35c401c769d586fdbbb",
+        "fd25c33472b831af1cb226856ee38774",
+        "762f44359856d0fee669ceffd265ee25",
+        "33519a0c64c2005b2ada8a0ec3b4b858",
+        "fd25c33472b831af1cb226856ee38774"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GangBeasts_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gang-beasts_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gang-beasts_bg.jpg"
     },
     {
       "id": "ggs",
@@ -6579,6 +8227,45 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_cover.4b41193d.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_bg.816ada15.jpg",
       "mirrors": []
+    },
+    {
+      "id": "grizzy-and-the-lemmings-crazy-party",
+      "title_id": "0100DFA027504000",
+      "name": "Grizzy and the Lemmings – Crazy Party",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.4",
+      "tagline": "Party game từ phim hoạt hình gấu Grizzy và bầy Lemming: hơn 15 minigame tranh nhau hũ...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game từ phim hoạt hình gấu Grizzy và bầy Lemming: hơn 15 minigame tranh nhau hũ kem socola, hợp cho gia đình."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.4",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.4.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "7bdd3066e9ecb258c4424d5925455cbfb525da8c72224f0d82b8eaca927322b2",
+      "size": 23605732,
+      "cd": "96dd060a57f9d2258c3ed4305f4f0c97845b8b280be5348682c37ee217916e84",
+      "fh": [
+        "7e8aed7158f89a14311cc38e8f04a7ed",
+        "4621637ca5ff70230b1f47a1b3763e8b"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GrizzyLemmingsCrazyParty_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grizzy-and-the-lemmings-crazy-party_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grizzy-and-the-lemmings-crazy-party_bg.jpg"
     },
     {
       "id": "hades",
@@ -6956,6 +8643,50 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades2_cover.add3dc52.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hades2_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "hard-time-3",
+      "title_id": "0100C7301F6FA000",
+      "name": "Hard Time III",
+      "mod_version": "v1",
+      "game_version": "Update 1.1.5",
+      "tagline": "Mô phỏng sinh tồn trong nhà tù của MDickie: đánh đấm, kết bè phái, làm việc và tìm...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Mô phỏng sinh tồn trong nhà tù của MDickie: đánh đấm, kết bè phái, làm việc và tìm cách sống sót giữa tù nhân và lính canh."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.1.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.1.5.",
+      "credit": "Việt hoá bởi Bonano.",
+      "cover_focus": 1.0,
+      "sha256": "8ef1d7ab1f3e2b72a1c505f7ffd98dfad86390e81b76e84a741dedfbb31400eb",
+      "size": 42493047,
+      "cd": "e415742039f8f65f2e536b6dcf27c316ec6a7e65cdaa2089eae57c217e50303d",
+      "fh": [
+        "f7be5e954227a37586fe37b3d15ed2eb",
+        "f7be5e954227a37586fe37b3d15ed2eb",
+        "ce333e026c9977c00f38e719bf8c9793",
+        "6ca8f8f20544407a247fbc99afa32d47",
+        "5450479a306f576530e3657708793ce3",
+        "fe362dcea4291cbb0810d7085ca1c5cf",
+        "bad245eeb4662d18b6161b47ea3bd651"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/HardTime3_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hard-time-3_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/hard-time-3_bg.jpg"
     },
     {
       "id": "hwaoc",
@@ -7530,6 +9261,98 @@
       "mirrors": []
     },
     {
+      "id": "keywe",
+      "title_id": "0100E2B012056000",
+      "name": "KeyWe",
+      "mod_version": "v1",
+      "game_version": "Update v3.0.0",
+      "tagline": "Giải đố co-op với hai chú chim kiwi Jeff và Debra điều hành bưu điện: nhảy lên bàn...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Giải đố co-op với hai chú chim kiwi Jeff và Debra điều hành bưu điện: nhảy lên bàn phím điện tín, đóng dấu và phân loại thư."
+      ],
+      "highlights": [
+        {
+          "text": "Update v3.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v3.0.0.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "09b0c3e153b4579e5b1352c63a286fa0a9adf2903c4203848fed3e751c6b1cfd",
+      "size": 784758508,
+      "cd": "790ffc622343802ad065bca0ee28c1105295a49bd39a0a836daf2a81467eabb0",
+      "fh": [
+        "1fe9f3e893d0fa0dfdc3e2adb49189cd",
+        "61d446dc241c120d588a4decde5a2ff7",
+        "e2b324113885612aa42bec404d95a03f",
+        "9067b41c3f89022b31999f376a07c0f2",
+        "b1c2c955d0fa932977860881793bdd68",
+        "a8754f8581f2e98282aec61a7739b61e",
+        "9971720cfa32e992fc1ab3e88a4ae685",
+        "82cab59bd40e67cf2fc9c17f2ac69f23"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KeyWe_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/keywe_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/keywe_bg.jpg"
+    },
+    {
+      "id": "kingdom-rush-vengeance",
+      "title_id": "010013E02116C000",
+      "name": "Kingdom Rush Vengeance",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.16.4.16",
+      "tagline": "Phần thứ tư của dòng thủ thành Kingdom Rush, lần này bạn đứng về phe bóng tối.",
+      "developer": "",
+      "release": "",
+      "translator": "meobeopoker",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Phần thứ tư của dòng thủ thành Kingdom Rush, lần này bạn đứng về phe bóng tối.",
+        "Vào game chọn ngôn ngữ Português để hiện tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.16.4.16",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Vào game chọn ngôn ngữ Português để hiện tiếng Việt.",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.16.4.16",
+      "credit": "Việt hoá bởi meobeopoker.",
+      "cover_focus": 0.0,
+      "sha256": "988259dc713159963f22aa32a22b898c7d8362ecf1a44be63e70d40193e47b48",
+      "size": 613066,
+      "cd": "7a383d42fbda9c001a8a2f5f65019b4110d18464d0fbb1f95abbd048836d8112",
+      "fh": [
+        "c8ad3c22f2c2cb369912acf85c20cdb2",
+        "d99b350bfd4e9dc921fd8722c78d8e03",
+        "6a0bf07f3595070bc0b6bccff7b9a805",
+        "5fc4064c5fb097282ae395b6d714d106",
+        "f65349d287a6b5e401773d0c756a50d9"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/KingdomRushVengeance_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-rush-vengeance_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kingdom-rush-vengeance_bg.jpg"
+    },
+    {
       "id": "kingdom-two-crowns",
       "title_id": "01005EF003FF2000",
       "name": "Kingdom Two Crowns",
@@ -7733,6 +9556,84 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_cover.45a58044.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/kokl_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "lego-party",
+      "title_id": "0100A760232D2000",
+      "name": "LEGO Party",
+      "mod_version": "v1",
+      "game_version": "Update 1.6.62",
+      "tagline": "Party game LEGO nhiều người chơi: nhảy, đấm, nhặt đồ chọi nhau qua các minigame đầy...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game LEGO nhiều người chơi: nhảy, đấm, nhặt đồ chọi nhau qua các minigame đầy pha chơi xấu."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.6.62",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.6.62.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "e28c2dd0fd9b0814c3e7e6abdab9237858ad3c1a45e850f0a9894540b76ab56a",
+      "size": 25441609,
+      "cd": "bf131a76ffa2cc5dc68d2f4015afdc45e0895d6584ca3b19dc35a795fbdc0efb",
+      "fh": [
+        "e5e44b4a5521d983263410e7ed97bda2",
+        "e61161109afe00bcb390ae653bd256b7",
+        "7e97b4e632275c5b3f80e0d7dd5e8e54"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/LegoParty_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/lego-party_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/lego-party_bg.jpg"
+    },
+    {
+      "id": "lemon-cake",
+      "title_id": "0100EE90180C8000",
+      "name": "Lemon Cake",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.0.0",
+      "tagline": "Mô phỏng thư giãn: khôi phục tiệm bánh bỏ hoang, trồng nguyên liệu, nướng bánh và phục...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Mô phỏng thư giãn: khôi phục tiệm bánh bỏ hoang, trồng nguyên liệu, nướng bánh và phục vụ khách."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.0.0",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.8,
+      "sha256": "19242ddc933a68859e5c73fb31733d01f2599bfb3d167c02f852cc59edd384c3",
+      "size": 852804,
+      "cd": "15a57fe7b6853256c0afbe7b378b8b25ebcb64de3b3e18ea5409438023dcab77",
+      "fh": [
+        "3fa338364a361ac430a34c039d4a4dab"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/LemonCake_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/lemon-cake_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/lemon-cake_bg.jpg"
     },
     {
       "id": "little-witch-in-the-woods",
@@ -8251,6 +10152,49 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_cover.cb132b61.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mega-man-star-force-legacy-collection_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "meteorfall-krumits-tale",
+      "title_id": "0100FF401F79E000",
+      "name": "Meteorfall: Krumit's Tale",
+      "mod_version": "v1",
+      "game_version": "Update 1.1",
+      "tagline": "Nhập vai chiến thuật kết hợp xây dựng bộ bài và roguelike.",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nhập vai chiến thuật kết hợp xây dựng bộ bài và roguelike.",
+        "Vào game chọn ngôn ngữ tiếng Nga để hiện tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.1",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Vào game chọn ngôn ngữ tiếng Nga để hiện tiếng Việt.",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.1.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "cover_focus": 0.0,
+      "sha256": "a2af88b26d8524a0fa43aadbc53b1ea68ea8f312ceea6ed356c44cd6787cd0a4",
+      "size": 50300706,
+      "cd": "dab73da89d2ff82f0b066190c9518aa9e2745b3a6a8a4b875e6f5257797ec38c",
+      "fh": [
+        "e32ead9aa9e645059cea419ef987364a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MeteorfallKrumitsTale_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/meteorfall-krumits-tale_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/meteorfall-krumits-tale_bg.jpg"
     },
     {
       "id": "metro-2033-redux",
@@ -8995,6 +10939,82 @@
       "mirrors": []
     },
     {
+      "id": "overcooked-2",
+      "title_id": "01006FD0080B2000",
+      "name": "Overcooked! 2",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.19",
+      "tagline": "Nấu ăn co-op hỗn loạn cho tối đa 4 người trong những gian bếp di chuyển liên tục. Bản...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nấu ăn co-op hỗn loạn cho tối đa 4 người trong những gian bếp di chuyển liên tục. Bản Việt hoá kèm mở khoá 60 FPS."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.19",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.19.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "4e6e80af3039b7df690e54f64955dca66c2a5f8a5e7aca155ce2fe0f3549ff8e",
+      "size": 121861973,
+      "cd": "2ca8c559211b295232dfd0a41fb0a778ea2b73a23cd62308ac58704036fe7f35",
+      "fh": [
+        "a891fce9d2bfc40502e4df3f39a2aeb2",
+        "ec1eb3815bcf054101e29f67213ffb0b",
+        "f03529bfa2f26f1282782a9088919b41",
+        "2c3e65f69fb9f44dc0708c4ec905a844",
+        "4e339cac4e5b0a3036a183d7987c8423",
+        "e70ae283361ad41b58fe37bcf1f17584",
+        "821a695c8d93b193f7e9e60b71e7cb7c",
+        "ed536dc8f94fbb50fbb82b2aed37b817",
+        "49523d18b214519b29948a48e277ea5d",
+        "6a6b66430cfcbcce8a4514e7fc6d3357",
+        "6aac4bf25f486e87fb245018db2605a1",
+        "e71fd9940690877b22e48f7fbb26cb21",
+        "3e175de28dcc6a45e20aa7e592676e82",
+        "1d65b8f5e453a92a2e2a69724b90daf1",
+        "96bd74becfe0a15b29fd4e5988dccfeb",
+        "036cfef8c545e9c5046a3da36fcf5122",
+        "819dbd37c8aa6eb503cd393e16aa1c2a",
+        "59f41e64d9c091aeb0c3e2447c56521b",
+        "5cc9feb7dd7d53ce7da32f74f34acb22",
+        "6b3b6e5af69c8534e4b283e0c5b36701",
+        "668422eca836c6eb86ea49ceb80fe0e1",
+        "faa9487e41c3f6b891090794fa4e5489",
+        "947d9eb438ad9652c20320b6f9eeedf1",
+        "908fc413512aca35c8f629c05a68cdc4",
+        "66b19a73ec05a036f2b54563f772217c",
+        "4cf90841914cf24e261bcc396bfa3e4c",
+        "e7f690508414e4650f552d948819d57f",
+        "0c92a67802381f4188f86d364ec646f2",
+        "73b90b1a449fa1e5a8173e5e5636a2df",
+        "00dbd9a5d8937dbe8a12b2b9fc500435",
+        "30245865056340eba9f6b7e6ceb2b02a",
+        "3be5b1e29c4c6c56dc009ab845a8f7a9",
+        "b83d6355354651b9b54b2140407172b8",
+        "7ae3e34054e87b2ff1a4c4a339327f50",
+        "e7a1bfe56468d5df8236f9ab1f0a004f",
+        "8924af5189b4f0eb98d9a5486f713096",
+        "f8b668867cc179dcc3ecac20385d4d68",
+        "a931bd2c7f12bca4ed598a5a086f281b",
+        "a42c555f44a0437711f8a2469f396a58"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Overcooked2_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-2_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/overcooked-2_bg.jpg"
+    },
+    {
       "id": "overcooked-all-you-can-eat",
       "title_id": "0100F28011892000",
       "name": "Overcooked! All You Can Eat",
@@ -9113,6 +11133,46 @@
       "mirrors": []
     },
     {
+      "id": "party-planet",
+      "title_id": "01004F10066B0000",
+      "name": "Party Planet",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.1",
+      "tagline": "Tuyển tập 30 trò chơi tiệc tùng phong cách arcade cho tối đa 4 người.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Tuyển tập 30 trò chơi tiệc tùng phong cách arcade cho tối đa 4 người."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 1.0,
+      "sha256": "3b459d550079afb0630c9401b6f845ce15ea314c32b571dda82f60c7c97eda92",
+      "size": 29678092,
+      "cd": "43439458d0f46ed36d58d7fdbf291dd14ecb6f483bd2aec54e0c33ccba9ee44d",
+      "fh": [
+        "5c13ddd771c2510d13aa3cfeb29ba51a",
+        "90a2e1f3c933565a5a0dd6c8d058a9d4",
+        "441a0c726767c07c9cbb06eb57b85624"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/PartyPlanet_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/party-planet_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/party-planet_bg.jpg"
+    },
+    {
       "id": "peglin",
       "title_id": "01000A101E9DA000",
       "name": "Peglin",
@@ -9193,6 +11253,62 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/persona4_cover.0d579506.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/persona4_bg.a4f1f536.jpg",
       "mirrors": []
+    },
+    {
+      "id": "pizza-possum",
+      "title_id": "01005B201AA4E000",
+      "name": "Pizza Possum",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.1",
+      "tagline": "Hoá thân chú chồn tham ăn lén lút trộm đồ ăn khắp thị trấn, né chó tuần tra. Hỗ trợ...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Hoá thân chú chồn tham ăn lén lút trộm đồ ăn khắp thị trấn, né chó tuần tra. Hỗ trợ co-op 2 người, kèm mod 60 FPS."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "cc2fb1115d47736bb8f453209664eae6298949e8d1a8365f5d833267dd24c842",
+      "size": 79051101,
+      "cd": "4521c0cf46c6b07a5883294f3f25405242fb665630107ff85f5ab0baa77c5e8c",
+      "fh": [
+        "07ef80cb32d854f846ebe74682e7621f",
+        "dbd8335ecc6b40b0e53e414610f5fb2f",
+        "7cfa06863da6473f4f3148256a24073a",
+        "1889eb838a309b8a32c691c910ecda0a",
+        "7f94db3e044ca02d4d7b608b6474c92e",
+        "ab0a823838326f99f78dc92fe655a67c",
+        "163f1f597b99e6bb76aadbf0f256e2ac",
+        "95d2d11ea2091689f1edcc906b8bb9e3",
+        "93c1c1f5523ff972415842a2a25784f3",
+        "b3067a575dd1f8418de38e8ff55c3757",
+        "477e2c6088df57e43e7cdaf45664953b",
+        "8bd38c13ff45f1f538dcf9f46ac6deae",
+        "7bb305fe752f176ad9548a21ca708eae",
+        "06135ee59a12b27209c0a9d023ce9b3b",
+        "5e1fa8774fd371f3fe16b1a3ccc31813",
+        "93418520d9055f2b421f0fc6b074b0c5",
+        "27aae40c40240264426ad1e791cecd09",
+        "673dc8de1c85c7c69e131cf621d6c4f7",
+        "a373c84ae24711187523355524a76273"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/PizzaPossum_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/pizza-possum_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/pizza-possum_bg.jpg"
     },
     {
       "id": "plza",
@@ -9646,6 +11762,238 @@
       "mirrors": []
     },
     {
+      "id": "pokemon-mystery-dungeon-rescue-team-dx",
+      "title_id": "01003D200BAA2000",
+      "name": "Pokémon Mystery Dungeon: Rescue Team DX",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.2",
+      "tagline": "Tỉnh dậy trong hình hài Pokémon, lập Đội Cứu Hộ khám phá các hầm ngục biến đổi ngẫu nhiên.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Tỉnh dậy trong hình hài Pokémon, lập Đội Cứu Hộ khám phá các hầm ngục biến đổi ngẫu nhiên."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.2",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.2.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "1c8f6be23ef7c27e79d722413276d4aa8666093dc99abe8207c8559287e5b713",
+      "size": 90888958,
+      "cd": "c2436e954349eeb195f54d44db88a67ed6a6d5b271c4fbde61b39eecc913610e",
+      "fh": [
+        "179224408c3aa26dae03455ec39dbd3a",
+        "d84bdc9e13ea325f3e0e19f42bf6c8ad",
+        "309772d5b7e8cef21aaee0a1e9717981",
+        "4cbd71482ab8a2855873c703b282624a",
+        "5dae413a1f6a69bec81e8614a6c55967",
+        "67bec1386a853e1c031f7142957c73e3",
+        "c7d35a2b8129dc023e92c1ca17e77db1"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/PokemonMysteryDungeonDX_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/pokemon-mystery-dungeon-rescue-team-dx_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/pokemon-mystery-dungeon-rescue-team-dx_bg.jpg"
+    },
+    {
+      "id": "pool-party",
+      "title_id": "010092B01D16C000",
+      "name": "Pool Party",
+      "mod_version": "v1",
+      "game_version": "Update 5.0.0",
+      "tagline": "Party game bida hỗn chiến: người chơi là các quả bóng, húc nhau rơi lỗ qua nhiều chế...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game bida hỗn chiến: người chơi là các quả bóng, húc nhau rơi lỗ qua nhiều chế độ cho tối đa 4 người."
+      ],
+      "highlights": [
+        {
+          "text": "Update 5.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 5.0.0.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "4acaf82e5c97e8a5dd5d8b942717dc0c6c338327c9d42dbddb2eea6e4dd35779",
+      "size": 67262792,
+      "cd": "c2a7188c44871a9912be8ac494eac710cce6c8d647dc0b16907392c8946c10c7",
+      "fh": [
+        "860eb3b08d26f50c11b9ec644c057481",
+        "76b25e22d3e72cc4c2ea281d764d4e9c",
+        "eec38e858aba55ee06228fbd012b59b6",
+        "f3d7eba75fa332f76466ab99667e4a40",
+        "767e572efa5a66b8f088a50446becbd4",
+        "95c1beaa23dcbcd51aa43f2b4687bad9",
+        "13f5e09cd3ac95c291659197c520daa3",
+        "4a28c15d24732dea9b1c9b46d2762cca",
+        "2369d2a7add69702223bfb37b2d58675"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/PoolParty_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/pool-party_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/pool-party_bg.jpg"
+    },
+    {
+      "id": "popucom",
+      "title_id": "0100C8D01F9FA000",
+      "name": "POPUCOM",
+      "mod_version": "v1",
+      "game_version": "Update v1.2.1",
+      "tagline": "Phiêu lưu giải đố co-op: đổi màu, bắn bóng ghép ba để mở đường qua thế giới kỳ ảo.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Phiêu lưu giải đố co-op: đổi màu, bắn bóng ghép ba để mở đường qua thế giới kỳ ảo."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.2.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.2.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 1.0,
+      "sha256": "5c1b1661fef1ee8be991db591da0af2c8bb635b850a375eac226b6bd622b9cdb",
+      "size": 19361904,
+      "cd": "aeff7a9e4915661b7347c0ecdb6eb28330424bfef3dff221cbdfb173bcc46fc9",
+      "fh": [
+        "3370c9b5decf106da5631828c437f89a",
+        "7b87a06aa949ea71f753270a1b229211",
+        "bc601380c0c2896eb0dd87a3d8cd0629",
+        "6a362e4df618e2e1154c4a4ff3429ec8",
+        "bdd4caa6fd1206dbfad6da0a4583ff18",
+        "fad54c7c9b9510659722f6d2435a1c6d",
+        "54db24f954f9d35eb77c66177e5f8720",
+        "3ac390dc76bdd95e8de1f4bcd5364415",
+        "77f0441801db6ec37d7e33392eabd58f",
+        "cda47fa2d8907506bf15768873035623",
+        "795f3020cc35711ef0b3ac08b54b24df",
+        "5533a735ff5c2fe0b3f0fd5532f78812",
+        "1a9183127f72539ca48418731705185f",
+        "580219d2bf4caa1023851e28593c2172",
+        "a6101aa5f93c34a6ffcd021184bec6f6",
+        "0c3510de98795625c1091b10a835d97d",
+        "59b73f1242121be2a85dd61ff60c7bec",
+        "d9af2729a8c5a751539b6be0b3bb5d07",
+        "6099e31644a2b817046b888ff711e880",
+        "f2877c26bf3501816d75f5bfa1eb56e1",
+        "c7780c76a82b609440991f727247bb3f",
+        "0b61544338164835badd420f8da3abf3",
+        "8229a6db97a57b5b5c537f7d61d85c67",
+        "382d98ac2c6292512c1fdac73dc14470",
+        "88e4c11c66c9068ab2a2c1b041978484",
+        "576a5e605e23df7f11af0b9974f581ee"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Popucom_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/popucom_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/popucom_bg.jpg"
+    },
+    {
+      "id": "postal-brain-damaged",
+      "title_id": "010089201B7EC000",
+      "name": "POSTAL: Brain Damaged",
+      "mod_version": "v1",
+      "game_version": "Update 1.1.1",
+      "tagline": "FPS nhịp nhanh hài đen thuộc thương hiệu POSTAL, phiêu lưu trong tâm trí rối loạn của...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "FPS nhịp nhanh hài đen thuộc thương hiệu POSTAL, phiêu lưu trong tâm trí rối loạn của POSTAL Dude."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.1.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.1.1.",
+      "credit": "Việt hoá bởi Bonano.",
+      "cover_focus": 1.0,
+      "sha256": "9768b7e127d5380283a16594d6ec935186fec2c48af828eb3d82a68940c2a084",
+      "size": 609852089,
+      "cd": "ca0f9d8343380bf18e748c277f76284ab27aa2196620c56f9c24923088a2d740",
+      "fh": [
+        "b47754e84a627480fcf6b55aa8d2dc77",
+        "0db92915a89637815f6257fa6dfc9e9d",
+        "bd438bbb1847271f2fe62080183a4e0c",
+        "a0d6ef2d26d219398fd448c046a87614"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/PostalBrainDamaged_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/postal-brain-damaged_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/postal-brain-damaged_bg.jpg"
+    },
+    {
+      "id": "potionomics-masterwork-edition",
+      "title_id": "01000A801D4C2000",
+      "name": "Potionomics: Masterwork Edition",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.4",
+      "tagline": "Mô phỏng điều hành tiệm thuốc: nấu thuốc, mặc cả bằng thẻ bài và kết thân với dàn nhân...",
+      "developer": "",
+      "release": "",
+      "translator": "Phùng Hồng Quân",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Mô phỏng điều hành tiệm thuốc: nấu thuốc, mặc cả bằng thẻ bài và kết thân với dàn nhân vật trong thị trấn."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.4",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.4.",
+      "credit": "Việt hoá bởi Phùng Hồng Quân.",
+      "cover_focus": 1.0,
+      "sha256": "7cbcb8c35c116d5c0c915c797c243c4ea5b360396d0cc3905ceb27aff0a7929d",
+      "size": 913099,
+      "cd": "55f3c37f2f83b4bb629806d55c62001145259167a1475002c315e6825d707ad8",
+      "fh": [
+        "b8e5aa679a087dc80bafb1b035d6f08f"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Potionomics_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/potionomics-masterwork-edition_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/potionomics-masterwork-edition_bg.jpg"
+    },
+    {
       "id": "rabbids-vh-long-tieng",
       "title_id": "01008970149B0000",
       "name": "Rabbids: Party of Legends (Việt hoá + lồng tiếng)",
@@ -9921,6 +12269,94 @@
       "mirrors": []
     },
     {
+      "id": "rose-and-camellia-collection",
+      "title_id": "010074B01C2D6000",
+      "name": "Rose & Camellia Collection",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.0.0",
+      "tagline": "Đối kháng tát nhau kiểu quý tộc Nhật Bản, vung Joy-Con để ra đòn, thoại melodrama cực hài.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Đối kháng tát nhau kiểu quý tộc Nhật Bản, vung Joy-Con để ra đòn, thoại melodrama cực hài."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.0.0",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "5862cc621106733d9695d1c1c725988730984cbec61d82fcb97d14ef9e977e00",
+      "size": 11197067,
+      "cd": "9097cddc91dfa5cb2e3956b6d97bb8ebc046dd4c2757f35cfdaa25fc5ff6ebae",
+      "fh": [
+        "014468401f7f2369c14f935c02f23632",
+        "d84b02949b0c12b62185dd334d8bd2db",
+        "3e2079a178361d94834135b646d7d080",
+        "476ad6508c61e30c2afb93d54f932348",
+        "d0de47d39eadfd20693df7cb2d75d1f8",
+        "51093ba5433032ef348b7d48aa80727c",
+        "89432be0207afbb55c3a33a2223017a3",
+        "8f8d2c842f0cdd1c1f1e98c2114c038e",
+        "b6dd1043c38e6dc3f9586ab65e2d8cb9",
+        "7a007f49755da1323e0264a7ca4af04b",
+        "3dc83562cb192e7660f8dc1ff78331bd",
+        "281559b0ba75d95cd19138a8fb035cc7",
+        "46f97dc3bb61a2d2a979cf9a9abf88ee",
+        "5eb667bf3b156ea491ae999f338b9bb9",
+        "6a1c54ac0e5339ee41e59418edfe4858",
+        "676971cd842b629aa23a100c070d3298",
+        "c7f4e6db0d18b063e70b286de431585f",
+        "e8b22c41538f9b3979bce7f3b5f30ec8",
+        "fcfc6936d4349f6ca21cb5b60ec5ae5b",
+        "cfd72306ff76eb386726257ec2c33040",
+        "f664bb1b19a27103cfe50440fe85a8e4",
+        "68625d0134324fdf8fcdf69763e1797c",
+        "beb0e0aa0c39159cd926ef9c7c3126b6",
+        "368a5fe122e00792a496997d30baaa90",
+        "bf7fbe3b91aa6e2e8d817f1aeb37f195",
+        "b6f52b8f196b5225df737e77a8be7b62",
+        "bf65c0735004080ece331ca6c7dac2e6",
+        "a12d858d9a65c96a3f9e6073dfa24fd3",
+        "fc74950f8291ca211efbb419bcc4b9f7",
+        "3e6843c3167631b9a7237bec42bfbb68",
+        "2f6b75ac17f91554dcf6a4758f881d18",
+        "8e56e89cb425c7c958f8acdf184fb647",
+        "709d0996087bd76a28ff8bc6c0116928",
+        "056dbfb09e5b7e324ac0c5d8bd50a8fb",
+        "bcd06b653aed7b7d6429dec8d75b7930",
+        "4e7afb9f67d8b635ecf4e236dc649112",
+        "20b4877826a552e8e22e2b729c914b73",
+        "949cad52dc0154d1ad7b436b993b5809",
+        "33cf44911c8594f53e53b75047372c82",
+        "8603de68a2b9908905b3cf53ace42652",
+        "221a6ab3e7bc97b7d1af5c3281d937e0",
+        "3732c3a2e34946c1f5039ecdf2923e26",
+        "ae305306b66c8cb84985b738b0d7b044",
+        "792699159765d6f1e1bf1188fd7208a4",
+        "5755436b56c4e1dffeadd0d7772e1b8c",
+        "728bd2ea5ff53d2257bdf6c06ba15e12",
+        "f58d28f00e4c0a36ed290b8fd7e8fcc3",
+        "3829a5b6e99a629a75eb0513c1036c89",
+        "58ccae7ed285f31c4c7dbce3f20b27f9",
+        "d141de76b3478f4db11158fda2f5cf96",
+        "9b3dbe7a348c65ca6c1d54e45f28d03f"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/RoseCamelliaCollection_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rose-and-camellia-collection_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rose-and-camellia-collection_bg.jpg"
+    },
+    {
       "id": "rubber",
       "title_id": "010060801843A000",
       "name": "Rubber Bandits",
@@ -9960,6 +12396,48 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rubber_cover.c6fd8da6.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/rubber_bg.abf49ef0.jpg",
       "mirrors": []
+    },
+    {
+      "id": "sesame-street-friends-and-fun",
+      "title_id": "0100B8B027164000",
+      "name": "Sesame Street: Friends and Fun",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.1",
+      "tagline": "Game giáo dục thiếu nhi cùng Elmo, Cookie Monster và Abby: đếm số, nhận màu, ghép chữ,...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game giáo dục thiếu nhi cùng Elmo, Cookie Monster và Abby: đếm số, nhận màu, ghép chữ, giải đố đơn giản."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "3d26e55d719eefe2f225775bd1ad95f062db760f2996b42f3f00442364bbc6cd",
+      "size": 31361318,
+      "cd": "440151da3bcb8a17163664fc0e83ea1553977b92d992567f29623acf20179a18",
+      "fh": [
+        "f400616ce0ac7de2571f6ab94e5341fc",
+        "2bf6c2f80178883d10c307c5e88e836c",
+        "955e56b5398f581a219ff0eec16b6a18",
+        "ec95a3de531ec4af26a4d5d4c94167d9",
+        "72e93ce1518ce882e9a56de9705fd3c1"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SesameStreetFriendsandFun_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sesame-street-friends-and-fun_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sesame-street-friends-and-fun_bg.jpg"
     },
     {
       "id": "ship-of-fools",
@@ -10147,6 +12625,51 @@
       "mirrors": []
     },
     {
+      "id": "slime-isekai-chronicles",
+      "title_id": "01008BA01A3BE000",
+      "name": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.3",
+      "tagline": "Nhập vai hành động kết hợp xây dựng từ anime Slime: điều khiển Rimuru và đồng đội,...",
+      "developer": "",
+      "release": "",
+      "translator": "Dã Cả Man",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Nhập vai hành động kết hợp xây dựng từ anime Slime: điều khiển Rimuru và đồng đội, phát triển liên bang Jura Tempest."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.3",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.3.",
+      "credit": "Việt hoá bởi Dã Cả Man.",
+      "cover_focus": 0.0,
+      "sha256": "238be8c981e2a55faf6700819f8e38ebacbfd0295bcdf36ac271eee4ec4d6959",
+      "size": 30212876,
+      "cd": "ece09bf85e35133097cb2fb95936387ea9a9faa5bc04483f04cdc83339b3ae84",
+      "fh": [
+        "9b2cc6e865f47ecff75340d43bc4951a",
+        "4b5a558719916fd49ea4426cacb3934b",
+        "00881a4e8af70b7def7cb1ee6b1f4547",
+        "bbcdba8530958484a5743512c6299964",
+        "7828d9854b7cc06cd8e6f1f72b408f17",
+        "ae0acb033c56b0ed0c58ae4c8c8f5dc7",
+        "028378748286a02e89097a6c08e028cd",
+        "3acd2b97e2b9f5fd2e3e053efe585f7a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SlimeIsekaiChronicles_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/slime-isekai-chronicles_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/slime-isekai-chronicles_bg.jpg"
+    },
+    {
       "id": "smbw",
       "title_id": "010015100B514000",
       "name": "Super Mario Bros. Wonder",
@@ -10251,6 +12774,55 @@
       "mirrors": []
     },
     {
+      "id": "snipperclips-plus",
+      "title_id": "01008E20047DC000",
+      "name": "Snipperclips Plus: Cut It Out, Together!",
+      "mod_version": "v1",
+      "game_version": "Update v1.1.0",
+      "tagline": "Giải đố co-op cắt giấy: Snip và Clip cắt hình nhau để vừa khít thử thách. Bản Plus có...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Giải đố co-op cắt giấy: Snip và Clip cắt hình nhau để vừa khít thử thách. Bản Plus có thêm màn chơi."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.1.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.1.0.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.64,
+      "sha256": "65f3c4aa3385781aa7c65f577969c1775e4acfbb80c901ccec1310f2e712db9d",
+      "size": 75310112,
+      "cd": "302de2b78e9130bb5888769230dacc0c67edc25361d19041fcecb96d674c08d0",
+      "fh": [
+        "453fe2415860002f380a855a55ad347c",
+        "35e676d6e3d30602b4866893e1c97ef8",
+        "9723c90ec2851a9fab78d7c0600fc092",
+        "240899180f15621278af97ff53a3e320",
+        "0126b17da505f695f657ebf95da0934b",
+        "b9dc0644476cb6af05a62fb0f70badf5",
+        "453fe2415860002f380a855a55ad347c",
+        "35e676d6e3d30602b4866893e1c97ef8",
+        "9723c90ec2851a9fab78d7c0600fc092",
+        "240899180f15621278af97ff53a3e320",
+        "0126b17da505f695f657ebf95da0934b",
+        "b9dc0644476cb6af05a62fb0f70badf5"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SnipperclipsPlus_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-plus_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/snipperclips-plus_bg.jpg"
+    },
+    {
       "id": "sonic-racing-crossworlds",
       "title_id": "01006E001823C000",
       "name": "Sonic Racing: CrossWorlds",
@@ -10351,6 +12923,59 @@
       "mirrors": []
     },
     {
+      "id": "sports-camp",
+      "title_id": "01009560237B2000",
+      "name": "Sports Camp: A 35-Game Adventure",
+      "mod_version": "v1",
+      "game_version": "Update v3.0.0",
+      "tagline": "Trại hè thể thao với 35 môn và trò vận động: bắn cung, bóng chuyền bãi biển, chèo...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Trại hè thể thao với 35 môn và trò vận động: bắn cung, bóng chuyền bãi biển, chèo kayak, bóng bàn..."
+      ],
+      "highlights": [
+        {
+          "text": "Update v3.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v3.0.0.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "f8e8a1b35b3684cd910851ebb5758ec162e14964b3aad25a1e142fdbbd01bf5e",
+      "size": 101092047,
+      "cd": "967ebfe94f7ae05001cb3c7c163a32ec9647f717090822b74f36b999130bb6ab",
+      "fh": [
+        "5b35411f44beecebf8514f75096c4c6e",
+        "5b35411f44beecebf8514f75096c4c6e",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "49bcfacacdcee5a250ea2d00f5c2cedd",
+        "b6e4d882ef8cf80f9c971f3541f3f8c8",
+        "5e0ab848568758d520bee28260a67ee9",
+        "78bab3ab722753e30dd22169b45c2ce3",
+        "5b35411f44beecebf8514f75096c4c6e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SportsCamp_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sports-camp_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sports-camp_bg.jpg"
+    },
+    {
       "id": "stretchers",
       "title_id": "0100AA400A238000",
       "name": "The Stretchers",
@@ -10389,6 +13014,89 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/stretchers_cover.692b3772.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/stretchers_bg.3586b11b.jpg",
       "mirrors": []
+    },
+    {
+      "id": "summer-party-time",
+      "title_id": "0100F2801BC4E000",
+      "name": "Summer Party Time",
+      "mod_version": "v1",
+      "game_version": "Bản gốc v1.0.0",
+      "tagline": "Party game mùa hè: trượt nước, lướt ván, đập dưa hấu và các trò so tài tốc độ cho cả...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Party game mùa hè: trượt nước, lướt ván, đập dưa hấu và các trò so tài tốc độ cho cả gia đình."
+      ],
+      "highlights": [
+        {
+          "text": "Bản gốc v1.0.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích bản b.ản gốc v1.0.0",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 1.0,
+      "sha256": "699a910abc5cb864f410f2654f97f6f87e6dea28df8c05e042dda4f92bbbfe48",
+      "size": 267893696,
+      "cd": "e65c4caddd019e9444b7790654f2c0ba5e4de5bf0b97ba3dc596294d1367aede",
+      "fh": [
+        "9307611e4327596a6df96816933a6e9e",
+        "4848c16aa5427c87c87d472e97ef91cd"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SummerPartyTime_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/summer-party-time_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/summer-party-time_bg.jpg"
+    },
+    {
+      "id": "super-bunny-man",
+      "title_id": "0100EF401D9D8000",
+      "name": "Super Bunny Man",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.5",
+      "tagline": "Đi cảnh vật lý ragdoll với chú thỏ cơ bắp: lăn, đá, quăng nhau qua cạm bẫy. Hỗ trợ co-op.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Đi cảnh vật lý ragdoll với chú thỏ cơ bắp: lăn, đá, quăng nhau qua cạm bẫy. Hỗ trợ co-op."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.5",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.5.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "480b37e5f89a93bfb01a4ff8252c68fc09e968699a58718994f17591dec2d1d4",
+      "size": 2935505,
+      "cd": "bae47b31d57d76c12ffdb28e6b2236e3286c8fa995345707fa756a237cdc3397",
+      "fh": [
+        "e20955c4c507337cfbb1660446ba4e0c",
+        "9bbb40e3163ea9f9c59c4aec4384f2ff",
+        "949266706eda3739fc7414cbaab281ef",
+        "f817d3cbbdb98ac15490e3929b7563c5",
+        "79daae91dc6469a6871c3a5b6ba31bc9",
+        "400f3e8a0ed3541dab02a5cb40c63398",
+        "42701b636772111c450d947a5d616770"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SuperBunnyMan_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/super-bunny-man_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/super-bunny-man_bg.jpg"
     },
     {
       "id": "survivalists",
@@ -10484,6 +13192,46 @@
       "mirrors": []
     },
     {
+      "id": "the-smurfs-village-party",
+      "title_id": "01007C101E334000",
+      "name": "The Smurfs: Village Party",
+      "mod_version": "v1",
+      "game_version": "Update v1.2.1",
+      "tagline": "Cùng các chú Xì Trum chuẩn bị bữa tiệc làng và phá âm mưu của Gargamel. Có chế độ...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Cùng các chú Xì Trum chuẩn bị bữa tiệc làng và phá âm mưu của Gargamel. Có chế độ phiêu lưu và 50 minigame cho 4 người."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.2.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.2.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "85b8529d45e91137d8f784bd050fe16f2f619262906bb96f4ac7985fe6278b98",
+      "size": 229921509,
+      "cd": "aff2d30e46f77238ce99528ca792bad4dcd5c156a1089a28b7623789c43706f7",
+      "fh": [
+        "b741e4960dd7820aebc37dd0ce0c7ec9",
+        "b266feb1e76c12a22a8e2cfad3c8d7fa",
+        "ca7bf7d41ea0d83fe473f5253877622d"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SmurfsVillageParty_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/the-smurfs-village-party_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/the-smurfs-village-party_bg.jpg"
+    },
+    {
       "id": "tombraider",
       "title_id": "0100092021C80000",
       "name": "Tomb Raider (Definitive Edition)",
@@ -10572,6 +13320,94 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tomodachi_cover.56645fc0.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tomodachi_bg.1fd81365.jpg",
       "mirrors": []
+    },
+    {
+      "id": "toodee-and-topdee",
+      "title_id": "0100B5A0171CC000",
+      "name": "Toodee and Topdee",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.1",
+      "tagline": "Giải đố kết hợp đi cảnh 2D và góc nhìn từ trên xuống, đổi qua lại giữa hai nhân vật để...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Giải đố kết hợp đi cảnh 2D và góc nhìn từ trên xuống, đổi qua lại giữa hai nhân vật để mở đường."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "2f945efcd0a6ccd3b8fb3202317eb4a652541baa2a4a6fe0d2673223b97fbb84",
+      "size": 9848455,
+      "cd": "768043eec029cab58f00594adf3efaf78af236b103dab116b4f0337107012433",
+      "fh": [
+        "6c20ee6a57733dfdedc3b168f7bd6b62",
+        "7d02342acb0fb3ff4093b618a6a10f01"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ToodeeandTopdee_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/toodee-and-topdee_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/toodee-and-topdee_bg.jpg"
+    },
+    {
+      "id": "tools-up",
+      "title_id": "010093F00E818000",
+      "name": "Tools Up!",
+      "mod_version": "v1",
+      "game_version": "Update v1.2.0",
+      "tagline": "Sửa nhà co-op hỗn loạn cho tối đa 4 người: đập tường, trát vữa, lăn sơn kịp trước khi...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Sửa nhà co-op hỗn loạn cho tối đa 4 người: đập tường, trát vữa, lăn sơn kịp trước khi chủ nhà về."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.2.0",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.2.0.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.7,
+      "sha256": "abba2779d90f8d5551218dbd346277797a4f1d09d4be9cf81e549ff1f480b4b7",
+      "size": 19500239,
+      "cd": "ab635513c4c965247ebad7063716f5e7431f67ca5ed15bb333bdff50cf386f38",
+      "fh": [
+        "b99f876fa35fb743711738e57b205d20",
+        "46ab4d046ee0d1097c9f3427c0db3d2f",
+        "c8a7bbc9fe24dd05371a034702d47dff",
+        "25fe52f1f67f1a65eb34b73189f2be86",
+        "b55dc98cfc2b8618e69558b490f51f65",
+        "4c730108138adf593acb42582460399e",
+        "831b0bf0b2a54b7aff99b31093877de3",
+        "6c6a9ec31b0842333ea20b6b826bbd52",
+        "02e9061efb1aef09a14c5b5f45f577a0",
+        "aac7026366fdb92f455103bbbf835837",
+        "fccb34aaa2b8dc531e67a49e604108f8",
+        "024d41fa889f89f702ccc8e7f6059b8a"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/ToolsUp_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tools-up_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tools-up_bg.jpg"
     },
     {
       "id": "touryst",
@@ -10673,6 +13509,88 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_cover.93570fb1.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "unravel-two",
+      "title_id": "0100E5D00CC0C000",
+      "name": "Unravel Two",
+      "mod_version": "v1",
+      "game_version": "Update v1.0.1",
+      "tagline": "Phiêu lưu giải đố co-op với hai sinh vật sợi len Yarny giữa thiên nhiên Bắc Âu.",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Phiêu lưu giải đố co-op với hai sinh vật sợi len Yarny giữa thiên nhiên Bắc Âu."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.0.1",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.0.1.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 0.0,
+      "sha256": "b23b253a41500079d7b10c983bf654fbd25acf0021beb7fa64fb7dd052871988",
+      "size": 334667003,
+      "cd": "6936ff28c0fa1b0a0e9734e079ec98920c62e2b14ed27114810cac10f4ee8a9e",
+      "fh": [
+        "56245c9a6249a364b932ff1dd5a6cf7e",
+        "820d61516c8791a62a4a6db4c8a77484",
+        "33dcb4e2ab614f307d69ed4e3431d802"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UnravelTwo_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unravel-two_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unravel-two_bg.jpg"
+    },
+    {
+      "id": "untitled-goose-game",
+      "title_id": "010082400BCC6000",
+      "name": "Untitled Goose Game",
+      "mod_version": "v1",
+      "game_version": "Update v1.1.2",
+      "tagline": "Vào vai chú ngỗng quậy phá ngôi làng Anh yên bình: trộm đồ, trêu dân làng, hoàn thành...",
+      "developer": "",
+      "release": "",
+      "translator": "DinhTuan",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Vào vai chú ngỗng quậy phá ngôi làng Anh yên bình: trộm đồ, trêu dân làng, hoàn thành danh sách trò nghịch. Hỗ trợ co-op 2 ngỗng."
+      ],
+      "highlights": [
+        {
+          "text": "Update v1.1.2",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v1.1.2.",
+      "credit": "Việt hoá bởi DinhTuan.",
+      "cover_focus": 1.0,
+      "sha256": "7614fe245c6966a4cb3f82ecd2cc69963b70661e5e867b0e2288e0c17fc087cb",
+      "size": 122692128,
+      "cd": "3fcead1a51190500dd90186b7229f829d177d44c40f1453dcb7e806da47ab172",
+      "fh": [
+        "caea78ff75477a2d900f592b588b431d",
+        "1f8b6b5a9357a6e89699212685fc503f",
+        "ad976058a6c023eae837e6fa4a1e3506",
+        "f25c911531108c6cb3deb40520912a64",
+        "1a19e185bea42d9fe5a5a4ad9ac95c3f"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UntitledGooseGame_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/untitled-goose-game_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/untitled-goose-game_bg.jpg"
     },
     {
       "id": "va11-hall-a",
@@ -11068,6 +13986,44 @@
       "mirrors": []
     },
     {
+      "id": "warhammer-survivors",
+      "title_id": "0100CAA026246000",
+      "name": "Warhammer Survivors",
+      "mod_version": "v1",
+      "game_version": "Update v2.1.2",
+      "tagline": "Game sống sót kiểu Vampire Survivors trong thế giới Warhammer với hơn 40 nhân vật và...",
+      "developer": "",
+      "release": "",
+      "translator": "Okiopie",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Game sống sót kiểu Vampire Survivors trong thế giới Warhammer với hơn 40 nhân vật và kho vũ khí lớn."
+      ],
+      "highlights": [
+        {
+          "text": "Update v2.1.2",
+          "title": "Dùng cho bản"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update v2.1.2.",
+      "credit": "Việt hoá bởi Okiopie.",
+      "cover_focus": 0.0,
+      "sha256": "d259972b15e878adb4ed180f14458deec075d9fc617d988fb82d2ff568835bec",
+      "size": 106383488,
+      "cd": "2df2008fe75e876a38c3536b937c2b92bb6dabef4e8e9fc79f6a7e8f24c8ddbf",
+      "fh": [
+        "86cdbf198fe0daec992049524ede0df4"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/WarhammerSurvivors_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warhammer-survivors_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/warhammer-survivors_bg.jpg"
+    },
+    {
       "id": "wario",
       "title_id": "0100563010E0C000",
       "name": "Wario Get It Together!",
@@ -11440,6 +14396,52 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_cover.0cae0460.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg",
       "mirrors": []
+    },
+    {
+      "id": "yugioh-legacy-of-the-duelist-link-evolution",
+      "title_id": "010022400BE5A000",
+      "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.1",
+      "tagline": "Đấu bài Vua Trò Chơi tái hiện các trận đấu từ 6 bộ anime, hơn 10.000 lá bài để xây...",
+      "developer": "",
+      "release": "",
+      "translator": "Bonano",
+      "tags": [
+        "Việt hoá"
+      ],
+      "description": [
+        "Đấu bài Vua Trò Chơi tái hiện các trận đấu từ 6 bộ anime, hơn 10.000 lá bài để xây dựng bộ bài.",
+        "Đặt ngôn ngữ máy là English."
+      ],
+      "highlights": [
+        {
+          "text": "Update 1.0.1",
+          "title": "Dùng cho bản"
+        },
+        {
+          "text": "Đặt ngôn ngữ máy là English.",
+          "title": "Lưu ý"
+        }
+      ],
+      "done": [],
+      "kept": [],
+      "changelog": "Tương thích Update 1.0.1.",
+      "credit": "Việt hoá bởi Bonano, tài trợ bởi Topo Shop.",
+      "cover_focus": 1.0,
+      "sha256": "00b47f7eaf62229415cf9257839aa2a27ee4dc9b5f4d72f62503cb08a45f5e95",
+      "size": 1626559155,
+      "cd": "22ffe8c5b83ae7cc851b69e0d2a5ebb0b7a05dffc51169c325c48db82e574c2f",
+      "fh": [
+        "d6c7c2f9b4b363e574f2e4404093cedc",
+        "c2099e4b867267d9a41f378714d0e864",
+        "64704261b7213bad966dd9fe3bcfc15d",
+        "8e0b0bc67804d1f7a5e6713b45b0ec4c"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/YugiohLegacyoftheDuelistLE_VietHoa.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yugioh-legacy-of-the-duelist-link-evolution_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yugioh-legacy-of-the-duelist-link-evolution_bg.jpg"
     }
   ],
   "themes": [
@@ -11773,7 +14775,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794975802,
+  "seq": 1794979513,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
