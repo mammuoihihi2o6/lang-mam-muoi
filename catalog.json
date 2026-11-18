@@ -1519,7 +1519,7 @@
       "id": "aot2",
       "title_id": "0100F6C00641C000",
       "name": "Attack on Titan 2: Final Battle",
-      "mod_version": "full_v2",
+      "mod_version": "full_v4",
       "game_version": "v917504 + Final Battle",
       "tagline": "Gia nhập Trinh Sát Đoàn, bay bằng thiết bị cơ động 3D và hạ gục Titan để bảo vệ nhân loại.",
       "developer": "Koei Tecmo / Omega Force",
@@ -1554,21 +1554,21 @@
         "Tiêu đề nhiệm vụ, chương (giữ tiếng Anh)",
         "Chữ vẽ trong ảnh giao diện, phần episode DLC"
       ],
-      "changelog": "full_v2: bản đầy đủ đầu tiên (update v917504 + Final Battle). Chưa thử trên máy thật.",
+      "changelog": "full_v4: sửa lỗi crash khi mở game trên máy Switch thật (bản trước chỉ chạy được trên giả lập). Đã thử trên máy thật.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.28,
-      "sha256": "fab94b40a319b3a7ef5792872e0969bec91431961efbe3fe60919895adc83d14",
-      "size": 1931844,
-      "cd": "e10770246eb3518b906887c43f622b983f7ad3dad7b28d4f77779035185f2a27",
+      "sha256": "f7e5f3d814209acfc3c08d3c4a1f0a05ab933b02305218ebed2ba001c5fc1044",
+      "size": 1916594,
+      "cd": "e3d5b2813ab9f53da98246308cb7a9f65ebda1a1333b4ede85e6f1c73fb16e8a",
       "fh": [
         "eebab30fe8b218f4bec76f1b05f98f21",
         "100aa9588d0bc7e9fb8b0315d21dd08b",
-        "c68fb5642992a9da6293af44b98956b7",
-        "0d33e41e27b87a2362d84676fbd95912",
-        "1a7306ce56352c96d77ef7e3adf1bb08",
+        "e4ca47fcaf0d02770fe994a6c315922f",
+        "1fcb166d5e5b8af1c1d08ec5dfaca507",
+        "2c514ce204b2f19d6a8cd5c5b6882a5c",
         "c68e812a881021b5c8c8b7dce46feabd"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/AOT2_VietHoa_full_v2.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/AOT2_VietHoa_full_v4.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/aot2_bg.jpg"
@@ -11773,7 +11773,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1794899368,
+  "seq": 1794975802,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
