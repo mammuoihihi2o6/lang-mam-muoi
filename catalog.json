@@ -6793,6 +6793,64 @@
       "mirrors": []
     },
     {
+      "id": "frostpunk",
+      "title_id": "0100B1C0249B4000",
+      "name": "Frostpunk",
+      "mod_version": "v1",
+      "game_version": "1.0.1",
+      "tagline": "Giữ cho thành phố cuối cùng của nhân loại sống sót qua băng giá.",
+      "developer": "11 bit studios",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Chiến lược",
+        "Sinh tồn",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Năm 1886, một cơn băng giá khủng khiếp nuốt chửng thế giới. Bạn là người lãnh đạo thành phố cuối cùng của nhân loại, quây quanh chiếc Máy phát hơi nước khổng lồ. Bạn phải cân bằng hơi ấm, thức ăn, nhà ở, hy vọng và sự bất mãn của dân chúng, ban hành luật lệ và đưa ra những quyết định đạo đức đau đớn để mọi người có thể sống sót.",
+        "Bản Việt hoá dịch giao diện, sự kiện, luật lệ và tài liệu trong game, kèm font vẽ lại có đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Gói nhẹ ~18 MB",
+          "text": "Font có đủ dấu tiếng Việt được plugin ghép vào game lúc chạy, không cần chép gói 2 GB."
+        }
+      ],
+      "done": [
+        "Giao diện và menu",
+        "Sự kiện, luật lệ, nhiệm vụ"
+      ],
+      "kept": [
+        "Một số chữ nằm trong ảnh"
+      ],
+      "changelog": "v1: Bản nhẹ ~18 MB (trước đây 2 GB): font tiếng Việt nạp bằng plugin, không còn chép đè gói ảnh 2 GB. Dịch đầy đủ, dùng cho bản cập nhật 1.0.1.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 1.0,
+      "sha256": "144e0161cace6239003a45d27beb9df626bc5b27b8754de0573de2638c034e98",
+      "size": 18399024,
+      "cd": "f10648f4c20df4e21b21128e0d46575d5f5958e580bd5c64d6570c252c548a61",
+      "fh": [
+        "7bada444d0fdd6a0f5435e581f2adde2",
+        "827338a6976f905d10e9b3dd28299a3c",
+        "bc5dd96e3c5b4b7fc84a9fa403f187fd",
+        "50c46d4b44eece40ea24bf8fbe50f2d0",
+        "130d7952161db23d0c956905f4de6b38",
+        "9ae04e3d96d0f1bba9c92165635ee18a",
+        "1bd53d4042e3d1b7bb5663af065aa525",
+        "bb73b8836756974a7b1495619c96478f",
+        "da973365377919bb72fb6d629f92ec9d",
+        "4fae586843e3d78d339913b7f4ffa59e",
+        "31c0a1a1dd1df8c210e05762b6c48d91",
+        "9189dec76a0c4837f3f77c94df2fefd1",
+        "63e3ec9e32b6fe8f791a9da7421944f2"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Frostpunk_VietHoa_full_v3.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_cover.ccf6e8e6.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg"
+    },
+    {
       "id": "gang-beasts",
       "title_id": "0100D58012E12000",
       "name": "Gang Beasts",
@@ -13463,7 +13521,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795152096,
+  "seq": 1795159428,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
