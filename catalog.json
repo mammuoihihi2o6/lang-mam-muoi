@@ -3867,9 +3867,9 @@
         "4689235c9079d756d5cb57b0650fb46e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Civ7_VietHoa_full_v10.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/civ7_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/civ7_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/civ7_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "constance",
@@ -9371,6 +9371,62 @@
       "mirrors": []
     },
     {
+      "id": "moomin-midsummer-madness",
+      "title_id": "010009E0263CA000",
+      "name": "Moomin: Midsummer Madness",
+      "mod_version": "full_v4",
+      "game_version": "1.0.3",
+      "tagline": "Lũ cuốn trôi Thung lũng Moomin, cả nhà Moomin trôi theo một nhà hát kỳ lạ vào đêm Hạ chí.",
+      "developer": "Crossbridge Game Studios / Shochiku",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Phiêu lưu",
+        "Point-and-click",
+        "Gia đình"
+      ],
+      "description": [
+        "Moomin: Midsummer Madness phỏng theo truyện Moomin của Tove Jansson. Núi lửa phun, lũ tràn ngập Thung lũng Moomin, cả nhà Moomin trú vào một nhà hát trôi dạt rồi lạc nhau đúng đêm Hạ chí. Bạn lần lượt điều khiển Moomintroll và Little My, giải đố, ghép đồ vật và gặp Snufkin, Snorkmaiden, Hemulen Cảnh Sát, ông Gác Công Viên cùng nhiều nhân vật quen thuộc.",
+        "Bản Việt hoá dịch toàn bộ lời thoại, giao diện, nhật ký, câu đố và màn danh đề, kèm font tiếng Việt đầy đủ dấu cho cả menu lẫn khung thoại."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: chọn ngôn ngữ English trong Cài đặt (sau khi cài sẽ hiện là Tiếng Việt)."
+        },
+        {
+          "title": "Cần bản cập nhật 1.0.3",
+          "text": "Bản Việt hoá làm trên bản cập nhật 1.0.3 (v196608). Bản cập nhật khác sẽ làm game treo màn hình đen."
+        }
+      ],
+      "done": [
+        "Lời thoại, cutscene, tóm tắt chương",
+        "Giao diện, menu, cài đặt, hướng dẫn",
+        "Nhật ký, câu đố, màn danh đề",
+        "Font tiếng Việt cho menu và khung thoại"
+      ],
+      "kept": [
+        "Tên nhân vật, tiêu đề chương và tên mục nhật ký (giữ tiếng Anh)",
+        "Chữ nằm trong ảnh (bìa sách, áp phích, báo)"
+      ],
+      "changelog": "full_v4: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "sha256": "08448838cd20719131e07a4f971ef5acf8d9109ed6b17904cdb41997a410b861",
+      "size": 64832891,
+      "cd": "26cc6ed712918d7b051e7bd9a1b6f28d15e07562df1e29e3d1fedd808dca7495",
+      "fh": [
+        "9791606c829d01711a227f76acc63697",
+        "42cb0897b041fc62af745d556199305b",
+        "8bb2a4074663f6b2e9d78906cd8e1247",
+        "d5f997c532c29f03373a85db40f6adbe",
+        "adf1f6c1da881bb4410b94cbd1cccdfd"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MOOMIN_VietHoa_full_v4.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moomin-midsummer-madness_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/moomin-midsummer-madness_bg.jpg"
+    },
+    {
       "id": "moonlight-peaks",
       "title_id": "01008C8025C8E000",
       "name": "Moonlight Peaks",
@@ -13694,7 +13750,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795050875,
+  "seq": 1795150832,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
