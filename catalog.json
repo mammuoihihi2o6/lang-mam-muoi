@@ -6846,9 +6846,9 @@
         "63e3ec9e32b6fe8f791a9da7421944f2"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Frostpunk_VietHoa_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_cover.ccf6e8e6.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "gang-beasts",
@@ -12073,6 +12073,58 @@
       "mirrors": []
     },
     {
+      "id": "tombraider",
+      "title_id": "0100092021C80000",
+      "name": "Tomb Raider (Definitive Edition)",
+      "mod_version": "v1",
+      "game_version": "1.0.4",
+      "tagline": "Hành trình sinh tồn đầu tiên của Lara Croft trên đảo Yamatai.",
+      "developer": "Crystal Dynamics",
+      "release": "",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Tomb Raider (Definitive Edition) kể lại khởi đầu của Lara Croft: cô cùng đoàn thám hiểm bị đắm tàu và mắc kẹt trên đảo Yamatai bí ẩn, nơi có một giáo phái cuồng tín và những bí mật cổ xưa. Lara phải leo trèo, săn bắn, chế tạo vũ khí và chiến đấu để cứu bạn bè, từ cô gái trẻ non nớt dần trở thành người sống sót thực thụ. Đây là bản làm lại đồ hoạ cao, với cảnh sinh tồn, chiến đấu bằng cung tên, và những ngôi mộ ẩn để khám phá.",
+        "Bản Việt hoá dịch giao diện, lồng tiếng, các đoạn cắt cảnh và video giới thiệu."
+      ],
+      "highlights": [
+        {
+          "title": "Dịch cả cắt cảnh và video",
+          "text": "Thoại trong cắt cảnh và chữ trong video đều có tiếng Việt."
+        }
+      ],
+      "done": [
+        "Giao diện, phụ đề thoại",
+        "Đoạn cắt cảnh, video"
+      ],
+      "kept": [
+        "Một số tài liệu phụ chưa dịch hết"
+      ],
+      "changelog": "v1: Bản nhẹ dùng plugin, chỉ còn 21 MB (trước 1,5 GB). Tương thích bản cập nhật 1.0.4.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "sha256": "cdf7c84dc6a9077208072655054465e4c152fce3f2c2532cac7e5f4cdefd418e",
+      "size": 21485327,
+      "cd": "0c4ac73fbe2ddb0eb184cc1dde8174316e8fda99663150dc80c3722a47fc6cb0",
+      "fh": [
+        "5ac1813e47171fe0926dec58e48521cc",
+        "885b95a29ba6854959ea766b5b23967b",
+        "55ace83588c67922d70c9510f79656d3",
+        "00cd90cfbdcd13d854e309b74dd5a992",
+        "b9de03c323c3bedf0c73fb16df50512d",
+        "11b939dc0f095a238aed4f92598589cd",
+        "41745d640da9e4401ecad77f18b93b1d"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TombRaider_VietHoa_plug_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_cover.66877ba2.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg"
+    },
+    {
       "id": "tomodachi",
       "title_id": "010051F0207B2000",
       "name": "Tomodachi Life: Living the Dream",
@@ -13521,7 +13573,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795159428,
+  "seq": 1795162582,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
