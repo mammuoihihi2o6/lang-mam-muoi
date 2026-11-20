@@ -5023,51 +5023,6 @@
       "mirrors": []
     },
     {
-      "id": "fate",
-      "title_id": "010053E002EA2000",
-      "name": "Fate/EXTELLA: The Umbral Star",
-      "mod_version": "v1",
-      "game_version": "Bản gốc (base)",
-      "tagline": "Cùng các Servant tranh quyền làm chủ thế giới điện tử SE.RA.PH.",
-      "developer": "Marvelous",
-      "release": "20/07/2017",
-      "translator": "Mammuoihihi",
-      "tags": [
-        "Hành động",
-        "Musou",
-        "Anime"
-      ],
-      "description": [
-        "Fate/EXTELLA: The Umbral Star là game hành động chặt chém kiểu musou trong thế giới Fate, với cốt truyện độc lập do Kinoko Nasu viết. Sau cuộc chiến Chén Thánh, bạn là Master sát cánh cùng các Servant như Nero, Tamamo và Altera trong cuộc chiến giành quyền kiểm soát SE.RA.PH, một thế giới điện tử trên mặt trăng. Bạn chiếm từng khu vực trên bản đồ, càn quét hàng trăm kẻ địch cùng lúc, tung Noble Phantasm và biến hình Moon Crux. Game có hơn 16 Servant điều khiển được, mỗi người một tuyến truyện và lối đánh riêng.",
-        "Bản Việt hoá thay chữ hội thoại và giao diện bằng tiếng Việt."
-      ],
-      "highlights": [
-        {
-          "title": "Dùng cho bản gốc",
-          "text": "Mod làm cho game chưa cài update."
-        }
-      ],
-      "done": [
-        "Hội thoại và giao diện"
-      ],
-      "kept": [],
-      "changelog": "Tương thích bản gốc của game, chưa cập nhật.",
-      "credit": "Việt hoá bởi Mammuoihihi.",
-      "cover_focus": 1.0,
-      "sha256": "eb0ff3b345f4e82fdc6a7acb700bb2b0c6d3832402539bcfb58bb753892f4711",
-      "size": 1366885331,
-      "cd": "a6c22250ae0b1ee923a77ee823ec3faaf62a9e1491892783f663e50b94448403",
-      "fh": [
-        "c6a09ed43c943ce5c909f3214ef8f21c",
-        "4e03dce30b94f6f001bed89c1c9d62fe",
-        "afd001a53e20075839f7a6595f1eedee"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FateEXTELLA_VietHoa_test6.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fate_cover.191bc163.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fate_bg.jpg",
-      "mirrors": []
-    },
-    {
       "id": "ffmobw",
       "title_id": "0100BEB015604000",
       "name": "FATAL FRAME: Maiden of Black Water",
@@ -6477,56 +6432,6 @@
       "mirrors": []
     },
     {
-      "id": "fifa-23",
-      "title_id": "01001C8016B4E000",
-      "name": "FIFA 23",
-      "mod_version": "v1",
-      "game_version": "Update v1.0.3",
-      "tagline": "Bản FIFA cuối cùng trước khi đổi tên EA Sports FC, chạy 60 fps mượt trên Switch.",
-      "developer": "",
-      "release": "",
-      "translator": "Arik Nguyen",
-      "tags": [
-        "Việt hoá"
-      ],
-      "description": [
-        "Bản FIFA cuối cùng trước khi đổi tên EA Sports FC, chạy 60 fps mượt trên Switch."
-      ],
-      "highlights": [
-        {
-          "text": "Update v1.0.3",
-          "title": "Dùng cho bản"
-        }
-      ],
-      "done": [],
-      "kept": [],
-      "changelog": "Tương thích bản cập nhật v1.0.3.",
-      "credit": "Việt hoá bởi Arik Nguyen.",
-      "cover_focus": 0.0,
-      "sha256": "e6c59ce6d00af29a65105730ca172f8034b0f5941d9cd5d119a15b9d8cd43417",
-      "size": 1280699622,
-      "cd": "75942943f4ab0a806e072a227dea4c34795f368e8b2bb2e4e880ddb0b79018e4",
-      "fh": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "0ca29819e7140af5a22e3bac2fd64fc6",
-        "76a66d135b876762a3688ece1d0183ee",
-        "4c86512b1943673ccd44cc069f4d9ef5",
-        "4afc4b7c08d74826334423ca03595978",
-        "ac14cf55b1c2abcc0dad47d646702e1f",
-        "0660ee6d32fe5e742dcab187a2b76980",
-        "",
-        "89dabd09940deec573a8dbdecfa48933"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/FIFA23_VietHoa.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_cover.25ece32b.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/fifa-23_bg.a588c382.jpg",
-      "mirrors": []
-    },
-    {
       "id": "fights-in-tight-spaces",
       "title_id": "0100126017B46000",
       "name": "Fights in Tight Spaces",
@@ -6888,61 +6793,6 @@
       "mirrors": []
     },
     {
-      "id": "frostpunk",
-      "title_id": "0100B1C0249B4000",
-      "name": "Frostpunk",
-      "mod_version": "v1",
-      "game_version": "1.0.1",
-      "tagline": "Giữ cho thành phố cuối cùng của nhân loại sống sót qua băng giá.",
-      "developer": "11 bit studios",
-      "release": "",
-      "translator": "Mammuoihihi",
-      "tags": [
-        "Chiến lược",
-        "Sinh tồn",
-        "Cốt truyện"
-      ],
-      "description": [
-        "Năm 1886, một cơn băng giá khủng khiếp nuốt chửng thế giới. Bạn là người lãnh đạo thành phố cuối cùng của nhân loại, quây quanh chiếc Máy phát hơi nước khổng lồ. Bạn phải cân bằng hơi ấm, thức ăn, nhà ở, hy vọng và sự bất mãn của dân chúng, ban hành luật lệ và đưa ra những quyết định đạo đức đau đớn để mọi người có thể sống sót.",
-        "Bản Việt hoá dịch giao diện, sự kiện, luật lệ và tài liệu trong game, kèm font vẽ lại có đủ dấu tiếng Việt."
-      ],
-      "highlights": [
-        {
-          "title": "Font có đủ dấu tiếng Việt",
-          "text": "Các font của game được dựng lại để hiện đúng dấu."
-        }
-      ],
-      "done": [
-        "Giao diện và menu",
-        "Sự kiện, luật lệ, nhiệm vụ"
-      ],
-      "kept": [
-        "Một số chữ nằm trong ảnh"
-      ],
-      "changelog": "Tương thích bản cập nhật 1.0.1.",
-      "credit": "Việt hoá bởi Mammuoihihi.",
-      "cover_focus": 1.0,
-      "sha256": "eee2b66940a6d9415f020adc7d78a8898adefa4aa618d1a45692ac2b6cbc2199",
-      "size": 2020654013,
-      "cd": "981bdf5d3de12d09aa4169c7e8f1750bd195d78a9ed2b2878b626a4e7664e88a",
-      "fh": [
-        "0c512d7097325b6f30c71cad9031e142",
-        "50c46d4b44eece40ea24bf8fbe50f2d0",
-        "130d7952161db23d0c956905f4de6b38",
-        "9ae04e3d96d0f1bba9c92165635ee18a",
-        "1bd53d4042e3d1b7bb5663af065aa525",
-        "bb73b8836756974a7b1495619c96478f",
-        "da973365377919bb72fb6d629f92ec9d",
-        "10baa958818abc0e35552831550d7afe",
-        "6e6a63305980c3f9765886fee711d81a",
-        "31c0a1a1dd1df8c210e05762b6c48d91"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Frostpunk_VietHoa_full_v2.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_cover.ccf6e8e6.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/frostpunk_bg.jpg",
-      "mirrors": []
-    },
-    {
       "id": "gang-beasts",
       "title_id": "0100D58012E12000",
       "name": "Gang Beasts",
@@ -7103,48 +6953,6 @@
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GraveyardKeeper2_VietHoa_v1.0.5.zip",
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_cover.fe455ab1.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/gk2_bg.jpg",
-      "mirrors": []
-    },
-    {
-      "id": "griftlands",
-      "title_id": "0100E49013514000",
-      "name": "Griftlands",
-      "mod_version": "v1",
-      "game_version": "1.0.4",
-      "tagline": "Roguelike thẻ bài của Klei:",
-      "developer": "Klei Entertainment",
-      "release": "",
-      "translator": "Phùng Hồng Quân",
-      "tags": [
-        "Việt hoá",
-        "Thẻ bài",
-        "Roguelike",
-        "Nhập vai"
-      ],
-      "description": [
-        "Roguelike thẻ bài của Klei: hai bộ bài tách biệt cho đàm phán và chiến đấu, bạn chọn lừa lọc, mua chuộc hay đấm nhau để sống sót."
-      ],
-      "highlights": [
-        {
-          "title": "Dùng cho bản",
-          "text": "1.0.4"
-        }
-      ],
-      "done": [],
-      "kept": [],
-      "changelog": "Bản việt hoá cộng đồng, nhập từ kênh list-game trên Discord Làng Mắm Muối. Chưa thử trên máy thật; nếu gặp lỗi chữ, hãy báo lại cho nhóm.",
-      "credit": "Việt hoá bởi Phùng Hồng Quân.",
-      "cover_focus": 0.0,
-      "sha256": "2eb02670e23028938b5c8c44d43dfcf33b01b1da2b8c31a38338f28463e2c434",
-      "size": 1051732508,
-      "cd": "498b98590f622c1fb56d9b5b09e45fa2765810fa75526557b9ecc8fa7d8c90e4",
-      "fh": [
-        "972c2f6d265d35346139c589a48c4f67",
-        "9eaac74e9ab435581c926cd80097bf2e"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Griftlands_VietHoa.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_cover.4b41193d.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/griftlands_bg.816ada15.jpg",
       "mirrors": []
     },
     {
@@ -12207,55 +12015,6 @@
       "mirrors": []
     },
     {
-      "id": "tombraider",
-      "title_id": "0100092021C80000",
-      "name": "Tomb Raider (Definitive Edition)",
-      "mod_version": "v9",
-      "game_version": "1.0.4",
-      "tagline": "Hành trình sinh tồn đầu tiên của Lara Croft trên đảo Yamatai.",
-      "developer": "Crystal Dynamics",
-      "release": "",
-      "translator": "Mammuoihihi",
-      "tags": [
-        "Hành động",
-        "Phiêu lưu",
-        "Cốt truyện"
-      ],
-      "description": [
-        "Tomb Raider (Definitive Edition) kể lại khởi đầu của Lara Croft: cô cùng đoàn thám hiểm bị đắm tàu và mắc kẹt trên đảo Yamatai bí ẩn, nơi có một giáo phái cuồng tín và những bí mật cổ xưa. Lara phải leo trèo, săn bắn, chế tạo vũ khí và chiến đấu để cứu bạn bè, từ cô gái trẻ non nớt dần trở thành người sống sót thực thụ. Đây là bản làm lại đồ hoạ cao, với cảnh sinh tồn, chiến đấu bằng cung tên, và những ngôi mộ ẩn để khám phá.",
-        "Bản Việt hoá dịch giao diện, lồng tiếng, các đoạn cắt cảnh và video giới thiệu."
-      ],
-      "highlights": [
-        {
-          "title": "Dịch cả cắt cảnh và video",
-          "text": "Thoại trong cắt cảnh và chữ trong video đều có tiếng Việt."
-        }
-      ],
-      "done": [
-        "Giao diện, phụ đề thoại",
-        "Đoạn cắt cảnh, video"
-      ],
-      "kept": [
-        "Một số tài liệu phụ chưa dịch hết"
-      ],
-      "changelog": "Tương thích bản cập nhật 1.0.4.",
-      "credit": "Việt hoá bởi Mammuoihihi.",
-      "cover_focus": 0.0,
-      "sha256": "75fa274d2729f3fdbfcab145b1fd846adb77020fe747ba2cbab54e62ed09db42",
-      "size": 1544358065,
-      "cd": "e1473e4861eeb6f710aeb1449e16e7f9b10840c7fa712b4beea0fc2e4868e575",
-      "fh": [
-        "55ace83588c67922d70c9510f79656d3",
-        "00cd90cfbdcd13d854e309b74dd5a992",
-        "7bd5c973322a6dcf09c50c0ca05ec8d7",
-        "b9de03c323c3bedf0c73fb16df50512d"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TombRaider_vh_v9.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_cover.66877ba2.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg",
-      "mirrors": []
-    },
-    {
       "id": "tomodachi",
       "title_id": "010051F0207B2000",
       "name": "Tomodachi Life: Living the Dream",
@@ -13371,52 +13130,6 @@
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_cover.0cae0460.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yomawari_bg.jpg",
       "mirrors": []
-    },
-    {
-      "id": "yugioh-legacy-of-the-duelist-link-evolution",
-      "title_id": "010022400BE5A000",
-      "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
-      "mod_version": "v1",
-      "game_version": "Update 1.0.1",
-      "tagline": "Đấu bài Vua Trò Chơi tái hiện các trận đấu từ 6 bộ anime, hơn 10.000 lá bài để xây...",
-      "developer": "",
-      "release": "",
-      "translator": "Bonano",
-      "tags": [
-        "Việt hoá"
-      ],
-      "description": [
-        "Đấu bài Vua Trò Chơi tái hiện các trận đấu từ 6 bộ anime, hơn 10.000 lá bài để xây dựng bộ bài.",
-        "Đặt ngôn ngữ máy là English."
-      ],
-      "highlights": [
-        {
-          "text": "Update 1.0.1",
-          "title": "Dùng cho bản"
-        },
-        {
-          "text": "Đặt ngôn ngữ máy là English.",
-          "title": "Lưu ý"
-        }
-      ],
-      "done": [],
-      "kept": [],
-      "changelog": "Tương thích Update 1.0.1.",
-      "credit": "Việt hoá bởi Bonano, tài trợ bởi Topo Shop.",
-      "cover_focus": 1.0,
-      "sha256": "00b47f7eaf62229415cf9257839aa2a27ee4dc9b5f4d72f62503cb08a45f5e95",
-      "size": 1626559155,
-      "cd": "22ffe8c5b83ae7cc851b69e0d2a5ebb0b7a05dffc51169c325c48db82e574c2f",
-      "fh": [
-        "d6c7c2f9b4b363e574f2e4404093cedc",
-        "c2099e4b867267d9a41f378714d0e864",
-        "64704261b7213bad966dd9fe3bcfc15d",
-        "8e0b0bc67804d1f7a5e6713b45b0ec4c"
-      ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/YugiohLegacyoftheDuelistLE_VietHoa.zip",
-      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yugioh-legacy-of-the-duelist-link-evolution_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/yugioh-legacy-of-the-duelist-link-evolution_bg.jpg",
-      "mirrors": []
     }
   ],
   "themes": [
@@ -13750,7 +13463,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795151329,
+  "seq": 1795152096,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
