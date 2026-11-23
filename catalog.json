@@ -3096,9 +3096,9 @@
         "3b2e1abdcae5d1f34617fd32f0ec90cc"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BatmanArkhamKnight_VietHoa_test10_vhplug.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_cover.ba0bfc6b.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "bear-and-breakfast",
@@ -11667,8 +11667,8 @@
       "id": "sonic-racing-crossworlds",
       "title_id": "01006E001823C000",
       "name": "Sonic Racing: CrossWorlds",
-      "mod_version": "v1",
-      "game_version": "1.43",
+      "mod_version": "v2",
+      "game_version": "2.00",
       "tagline": "Sonic và hội bạn đua xe xuyên qua các thế giới, đổi đường đua giữa chừng qua Vòng Du Hành.",
       "developer": "SEGA / Sonic Team",
       "release": "",
@@ -11696,22 +11696,22 @@
       "kept": [
         "Tên nhân vật, tên đường đua, tên xe (giữ tiếng Anh)",
         "Tên thương hiệu trên hình dán, tên bài hát",
-        "Chữ vẽ trong ảnh, nội dung DLC"
+        "Chữ vẽ trong ảnh"
       ],
-      "changelog": "v1: bản đầy đủ đầu tiên (game 1.43). Trong game chọn ngôn ngữ chữ Tiếng Việt (ô English cũ). Chưa thử trên máy thật.",
+      "changelog": "v2: cập nhật cho game 2.00 (Season 2): dịch chế độ Đấu tay đôi, Thách đấu đối thủ, Nhiệm vụ, Cửa hàng, tiện ích và danh hiệu mới, nội dung DLC mới (Bayonetta, Aigis, EVANGELION, Godzilla, Máy SEGA, McLaren); thêm dấu tiếng Việt cho 2 font mới. Chỉ dùng cho game 2.00. Chưa thử trên máy thật.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.61,
-      "sha256": "75ac25dbe2465db1bd4ad4e6c9dc51953c3e3ed092f737fb0ca19313d86051db",
-      "size": 579515,
-      "cd": "ece74f0415bce38789286848c1a1e41ea8324919128ed559787b30e5db358e92",
+      "sha256": "171ea7b6f0a43b2a6c6d9cf952dfc97a496d74abae0a2aa13c7e778ae5b609d8",
+      "size": 664165,
+      "cd": "61c6f96609522b56059c63a4d5e6f8ca778cb314bacead379b009b1180b985ab",
       "fh": [
-        "17c558656c3e30f931c3bd2ffd894b89",
-        "203930fb2976731219e650552a363521"
+        "26eadf18b71ffae4c66958140d38af9c",
+        "50eddc77455b3aa1de7b305de00f9eb8"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SonicRacingCrossWorlds_VietHoa_full_v2.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SonicRacingCrossWorlds_VietHoa_full_v3.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_cover.7ee4ea34.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg"
     },
     {
       "id": "splatoon-3",
@@ -13573,7 +13573,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795394198,
+  "seq": 1795400734,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
