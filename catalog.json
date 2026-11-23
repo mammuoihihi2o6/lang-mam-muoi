@@ -1,12 +1,13 @@
 {
   "schema": 1,
   "app": {
-    "build": 42,
-    "version": "M10",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M10.nro",
-    "sha256": "7b655a7d29c7dc4bbb54e85a7bb3be53a060d73fd6758b1b3ff21dae24b0d3d2",
-    "size": 12962464,
-    "notes": "Tab Ủng Hộ mới: mã QR ngân hàng và mã QR Discord nằm cạnh nhau. Ủng hộ xong, quét mã Discord rồi gửi ảnh chụp chuyển khoản vào kênh ủng hộ để nhóm xác nhận và thêm tên bạn vào Bảng Vinh Danh. Liên hệ admin, báo lỗi cũng quét mã Discord ở tab Ủng Hộ."
+    "build": 43,
+    "version": "M11",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M11.nro",
+    "sha256": "7ce767a2637bbd311317abb1dc5fe2fd5996292af47876c149e60bb7ad3d37c2",
+    "size": 12978848,
+    "notes": "Bản cập nhật bắt buộc.\n• Hết thông báo \"có bản Việt hoá mới → v1\" mỗi lần mở app (chỉ là đổi tên phiên bản). Bản Việt hoá mới thật chỉ báo một lần, vẫn có nhãn Cập nhật trong thư viện.\n• Sửa lỗi tải đi tải lại mãi không cài được (Batman: Arkham Knight): gói trên máy chủ không khớp danh sách thì báo ngay, không tải lại cả tệp.\n• Cập nhật ứng dụng tải bằng nhiều kết nối song song và tạm dừng mọi việc khác (cài/gỡ, tải ảnh) để nhanh nhất.",
+    "required": true
   },
   "mods": [
     {
@@ -3008,7 +3009,7 @@
       "id": "batman-arkham-knight",
       "title_id": "0100ACD0163D0000",
       "name": "Batman: Arkham Knight",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "1.0.5",
       "tagline": "Đêm cuối cùng của Batman, khi Scarecrow đe doạ cả Gotham.",
       "developer": "Rocksteady Studios",
@@ -3038,12 +3039,12 @@
         "Chữ vẽ sẵn trong ảnh",
         "Một số dòng chưa rà soát (bản thử)"
       ],
-      "changelog": "Bản thử test10, cần bản cập nhật 1.0.5 (v327680). Dùng plugin mới, xoá thư mục mod cũ (bản ghep/tomeocam) trước khi cài.",
+      "changelog": "v2: Sửa lỗi tải mãi không cài được (danh sách ghi sai gói); nội dung bản dịch không đổi. Bản thử test10, cần bản cập nhật 1.0.5 (v327680). Dùng plugin mới, xoá thư mục mod cũ (bản ghep/tomeocam) trước khi cài.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
-      "sha256": "cadecc43fe7b898444a57916ba9ae50310339faafa12eb515b7df3d746536bba",
-      "size": 74327000,
-      "cd": "b235a5d5b7c4f18ccf12ba63ba151fb477166c8cdb9dffa327bc53036d460822",
+      "sha256": "1fa1bdfa900d5bbe98eacfa549ea530820e9d6bb890e13e893c7d4891857b083",
+      "size": 35913501,
+      "cd": "9812fa42474ba9b1a7b9010408e36b6dcdca65a6c785fd9120cf69364a350926",
       "fh": [
         "ff2905ca9bdb28969688ff8d16af34ae",
         "eff3a8cefcb0e330c73aeb19a0ad5a1d",
@@ -3092,13 +3093,12 @@
         "e56e34f4dbe90e887e5b682db60b720c",
         "09cdf2902ac79d453a7b5ce4b69367cf",
         "48788108d39fd029b3b795d0d709cd35",
-        "3b2e1abdcae5d1f34617fd32f0ec90cc",
-        "0a6bc360880dfb4a1a42c6092db2ba30"
+        "3b2e1abdcae5d1f34617fd32f0ec90cc"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/BatmanArkhamKnight_VietHoa_test10_vhplug.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_cover.ba0bfc6b.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/batman-arkham-knight_bg.jpg"
     },
     {
       "id": "bear-and-breakfast",
@@ -12120,9 +12120,9 @@
         "41745d640da9e4401ecad77f18b93b1d"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/TombRaider_VietHoa_plug_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_cover.66877ba2.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tombraider_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "tomodachi",
@@ -13573,7 +13573,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795162582,
+  "seq": 1795394198,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
