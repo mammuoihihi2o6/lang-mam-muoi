@@ -4651,6 +4651,65 @@
       "mirrors": []
     },
     {
+      "id": "disgaea5",
+      "title_id": "01005700031AE000",
+      "name": "Disgaea 5 Complete",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.4",
+      "tagline": "Liên minh báo thù của những Overlord mất nước kéo nhau đi đập Ma Hoàng Void Dark, theo kiểu ồn ào và lố nhất Netherworld.",
+      "developer": "Nippon Ichi Software",
+      "release": "26/05/2017",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Nhập vai",
+        "Chiến thuật theo lượt",
+        "Hài hước",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Disgaea 5 Complete là game nhập vai chiến thuật theo lượt của Nippon Ichi. Quân Lost của Ma Hoàng Void Dark đang nuốt chửng hết Netherworld này đến Netherworld khác. Killia, một ác quỷ trầm lặng mang mối thù riêng, cùng Seraphina, Red Magnus, Usalia và những Overlord bị cướp nước lập nên liên minh báo thù. Nhảy vào đó là cày cấp tới hàng nghìn, ném đồng đội, chồng tháp, mở Item World và Dark Assembly.",
+        "Bản Việt hoá dịch toàn bộ cốt truyện, thoại phụ, mô tả, hướng dẫn và giao diện, kèm phông chữ có đủ dấu. Gói khoảng 5 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
+      ],
+      "highlights": [
+        {
+          "title": "Cần bản 1.0.4",
+          "text": "Cài update 1.0.4 (v262144) trước khi cài Việt hoá."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy để game ở English."
+        }
+      ],
+      "done": [
+        "Toàn bộ cốt truyện chính, thoại phụ, skit",
+        "Mô tả vật phẩm, kỹ năng, class, Evility, Quest",
+        "Giao diện, hướng dẫn, Dark Assembly",
+        "Phông chữ có đủ dấu tiếng Việt"
+      ],
+      "kept": [
+        "Tên nhân vật, quái, class, kỹ năng, Evility, Overload, vật phẩm",
+        "Tiêu đề Quest, chương, danh hiệu, tên Netherworld và địa danh"
+      ],
+      "changelog": "v1: bản đầu tiên, dịch 100% cốt truyện, mô tả và giao diện. Cần update 1.0.4.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.4,
+      "sha256": "9bbfac15bea9b9882157883f518c0fcab90a44c3e1a630a2e7383f1b2461ccc0",
+      "size": 5121802,
+      "cd": "1d5cb3b123164b5e5676aef9a5b9f458776e2d2f92856acd0688a1dfcdcc5bc9",
+      "fh": [
+        "743d4f36200c98359452633692456b5b",
+        "194c0a36b5179c275fd2b06ce01c93c6",
+        "38c99b7405436401aad30e6306c8ee93",
+        "16a63b484215ef1e229da1347b2ffe49",
+        "1cc76e5b2f7535eec6a50e4d443dcbd3",
+        "c23b78a6b63981dd7330d2d24e5a2ea5"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Disgaea5_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/disgaea5_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/disgaea5_bg.jpg"
+    },
+    {
       "id": "dkc-returns",
       "title_id": "01009D901BC56000",
       "name": "Donkey Kong Country Returns",
@@ -11709,9 +11768,9 @@
         "50eddc77455b3aa1de7b305de00f9eb8"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SonicRacingCrossWorlds_VietHoa_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_cover.7ee4ea34.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/soniccw_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "splatoon-3",
@@ -13573,7 +13632,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795400734,
+  "seq": 1795428715,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
