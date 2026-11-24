@@ -4651,6 +4651,64 @@
       "mirrors": []
     },
     {
+      "id": "discounty",
+      "title_id": "0100D7401D59A000",
+      "name": "Discounty",
+      "mod_version": "v1",
+      "game_version": "1.2.2",
+      "tagline": "Về thị trấn cảng Blomkest giúp dì Tellar biến tiệm nhỏ thành siêu thị Discounty, giữa lúc cả thị trấn nổi sóng.",
+      "developer": "Crinkle Cut Games / PQube",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Mô phỏng",
+        "Quản lý cửa hàng",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Discounty là game quản lý siêu thị ấm cúng pha chất châm biếm. Bạn về thị trấn cảng Blomkest giúp dì Tellar mở chi nhánh Discounty: xếp kệ, tính tiền, ký thoả thuận với ngư dân, nông dân, nhà máy, phục dựng thị trấn và đào rộng tầng hầm. Siêu thị càng lớn thì tiệm nhỏ càng lụi, biển đổi màu, dân kéo nhau biểu tình, và bạn phải chọn đứng về phía bà chủ nhà máy Tammy, liên minh SUBLIME hay đứng giữa.",
+        "Bản Việt hoá dịch toàn bộ lời thoại (hơn 10.000 câu), giao diện, nhiệm vụ, mô tả nhân vật, kèm font tiếng Việt đầy đủ dấu cho menu, khung thoại và chữ trong cửa hàng."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: chọn ngôn ngữ English trong Cài đặt (sau khi cài sẽ hiện là Tiếng Việt)."
+        },
+        {
+          "title": "Cần bản cập nhật 1.2.2",
+          "text": "Bản Việt hoá làm trên bản cập nhật 1.2.2 (v655360). Bản cập nhật khác có thể giữ tiếng Anh hoặc lỗi."
+        }
+      ],
+      "done": [
+        "Toàn bộ lời thoại, cutscene, các kết thúc",
+        "Giao diện, menu, cài đặt, hướng dẫn",
+        "Mục tiêu và nhật ký nhiệm vụ, mô tả nhân vật",
+        "Font tiếng Việt cho menu, khung thoại, bảng hiệu"
+      ],
+      "kept": [
+        "Tên nhân vật, địa danh, tên cửa tiệm, sản phẩm và vật phẩm (giữ tiếng Anh)",
+        "Tiêu đề nhiệm vụ (giữ tiếng Anh)",
+        "Chữ nằm trong ảnh (biển hiệu, logo)"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.28,
+      "sha256": "8b23dfa9435d871868b36dfcb1aa656e649d0b3380fd26da23460a2bcf61a1c8",
+      "size": 8014000,
+      "cd": "16652310e6a894780d785798fb610a76db3ad30df67273c79d71e45a0596fb0d",
+      "fh": [
+        "e75947acb08a8324e481b5e55147f0a0",
+        "971a63c20da1648499b9b3f60fc9cf96",
+        "e4ca47fcaf0d02770fe994a6c315922f",
+        "73f11f73d920fcb8b84ae29d972fbdd2",
+        "b85e3f4f24c0e3aeaf303176215d60f9",
+        "145735d533533b07f5ccc727bdf93cb4"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Discounty_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/discounty_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/discounty_bg.jpg"
+    },
+    {
       "id": "disgaea5",
       "title_id": "01005700031AE000",
       "name": "Disgaea 5 Complete",
@@ -4705,9 +4763,9 @@
         "c23b78a6b63981dd7330d2d24e5a2ea5"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Disgaea5_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/disgaea5_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/disgaea5_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/disgaea5_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "dkc-returns",
@@ -13632,7 +13690,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795428715,
+  "seq": 1795479979,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
