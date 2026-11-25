@@ -11356,6 +11356,67 @@
       "mirrors": []
     },
     {
+      "id": "sao-hollow-realization",
+      "title_id": "0100EC400D54E000",
+      "name": "Sword Art Online: Hollow Realization Deluxe Edition",
+      "mod_version": "v1",
+      "game_version": "Update 1.0.1",
+      "tagline": "Kirito và cả hội bước vào SAO: Origin, thế giới VRMMO mới dựng lại Aincrad, rồi gặp cô gái NPC bí ẩn Premiere.",
+      "developer": "Aquria / Bandai Namco",
+      "release": "24/05/2019",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Nhập vai",
+        "Hành động",
+        "Anime",
+        "Cốt truyện"
+      ],
+      "description": [
+        "Sword Art Online: Hollow Realization là game nhập vai hành động dựa trên bộ light novel Sword Art Online. Kirito, Asuna và đồng đội đăng nhập SAO: Origin, một VRMMO mới tái hiện thế giới Aincrad cũ, rồi gặp Premiere, cô gái NPC không có thiết lập cốt truyện. Bản Deluxe Edition gồm game chính cùng toàn bộ DLC: cày cấp, đi ải, đánh trùm, kết thân với hàng chục nhân vật và đi hẹn hò khắp thành phố.",
+        "Bản Việt hoá dịch toàn bộ cốt truyện, thoại đồng đội, sự kiện, mô tả, hướng dẫn, giao diện và phụ đề phim cutscene, kèm phông chữ có đủ dấu. Xưng hô tự đổi theo giới tính nhân vật bạn chọn: chọn nữ thì đồng đội gọi \"chị\", Yui gọi \"mẹ\". Gói khoảng 6,5 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
+      ],
+      "highlights": [
+        {
+          "title": "Cần bản 1.0.1",
+          "text": "Cài update 1.0.1 (v65536) trước khi cài Việt hoá."
+        },
+        {
+          "title": "Xưng hô theo giới tính",
+          "text": "Chọn nhân vật nữ thì người chơi được gọi \"chị\", Yui gọi \"mẹ\"; nhân vật nam giữ \"anh\", \"ba\"."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy để game ở English."
+        }
+      ],
+      "done": [
+        "Toàn bộ cốt truyện chính, sự kiện, thoại đồng đội, hẹn hò",
+        "Mô tả vật phẩm, kỹ năng, nhiệm vụ, hướng dẫn",
+        "Giao diện, menu, phụ đề phim cutscene",
+        "Phông chữ có đủ dấu tiếng Việt"
+      ],
+      "kept": [
+        "Tên nhân vật, kỹ năng, vật phẩm, quái, địa danh",
+        "Phụ đề phim cutscene luôn xưng \"anh\" (không đổi theo giới tính)"
+      ],
+      "changelog": "v1: bản đầu tiên, dịch 100% cốt truyện, giao diện và phụ đề cutscene; xưng hô đổi theo giới tính nhân vật. Cần update 1.0.1.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.7,
+      "sha256": "baddd9b6f35b9fccd147ceb6dca0360bee8ed5b0de5b5ba88ef223dd381494b8",
+      "size": 6268070,
+      "cd": "42cd706cd2c40a14f48211e829d511ef19afd2aaddd7fcea75388369dd0cd2ce",
+      "fh": [
+        "49157fcee9acfef3e033c4bd37318a5d",
+        "2532cabc44b28393ee0e3abf75e6a32a",
+        "95878144000203fb8dc33ea112518eda",
+        "d43fb9c591f33cbf26066ebb87eff268"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SAO_VietHoa_full_v3.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sao-hollow-realization_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sao-hollow-realization_bg.jpg"
+    },
+    {
       "id": "sesame-street-friends-and-fun",
       "title_id": "0100B8B027164000",
       "name": "Sesame Street: Friends and Fun",
@@ -13689,7 +13750,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795516201,
+  "seq": 1795622082,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
