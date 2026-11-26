@@ -8592,6 +8592,64 @@
       "mirrors": []
     },
     {
+      "id": "mario-kart-8-deluxe",
+      "title_id": "0100152000022000",
+      "name": "Mario Kart 8 Deluxe",
+      "mod_version": "v1",
+      "game_version": "4.0.1",
+      "tagline": "Đua kart cùng Mario và hội bạn trên hơn 90 đường đua, chơi đơn, chơi chung hay đấu trực tuyến.",
+      "developer": "Nintendo",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Đua xe",
+        "Nhiều người chơi",
+        "Gia đình"
+      ],
+      "description": [
+        "Mario Kart 8 Deluxe là game đua kart của Nintendo: chọn nhân vật, ráp xe, bánh, dù lượn rồi lao vào Grand Prix, Đua tính giờ, Đua VS hay các chế độ Đối kháng. Chơi một mình, chia màn hình với bạn bè, chơi không dây hoặc trực tuyến với người khắp thế giới.",
+        "Bản Việt hoá dịch toàn bộ giao diện: menu, tuỳ chọn, chơi mạng, giải đấu, bóng ma, Mario Kart TV, thông báo trong đua, câu chat nhanh, tên quốc gia, kèm font tiếng Việt đầy đủ dấu cho chữ menu và chữ tiêu đề lớn."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh (cả máy vùng Mỹ lẫn châu Âu): để ngôn ngữ hệ thống là English."
+        },
+        {
+          "title": "Cần bản cập nhật 4.0.1",
+          "text": "Bản Việt hoá làm trên bản cập nhật 4.0.1. Bản cập nhật khác có thể giữ tiếng Anh hoặc lỗi."
+        }
+      ],
+      "done": [
+        "Toàn bộ menu, tuỳ chọn, hướng dẫn, cảnh báo",
+        "Chơi mạng, giải đấu, bóng ma, Mario Kart TV",
+        "Thông báo trong đua, câu chat nhanh, tên quốc gia",
+        "Font tiếng Việt cho chữ menu và chữ tiêu đề lớn"
+      ],
+      "kept": [
+        "Tên nhân vật, xe, bánh, dù lượn, vật phẩm (giữ tiếng Anh)",
+        "Tên cúp, đường đua, chế độ đối kháng (giữ tiếng Anh)",
+        "Chữ nằm trong ảnh (GO, FINISH, CONGRATULATIONS...)",
+        "Chữ dùng font hệ thống của máy (danh sách người chơi, một số cửa sổ online)"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100% giao diện.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "sha256": "0193b0c14b6628131ac5dc6561e9030b1cefde2c38c8c59cdb0f27f9e72d0cb3",
+      "size": 2361066,
+      "cd": "6b8b48def7a48df6ad3ac559b73f96fc31c2518dccd1750a792ec5bdf7a5c8bd",
+      "fh": [
+        "b0701c91974b4071d116967e5440bfa8",
+        "0b6103688ac0d07f64a8de7190de0b19",
+        "556d09f7523fd9589aaaeb11b5012414",
+        "0b6103688ac0d07f64a8de7190de0b19",
+        "65c0963d1ebf47c98bf91e107531ba0b"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MK8D_VietHoa_full_v2.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_bg.jpg"
+    },
+    {
       "id": "mario-sonic-olympic",
       "title_id": "010003000E146000",
       "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
@@ -11412,9 +11470,9 @@
         "d43fb9c591f33cbf26066ebb87eff268"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SAO_VietHoa_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sao-hollow-realization_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sao-hollow-realization_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/sao-hollow-realization_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "sesame-street-friends-and-fun",
@@ -13750,7 +13808,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795622082,
+  "seq": 1795667856,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
