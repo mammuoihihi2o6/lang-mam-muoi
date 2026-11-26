@@ -8595,7 +8595,7 @@
       "id": "mario-kart-8-deluxe",
       "title_id": "0100152000022000",
       "name": "Mario Kart 8 Deluxe",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "4.0.1",
       "tagline": "Đua kart cùng Mario và hội bạn trên hơn 90 đường đua, chơi đơn, chơi chung hay đấu trực tuyến.",
       "developer": "Nintendo",
@@ -8631,20 +8631,20 @@
         "Chữ nằm trong ảnh (GO, FINISH, CONGRATULATIONS...)",
         "Chữ dùng font hệ thống của máy (danh sách người chơi, một số cửa sổ online)"
       ],
-      "changelog": "v1: bản đầu tiên trên app, dịch 100% giao diện.",
+      "changelog": "v2: sửa lỗi bảng xếp hạng hiện chữ ỵ ỹ ỷ ỳ thay cho hạng 6–9, cùng các dấu : ; = ? ~ trong một số màn hình.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
-      "sha256": "0193b0c14b6628131ac5dc6561e9030b1cefde2c38c8c59cdb0f27f9e72d0cb3",
-      "size": 2361066,
-      "cd": "6b8b48def7a48df6ad3ac559b73f96fc31c2518dccd1750a792ec5bdf7a5c8bd",
+      "sha256": "b11c512399755e74bad726fc28c19d101dc61d7273c83b8ffef6c7773041f85e",
+      "size": 2359914,
+      "cd": "e485d1a671e32bc571d75482a8e5d4ec81d1b9e4424dc17b2d21d9cce7256b7c",
       "fh": [
         "b0701c91974b4071d116967e5440bfa8",
-        "0b6103688ac0d07f64a8de7190de0b19",
+        "f3d47cb56993b2a8a0f34fedcb14dab1",
         "556d09f7523fd9589aaaeb11b5012414",
-        "0b6103688ac0d07f64a8de7190de0b19",
+        "f3d47cb56993b2a8a0f34fedcb14dab1",
         "65c0963d1ebf47c98bf91e107531ba0b"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MK8D_VietHoa_full_v2.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MK8D_VietHoa_full_v3.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_bg.jpg"
@@ -13808,7 +13808,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795667856,
+  "seq": 1795699733,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
