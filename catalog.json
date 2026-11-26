@@ -8645,9 +8645,9 @@
         "65c0963d1ebf47c98bf91e107531ba0b"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/MK8D_VietHoa_full_v3.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/mario-kart-8-deluxe_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "mario-sonic-olympic",
@@ -13431,6 +13431,64 @@
       "mirrors": []
     },
     {
+      "id": "xenoblade-chronicles-3",
+      "title_id": "010074F013262000",
+      "name": "Xenoblade Chronicles 3",
+      "mod_version": "v1",
+      "game_version": "Update 3.0.0 + DLC Wave 1-4",
+      "tagline": "Hai phe Keves và Agnus đánh nhau không hồi kết, mỗi người chỉ sống mười kỳ, cho tới khi sáu người lính hai bên buộc phải đi cùng nhau.",
+      "developer": "Monolith Soft",
+      "release": "29/07/2022",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Nhập vai",
+        "Thế giới mở",
+        "Cốt truyện",
+        "Hành động"
+      ],
+      "description": [
+        "Xenoblade Chronicles 3 là game nhập vai thế giới mở của Monolith Soft. Ở Aionios, hai quốc gia Keves và Agnus đánh nhau triền miên; binh lính sinh ra đã ở tuổi mười, chiến đấu để giữ Đồng hồ Lửa của thuộc địa cháy sáng, và chỉ sống đủ mười kỳ. Noah, Eunie, Lanz bên Keves cùng Mio, Taion, Sena bên Agnus bị cuốn vào một biến cố, trở thành Ouroboros và bị chính hai phe săn đuổi.",
+        "Bản Việt hoá dịch cốt truyện chính, nhiệm vụ phụ, hội thoại NPC, mô tả, hướng dẫn và giao diện của game gốc lẫn 4 đợt DLC (gồm Future Redeemed), kèm phông chữ có đủ dấu. Gói chỉ khoảng 7 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
+      ],
+      "highlights": [
+        {
+          "title": "Cần bản 3.0.0 + DLC Wave 1-4",
+          "text": "Cài update 3.0.0 (v786432) và đủ 4 đợt DLC Expansion Pass trước khi cài Việt hoá. Bản khác có thể treo hoặc văng game."
+        },
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh, hãy để game ở English."
+        }
+      ],
+      "done": [
+        "Cốt truyện chính, Future Redeemed và các DLC",
+        "Nhiệm vụ phụ, hội thoại NPC, Hero Quest",
+        "Mô tả, hướng dẫn chiến đấu, giao diện",
+        "Phông chữ có đủ dấu tiếng Việt"
+      ],
+      "kept": [
+        "Tên nhân vật, Arts, Talent Art, vật phẩm, phụ kiện, quái",
+        "Tên lớp, địa danh, tiêu đề nhiệm vụ"
+      ],
+      "changelog": "v1: bản đầu tiên, dịch 100% game gốc và 4 đợt DLC. Cần update 3.0.0 + DLC Wave 1-4.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.35,
+      "sha256": "781e9c76e8054b970f40a5d2abcd92407b1f7155cb9c3191d323a037300ca3a7",
+      "size": 6837359,
+      "cd": "dd88cda5a9de2bd5065602dc32d479ec38a0feddd3568beb012b7107af7e4066",
+      "fh": [
+        "52c9ab258520fb510d88610d982cae13",
+        "77bb4eb0a5c1d32d28cecf34fff5a916",
+        "87ae40dac1526034c1613d4504a1b58c",
+        "1a55076ebb454e1e1b163f45303d1295",
+        "7a027ab424bb242a69c398b0cd8adea5"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/XC3_VietHoa_full_v4.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_bg.jpg"
+    },
+    {
       "id": "yomawari",
       "title_id": "01005FD0182A2000",
       "name": "Yomawari: Lost in the Dark",
@@ -13808,7 +13866,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795699733,
+  "seq": 1795706587,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
