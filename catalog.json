@@ -13434,7 +13434,7 @@
       "id": "xenoblade-chronicles-3",
       "title_id": "010074F013262000",
       "name": "Xenoblade Chronicles 3",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "Update 3.0.0 + DLC Wave 1-4",
       "tagline": "Hai phe Keves và Agnus đánh nhau không hồi kết, mỗi người chỉ sống mười kỳ, cho tới khi sáu người lính hai bên buộc phải đi cùng nhau.",
       "developer": "Monolith Soft",
@@ -13470,20 +13470,20 @@
         "Tên nhân vật, Arts, Talent Art, vật phẩm, phụ kiện, quái",
         "Tên lớp, địa danh, tiêu đề nhiệm vụ"
       ],
-      "changelog": "v1: bản đầu tiên, dịch 100% game gốc và 4 đợt DLC. Cần update 3.0.0 + DLC Wave 1-4.",
+      "changelog": "v2: phông chữ mới Nunito Sans vẽ trọn bộ chữ cái, dấu tiếng Việt đều nét và dễ đọc hơn. Cần update 3.0.0 + DLC Wave 1-4.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.35,
-      "sha256": "781e9c76e8054b970f40a5d2abcd92407b1f7155cb9c3191d323a037300ca3a7",
-      "size": 6837359,
-      "cd": "dd88cda5a9de2bd5065602dc32d479ec38a0feddd3568beb012b7107af7e4066",
+      "sha256": "f8e9dfddbeaac03c4887e3aecc93a828a5079d3f0bae288cd0944b44e863501b",
+      "size": 6837926,
+      "cd": "c1e36b1cc8bd6ed62378a62467da74ec76069514914e555d45a2040f2de7eece",
       "fh": [
         "52c9ab258520fb510d88610d982cae13",
         "77bb4eb0a5c1d32d28cecf34fff5a916",
         "87ae40dac1526034c1613d4504a1b58c",
-        "1a55076ebb454e1e1b163f45303d1295",
+        "bf92cef52a6c8696adc0f83305939b60",
         "7a027ab424bb242a69c398b0cd8adea5"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/XC3_VietHoa_full_v4.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/XC3_VietHoa_full_v5.zip",
       "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_cover.jpg",
       "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_bg.jpg"
@@ -13866,7 +13866,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795706587,
+  "seq": 1795707572,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
