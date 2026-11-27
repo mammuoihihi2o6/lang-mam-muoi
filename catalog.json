@@ -7239,9 +7239,9 @@
         "d42b4376273d8f1f13f1db34069e1343"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GRIME_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "grizzy-and-the-lemmings-crazy-party",
@@ -11766,8 +11766,8 @@
       "id": "silverpines",
       "title_id": "0100D5B026844000",
       "name": "Silver Pines",
-      "mod_version": "v1",
-      "game_version": "1.0.1",
+      "mod_version": "v2",
+      "game_version": "1.0.2",
       "tagline": "Câu chuyện bí ẩn giữa những rừng thông.",
       "developer": "",
       "release": "",
@@ -11794,15 +11794,15 @@
       "kept": [
         "Một số ảnh môi trường chưa vẽ lại"
       ],
-      "changelog": "Tương thích bản cập nhật 1.0.1.",
+      "changelog": "v2: Tương thích bản cập nhật 1.0.2, dịch thêm các dòng mới của bản này.",
       "credit": "Việt hoá bởi Mammuoihihi.",
-      "sha256": "e4d3f36f0d2f12b9cd3472ca6c24a96d916f0d443a686e4c7742da4bfbf28771",
-      "size": 39168914,
-      "cd": "b4ca0f2380b9e3705d4cbbaca63fe024ce60902919c0a7e8a60a2920136bc445",
+      "sha256": "c0decaebf116f653618110ece9e0bc191e17dacec6fc1ff95c45dbc71b39f61e",
+      "size": 36911128,
+      "cd": "384d6860a3854647c6130d29224bd793c3c6b9cf3dcfc08eda62cb023abf059d",
       "fh": [
         "260e2115c447dbcb24ce9d00a5dce6ef",
-        "d27a7d7bf298f31aaf7bb82d247038b2",
-        "1c83208c6d043daf520fa63a24b765e0",
+        "6c5d68a766ee75cc10355c9d5879742d",
+        "a54c1aff51cffba748069477625ca74d",
         "14e0e1ab808fd97b8a1a91528300daea",
         "9ceb05e2ca9d0a72151efc2131138ff8",
         "693be6b972d08d40d92e429463450a87",
@@ -11811,7 +11811,7 @@
         "e5735bac2c3f468b253614f1a339ae37",
         "bf895e3527655b02ab5c518d6f6dd36c"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SilverPines_VietHoa_full.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/SilverPines_VietHoa_full_v6.zip",
       "mirrors": []
     },
     {
@@ -12709,9 +12709,9 @@
         "52b03929c48ff7dd1f346789ca62dad8"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Tunic_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tunic_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tunic_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tunic_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "unicorn",
@@ -14040,7 +14040,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795758197,
+  "seq": 1795775862,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
