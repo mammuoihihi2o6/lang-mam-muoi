@@ -4253,9 +4253,9 @@
         "f58d80cffc63d1705f8f9824854c29f8"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v5_vhplug.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "dbsz",
@@ -12596,6 +12596,67 @@
       "mirrors": []
     },
     {
+      "id": "tunic",
+      "title_id": "0100DA801624E000",
+      "name": "TUNIC",
+      "mod_version": "v1",
+      "game_version": "update v196608",
+      "tagline": "Một chú cáo nhỏ mặc áo xanh lạc vào thế giới đổ nát đầy bí mật, ghép từng trang sổ hướng dẫn để tìm đường.",
+      "developer": "Andrew Shouldice / Finji",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Phiêu lưu",
+        "Giải đố"
+      ],
+      "description": [
+        "TUNIC là game hành động phiêu lưu kiểu Zelda cổ điển. Bạn vào vai một chú cáo nhỏ tỉnh dậy trên bờ biển lạ, cầm gậy rồi kiếm khám phá khu rừng, hầm ngầm, tàn tích và những ngôi đền bị phong ấn. Không ai giải thích gì cả: mọi manh mối nằm trong những trang sổ hướng dẫn rơi rải khắp thế giới, kiểu sách đi kèm băng game thập niên 90.",
+        "Bản Việt hoá dịch toàn bộ chữ Latin của game: sổ hướng dẫn, truyền thuyết, mô tả quái và vật phẩm, menu, tuỳ chọn, mô tả thành tựu, credits và thư của nhà làm game. Font được thay trọn bộ bằng font có sẵn tiếng Việt cùng dáng với font gốc (Quicksand, EB Garamond, IBM Plex Mono)."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: chọn ngôn ngữ English trong Tuỳ chọn (mục này sẽ hiện là \"Tiếng Việt\")."
+        },
+        {
+          "title": "Cần bản cập nhật",
+          "text": "Bản Việt hoá làm trên bản cập nhật v196608 của game. Bản khác có thể giữ tiếng Anh hoặc lỗi."
+        },
+        {
+          "title": "Chữ Trunic giữ nguyên",
+          "text": "Chữ ký hiệu trong lời NPC, biển báo và sổ hướng dẫn là câu đố chính của game (mật mã ghi âm tiếng Anh) nên giữ nguyên như mọi bản ngôn ngữ chính thức."
+        }
+      ],
+      "done": [
+        "Toàn bộ chữ Latin trong Sổ Hướng Dẫn, trang Câu Chuyện, thư của nhà làm game",
+        "Mô tả quái, vật phẩm, ghi chú viết tay",
+        "Menu, tuỳ chọn, điều khiển, dữ liệu lưu, màn hình kết thúc, credits",
+        "Font tiếng Việt thay trọn bộ cho cả 3 kiểu chữ của game"
+      ],
+      "kept": [
+        "Tên vùng, boss, quái, vật phẩm, card (giữ tiếng Anh để dễ tra wiki)",
+        "Tên thành tựu, Holy Cross, Golden Path, chỉ số ATT/DEF/HP/MP/SP",
+        "Chữ Trunic (cố ý không dịch)"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.3,
+      "sha256": "97fb38f4801a6679209929fb0f0b88551adf628bed7cc8372bb09b59e5e7b685",
+      "size": 3605082,
+      "cd": "4b9b00ae212e97aa3bf8438cf841aa35b208f38149166276096b0df4657ed585",
+      "fh": [
+        "0a0725bc1c9b18fcc8cda924ed1a8ff0",
+        "f863033bd675731fdc6da1cc13bed064",
+        "e4ca47fcaf0d02770fe994a6c315922f",
+        "8b795c72540db60909dddd6e82d7063c",
+        "52b03929c48ff7dd1f346789ca62dad8"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Tunic_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tunic_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/tunic_bg.jpg"
+    },
+    {
       "id": "unicorn",
       "title_id": "010069401ADB8000",
       "name": "Unicorn Overlord",
@@ -13922,7 +13983,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795754779,
+  "seq": 1795758003,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
