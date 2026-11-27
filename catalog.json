@@ -4202,7 +4202,7 @@
       "id": "darkwood",
       "title_id": "010033500B7B6000",
       "name": "Darkwood",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "Update 1.0.5",
       "tagline": "Ban ngày lục lọi khu rừng để sinh tồn, ban đêm cố thủ trong căn chòi và cầu cho trời mau sáng.",
       "developer": "Acid Wizard Studio",
@@ -4216,7 +4216,7 @@
       ],
       "description": [
         "Darkwood là game kinh dị sinh tồn góc nhìn từ trên xuống, lấy bối cảnh một khu rừng kỳ dị ở vùng đất Đông Âu thời Xô Viết. Khu rừng mọc lên vây kín cả vùng, cắt đứt dân làng khỏi thế giới bên ngoài. Ban ngày bạn đi nhặt nhạnh, chế tạo và gặp những cư dân quái gở; ban đêm phải chặn cửa, thắp đèn và cầm cự tới sáng.",
-        "Bản Việt hoá dịch toàn bộ thoại, nhật ký, ghi chú, mô tả vật phẩm, giao diện, phụ đề mở đầu và nút menu chính, kèm phông chữ có đủ dấu. Gói chỉ khoảng 2,6 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
+        "Bản Việt hoá dịch toàn bộ thoại, nhật ký, ghi chú, mô tả vật phẩm, giao diện, phụ đề mở đầu và nút menu chính, kèm phông chữ có đủ dấu. Gói chỉ khoảng 2,4 MB nhờ plugin ghép phần dịch vào file gốc của game lúc chạy."
       ],
       "highlights": [
         {
@@ -4238,24 +4238,24 @@
         "Tên vật phẩm, kỹ năng, hiệu ứng, tên vùng và địa điểm trên bản đồ",
         "Tên quái vật, tiêu đề nhật ký"
       ],
-      "changelog": "v1: dịch phụ đề cutscene mở đầu (bản trước còn tiếng Anh). Bản đầy đủ: dịch 100% thoại, giao diện, nút menu chính. Cần update 1.0.5.",
+      "changelog": "v2: sửa lỗi treo game ở cutscene mở đầu (phông phụ đề thiếu chữ Việt), plugin gọn nhẹ hơn. Cần update 1.0.5.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.7,
-      "sha256": "46c46235aa69d3639849db82769a3e629050f19e9b30fc83e2a0bb157129357e",
-      "size": 2739836,
-      "cd": "0689ff8a96d085bfe72ad3a581c986b7e6d13022da4e2c7bb4667c2847e82a0b",
+      "sha256": "326cc3eb47f67d9bc36d8f6a577f9cfc65300c4abe8c39878b6f2335792a5863",
+      "size": 2478986,
+      "cd": "106cde36192ee954523c92dda555fa478a357c50c8a72b4a5c03e7b0ddd6762f",
       "fh": [
-        "91ee6efe41aeb02d989c11e1bc32eee4",
+        "b0f4884541c50977e91919b83289f3ce",
         "15bffae3b9aa331b94f13c08e8916b42",
-        "c68fb5642992a9da6293af44b98956b7",
+        "e4ca47fcaf0d02770fe994a6c315922f",
         "19d374657e637ee47f43bb28a3a6b136",
-        "2b0e42b80dddf260ed13cc7f2f060e05",
-        "7a89244af72ca8f76822a4ffee506890"
+        "4fdf7fa79e195873e80bdabcc80d2631",
+        "f58d80cffc63d1705f8f9824854c29f8"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v4_vhplug.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Darkwood_VietHoa_full_v5_vhplug.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/darkwood_bg.jpg"
     },
     {
       "id": "dbsz",
@@ -7182,9 +7182,9 @@
         "19831de4bc2cdbcab1ec38d90310dc4e"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GRIMEII_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime-ii_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime-ii_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime-ii_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "grizzy-and-the-lemmings-crazy-party",
@@ -13922,7 +13922,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795748385,
+  "seq": 1795754779,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
