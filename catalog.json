@@ -7131,6 +7131,62 @@
       "mirrors": []
     },
     {
+      "id": "grime-ii",
+      "title_id": "010003402954C000",
+      "name": "GRIME II",
+      "mod_version": "v1",
+      "game_version": "bản gốc v0",
+      "tagline": "Một thân xác vô diện mang trong mình cơn đói nuốt cả thế giới, lang thang giữa những sinh vật được nặn từ đất sét, đá và sứ.",
+      "developer": "Clover Bite / Kwalee",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Metroidvania",
+        "Souls-like"
+      ],
+      "description": [
+        "GRIME II là metroidvania hành động kinh dị siêu thực. Bạn là Lòng Trắng, một thân xác vô diện tỉnh dậy giữa thế giới của các Smithed, những sinh vật được nặn ra và sống nhờ Hơi Thở. Bên trong bạn là Lòng Đỏ, cơn đói săn mồi muốn nuốt trọn mọi thứ. Theo Manzil truy lùng quái vật Goel, đánh bại kẻ thù, hấp thụ hình dạng của chúng, và quyết định mình sẽ ăn tới đâu.",
+        "Bản Việt hoá dịch toàn bộ lời thoại, giao diện, hướng dẫn, mô tả vật phẩm và Bestiary, kèm font tiếng Việt đầy đủ dấu dựng lại từ chính font gốc của game."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: chọn ngôn ngữ English trong Cài đặt."
+        },
+        {
+          "title": "Làm trên bản gốc",
+          "text": "Bản Việt hoá làm trên bản gốc v0 của game. Bản cập nhật khác có thể giữ tiếng Anh."
+        }
+      ],
+      "done": [
+        "Toàn bộ lời thoại, các đoạn ký ức, các kết thúc",
+        "Giao diện, menu, cài đặt, hướng dẫn, mục tiêu",
+        "Mô tả vật phẩm, vũ khí, trang bị, Bestiary",
+        "Font tiếng Việt cho menu, khung thoại, giao diện"
+      ],
+      "kept": [
+        "Tên nhân vật, địa danh, khu vực (giữ tiếng Anh)",
+        "Tên vật phẩm, vũ khí, trang bị, quái vật, chủng loài và cơ chế (Force, Grasp, Parry, Molds…)",
+        "Chữ nằm trong ảnh (logo)"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.5,
+      "sha256": "9d5325c058f63f150854c38b6ea8050389a13bda294cd9ff52ccc2d3c5aec1db",
+      "size": 3593849,
+      "cd": "2ca14a147d8f39c62dfdef7a1620b09569640fb16d6af4a13a56849b69e6b816",
+      "fh": [
+        "ece6fe3a7711f5acba1155ec8ac39eb5",
+        "e4ca47fcaf0d02770fe994a6c315922f",
+        "9735cb9fe41fd66bb20ef60a67627b45",
+        "19831de4bc2cdbcab1ec38d90310dc4e"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GRIMEII_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime-ii_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime-ii_bg.jpg"
+    },
+    {
       "id": "grizzy-and-the-lemmings-crazy-party",
       "title_id": "0100DFA027504000",
       "name": "Grizzy and the Lemmings – Crazy Party",
@@ -13484,9 +13540,9 @@
         "7a027ab424bb242a69c398b0cd8adea5"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/XC3_VietHoa_full_v5.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/xenoblade-chronicles-3_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "yomawari",
@@ -13866,7 +13922,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795707572,
+  "seq": 1795748385,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
