@@ -7187,6 +7187,63 @@
       "mirrors": []
     },
     {
+      "id": "grime",
+      "title_id": "0100F300169B6000",
+      "name": "GRIME Definitive Edition",
+      "mod_version": "v1",
+      "game_version": "bản cập nhật v458752",
+      "tagline": "Một sinh thể mang hố đen thay cho cái đầu, nuốt chửng kẻ thù giữa thế giới hình thành từ xác của Đấng Sinh Thành.",
+      "developer": "Clover Bite / Akupara Games",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Metroidvania",
+        "Souls-like"
+      ],
+      "description": [
+        "GRIME là metroidvania hành động kinh dị siêu thực. Bạn là Thân Xác, một sinh thể có cái đầu là hố đen xoắn ốc, tỉnh dậy trong thế giới đá và xác thịt sống nhờ Hơi Thở. Absorb đòn đánh, nghiền nát Con Mồi để lớn mạnh, gặp Shidra of the Worldpillar, giáo hội Carven sùng bái tỉ lệ hoàn hảo và giáo phái Coda đang chờ Buổi Diễn Cuối Cùng của Kẻ Ban Hồi Kết.",
+        "Bản Việt hoá dịch toàn bộ lời thoại, giao diện, hướng dẫn, mô tả vật phẩm, vũ khí, giáp và Bestiary, kèm cả 4 bản cập nhật lớn (Colors of Rot, Tinge of Terror, Parting Shade)."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: chọn ngôn ngữ English trong Cài đặt."
+        },
+        {
+          "title": "Cần bản cập nhật v458752",
+          "text": "Bản Việt hoá làm trên bản cập nhật v458752 của game. Bản khác có thể giữ tiếng Anh."
+        }
+      ],
+      "done": [
+        "Toàn bộ lời thoại NPC, các đoạn ký ức, Memory Droplet",
+        "Giao diện, menu, cài đặt, hướng dẫn, Trait",
+        "Mô tả vật phẩm, vũ khí, giáp, Bestiary",
+        "Nội dung các bản cập nhật lớn và NG+"
+      ],
+      "kept": [
+        "Tên nhân vật, địa danh, khu vực (giữ tiếng Anh)",
+        "Tên vật phẩm, vũ khí, giáp, quái vật, chủng loài và cơ chế (Absorb, Force, Ardor, Surrogate…)",
+        "Chữ nằm trong ảnh (logo)"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "sha256": "fe7b127efefad2a83d19349ced2d06906e27a9174a277a68809aaaab77be7e31",
+      "size": 715186,
+      "cd": "c3c6201aab67d94822ab64a8e20ae2b65945b16f90501416cb87b395aa90d273",
+      "fh": [
+        "0cc822f456b802eb5f947450cc9c00c9",
+        "99dfade332f59b0aef10eedfec9a6b04",
+        "e4ca47fcaf0d02770fe994a6c315922f",
+        "079add85ca0c7e4eb466771c0ce995ea",
+        "d42b4376273d8f1f13f1db34069e1343"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/GRIME_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/grime_bg.jpg"
+    },
+    {
       "id": "grizzy-and-the-lemmings-crazy-party",
       "title_id": "0100DFA027504000",
       "name": "Grizzy and the Lemmings – Crazy Party",
@@ -13983,7 +14040,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795758003,
+  "seq": 1795758197,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
