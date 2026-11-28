@@ -4356,9 +4356,9 @@
         "07bac8cfabb61f8f833e744435bcf736"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DBZK_VietHoa_full_v1.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbz-kakarot_cover.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbz-kakarot_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbz-kakarot_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "deep-rock-galactic-survivor",
@@ -12770,7 +12770,7 @@
       "id": "unicorn",
       "title_id": "010069401ADB8000",
       "name": "Unicorn Overlord",
-      "mod_version": "v1",
+      "mod_version": "v2",
       "game_version": "1.05",
       "tagline": "Hoàng tử lưu vong tập hợp quân Giải Phóng, giành lại lục địa.",
       "developer": "Vanillaware, Atlus",
@@ -12803,19 +12803,19 @@
         "Tên kỹ năng, vật phẩm và trang bị",
         "Phần staff credit"
       ],
-      "changelog": "Tương thích bản cập nhật 1.05.",
+      "changelog": "v2: Sửa lỗi font, chữ Việt hiện sai ký tự (æ, €, Ÿ) khi chưa có font của bản cũ. Gói nay đã kèm font.",
       "credit": "Việt hoá bởi Làng Mắm Muối.",
       "cover_focus": 0.0,
-      "sha256": "b225b0ac1739aa74382042bedbf5df9cf33de90e97b2659e91a33539f93dc42b",
-      "size": 4123062,
-      "cd": "9e256aaec98e75d30b0a49844092cc8c8ffbd1c7574a51117c17c0283269fb1d",
+      "sha256": "cbc9d2b0b2802888cd7a78b1c66a09f37e7bf44c2f54b1ea3b5ba2e3f52f752f",
+      "size": 5121596,
+      "cd": "2dedab9b686f844d037a6649acfd7c56b966650b555cc17b0679cbd987cefaa8",
       "fh": [
-        "ee61693392684af0e143b5d5ecbcc363"
+        "f53a637101de9a0998f2e76b05b7a22f"
       ],
-      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UnicornOverl_VietHoa_test23.zip",
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UnicornOverl_VietHoa_test24.zip",
+      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_cover.93570fb1.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg",
-      "mirrors": []
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg"
     },
     {
       "id": "unravel-two",
@@ -14093,7 +14093,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795831993,
+  "seq": 1795836323,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
