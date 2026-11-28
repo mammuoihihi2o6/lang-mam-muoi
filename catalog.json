@@ -4308,6 +4308,59 @@
       "mirrors": []
     },
     {
+      "id": "dbz-kakarot",
+      "title_id": "010051C0134F8000",
+      "name": "DRAGON BALL Z: KAKAROT",
+      "mod_version": "v1",
+      "game_version": "bản cập nhật v1.70",
+      "tagline": "Sống lại hành trình của Goku từ trận đấu với Raditz tới Majin Buu, cùng các câu chuyện DLC và DAIMA.",
+      "developer": "CyberConnect2 / Bandai Namco",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Hành động",
+        "Nhập vai",
+        "Thế giới mở"
+      ],
+      "description": [
+        "DRAGON BALL Z: KAKAROT là game nhập vai hành động kể lại toàn bộ Dragon Ball Z qua góc nhìn của Goku và các Chiến Binh Z: từ Saiyan, Frieza, Android, Cell tới Majin Buu. Bay khắp thế giới mở, câu cá, săn khủng long, nấu ăn, kết bạn qua Community Board, đua xe và chiến đấu với những đối thủ huyền thoại.",
+        "Bản Việt hoá dịch toàn bộ lời thoại cốt truyện, nhiệm vụ phụ, thoại trận đấu, giao diện, hướng dẫn và mô tả, kèm nội dung DLC (A New Power Awakens, Trunks, Bardock, Đại Hội Võ Thuật Lần Thứ 23, DAIMA) có trong bản cập nhật v1.70. Font chữ thay trọn bộ để hiện đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: để ngôn ngữ máy/game là English."
+        },
+        {
+          "title": "Cần bản cập nhật v1.70",
+          "text": "Bản Việt hoá làm trên bản cập nhật v1.70 của game. Bản khác có thể giữ tiếng Anh hoặc lỗi chữ."
+        }
+      ],
+      "done": [
+        "Toàn bộ lời thoại cốt truyện, cutscene, thoại trong trận",
+        "Nhiệm vụ phụ, Community Board, đua xe, câu chuyện các nhân vật",
+        "Giao diện, menu, hướng dẫn, mô tả vật phẩm và kỹ năng",
+        "Nội dung DLC và DAIMA có trong bản cập nhật v1.70"
+      ],
+      "kept": [
+        "Tên nhân vật, tên chương và nhiệm vụ (giữ tiếng Anh)",
+        "Tên vật phẩm và kỹ năng bị động (trừ Ngọc Rồng, Đậu Thần)",
+        "Chữ nằm trong ảnh, phụ đề phim (game không có chữ trong phim)"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "sha256": "79bd5af2f189d544bb64fa522aadda78c402ac1a7b2e6a4f1a06889ea76e19f9",
+      "size": 8564948,
+      "cd": "8a7bc826ff74bd70c55617756b2d1694d29f8b9c370c859d31c6f64602913598",
+      "fh": [
+        "07bac8cfabb61f8f833e744435bcf736"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DBZK_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbz-kakarot_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dbz-kakarot_bg.jpg"
+    },
+    {
       "id": "deep-rock-galactic-survivor",
       "title_id": "01003EC027CC8000",
       "name": "Deep Rock Galactic: Survivor",
@@ -14040,7 +14093,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795775862,
+  "seq": 1795831993,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
