@@ -5018,6 +5018,65 @@
       "mirrors": []
     },
     {
+      "id": "dragon-ball-fighterz",
+      "title_id": "0100A250097F0000",
+      "name": "DRAGON BALL FighterZ",
+      "mod_version": "v1",
+      "game_version": "bản cập nhật v1.50",
+      "tagline": "Game đối kháng 3 đấu 3 của Arc System Works, cùng chế độ cốt truyện về Android 21 và Linked Soul.",
+      "developer": "Arc System Works / Bandai Namco",
+      "translator": "Mammuoihihi",
+      "tags": [
+        "Đối kháng",
+        "Hành động"
+      ],
+      "description": [
+        "DRAGON BALL FighterZ là game đối kháng đồng đội 3 đấu 3 với nét vẽ anime của Arc System Works: Goku, Vegeta, Frieza, Cell, Android 21 cùng dàn nhân vật Dragon Ball Z và Super. Chế độ cốt truyện kể về Android 21, bản sao của các chiến binh và một linh hồn bí ẩn liên kết vào cơ thể họ.",
+        "Bản Việt hoá dịch toàn bộ chế độ cốt truyện (3 arc chính và các đoạn hội thoại phụ), giao diện, menu, hướng dẫn, mô tả, sảnh trực tuyến và nội dung DLC có trong bản cập nhật v1.50. Font chữ thay trọn bộ để hiện đủ dấu tiếng Việt."
+      ],
+      "highlights": [
+        {
+          "title": "Để ngôn ngữ English",
+          "text": "Tiếng Việt thay vào chỗ tiếng Anh: để ngôn ngữ máy/game là English."
+        },
+        {
+          "title": "Cần bản cập nhật v1.50",
+          "text": "Bản Việt hoá làm trên bản cập nhật v1.50 của game. Bản khác có thể giữ tiếng Anh hoặc lỗi chữ."
+        }
+      ],
+      "done": [
+        "Toàn bộ chế độ cốt truyện: Super Warrior, Enemy Warrior, Android 21 và hội thoại phụ",
+        "Giao diện, menu, hướng dẫn, chế độ luyện tập và thử thách",
+        "Sảnh trực tuyến, nhiệm vụ sảnh, cửa hàng, mô tả vật phẩm",
+        "Nội dung DLC có trong bản cập nhật v1.50"
+      ],
+      "kept": [
+        "Tên nhân vật, tên chiêu thức (giữ tiếng Anh)",
+        "Tên nhiệm vụ sảnh, tên luật giải đấu, danh hiệu, tên cúp",
+        "Chữ nằm trong ảnh"
+      ],
+      "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
+      "credit": "Việt hoá bởi Mammuoihihi.",
+      "cover_focus": 0.0,
+      "stats": {
+        "lines": 28029,
+        "kept": 3880,
+        "total": 0,
+        "chars": 1304675
+      },
+      "sha256": "321a62cfeb680bc8e467289d692ff54a53201018ba2d0a0edef7f113f679b66b",
+      "size": 12724824,
+      "cd": "125201ce70fd666b803821ebafd6960df42ea8c5220cf3fcd0ba7affec1d0142",
+      "fh": [
+        "363984369ffaa8821e6a6fb4fc89ed41",
+        "a3fe1fca87c457aa67e794412afac629"
+      ],
+      "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/DBFZ_VietHoa_full_v1.zip",
+      "mirrors": [],
+      "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dragon-ball-fighterz_cover.jpg",
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/dragon-ball-fighterz_bg.jpg"
+    },
+    {
       "id": "dst",
       "title_id": "010090100E334000",
       "name": "Don't Starve Together",
@@ -14278,7 +14337,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795837504,
+  "seq": 1795853430,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
