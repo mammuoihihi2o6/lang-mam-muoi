@@ -1,13 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "build": 43,
-    "version": "M11",
-    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M11.nro",
-    "sha256": "7ce767a2637bbd311317abb1dc5fe2fd5996292af47876c149e60bb7ad3d37c2",
+    "build": 44,
+    "version": "M12",
+    "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/Mammuoihihi_M12.nro",
+    "sha256": "e530f5d4d07e18f339a3e17174828410d2d45d6370770cd9f6c5c78c11ccf8fe",
     "size": 12978848,
-    "notes": "Bản cập nhật bắt buộc.\n• Hết thông báo \"có bản Việt hoá mới → v1\" mỗi lần mở app (chỉ là đổi tên phiên bản). Bản Việt hoá mới thật chỉ báo một lần, vẫn có nhãn Cập nhật trong thư viện.\n• Sửa lỗi tải đi tải lại mãi không cài được (Batman: Arkham Knight): gói trên máy chủ không khớp danh sách thì báo ngay, không tải lại cả tệp.\n• Cập nhật ứng dụng tải bằng nhiều kết nối song song và tạm dừng mọi việc khác (cài/gỡ, tải ảnh) để nhanh nhất.",
-    "required": true
+    "notes": "• Màn chi tiết bản Việt hoá có mục mới \"Phạm Vi Bản Dịch\": số câu đã dịch, số câu giữ nguyên tiếng Anh, số chữ tiếng Việt.\n• Hiện rõ danh sách nội dung đã dịch và những gì giữ nguyên (tên riêng, tên chiêu, vật phẩm...)."
   },
   "mods": [
     {
@@ -3137,6 +3136,12 @@
       "changelog": "v1: bản đầy đủ đầu tiên. Trong game chọn ngôn ngữ TIẾNG VIỆT (ô English cũ). Chưa thử trên máy thật.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 7792,
+        "kept": 777,
+        "total": 8569,
+        "chars": 359416
+      },
       "sha256": "e617499a7a165f50b86b0d17b0f8e48eed9b74bb687d7d8480ce8aa21dbcfe87",
       "size": 105019754,
       "cd": "40ae35361e040359570e70c19ec788e657e454a7ae5223ec1310ac9b62f717ae",
@@ -3856,6 +3861,12 @@
       "changelog": "v1: sửa lỗi crash khi vào game trên Switch thật (bản cũ dùng romfs quá tải với Atmosphère); mô tả lãnh tụ DLC hiện tiếng Việt. Ai chép tay bản cũ: xoá thư mục romfs của game trước khi cài.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 1,
+      "stats": {
+        "lines": 35694,
+        "kept": 7963,
+        "total": 43657,
+        "chars": 3942674
+      },
       "sha256": "2236c16776f5eed184f6da29537304de7cef57a05744d96044c98abe6e10a6cb",
       "size": 1823896,
       "cd": "eb8b48b783de17aeb4d241f0aaf7046b2d5f1907369102ecc7d4dd707c063564",
@@ -4008,6 +4019,12 @@
       "changelog": "v1: bản đầy đủ đầu tiên, credit Việt hoá ở menu chính. Trong game chọn ngôn ngữ TIẾNG VIỆT (ô English cũ). Cần bản cập nhật 1.0.1. Chưa thử trên máy thật.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 2097,
+        "kept": 70,
+        "total": 2167,
+        "chars": 89707
+      },
       "sha256": "8e6534495c175e25b38924253160140a6974af0e9b6811670b194ed4b8aabe6b",
       "size": 27114332,
       "cd": "6f681721591fa81a1a5ac9214efe68c7421783169919e6afed06c62faa05690a",
@@ -4102,6 +4119,12 @@
       "changelog": "Bản đầu tiên: dịch 100% game gốc + DLC, font có dấu, phụ đề cutscene tiếng Việt. Cần cập nhật game lên 1.1.0.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.42,
+      "stats": {
+        "lines": 13494,
+        "kept": 8837,
+        "total": 22331,
+        "chars": 739042
+      },
       "sha256": "93c02960b562bc2eb225957cec6bc58e9b611a794cbc3c212f3acccfeb44ba36",
       "size": 35255352,
       "cd": "5899d30c903e27a6a8a34946a8227daf6d464550835c2c86a770f7fdc964a7ab",
@@ -4161,6 +4184,12 @@
       "changelog": "Bản đầu tiên: dịch 100% game gốc + 5 DLC, font có dấu. Cần cập nhật game lên 1.3.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 13048,
+        "kept": 3500,
+        "total": 16548,
+        "chars": 596034
+      },
       "sha256": "037a93ad1d281b83ce4705cfb8af19abb40482b24c44d40577f9d79b90fd1527",
       "size": 782870,
       "cd": "fbb835c6a737e040eb89cb7595beedea98ed8dfe5dccaa389aa265023970fab3",
@@ -4241,6 +4270,12 @@
       "changelog": "v2: sửa lỗi treo game ở cutscene mở đầu (phông phụ đề thiếu chữ Việt), plugin gọn nhẹ hơn. Cần update 1.0.5.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.7,
+      "stats": {
+        "lines": 3596,
+        "kept": 681,
+        "total": 4277,
+        "chars": 188045
+      },
       "sha256": "326cc3eb47f67d9bc36d8f6a577f9cfc65300c4abe8c39878b6f2335792a5863",
       "size": 2478986,
       "cd": "106cde36192ee954523c92dda555fa478a357c50c8a72b4a5c03e7b0ddd6762f",
@@ -4296,6 +4331,12 @@
       "changelog": "Bản full_v2, chưa kiểm tra trên máy thật. Chọn ngôn ngữ English trong game để thấy tiếng Việt.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 51174,
+        "kept": 20591,
+        "total": 71765,
+        "chars": 1915039
+      },
       "sha256": "7133ef0ec3b678bda5c288e936841b651f3006a586f70956b1653a1303b13772",
       "size": 2025533,
       "cd": "7ac2b6b0842f47488ef92a7b8bcb62526e31ae9de2e71b66c0697ddccc97f06f",
@@ -4349,6 +4390,12 @@
       "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 76072,
+        "kept": 11213,
+        "total": 87285,
+        "chars": 3547400
+      },
       "sha256": "79bd5af2f189d544bb64fa522aadda78c402ac1a7b2e6a4f1a06889ea76e19f9",
       "size": 8564948,
       "cd": "8a7bc826ff74bd70c55617756b2d1694d29f8b9c370c859d31c6f64602913598",
@@ -4745,6 +4792,12 @@
       "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.28,
+      "stats": {
+        "lines": 12106,
+        "kept": 500,
+        "total": 12606,
+        "chars": 620945
+      },
       "sha256": "8b23dfa9435d871868b36dfcb1aa656e649d0b3380fd26da23460a2bcf61a1c8",
       "size": 8014000,
       "cd": "16652310e6a894780d785798fb610a76db3ad30df67273c79d71e45a0596fb0d",
@@ -4804,6 +4857,12 @@
       "changelog": "v1: bản đầu tiên, dịch 100% cốt truyện, mô tả và giao diện. Cần update 1.0.4.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.4,
+      "stats": {
+        "lines": 27641,
+        "kept": 5892,
+        "total": 33533,
+        "chars": 1426145
+      },
       "sha256": "9bbfac15bea9b9882157883f518c0fcab90a44c3e1a630a2e7383f1b2461ccc0",
       "size": 5121802,
       "cd": "1d5cb3b123164b5e5676aef9a5b9f458776e2d2f92856acd0688a1dfcdcc5bc9",
@@ -5234,6 +5293,12 @@
       "changelog": "v2: thêm dòng credit Việt hoá ở màn hình chính và cuối phần credit.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 6864,
+        "kept": 1391,
+        "total": 8255,
+        "chars": 459774
+      },
       "sha256": "7f3ae02587f792d16c0fc97ffabc87d928f02c665bdc7f3e54d74c59d43c5ac2",
       "size": 50269283,
       "cd": "a455a2ffd1511017f0fe1acaf74ad43c8ad850352216919f5c0609c02378e9a3",
@@ -6997,6 +7062,12 @@
       "changelog": "v1: Bản nhẹ ~18 MB (trước đây 2 GB): font tiếng Việt nạp bằng plugin, không còn chép đè gói ảnh 2 GB. Dịch đầy đủ, dùng cho bản cập nhật 1.0.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 1.0,
+      "stats": {
+        "lines": 22578,
+        "kept": 532,
+        "total": 23110,
+        "chars": 1137212
+      },
       "sha256": "144e0161cace6239003a45d27beb9df626bc5b27b8754de0573de2638c034e98",
       "size": 18399024,
       "cd": "f10648f4c20df4e21b21128e0d46575d5f5958e580bd5c64d6570c252c548a61",
@@ -7119,6 +7190,12 @@
       "changelog": "v1: thêm credit Việt hoá ở mục Credit trong Option; dịch thêm giao diện và cốt truyện. Bản thử nghiệm, đặt ngôn ngữ ENGLISH trong game.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 1.0,
+      "stats": {
+        "lines": 12496,
+        "kept": 6872,
+        "total": 19368,
+        "chars": 530723
+      },
       "sha256": "2c28de93d7c745da310a497f50d48eab974e0f57369cb91c917adf0e9eb31cdf",
       "size": 19441812,
       "cd": "271e29fcf1032efc7ec487437cb4d9a01b31cfd7b5f5d98eb472973ba50ae8c3",
@@ -7225,6 +7302,12 @@
       "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.5,
+      "stats": {
+        "lines": 5153,
+        "kept": 807,
+        "total": 5960,
+        "chars": 335008
+      },
       "sha256": "9d5325c058f63f150854c38b6ea8050389a13bda294cd9ff52ccc2d3c5aec1db",
       "size": 3593849,
       "cd": "2ca14a147d8f39c62dfdef7a1620b09569640fb16d6af4a13a56849b69e6b816",
@@ -7281,6 +7364,12 @@
       "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 2018,
+        "kept": 607,
+        "total": 2625,
+        "chars": 130924
+      },
       "sha256": "fe7b127efefad2a83d19349ced2d06906e27a9174a277a68809aaaab77be7e31",
       "size": 715186,
       "cd": "c3c6201aab67d94822ab64a8e20ae2b65945b16f90501416cb87b395aa90d273",
@@ -8555,6 +8644,12 @@
       "changelog": "v7: sửa xưng hô Uzui với ba người vợ thành anh – em (hồi ức, danh ngôn, chương 12). v6: thêm credit Việt hoá ở nút eShop trên menu chính.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 20753,
+        "kept": 373,
+        "total": 21126,
+        "chars": 752123
+      },
       "sha256": "553b6340fd1a00286fee0209387de3af843177cb0b0cec86bbf89b176fd95f9f",
       "size": 766267,
       "cd": "7ea2bfcce0f18adb5970984a0b9c5ee9bc4ae8c4a8262f90d27d7aa5e3affd01",
@@ -8610,6 +8705,12 @@
       "changelog": "v1: bản đầu tiên, đã kèm credit. Trong game chọn ngôn ngữ English để thấy tiếng Việt. Dùng cho Base 1.0.0 kèm Update 1.1.3b.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 7069,
+        "kept": 42,
+        "total": 7111,
+        "chars": 161404
+      },
       "sha256": "6e2ffca2b55b708520fe7f40853f15ed03f9ce30d06e640fc84a9fd1ca788f9c",
       "size": 105828494,
       "cd": "dae299d45e329b41623f2cbc2b9d212b85c673a08080bb5fefdbf5c02a03afff",
@@ -8800,6 +8901,12 @@
       "changelog": "v2: sửa lỗi bảng xếp hạng hiện chữ ỵ ỹ ỷ ỳ thay cho hạng 6–9, cùng các dấu : ; = ? ~ trong một số màn hình.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 686,
+        "kept": 552,
+        "total": 1238,
+        "chars": 15593
+      },
       "sha256": "b11c512399755e74bad726fc28c19d101dc61d7273c83b8ffef6c7773041f85e",
       "size": 2359914,
       "cd": "e485d1a671e32bc571d75482a8e5d4ec81d1b9e4424dc17b2d21d9cce7256b7c",
@@ -9566,6 +9673,12 @@
       "changelog": "v1: bản Việt hoá đầu tiên, dịch 100% văn bản trong game.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.15,
+      "stats": {
+        "lines": 2211,
+        "kept": 1746,
+        "total": 3957,
+        "chars": 100144
+      },
       "sha256": "0779683ca7d684efb7b8dc4f4d881ec8d87e5a812962a37eb9123cbb900379ff",
       "size": 14795798,
       "cd": "95483f17fe13e4595c7fe28e741a2fb467a379bc8fb8c53482187cebb3839031",
@@ -9618,6 +9731,12 @@
       "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.0,
+      "stats": {
+        "lines": 4282,
+        "kept": 57,
+        "total": 4339,
+        "chars": 163941
+      },
       "sha256": "08448838cd20719131e07a4f971ef5acf8d9109ed6b17904cdb41997a410b861",
       "size": 64832891,
       "cd": "26cc6ed712918d7b051e7bd9a1b6f28d15e07562df1e29e3d1fedd808dca7495",
@@ -10297,6 +10416,12 @@
       "changelog": "v1: bản đầy đủ đầu tiên, dịch 100% thoại, lời kể, giao diện. Cần update 1.2.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.18,
+      "stats": {
+        "lines": 2149,
+        "kept": 346,
+        "total": 2495,
+        "chars": 113973
+      },
       "sha256": "d79776f3aa571e957a2f43a56d1c752b47134ceb85017db12eef85e4fc8c54a5",
       "size": 8532992,
       "cd": "0f32ed3a13275ee2ca28c40cda4da70a3992b3a135047f177b310d81cad0a010",
@@ -10534,6 +10659,12 @@
       "changelog": "v1: dịch thêm DLC Mega Dimension (hội thoại và nhiệm vụ phụ). Chưa thử trên máy thật.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.61,
+      "stats": {
+        "lines": 37244,
+        "kept": 25911,
+        "total": 63155,
+        "chars": 2358297
+      },
       "sha256": "d47a9717b9496c06b71e1741989ae5ca8cf53c3a7cfc41322d7a90661415b89c",
       "size": 9537956,
       "cd": "4154192dcc255a184d3a322c0c1a1fb57554273fa921e34809c613764debc3cb",
@@ -11626,6 +11757,12 @@
       "changelog": "v1: bản đầu tiên, dịch 100% cốt truyện, giao diện và phụ đề cutscene; xưng hô đổi theo giới tính nhân vật. Cần update 1.0.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.7,
+      "stats": {
+        "lines": 79905,
+        "kept": 10971,
+        "total": 90876,
+        "chars": 3269291
+      },
       "sha256": "baddd9b6f35b9fccd147ceb6dca0360bee8ed5b0de5b5ba88ef223dd381494b8",
       "size": 6268070,
       "cd": "42cd706cd2c40a14f48211e829d511ef19afd2aaddd7fcea75388369dd0cd2ce",
@@ -11954,6 +12091,12 @@
       "changelog": "v1: sửa lỗi hiện dấu ? ở chữ tiêu đề, tên nhân vật, nhãn (timer, xu, điểm); font có đủ dấu tiếng Việt. Đặt ngôn ngữ hệ thống Switch là English.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 1.0,
+      "stats": {
+        "lines": 2998,
+        "kept": 573,
+        "total": 3571,
+        "chars": 136745
+      },
       "sha256": "fc87174672326b60cd03a685e4be66cfa21ca849e9bbcf4fee627d9f8c8fb815",
       "size": 9707259,
       "cd": "669eb1d1762c6508bbf21f0edb3b6068084a50e187982d09eb5ee0f5251837ee",
@@ -12103,6 +12246,12 @@
       "changelog": "v2: cập nhật cho game 2.00 (Season 2): dịch chế độ Đấu tay đôi, Thách đấu đối thủ, Nhiệm vụ, Cửa hàng, tiện ích và danh hiệu mới, nội dung DLC mới (Bayonetta, Aigis, EVANGELION, Godzilla, Máy SEGA, McLaren); thêm dấu tiếng Việt cho 2 font mới. Chỉ dùng cho game 2.00. Chưa thử trên máy thật.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.61,
+      "stats": {
+        "lines": 9749,
+        "kept": 1843,
+        "total": 11592,
+        "chars": 281931
+      },
       "sha256": "171ea7b6f0a43b2a6c6d9cf952dfc97a496d74abae0a2aa13c7e778ae5b609d8",
       "size": 664165,
       "cd": "61c6f96609522b56059c63a4d5e6f8ca778cb314bacead379b009b1180b985ab",
@@ -12142,6 +12291,12 @@
       "changelog": "Tương thích bản cập nhật v11.3.0.",
       "credit": "Việt hoá bởi DinhTuan.",
       "cover_focus": 1.0,
+      "stats": {
+        "lines": 11698,
+        "kept": 7161,
+        "total": 18859,
+        "chars": 883516
+      },
       "sha256": "91104b8f452f1ff920fcc3d13475358a5f0db2298197fd517d85db1aa8384e74",
       "size": 2720881,
       "cd": "d431a31dae8fda3387a5d5f574642cb96dd6ee43d820eb587a6c5eb61858725e",
@@ -12383,6 +12538,12 @@
       "changelog": "v1: bản đầu tiên, đã kèm credit. Trong game chọn ngôn ngữ English để thấy tiếng Việt. Dùng cho Base 1.0.0 kèm Update 1.0.10.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.09,
+      "stats": {
+        "lines": 2872,
+        "kept": 7861,
+        "total": 10733,
+        "chars": 160431
+      },
       "sha256": "0bf9689250d52e6cea1d7d2e58cb6d353b8887dcb7a248abfe664543769e22be",
       "size": 23988894,
       "cd": "c7a3237faeddcb010e8fc49885baef628086c6d20725483c77a31bf4d0329beb",
@@ -12751,6 +12912,12 @@
       "changelog": "v1: bản đầu tiên trên app, dịch 100%.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.3,
+      "stats": {
+        "lines": 418,
+        "kept": 217,
+        "total": 635,
+        "chars": 8499
+      },
       "sha256": "97fb38f4801a6679209929fb0f0b88551adf628bed7cc8372bb09b59e5e7b685",
       "size": 3605082,
       "cd": "4b9b00ae212e97aa3bf8438cf841aa35b208f38149166276096b0df4657ed585",
@@ -12813,9 +12980,9 @@
         "f53a637101de9a0998f2e76b05b7a22f"
       ],
       "url": "https://lang-mam-muoi-dl.onepiece2406.workers.dev/UnicornOverl_VietHoa_test24.zip",
-      "mirrors": [],
       "cover": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_cover.93570fb1.jpg",
-      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg"
+      "background": "https://raw.githubusercontent.com/mammuoihihi2o6/lang-mam-muoi/main/images/unicorn_bg.jpg",
+      "mirrors": []
     },
     {
       "id": "unravel-two",
@@ -13079,6 +13246,12 @@
       ],
       "changelog": "v2: Dịch lại toàn bộ từ đầu, câu văn tự nhiên hơn; giữ tên tiếng Anh cho vật phẩm, kỹ năng, địa điểm để dễ tra cứu. Gói nhẹ còn khoảng 21 MB. Chỉ dùng cho game 1.3.1.",
       "credit": "Việt hoá bởi Mammuoihihi (dịch lại 2026), bản cũ bổ sung bởi Thuan20.",
+      "stats": {
+        "lines": 31692,
+        "kept": 41,
+        "total": 31733,
+        "chars": 1620530
+      },
       "sha256": "0a0f1b1194233f64f4668538a8f1594ee200bf29655adc16c053fb4e55c3af1e",
       "size": 21701403,
       "cd": "78b263692593140d368a978209f6e99cebc96860b17250ea299e0388beea878c",
@@ -13484,6 +13657,12 @@
       "changelog": "Tương thích bản cập nhật 1.0.6.1.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.51,
+      "stats": {
+        "lines": 961,
+        "kept": 458,
+        "total": 1419,
+        "chars": 31976
+      },
       "sha256": "31a14153293c4bee0445e8b82f7a2478ca6f2a90b162d22902f2a43fae19dbdf",
       "size": 3080449,
       "cd": "824c8ce54278e42d7108f4db569909666ecfebd4c7d2deef790f23d6991cf00d",
@@ -13700,6 +13879,12 @@
       "changelog": "v2: phông chữ mới Nunito Sans vẽ trọn bộ chữ cái, dấu tiếng Việt đều nét và dễ đọc hơn. Cần update 3.0.0 + DLC Wave 1-4.",
       "credit": "Việt hoá bởi Mammuoihihi.",
       "cover_focus": 0.35,
+      "stats": {
+        "lines": 63901,
+        "kept": 1093,
+        "total": 0,
+        "chars": 2772492
+      },
       "sha256": "f8e9dfddbeaac03c4887e3aecc93a828a5079d3f0bae288cd0944b44e863501b",
       "size": 6837926,
       "cd": "c1e36b1cc8bd6ed62378a62467da74ec76069514914e555d45a2040f2de7eece",
@@ -14093,7 +14278,7 @@
     "title": "Bản Việt hoá mới",
     "text": "Assassin's Creed: The Rebel Collection đã trở lại với bản 4.4 làm lại từ đầu: phụ đề Black Flag, Freedom Cry và Rogue dịch lại tay toàn bộ (nhớ xoá thư mục bản cũ trước khi cài). Thêm game mới VA-11 Hall-A. Vào tab Kho để tải. Chúc bạn chơi vui!"
   },
-  "seq": 1795836323,
+  "seq": 1795837504,
   "donate": {
     "bank": "970436",
     "account": "0821000183358",
